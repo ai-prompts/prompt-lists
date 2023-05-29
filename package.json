@@ -1,0 +1,17 @@
+{
+  "name": "prompt-lists",
+  "version": "1.0.0",
+  "description": "Lists of keywords for prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "prompts",
+    "keywords",
+    "prompting"
+  ],
+  "author": "@fofrAI",
+  "license": "MIT"
+}
