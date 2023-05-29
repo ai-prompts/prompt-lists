@@ -7,7 +7,6 @@ const excludedLists = [
   'city', 'country', 'territory', 'day'
 ]
 
-// Recursive function to process all files
 const processDirectory = (dir) => {
   const dirEntries = fs.readdirSync(dir, { withFileTypes: true });
 
@@ -20,7 +19,6 @@ const processDirectory = (dir) => {
   }
 }
 
-// Function to process individual files
 const processFile = (dir, file) => {
   if (excludedLists.some(e => file.includes(e))) {
     return
@@ -43,27 +41,28 @@ const processFile = (dir, file) => {
   // Sort
   list.sort((a, b) => a.localeCompare(b))
 
-  const writeStream = fs.createWriteStream(filePath)
-  const pathName = writeStream.path
+  const newContents = `---${frontmatter}---\n${list.join('\n')}\n`
 
-  // write frontmatter back to file
-  writeStream.write(`---${frontmatter}---\n`)
+  if (fileContents !== newContents) {
+    const writeStream = fs.createWriteStream(filePath)
+    const pathName = writeStream.path
 
-  // write each value of the array on the file breaking line
-  list.forEach(value => writeStream.write(`${value}\n`))
+    // write new file contents
+    writeStream.write(newContents)
 
-  // the finish event is emitted when all data has been flushed from the stream
-  writeStream.on('finish', () => {
-    console.log(`Wrote all the array data to file ${pathName}`)
-  })
+    // the finish event is emitted when all data has been flushed from the stream
+    writeStream.on('finish', () => {
+      console.log(`Updated ${pathName}`)
+    })
 
-  // handle the errors on the write process
-  writeStream.on('error', (err) => {
-    console.error(`There is an error writing the file ${pathName} => ${err}`)
-  })
+    // handle the errors on the write process
+    writeStream.on('error', (err) => {
+      console.error(`There is an error writing the file ${pathName} => ${err}`)
+    })
 
-  // close the stream
-  writeStream.end()
+    // close the stream
+    writeStream.end()
+  }
 }
 
 processDirectory(rootDir);
