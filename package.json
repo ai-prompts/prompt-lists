@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Lists of keywords for prompts",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sanitise": "node sanitise.js"
   },
   "keywords": [
     "ai",
@@ -13,5 +15,11 @@
     "prompting"
   ],
   "author": "@fofrAI",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "lists"
+  ],
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
 }
