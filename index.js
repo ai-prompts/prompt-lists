@@ -25,50 +25,29 @@ const readListFile = (listPath) => {
   }
 }
 
-const getList = (() => {
-  const cache = {}
-
-  return (listPath, opt) => {
-    const options = opt || {}
-    const key = JSON.stringify({ listPath, options })
-
-    if (cache[key]) {
-      return cache[key]
-    }
-
-    const l = readListFile(listPath)
-
-    cache[key] = l
-    return l
-  }
-})()
-
-const item = (listPath, count = 1, listOptions = {}) => {
-  if (typeof count === 'object') {
-    listOptions = count
-    count = 1
-  }
-
-  const { list } = getList(listPath, listOptions)
-  return _.sampleSize(list, count).join(', ').trim()
-}
-
-const addNestedProperty = (obj, path, value) => {
+const addNestedProperty = (obj, path, getter) => {
   const lastKey = path.pop()
   path.reduce((nestedObj, key) => {
     if (!nestedObj[key]) nestedObj[key] = {}
     return nestedObj[key]
-  }, obj)[lastKey] = value
+  }, obj)[lastKey] = getter
 }
 
 const listHelpers = {}
 
 // make all lists available as methods
 allLists.forEach((listPath) => {
-  addNestedProperty(listHelpers, [...listPath], {
-    ...getList(listPath),
-    item: (count) => item(listPath, count)
-  })
+  let cachedList = null
+  const listGetter = (count) => {
+    if (!cachedList) {
+      cachedList = readListFile(listPath)
+    }
+    if (typeof count === 'number' && count > 0) {
+      return _.sampleSize(cachedList.list, count)
+    }
+    return cachedList
+  }
+  addNestedProperty(listHelpers, [...listPath], listGetter)
 })
 
 export default listHelpers
