@@ -2,19 +2,19 @@
 import fs from 'fs'
 import path from 'path'
 
-const rootDir = 'lists';
+const rootDir = 'lists'
 const excludedLists = [
   'city', 'country', 'territory', 'day'
 ]
 
 const processDirectory = (dir) => {
-  const dirEntries = fs.readdirSync(dir, { withFileTypes: true });
+  const dirEntries = fs.readdirSync(dir, { withFileTypes: true })
 
   for (const dirEntry of dirEntries) {
     if (dirEntry.isDirectory()) {
-      processDirectory(path.join(dir, dirEntry.name));
+      processDirectory(path.join(dir, dirEntry.name))
     } else if (dirEntry.isFile() && path.extname(dirEntry.name) === '.yml') {
-      processFile(dir, dirEntry.name);
+      processFile(dir, dirEntry.name)
     }
   }
 }
@@ -24,7 +24,7 @@ const processFile = (dir, file) => {
     return
   }
 
-  const filePath = path.join(dir, file);
+  const filePath = path.join(dir, file)
   const fileContents = fs.readFileSync(filePath).toString()
   const fileSections = fileContents.split('---')
 
@@ -65,4 +65,4 @@ const processFile = (dir, file) => {
   }
 }
 
-processDirectory(rootDir);
+processDirectory(rootDir)
