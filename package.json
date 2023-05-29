@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard",
+    "lint:fix": "standard --fix",
     "sanitise": "node sanitise.js"
   },
   "keywords": [
@@ -20,6 +22,7 @@
     "lists"
   ],
   "devDependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "standard": "^17.0.0"
   }
 }
