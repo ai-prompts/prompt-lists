@@ -1,9 +1,12 @@
 import fs from 'fs'
-import path from 'path'
+import path, { dirname } from 'path'
 import _ from 'lodash'
 import yaml from 'js-yaml'
+import { fileURLToPath } from 'url'
 
-const listsPath = 'lists'
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
+const listsPath = path.join(__dirname, 'lists')
 
 const toCamelCase = (str) => {
   return str.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase() })
