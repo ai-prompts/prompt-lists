@@ -6,6 +6,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "test": "standard",
     "lint": "standard",
     "lint:fix": "standard --fix",
     "sanitise": "node sanitise.js"
