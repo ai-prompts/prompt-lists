@@ -4,7 +4,7 @@ import path from 'path'
 
 const rootDir = 'lists'
 const excludedLists = [
-  'city', 'country', 'territory', 'day', 'parti'
+  'city', 'country', 'territory', 'day', 'parti', 'describe'
 ]
 
 const processDirectory = (dir) => {
