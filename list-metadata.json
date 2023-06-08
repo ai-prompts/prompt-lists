@@ -1,0 +1,847 @@
+{
+  "animal.all": {
+    "title": "All animals",
+    "category": "animal",
+    "total": 2091
+  },
+  "animal.bird": {
+    "title": "All birds",
+    "category": "animal",
+    "total": 914
+  },
+  "animal.deepSea": {
+    "title": "Deep sea animals",
+    "category": "animal",
+    "total": 70
+  },
+  "animal.dinosaur": {
+    "title": "Dinosaurs",
+    "category": "animal",
+    "total": 89
+  },
+  "animal.insect": {
+    "title": "Insects",
+    "category": "animal",
+    "total": 129
+  },
+  "animal.mammal": {
+    "title": "Mammals",
+    "category": "animal",
+    "total": 182
+  },
+  "animal.popular": {
+    "title": "Popular animals",
+    "category": "animal",
+    "total": 141
+  },
+  "animal.sea": {
+    "title": "Sea animals",
+    "category": "animal",
+    "total": 85
+  },
+  "architecture.architect": {
+    "title": "Architects and their style",
+    "category": "architecture",
+    "total": 186
+  },
+  "architecture.extremeLocation": {
+    "title": "Extreme locations",
+    "category": "architecture",
+    "total": 45
+  },
+  "architecture.famousBuilding": {
+    "title": "Famous buildings",
+    "category": "architecture",
+    "total": 122
+  },
+  "architecture.home": {
+    "title": "Exotic home descriptions",
+    "category": "architecture",
+    "total": 18
+  },
+  "architecture.interiorDesign": {
+    "title": "Types of interior design",
+    "category": "architecture",
+    "total": 35
+  },
+  "architecture.interiorKeywords": {
+    "title": "Interior design keywords",
+    "category": "interior",
+    "total": 100
+  },
+  "architecture.material": {
+    "title": "Architecture materials",
+    "category": "architecture",
+    "total": 99
+  },
+  "architecture.styleDetailed": {
+    "title": "Architectural styles and keywords",
+    "category": "architecture",
+    "total": 100
+  },
+  "architecture.style": {
+    "title": "Architectural styles",
+    "category": "architecture",
+    "total": 198
+  },
+  "architecture.term": {
+    "title": "Architecture terms",
+    "category": "architecture",
+    "total": 126
+  },
+  "art.paintingKeyword": {
+    "title": "Painting keywords",
+    "category": "art",
+    "total": 70
+  },
+  "art.paintingTechnique": {
+    "title": "Painting techniques",
+    "category": "art",
+    "total": 94
+  },
+  "art.pattern": {
+    "title": "Patterns",
+    "category": "art",
+    "total": 100
+  },
+  "art.sculpture": {
+    "title": "Sculpture keywords",
+    "category": "sculpture",
+    "total": 70
+  },
+  "art.style": {
+    "title": "Art styles",
+    "category": "art",
+    "total": 60
+  },
+  "art.type": {
+    "title": "Types of art",
+    "category": "art",
+    "total": 189
+  },
+  "artist.all": {
+    "title": "Extensive artists list",
+    "category": "artist",
+    "total": 1758
+  },
+  "artist.common": {
+    "title": "Commonly used artists",
+    "category": "artist",
+    "total": 412
+  },
+  "artist.concept": {
+    "title": "Concept artists",
+    "category": "concept",
+    "total": 33
+  },
+  "artist.dark": {
+    "title": "Artists with a dark style",
+    "category": "artist",
+    "total": 15
+  },
+  "artist.illustrator": {
+    "title": "Illustrators",
+    "category": "artist",
+    "total": 56
+  },
+  "artist.painter": {
+    "title": "Famous painters",
+    "category": "famous",
+    "total": 38
+  },
+  "artist.withReallyStrongAffects": {
+    "title": "Artists with really strong affects in SD 1.5",
+    "category": "artist",
+    "total": 27
+  },
+  "artist.withStrongAffects": {
+    "title": "Artists with strong affects in SD 1.5",
+    "category": "artist",
+    "total": 147
+  },
+  "character.action": {
+    "title": "Action characters",
+    "category": "character",
+    "total": 49
+  },
+  "character.child": {
+    "title": "Child characters",
+    "category": "character",
+    "total": 54
+  },
+  "character.comingOfAge": {
+    "title": "Coming of age characters",
+    "category": "character",
+    "total": 51
+  },
+  "character.fantasy": {
+    "title": "Fantasy characters",
+    "category": "character",
+    "total": 52
+  },
+  "character.general": {
+    "title": "General characters",
+    "category": "character",
+    "total": 105
+  },
+  "character.monster": {
+    "title": "Monsters",
+    "category": "characters",
+    "total": 112
+  },
+  "character.romantic": {
+    "title": "Romantic characters",
+    "category": "character",
+    "total": 39
+  },
+  "character.scifi": {
+    "title": "Sci-fi characters",
+    "category": "character",
+    "total": 51
+  },
+  "cinematic.animationStudio": {
+    "title": "Animation studios",
+    "category": "cinematic",
+    "total": 64
+  },
+  "cinematic.animation": {
+    "title": "Types of animation",
+    "category": "cinematic",
+    "total": 15
+  },
+  "cinematic.coloring": {
+    "title": "Cinematic coloring",
+    "category": "cinematic",
+    "total": 35
+  },
+  "cinematic.director": {
+    "title": "Directors with a distinct style",
+    "category": "cinematic",
+    "total": 47
+  },
+  "cinematic.effect": {
+    "title": "Cinematic effects",
+    "category": "cinematic",
+    "total": 34
+  },
+  "cinematic.genre": {
+    "title": "Cinematic genres",
+    "category": "cinematic",
+    "total": 176
+  },
+  "cinematic.keyword": {
+    "title": "Cinematic keywords",
+    "category": "cinematic",
+    "total": 20
+  },
+  "cinematic.movie": {
+    "title": "Movies with a distinct style",
+    "category": "movie",
+    "total": 143
+  },
+  "cinematic.shot": {
+    "title": "Cinematic shots",
+    "category": "cinematic",
+    "total": 54
+  },
+  "color.all": {
+    "title": "All colors",
+    "category": "color",
+    "total": 46
+  },
+  "color.modifier": {
+    "title": "Color modifiers",
+    "category": "color",
+    "total": 54
+  },
+  "color.pair": {
+    "title": "Color pairs",
+    "category": "color",
+    "total": 25
+  },
+  "color.palette": {
+    "title": "Color palettes",
+    "category": "color",
+    "total": 73
+  },
+  "fashion.accessory": {
+    "title": "Clothing accessories",
+    "category": "fashion",
+    "total": 153
+  },
+  "fashion.cultural": {
+    "title": "Cultural clothes",
+    "category": "fashion",
+    "total": 98
+  },
+  "fashion.designer": {
+    "title": "Fashion designers",
+    "category": "fashion",
+    "total": 103
+  },
+  "fashion.feminine": {
+    "title": "Feminine clothes",
+    "category": "fashion",
+    "total": 152
+  },
+  "fashion.hairFeminine": {
+    "title": "Feminie hair styles",
+    "category": "fashion",
+    "total": 100
+  },
+  "fashion.hairMasculine": {
+    "title": "Masculine hair styles",
+    "category": "fashion",
+    "total": 100
+  },
+  "fashion.masculine": {
+    "title": "Masculine clothes",
+    "category": "fashion",
+    "total": 173
+  },
+  "fashion.outfitFeminine": {
+    "title": "Feminine outfit descriptions",
+    "category": "fashion",
+    "total": 61
+  },
+  "fashion.scifi": {
+    "title": "Sci-fi clothes",
+    "category": "fashion",
+    "total": 50
+  },
+  "fashion.type": {
+    "title": "Types of fashion",
+    "category": "fashion",
+    "total": 50
+  },
+  "feeling.all": {
+    "title": "All emotions",
+    "category": "feeling",
+    "total": 487
+  },
+  "feeling.creepy": {
+    "title": "Feeling creepy",
+    "category": "feeling",
+    "total": 39
+  },
+  "feeling.loved": {
+    "title": "Feeling loved",
+    "category": "feeling",
+    "total": 106
+  },
+  "feeling.melancholy": {
+    "title": "Feeling melancholy",
+    "category": "feeling",
+    "total": 45
+  },
+  "feeling.unnerved": {
+    "title": "Feeling unnerved",
+    "category": "feeling",
+    "total": 42
+  },
+  "food.bakery": {
+    "title": "Bakery items",
+    "category": "food",
+    "total": 153
+  },
+  "food.bbq": {
+    "title": "BBQ food",
+    "category": "food",
+    "total": 24
+  },
+  "food.breakfast": {
+    "title": "Breakfast food",
+    "category": "food",
+    "total": 69
+  },
+  "food.fast": {
+    "title": "Fast-food",
+    "category": "food",
+    "total": 145
+  },
+  "food.fruit": {
+    "title": "Fruits",
+    "category": "food",
+    "total": 109
+  },
+  "geography.city": {
+    "title": "Cities",
+    "category": "geography",
+    "total": 23018
+  },
+  "geography.country": {
+    "title": "Countries",
+    "category": "geography",
+    "total": 199
+  },
+  "geography.territory": {
+    "title": "Territories",
+    "category": "geography",
+    "total": 79
+  },
+  "interaction.coupleNegative": {
+    "title": "Couple negative interactions",
+    "category": "interaction",
+    "total": 50
+  },
+  "interaction.couple": {
+    "title": "Couple interactions",
+    "category": "interaction",
+    "total": 49
+  },
+  "interaction.crowd": {
+    "title": "Crowd interactions",
+    "category": "interaction",
+    "total": 44
+  },
+  "interaction.group": {
+    "title": "Group interactions",
+    "category": "interaction",
+    "total": 50
+  },
+  "keyword.detailed": {
+    "title": "Keywords for detailed images",
+    "category": "keyword",
+    "total": 40
+  },
+  "keyword.epic": {
+    "title": "Keywords for epic images",
+    "category": "keyword",
+    "total": 109
+  },
+  "keyword.genre": {
+    "title": "Genres",
+    "category": "keyword",
+    "total": 45
+  },
+  "keyword.glitch": {
+    "title": "Glitches",
+    "category": "keyword",
+    "total": 38
+  },
+  "keyword.negative": {
+    "title": "Negative",
+    "category": "keyword",
+    "total": 41
+  },
+  "keyword.prayer": {
+    "title": "Common prayers for better images",
+    "category": "keyword",
+    "total": 49
+  },
+  "keyword.trending": {
+    "title": "Trending on",
+    "category": "keyword",
+    "total": 18
+  },
+  "keyword.unusual": {
+    "title": "Keywords for unusual images",
+    "category": "unusual",
+    "total": 44
+  },
+  "nature.areaOfNaturalBeauty": {
+    "title": "Famous areas of natural beauty",
+    "category": "natural",
+    "total": 614
+  },
+  "nature.flower": {
+    "title": "Flowers",
+    "category": "nature",
+    "total": 497
+  },
+  "nature.sceneModifier": {
+    "title": "Scene modifiers",
+    "category": "nature",
+    "total": 31
+  },
+  "nature.scene": {
+    "title": "Scenes",
+    "category": "nature",
+    "total": 64
+  },
+  "nature.texture": {
+    "title": "Textures",
+    "category": "nature",
+    "total": 149
+  },
+  "nature.tree": {
+    "title": "Trees",
+    "category": "nature",
+    "total": 140
+  },
+  "nature.tropicalHouseplant": {
+    "title": "Tropical houseplants",
+    "category": "nature",
+    "total": 86
+  },
+  "nature.weather": {
+    "title": "Weather",
+    "category": "nature",
+    "total": 126
+  },
+  "nature.wood": {
+    "title": "Types of wood",
+    "category": "nature",
+    "total": 48
+  },
+  "people.beautifulFeminine": {
+    "title": "Feminine beauty",
+    "category": "people",
+    "total": 26
+  },
+  "people.beautifulMasculine": {
+    "title": "Masculine beauty",
+    "category": "people",
+    "total": 87
+  },
+  "people.common": {
+    "title": "Common types of people",
+    "category": "people",
+    "total": 14
+  },
+  "people.couple": {
+    "title": "Couples",
+    "category": "people",
+    "total": 17
+  },
+  "people.dance": {
+    "title": "Dances",
+    "category": "people",
+    "total": 99
+  },
+  "people.festival": {
+    "title": "Festivals",
+    "category": "people",
+    "total": 39
+  },
+  "people.group": {
+    "title": "Groups of people",
+    "category": "people",
+    "total": 42
+  },
+  "people.hobby": {
+    "title": "Hobbies",
+    "category": "people",
+    "total": 277
+  },
+  "people.job": {
+    "title": "Jobs",
+    "category": "people",
+    "total": 498
+  },
+  "people.pose": {
+    "title": "Poses",
+    "category": "people",
+    "total": 149
+  },
+  "photography.camera": {
+    "title": "Cameras",
+    "category": "photography",
+    "total": 166
+  },
+  "photography.film": {
+    "title": "Types of film",
+    "category": "photography",
+    "total": 80
+  },
+  "photography.landscapeKeyword": {
+    "title": "Landscape keywords",
+    "category": "photography",
+    "total": 66
+  },
+  "photography.landscapeSubjectDetailed": {
+    "title": "Landscape subjects in detail",
+    "category": "photography",
+    "total": 141
+  },
+  "photography.landscapeSubject": {
+    "title": "Landscape subjects",
+    "category": "photography",
+    "total": 110
+  },
+  "photography.lens": {
+    "title": "Types of lens",
+    "category": "photography",
+    "total": 66
+  },
+  "photography.photographer": {
+    "title": "Photographers and their style",
+    "category": "photography",
+    "total": 944
+  },
+  "photography.portraitPhotographer": {
+    "title": "Portrait photographers",
+    "category": "photography",
+    "total": 64
+  },
+  "photography.summerScene": {
+    "title": "Summer scene",
+    "category": "photography",
+    "total": 30
+  },
+  "photography.summerTropicalBeach": {
+    "title": "Summer tropical beach",
+    "category": "photography",
+    "total": 50
+  },
+  "photojournalism.newsExtreme": {
+    "title": "News extreme",
+    "category": "photojournalism",
+    "total": 50
+  },
+  "photojournalism.newsNormal": {
+    "title": "News normal",
+    "category": "photojournalism",
+    "total": 39
+  },
+  "photojournalism.newsSpecific": {
+    "title": "News specific",
+    "category": "photojournalism",
+    "total": 20
+  },
+  "photojournalism.styleProtest": {
+    "title": "Style protest",
+    "category": "photojournalism",
+    "total": 20
+  },
+  "photojournalism.types": {
+    "title": "Types of photojournalism",
+    "category": "photojournalism",
+    "total": 69
+  },
+  "places.home": {
+    "title": "Homes",
+    "category": "places",
+    "total": 83
+  },
+  "places.public": {
+    "title": "Public places",
+    "category": "places",
+    "total": 74
+  },
+  "places.room": {
+    "title": "Rooms",
+    "category": "room",
+    "total": 31
+  },
+  "plot.action": {
+    "title": "Action plots",
+    "category": "plot",
+    "total": 50
+  },
+  "plot.arthouse": {
+    "title": "Arthouse plots",
+    "category": "plot",
+    "total": 50
+  },
+  "plot.fantasy": {
+    "title": "Fantasy plots",
+    "category": "plot",
+    "total": 50
+  },
+  "plot.general": {
+    "title": "General plots",
+    "category": "plot",
+    "total": 93
+  },
+  "plot.horror": {
+    "title": "Horror plots",
+    "category": "plot",
+    "total": 49
+  },
+  "plot.musical": {
+    "title": "Musical plots",
+    "category": "plot",
+    "total": 50
+  },
+  "plot.romance": {
+    "title": "Romance plots",
+    "category": "plot",
+    "total": 49
+  },
+  "plot.scifiCyberpunk": {
+    "title": "Sci-fi cyberpunk plots",
+    "category": "plot",
+    "total": 50
+  },
+  "plot.scifi": {
+    "title": "Sci-fi plots",
+    "category": "plot",
+    "total": 169
+  },
+  "plot.war": {
+    "title": "War plots",
+    "category": "plot",
+    "total": 50
+  },
+  "science.astronomy": {
+    "title": "Astronomy terms",
+    "category": "science",
+    "total": 30
+  },
+  "science.chemicalElement": {
+    "title": "Chemical elements",
+    "category": "science",
+    "total": 118
+  },
+  "science.geometry": {
+    "title": "Geometrical and mathematical terms",
+    "category": "geometry",
+    "total": 89
+  },
+  "science.medicalImages": {
+    "title": "Types of medical images",
+    "category": "science",
+    "total": 20
+  },
+  "set.describeStyle": {
+    "title": "Styles from Midjourney’s describe",
+    "category": "set",
+    "total": 17275
+  },
+  "set.describeSubject": {
+    "title": "Subjects from Midjourney’s describe",
+    "category": "set",
+    "total": 67052
+  },
+  "set.parti": {
+    "title": "PartiPrompts",
+    "category": "set",
+    "total": 1632
+  },
+  "thing.adjective": {
+    "title": "Adjectives for things",
+    "category": "thing",
+    "total": 50
+  },
+  "thing.city": {
+    "title": "City things",
+    "category": "thing",
+    "total": 194
+  },
+  "thing.everyday": {
+    "title": "Everyday things",
+    "category": "thing",
+    "total": 224
+  },
+  "thing.icon": {
+    "title": "Icons",
+    "category": "thing",
+    "total": 111
+  },
+  "thing.office": {
+    "title": "Office things",
+    "category": "thing",
+    "total": 49
+  },
+  "thing.scary": {
+    "title": "Scary things",
+    "category": "thing",
+    "total": 189
+  },
+  "thing.sciFi": {
+    "title": "Sci-fi things",
+    "category": "thing",
+    "total": 188
+  },
+  "thing.space": {
+    "title": "Space things",
+    "category": "thing",
+    "total": 137
+  },
+  "thing.summer": {
+    "title": "Summer things",
+    "category": "thing",
+    "total": 48
+  },
+  "time.century": {
+    "title": "Centuries",
+    "category": "time",
+    "total": 12
+  },
+  "time.dayOfYear": {
+    "title": null,
+    "category": "day",
+    "total": 365
+  },
+  "time.era": {
+    "title": "Historic eras",
+    "category": "time",
+    "total": 87
+  },
+  "time.timeOfDay": {
+    "title": "Time of day",
+    "category": "time",
+    "total": 30
+  },
+  "time.year": {
+    "title": "Years from 1850 to 2250",
+    "category": "year",
+    "total": 201
+  },
+  "vehicle.car": {
+    "title": "Cars",
+    "category": "vehicle",
+    "total": 305
+  },
+  "vehicle.classicCar": {
+    "title": "Classic cars",
+    "category": "vehicle",
+    "total": 144
+  },
+  "vehicle.famousCar": {
+    "title": "Famous cars",
+    "category": "vehicle",
+    "total": 38
+  },
+  "vehicle.fastCar": {
+    "title": "Fast cars",
+    "category": "vehicle",
+    "total": 77
+  },
+  "vehicle.type": {
+    "title": "Types of vehicle",
+    "category": "vehicle",
+    "total": 100
+  },
+  "videoGame.designer": {
+    "title": "Video game designers",
+    "category": "video",
+    "total": 50
+  },
+  "videoGame.engine": {
+    "title": "Video game engines",
+    "category": "video-game",
+    "total": 50
+  },
+  "videoGame.game": {
+    "title": "Video games",
+    "category": "video-game",
+    "total": 302
+  },
+  "videoGame.region": {
+    "title": "Video game regions",
+    "category": "video-game",
+    "total": 100
+  },
+  "word.adjective": {
+    "title": "Adjectives",
+    "category": "word",
+    "total": 4980
+  },
+  "word.adverb": {
+    "title": "Adverbs",
+    "category": "word",
+    "total": 1798
+  },
+  "word.noun": {
+    "title": "Nouns",
+    "category": "word",
+    "total": 24389
+  },
+  "word.verb": {
+    "title": "Verbs",
+    "category": "word",
+    "total": 9950
+  }
+}

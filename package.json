@@ -6,6 +6,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "pretest": "npm run sanitise; npm run build",
+    "build": "node build.js",
     "test": "standard",
     "lint": "standard",
     "lint:fix": "standard --fix",
@@ -20,7 +22,9 @@
   "author": "@fofrAI",
   "license": "MIT",
   "files": [
-    "lists"
+    "lists",
+    "lists.json",
+    "list-metadata.json"
   ],
   "devDependencies": {
     "js-yaml": "^4.1.0",
