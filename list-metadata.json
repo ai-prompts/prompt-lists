@@ -439,6 +439,86 @@
     "category": "unusual",
     "total": 44
   },
+  "music.bpm": {
+    "title": "Common BPMs",
+    "category": "music",
+    "total": 20
+  },
+  "music.drop": {
+    "title": "Types of drops in dance music",
+    "category": "music",
+    "total": 20
+  },
+  "music.dynamic": {
+    "title": "Dynamics with description",
+    "category": "music",
+    "total": 71
+  },
+  "music.feature": {
+    "title": "Features in music",
+    "category": "music",
+    "total": 185
+  },
+  "music.genre": {
+    "title": "Genres of music",
+    "category": "music",
+    "total": 286
+  },
+  "music.harmony": {
+    "title": "Harmonies",
+    "category": "music",
+    "total": 20
+  },
+  "music.instrument": {
+    "title": "Instruments",
+    "category": "music",
+    "total": 190
+  },
+  "music.key": {
+    "title": "Key",
+    "category": "music",
+    "total": 20
+  },
+  "music.melody": {
+    "title": "Types of melody",
+    "category": "music",
+    "total": 77
+  },
+  "music.mode": {
+    "title": "Modes",
+    "category": "music",
+    "total": 37
+  },
+  "music.mood": {
+    "title": "Moods",
+    "category": "music",
+    "total": 99
+  },
+  "music.percussive": {
+    "title": "Percussive sounds",
+    "category": "music",
+    "total": 131
+  },
+  "music.recording": {
+    "title": "Types of recording",
+    "category": "music",
+    "total": 53
+  },
+  "music.rhythm": {
+    "title": "Types of rhythm",
+    "category": "music",
+    "total": 9
+  },
+  "music.songSection": {
+    "title": "Sections in a song",
+    "category": "music",
+    "total": 19
+  },
+  "music.vocal": {
+    "title": "Vocals",
+    "category": "music",
+    "total": 100
+  },
   "nature.areaOfNaturalBeauty": {
     "title": "Famous areas of natural beauty",
     "category": "natural",
@@ -768,6 +848,11 @@
     "title": null,
     "category": "day",
     "total": 365
+  },
+  "time.decade": {
+    "title": "Decades",
+    "category": "time",
+    "total": 11
   },
   "time.era": {
     "title": "Historic eras",
