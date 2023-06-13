@@ -159,6 +159,11 @@
     "category": "artist",
     "total": 147
   },
+  "audio.soundEffect": {
+    "title": "Sound effects",
+    "category": "audio",
+    "total": 250
+  },
   "character.action": {
     "title": "Action characters",
     "category": "character",
