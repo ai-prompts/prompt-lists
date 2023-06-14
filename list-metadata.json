@@ -164,6 +164,11 @@
     "category": "audio",
     "total": 250
   },
+  "audio.voice": {
+    "title": "Types of voice",
+    "category": "audio",
+    "total": 100
+  },
   "character.action": {
     "title": "Action characters",
     "category": "character",
