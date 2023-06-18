@@ -167,7 +167,7 @@
   "audio.voice": {
     "title": "Types of voice",
     "category": "audio",
-    "total": 100
+    "total": 98
   },
   "character.action": {
     "title": "Action characters",
@@ -449,10 +449,20 @@
     "category": "unusual",
     "total": 44
   },
+  "music.artist": {
+    "title": "Musical artists with a distinct styles",
+    "category": "music",
+    "total": 96
+  },
   "music.bpm": {
     "title": "Common BPMs",
     "category": "music",
     "total": 20
+  },
+  "music.composer": {
+    "title": "Composers",
+    "category": "music",
+    "total": 172
   },
   "music.drop": {
     "title": "Types of drops in dance music",
