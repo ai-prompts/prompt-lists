@@ -169,6 +169,11 @@
     "category": "audio",
     "total": 98
   },
+  "business.brand": {
+    "title": "Brands",
+    "category": "business",
+    "total": 288
+  },
   "character.action": {
     "title": "Action characters",
     "category": "character",
