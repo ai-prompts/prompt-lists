@@ -32,6 +32,7 @@ const processFile = (dir, file) => {
   let list = fileSections[2]
     .toLowerCase()
     .split('\n')
+    .map(e => e.replace(/\r/g, ''))
     .filter(e => String(e).trim())
     .map(e => e.replace(/^\s+-\s+|^-\s+|^\s+/g, '').replace(/\.$/, ''))
 
