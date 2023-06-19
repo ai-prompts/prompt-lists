@@ -496,7 +496,6 @@ Deception Bay, Queensland, Australia
 Dandenong, Victoria, Australia
 Cronulla, New South Wales, Australia
 Cranbourne, Victoria, Australia
-Cranbourne, Victoria, Australia
 Craigieburn, Victoria, Australia
 Coffs Harbour, New South Wales, Australia
 Coburg, Victoria, Australia
@@ -551,18 +550,15 @@ Canning Vale, Western Australia, Australia
 Glenmore Park, New South Wales, Australia
 Glen Iris, Victoria, Australia
 Balwyn North, Victoria, Australia
-Carnegie, Victoria, Australia
 Malvern East, Victoria, Australia
 Brighton East, Victoria, Australia
 Booval, Queensland, Australia
 St Albans, Victoria, Australia
 Endeavour Hills, Victoria, Australia
-Clayton, Victoria, Australia
 Taylors Lakes, Victoria, Australia
 Roxburgh Park, Victoria, Australia
 Wyndham Vale, Victoria, Australia
 Willetton, Western Australia, Australia
-Thornbury, Victoria, Australia
 Thornlie, Western Australia, Australia
 Hillside, Victoria, Australia
 Bundoora, Victoria, Australia
@@ -2460,7 +2456,6 @@ Kirkland, Quebec, Canada
 Kitchener, Ontario, Canada
 Langford, British Columbia, Canada
 Langley, British Columbia, Canada
-Langley, British Columbia, Canada
 La Prairie, Quebec, Canada
 L'Assomption, Quebec, Canada
 Laval, Quebec, Canada
@@ -3226,7 +3221,6 @@ Shouguang, Shandong Sheng, China
 Shizuishan, Ningxia Huizu Zizhiqu, China
 Shizilu, Shandong Sheng, China
 Shiyan, Hubei, China
-Shiyan, Hubei, China
 Shiwan, Guangdong, China
 Shitanjing, Ningxia Huizu Zizhiqu, China
 Shiqiao, Guangdong, China
@@ -3503,7 +3497,6 @@ Fenyi, Jiangxi Sheng, China
 Fengxian, Jiangsu, China
 Fengrun, Hebei, China
 Fengkou, Hubei, China
-Feicheng, Shandong Sheng, China
 Fangshan, Beijing, China
 Ezhou, Hubei, China
 Enshi, Hubei, China
@@ -3707,7 +3700,6 @@ Jixi, Heilongjiang Sheng, China
 Jiutai, Jilin Sheng, China
 Jiupu, Liaoning, China
 Jishu, Jilin Sheng, China
-Jinzhou, Liaoning, China
 Lianshan, Liaoning, China
 Jining, Inner Mongolia, China
 Jilin, Jilin Sheng, China
@@ -3727,7 +3719,6 @@ Huanan, Heilongjiang Sheng, China
 Huadian, Jilin Sheng, China
 Honggang, Heilongjiang Sheng, China
 Hohhot, Inner Mongolia, China
-Fendou, Heilongjiang Sheng, China
 Helong, Jilin Sheng, China
 Heishan, Liaoning, China
 Heihe, Heilongjiang Sheng, China
@@ -3744,7 +3735,6 @@ Gannan, Heilongjiang Sheng, China
 Fuyuan, Heilongjiang Sheng, China
 Fuyu, Heilongjiang Sheng, China
 Fuyu, Jilin Sheng, China
-Fuxin, Liaoning, China
 Fuxin, Liaoning, China
 Fushun, Liaoning, China
 Fuli, Heilongjiang Sheng, China
@@ -3992,7 +3982,6 @@ Cajicá, Cundinamarca, Colombia
 Caicedonia, Valle del Cauca, Colombia
 Buga, Valle del Cauca, Colombia
 Buenaventura, Valle del Cauca, Colombia
-Buenaventura, Valle del Cauca, Colombia
 Bucaramanga, Santander, Colombia
 Bogotá, Bogota D.C., Colombia
 Bello, Antioquia, Colombia
@@ -4189,7 +4178,6 @@ Centro Habana, La Habana, Cuba
 La Habana Vieja, La Habana, Cuba
 Báguanos, Holguín, Cuba
 Jimaguayú, Camagüey, Cuba
-Arroyo Naranjo, La Habana, Cuba
 Boyeros, La Habana, Cuba
 Diez de Octubre, La Habana, Cuba
 Santa Maria, Sal, Cape Verde
@@ -4242,7 +4230,6 @@ Písek, Jihočeský, Czech Republic
 Pelhřimov, Vysočina, Czech Republic
 Pardubice, Pardubický, Czech Republic
 Otrokovice, Zlín, Czech Republic
-Otrokovice, Zlín, Czech Republic
 Ostrov, Karlovarský, Czech Republic
 Ostrava, Moravskoslezský, Czech Republic
 Orlová, Moravskoslezský, Czech Republic
@@ -4272,7 +4259,6 @@ Klášterec nad Ohří, Ústecký, Czech Republic
 Kladno, Central Bohemia, Czech Republic
 Karviná, Moravskoslezský, Czech Republic
 Karlovy Vary, Karlovarský, Czech Republic
-Kadaň, Ústecký, Czech Republic
 Kadaň, Ústecký, Czech Republic
 Jirkov, Ústecký, Czech Republic
 Jindřichův Hradec, Jihočeský, Czech Republic
@@ -8913,7 +8899,6 @@ Udankudi, Tamil Nadu, India
 Udalguri, Assam, India
 Udaipura, Madhya Pradesh, India
 Udaipur, Rajasthan, India
-Udaipur, Rajasthan, India
 Udaipur, Tripura, India
 Ooty, Tamil Nadu, India
 Bara Uchāna, Haryana, India
@@ -9071,7 +9056,6 @@ Siwāna, Rajasthan, India
 Siwān, Bihar, India
 Sivakasi, Tamil Nadu, India
 Sivagiri, Tamil Nadu, India
-Sivagiri, Tamil Nadu, India
 Sivaganga, Tamil Nadu, India
 Siuri, West Bengal, India
 Sitārganj, Uttarakhand, India
@@ -9148,12 +9132,10 @@ Sheoganj, Rajasthan, India
 Shegaon, Maharashtra, India
 Shāntipur, West Bengal, India
 Shamsābād, Uttar Pradesh, India
-Shamsābād, Uttar Pradesh, India
 Shāmli, Uttar Pradesh, India
 Shāmgarh, Madhya Pradesh, India
 Shājāpur, Madhya Pradesh, India
 Sheikhpura, Bihar, India
-Shāhpura, Rajasthan, India
 Shāhpura, Rajasthan, India
 Shāhpur, Uttar Pradesh, India
 Shāhpur, Bihar, India
@@ -9165,7 +9147,6 @@ Shāhganj, Uttar Pradesh, India
 Shahdol, Madhya Pradesh, India
 Shāhāda, Maharashtra, India
 Shāhābād, Haryana, India
-Shāhābād, Uttar Pradesh, India
 Shāhābād, Uttar Pradesh, India
 Shāhābād, Karnataka, India
 Serchhīp, Mizoram, India
@@ -9313,7 +9294,6 @@ Rampur Hat, West Bengal, India
 Rāmpura, Punjab, India
 Rāmpura, Madhya Pradesh, India
 Rāmpur, Uttar Pradesh, India
-Rāmpur, Uttar Pradesh, India
 Rāmnagar, Uttarakhand, India
 Rāmnagar, Bihar, India
 Rāmnagar, Uttar Pradesh, India
@@ -9332,7 +9312,6 @@ Rājula, Gujarat, India
 Rājsamand, Rajasthan, India
 Rājpura, Punjab, India
 Rajpur, Madhya Pradesh, India
-Rajpur, Madhya Pradesh, India
 Rājpīpla, Gujarat, India
 Rāj-Nāndgaon, Chhattisgarh, India
 Rājmahal, West Bengal, India
@@ -9340,8 +9319,6 @@ Rājkot, Gujarat, India
 Rājgurunagar, Maharashtra, India
 Rājgīr, Bihar, India
 Rājgarh, Rajasthan, India
-Rājgarh, Rajasthan, India
-Rājgarh, Madhya Pradesh, India
 Rājgarh, Madhya Pradesh, India
 Rajaori, Kashmir, India
 Rajapalaiyam, Tamil Nadu, India
@@ -9589,8 +9566,6 @@ Nawalgarh, Rajasthan, India
 Niwai, Rajasthan, India
 Nawāda, Bihar, India
 Nawābganj, Uttar Pradesh, India
-Nawābganj, Uttar Pradesh, India
-Nawābganj, Uttar Pradesh, India
 Nāwa, Rajasthan, India
 Navalgund, Karnataka, India
 Navadwīp, West Bengal, India
@@ -9702,8 +9677,6 @@ Muktsar, Punjab, India
 Mukher, Maharashtra, India
 Mukeriān, Punjab, India
 Muhammadābād, Uttar Pradesh, India
-Muhammadābād, Uttar Pradesh, India
-Muhammadābād, Uttar Pradesh, India
 Mughal Sarāi, Uttar Pradesh, India
 Mudkhed, Maharashtra, India
 Mudhol, Karnataka, India
@@ -9794,7 +9767,6 @@ Mangaldai, Assam, India
 Mangalagiri, Andhra Pradesh, India
 Maner, Bihar, India
 Mandya, Karnataka, India
-Māndvi, Gujarat, India
 Māndvi, Gujarat, India
 Māndu, Madhya Pradesh, India
 Mandsaur, Madhya Pradesh, India
@@ -10049,7 +10021,6 @@ Khamaria, Madhya Pradesh, India
 Khalīlābād, Uttar Pradesh, India
 Khajurāho, Madhya Pradesh, India
 Khairāgarh, Chhattisgarh, India
-Khairāgarh, Chhattisgarh, India
 Khairābād, Uttar Pradesh, India
 Khair, Uttar Pradesh, India
 Khagaul, Bihar, India
@@ -10079,7 +10050,6 @@ Katihar, Bihar, India
 Kathua, Kashmir, India
 Kāthor, Gujarat, India
 Katghora, Chhattisgarh, India
-Katangi, Madhya Pradesh, India
 Katangi, Madhya Pradesh, India
 Kasrāwad, Madhya Pradesh, India
 Kashipur, Uttarakhand, India
@@ -10450,7 +10420,6 @@ Gangoh, Uttar Pradesh, India
 Gangāwati, Karnataka, India
 Gangārāmpur, West Bengal, India
 Gangāpur, Rajasthan, India
-Gangāpur, Rajasthan, India
 Gangāpur, Maharashtra, India
 Gangānagar, Rajasthan, India
 Gangākher, Maharashtra, India
@@ -10475,7 +10444,6 @@ Fāzilka, Punjab, India
 Fatwa, Bihar, India
 Fatehpur Sīkri, Uttar Pradesh, India
 Fatehpur, Rajasthan, India
-Fatehpur, Uttar Pradesh, India
 Fatehpur, Uttar Pradesh, India
 Fatehgarh Chūriān, Punjab, India
 Fatehganj West, Uttar Pradesh, India
@@ -10888,7 +10856,6 @@ Bāsoda, Madhya Pradesh, India
 Basni, Rajasthan, India
 Basmat, Maharashtra, India
 Basi, Punjab, India
-Basi, Punjab, India
 Basi, Rajasthan, India
 Basavana Bāgevādi, Karnataka, India
 Basavakalyān, Karnataka, India
@@ -10916,7 +10883,6 @@ Barddhamān, West Bengal, India
 Bar Bigha, Bihar, India
 Baraut, Uttar Pradesh, India
 Barauli, Bihar, India
-Bārāsat, West Bengal, India
 Bārāsat, West Bengal, India
 Baranagar, West Bengal, India
 Bārān, Rajasthan, India
@@ -10988,7 +10954,6 @@ Bāgepalli, Karnataka, India
 Bagasra, Gujarat, India
 Bagar, Rajasthan, India
 Bagalkot, Karnataka, India
-Bagaha, Bihar, India
 Bagaha, Bihar, India
 Badvel, Andhra Pradesh, India
 Badūria, West Bengal, India
@@ -11119,7 +11084,6 @@ Akola, Maharashtra, India
 Aklera, Rajasthan, India
 Akivīdu, Andhra Pradesh, India
 Akbarpur, Uttar Pradesh, India
-Akbarpur, Uttar Pradesh, India
 Akaltara, Chhattisgarh, India
 Akalkot, Maharashtra, India
 Ajra, Maharashtra, India
@@ -11177,7 +11141,6 @@ Mohali, Punjab, India
 Pithampur, Madhya Pradesh, India
 Barbil, Odisha, India
 Airoli, Maharashtra, India
-Aluva, Kerala, India
 Kotkapura, Punjab, India
 Muvattupuzha, Kerala, India
 Perumbavoor, Kerala, India
@@ -12846,7 +12809,6 @@ Fujikawaguchiko, Yamanashi, Japan
 Dazaifu, Fukuoka, Japan
 Kamigyō-ku, Kyoto, Japan
 Buzen, Fukuoka, Japan
-Sendai, Miyagi, Japan
 Webuye, Bungoma, Kenya
 Wajir, Wajir, Kenya
 Voi, Taita Taveta, Kenya
@@ -13015,7 +12977,6 @@ Neietsu, Gangwon-do, South Korea
 Eisen, Gyeongsangbuk-do, South Korea
 Reiko, Jeollanam-do, South Korea
 Yŏng-dong, Chungcheongbuk-do, South Korea
-Eisen, Gyeongsangbuk-do, South Korea
 Yeoju, Gyeonggi-do, South Korea
 Yesan, Chungcheongnam-do, South Korea
 Yangsan, Gyeongsangnam-do, South Korea
@@ -13672,7 +13633,6 @@ Thayetmyo, Magway, Myanmar
 Thaton, Mon, Myanmar
 Tharyarwady, Bago, Myanmar
 Thanatpin, Bago, Myanmar
-Thanatpin, Bago, Myanmar
 Dawei, Tanintharyi, Myanmar
 Taunggyi, Shan, Myanmar
 Taungdwingyi, Magway, Myanmar
@@ -13741,7 +13701,6 @@ Darhan, Darhan Uul, Mongolia
 Dalandzadgad, Ömnögovĭ, Mongolia
 Saynshand, East Gobi Aymag, Mongolia
 Bulgan, Bulgan, Mongolia
-Bayanhongor, Bayanhongor, Mongolia
 Bayanhongor, Bayanhongor, Mongolia
 Baruun-Urt, Sühbaatar, Mongolia
 Arvayheer, Övörhangay, Mongolia
@@ -14085,7 +14044,6 @@ Vicente Guerrero, Tlaxcala, Mexico
 Tonalá, Chiapas, Mexico
 Arriaga, Chiapas, Mexico
 San Andrés Cholula, Puebla, Mexico
-Tampico, Tamaulipas, Mexico
 Alto Lucero, Veracruz, Mexico
 San Mateo Otzacatipan, Morelos, Mexico
 Santa María Totoltepec, México, Mexico
@@ -14323,8 +14281,6 @@ Colonia Nativitas, Mexico City, Mexico
 Las Delicias, Baja California, Mexico
 San Pedro Garza Garcia, Nuevo León, Mexico
 Soledad de Graciano Sánchez, San Luis Potosí, Mexico
-Manzanillo, Colima, Mexico
-Naucalpan de Juárez, México, Mexico
 Hacienda Santa Fe, Jalisco, Mexico
 Fuentes del Valle, México, Mexico
 San Salvador Tizatlalli, México, Mexico
@@ -15453,7 +15409,6 @@ Santa Rosa, Calabarzon, Philippines
 Santa Maria, Ilocos, Philippines
 Santa Maria, Davao, Philippines
 Santa Cruz, Central Luzon, Philippines
-Santa Cruz, Central Luzon, Philippines
 Santa Cruz, Calabarzon, Philippines
 Santa Catalina, Central Visayas, Philippines
 Santa Barbara, Ilocos, Philippines
@@ -15464,7 +15419,6 @@ San Pascual, Calabarzon, Philippines
 San Pablo, Calabarzon, Philippines
 San Nicolas, Ilocos, Philippines
 San Narciso, Central Luzon, Philippines
-San Miguel, Central Luzon, Philippines
 San Miguel, Central Luzon, Philippines
 San Mateo, Cagayan Valley, Philippines
 San Mateo, Calabarzon, Philippines
@@ -15483,8 +15437,6 @@ San Francisco, Caraga, Philippines
 San Fernando, Ilocos, Philippines
 San Fernando, Central Luzon, Philippines
 San Fernando, Central Visayas, Philippines
-San Antonio, Central Luzon, Philippines
-San Antonio, Central Luzon, Philippines
 San Antonio, Central Luzon, Philippines
 Sampaloc, Calabarzon, Philippines
 Samal, Central Luzon, Philippines
@@ -15701,7 +15653,6 @@ Del Pilar, Central Luzon, Philippines
 Davao, Davao, Philippines
 Dasmariñas, Calabarzon, Philippines
 Dapitan, Zamboanga Peninsula, Philippines
-Danao, Central Visayas, Philippines
 Danao, Central Visayas, Philippines
 Daet, Bicol, Philippines
 Cuenca, Calabarzon, Philippines
@@ -16002,7 +15953,6 @@ Khāngāh Dogrān, Punjab, Pakistan
 Khalābat, Khyber Pakhtunkhwa, Pakistan
 Khairpur Nathan Shāh, Sindh, Pakistan
 Khairpur, Punjab, Pakistan
-Khairpur, Sindh, Pakistan
 Kasūr, Punjab, Pakistan
 Kashmor, Sindh, Pakistan
 Karor, Punjab, Pakistan
@@ -16130,7 +16080,6 @@ Alīpur, Punjab, Pakistan
 Akora, Khyber Pakhtunkhwa, Pakistan
 Ahmadpur East, Punjab, Pakistan
 Abbottābād, Khyber Pakhtunkhwa, Pakistan
-Bahāwalnagar, Punjab, Pakistan
 Nowshera Cantonment, Khyber Pakhtunkhwa, Pakistan
 Ahmadpur Siāl, Punjab, Pakistan
 New Bādāh, Sindh, Pakistan
@@ -16626,7 +16575,6 @@ Feira, Aveiro, Portugal
 Fânzeres, Porto, Portugal
 Fafe, Braga, Portugal
 Esposende, Braga, Portugal
-Esposende, Braga, Portugal
 Ermesinde, Porto, Portugal
 Custoias, Guarda, Portugal
 Covilhã, Castelo Branco, Portugal
@@ -16931,7 +16879,6 @@ Vyatskiye Polyany, Kirov, Russia
 Vsevolozhsk, Leningrad, Russia
 Votkinsk, Udmurtiya, Russia
 Vostryakovo, MO, Russia
-Vostryakovo, MO, Russia
 Voskresensk, MO, Russia
 Voronezh, Voronezj, Russia
 Altuf’yevskiy, Moscow, Russia
@@ -16978,7 +16925,6 @@ Ukhta, Komi Republic, Russia
 Uglich, Jaroslavl, Russia
 Ufa, Bashkortostan, Russia
 Uchkeken, Karachayevo-Cherkesiya, Russia
-Uchaly, Bashkortostan, Russia
 Uchaly, Bashkortostan, Russia
 Tyrnyauz, Kabardino-Balkariya, Russia
 Tver, Tverskaya, Russia
@@ -17119,7 +17065,6 @@ Rtishchevo, Saratov, Russia
 Rostov-na-Donu, Rostov, Russia
 Rostov, Jaroslavl, Russia
 Rostokino, Moscow, Russia
-Rossosh’, Voronezj, Russia
 Rossosh’, Voronezj, Russia
 Roslavl’, Smolensk, Russia
 Roshal’, MO, Russia
@@ -17667,9 +17612,7 @@ Pavlovo, Nizjnij Novgorod, Russia
 Belidzhi, Dagestan, Russia
 Lesnoy, Sverdlovsk, Russia
 Trëkhgornyy, Chelyabinsk, Russia
-Mirnyy, Arkhangelskaya, Russia
 Znamensk, Astrakhan, Russia
-Zarechnyy, Penza, Russia
 Kochubeyevskoye, Stavropol'skiy, Russia
 Vnukovo, MO, Russia
 Moskovskiy, Moscow, Russia
@@ -17712,7 +17655,6 @@ Tarko-Sale, Yamalo-Nenetskiy Avtonomnyy Okrug, Russia
 Tara, Omsk, Russia
 Talnakh, Krasnoyarskiy, Russia
 Tal’menka, Altai Krai, Russia
-Talitsa, Sverdlovsk, Russia
 Talitsa, Sverdlovsk, Russia
 Sysert’, Sverdlovsk, Russia
 Suzun, Novosibirsk, Russia
@@ -17939,7 +17881,6 @@ Metrogorodok, Moscow, Russia
 Kogalym, Khanty-Mansiyskiy Avtonomnyy Okrug, Russia
 Pyt-Yakh, Khanty-Mansiyskiy Avtonomnyy Okrug, Russia
 Langepas, Khanty-Mansiyskiy Avtonomnyy Okrug, Russia
-Lesnoy, Sverdlovsk, Russia
 Zarya, MO, Russia
 Raduzhnyy, Vladimir, Russia
 Nizhnesortymskiy, Khanty-Mansiyskiy Avtonomnyy Okrug, Russia
@@ -19694,7 +19635,6 @@ Soroti, Eastern Region, Uganda
 Pallisa, Eastern Region, Uganda
 Paidha, Northern Region, Uganda
 Nyachera, Western Region, Uganda
-Ntungamo, Western Region, Uganda
 Ntungamo, Western Region, Uganda
 Njeru, Central Region, Uganda
 Nebbi, Northern Region, Uganda
@@ -22394,7 +22334,6 @@ Wallingford Center, Connecticut, United States
 Bel Air North, Maryland, United States
 Bel Air South, Maryland, United States
 Setauket-East Setauket, New York, United States
-Tonawanda, New York, United States
 Fort Leonard Wood, Missouri, United States
 West Bloomfield Township, Michigan, United States
 East Lake-Orient Park, Florida, United States
@@ -22433,7 +22372,6 @@ Cranberry Township, Pennsylvania, United States
 Silver Lake, California, United States
 Echo Park, California, United States
 Young, Río Negro, Uruguay
-Trinidad, Flores, Uruguay
 Trinidad, Flores, Uruguay
 Treinta y Tres, Treinta y Tres, Uruguay
 Tacuarembó, Tacuarembó, Uruguay
@@ -22558,7 +22496,6 @@ Angren, Toshkent, Uzbekistan
 Andijon, Andijon, Uzbekistan
 Oltiariq, Fergana, Uzbekistan
 Quva, Fergana, Uzbekistan
-Navoiy, Navoiy, Uzbekistan
 Vatican City, N/A, Vatican
 Kingstown, Saint George, Saint Vincent and the Grenadines
 Kingstown Park, Saint George, Saint Vincent and the Grenadines
