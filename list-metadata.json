@@ -377,7 +377,7 @@
   "geography.city": {
     "title": "Cities",
     "category": "geography",
-    "total": 23018
+    "total": 22955
   },
   "geography.country": {
     "title": "Countries",
@@ -822,7 +822,7 @@
   "thing.city": {
     "title": "City things",
     "category": "thing",
-    "total": 194
+    "total": 189
   },
   "thing.everyday": {
     "title": "Everyday things",
