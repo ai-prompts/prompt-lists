@@ -172,7 +172,7 @@
   "business.brand": {
     "title": "Brands",
     "category": "business",
-    "total": 288
+    "total": 287
   },
   "character.action": {
     "title": "Action characters",
@@ -599,6 +599,11 @@
     "category": "people",
     "total": 87
   },
+  "people.celebrity": {
+    "title": "Celebrities",
+    "category": "people",
+    "total": 164
+  },
   "people.common": {
     "title": "Common types of people",
     "category": "people",
@@ -918,6 +923,11 @@
     "title": "Types of vehicle",
     "category": "vehicle",
     "total": 100
+  },
+  "videoGame.action": {
+    "title": "Video game actions",
+    "category": "video-game",
+    "total": 296
   },
   "videoGame.designer": {
     "title": "Video game designers",
