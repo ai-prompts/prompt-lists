@@ -5,6 +5,9 @@
   "repository": "https://github.com/ai-prompts/prompt-lists",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "scripts": {
     "pretest": "npm run sanitise; npm run build",
     "build": "node build.js",
