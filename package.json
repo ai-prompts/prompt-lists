@@ -1,6 +1,6 @@
 {
   "name": "prompt-lists",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Lists of keywords for prompts",
   "repository": "https://github.com/ai-prompts/prompt-lists",
   "main": "index.js",
