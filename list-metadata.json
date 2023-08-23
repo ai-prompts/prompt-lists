@@ -812,12 +812,12 @@
   "set.describeStyle": {
     "title": "Styles from Midjourney’s describe",
     "category": "set",
-    "total": 17275
+    "total": 17756
   },
   "set.describeSubject": {
     "title": "Subjects from Midjourney’s describe",
     "category": "set",
-    "total": 67052
+    "total": 139614
   },
   "set.parti": {
     "title": "PartiPrompts",
