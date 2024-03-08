@@ -249,6 +249,11 @@
     "category": "cinematic",
     "total": 20
   },
+  "cinematic.moment": {
+    "title": "Cinematic moments with camera movements and scene transitions",
+    "category": "cinematic",
+    "total": 216
+  },
   "cinematic.movie": {
     "title": "Movies with a distinct style",
     "category": "movie",
@@ -413,6 +418,16 @@
     "title": "Group interactions",
     "category": "interaction",
     "total": 50
+  },
+  "interaction.individualDetailed": {
+    "title": "Detailed individual interactions",
+    "category": "interaction",
+    "total": 194
+  },
+  "interaction.individual": {
+    "title": "Individual interactions",
+    "category": "interaction",
+    "total": 404
   },
   "keyword.detailed": {
     "title": "Keywords for detailed images",
