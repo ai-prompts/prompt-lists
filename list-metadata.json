@@ -269,6 +269,11 @@
     "category": "color",
     "total": 46
   },
+  "color.depth": {
+    "title": "Color depth",
+    "category": "color",
+    "total": 10
+  },
   "color.modifier": {
     "title": "Color modifiers",
     "category": "color",
@@ -283,6 +288,11 @@
     "title": "Color palettes",
     "category": "color",
     "total": 73
+  },
+  "color.perception": {
+    "title": "Color perception and context phenomena",
+    "category": "color",
+    "total": 21
   },
   "fashion.accessory": {
     "title": "Clothing accessories",
@@ -373,6 +383,11 @@
     "title": "Breakfast food",
     "category": "food",
     "total": 69
+  },
+  "food.cuisine": {
+    "title": "Cuisine",
+    "category": "food",
+    "total": 100
   },
   "food.fast": {
     "title": "Fast-food",
@@ -614,6 +629,11 @@
     "category": "people",
     "total": 87
   },
+  "people.bodyType": {
+    "title": "Types of body",
+    "category": "people",
+    "total": 97
+  },
   "people.celebrity": {
     "title": "Celebrities",
     "category": "people",
@@ -633,6 +653,11 @@
     "title": "Dances",
     "category": "people",
     "total": 99
+  },
+  "people.expression": {
+    "title": "Expressions",
+    "category": "people",
+    "total": 430
   },
   "people.festival": {
     "title": "Festivals",
@@ -854,6 +879,11 @@
     "category": "thing",
     "total": 224
   },
+  "thing.gadget": {
+    "title": "Gadgets",
+    "category": "thing",
+    "total": 401
+  },
   "thing.icon": {
     "title": "Icons",
     "category": "thing",
@@ -913,6 +943,26 @@
     "title": "Years from 1850 to 2250",
     "category": "year",
     "total": 201
+  },
+  "typography.feature": {
+    "title": "Typography features",
+    "category": "typography",
+    "total": 42
+  },
+  "typography.fontType": {
+    "title": "Font types",
+    "category": "typography",
+    "total": 41
+  },
+  "typography.font": {
+    "title": "Fonts",
+    "category": "typography",
+    "total": 64
+  },
+  "typography.style": {
+    "title": "Font styles",
+    "category": "typography",
+    "total": 53
   },
   "vehicle.car": {
     "title": "Cars",
