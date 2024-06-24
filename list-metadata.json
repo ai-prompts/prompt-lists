@@ -964,6 +964,11 @@
     "category": "typography",
     "total": 53
   },
+  "typography.wordArt": {
+    "title": "Word art effects",
+    "category": "typography",
+    "total": 100
+  },
   "vehicle.car": {
     "title": "Cars",
     "category": "vehicle",
