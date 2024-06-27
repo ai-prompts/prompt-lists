@@ -409,6 +409,21 @@
     "category": "geography",
     "total": 199
   },
+  "geography.ethnicGroup": {
+    "title": "Ethnic groups",
+    "category": "geography",
+    "total": 1055
+  },
+  "geography.language": {
+    "title": "Languages",
+    "category": "geography",
+    "total": 609
+  },
+  "geography.nationality": {
+    "title": "Nationalities (demonyms)",
+    "category": "geography",
+    "total": 206
+  },
   "geography.territory": {
     "title": "Territories",
     "category": "geography",
