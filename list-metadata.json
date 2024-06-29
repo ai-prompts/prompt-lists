@@ -2,7 +2,7 @@
   "animal.all": {
     "title": "All animals",
     "category": "animal",
-    "total": 2091
+    "total": 1868
   },
   "animal.bird": {
     "title": "All birds",
@@ -18,6 +18,11 @@
     "title": "Dinosaurs",
     "category": "animal",
     "total": 89
+  },
+  "animal.dogBreed": {
+    "title": "Dog breeds",
+    "category": "animal",
+    "total": 666
   },
   "animal.insect": {
     "title": "Insects",
