@@ -179,6 +179,11 @@
     "category": "character",
     "total": 49
   },
+  "character.anime": {
+    "title": "Famous anime characters",
+    "category": "character",
+    "total": 165
+  },
   "character.child": {
     "title": "Child characters",
     "category": "character",
@@ -188,6 +193,11 @@
     "title": "Coming of age characters",
     "category": "character",
     "total": 51
+  },
+  "character.famous": {
+    "title": "Famous fictional characters",
+    "category": "character",
+    "total": 371
   },
   "character.fantasy": {
     "title": "Fantasy characters",
@@ -213,6 +223,16 @@
     "title": "Sci-fi characters",
     "category": "character",
     "total": 51
+  },
+  "character.superhero": {
+    "title": "Superheroes",
+    "category": "character",
+    "total": 97
+  },
+  "character.supervillain": {
+    "title": "Supervillains",
+    "category": "character",
+    "total": 94
   },
   "cinematic.animationStudio": {
     "title": "Animation studios",
