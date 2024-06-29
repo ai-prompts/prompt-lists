@@ -30,11 +30,12 @@ const processFile = (dir, file) => {
 
   const frontmatter = fileSections[1]
   let list = fileSections[2]
-    .toLowerCase()
-    .split('\n')
-    .map(e => e.replace(/\r/g, ''))
-    .filter(e => String(e).trim())
-    .map(e => e.replace(/^\s+-\s+|^-\s+|^\s+/g, '').replace(/\.$/, ''))
+    .toLowerCase() // Convert all text to lowercase
+    .split('\n') // Split the text into an array of lines
+    .map(e => e.replace(/\r/g, '')) // Remove carriage return characters
+    .filter(e => String(e).trim()) // Remove empty or whitespace-only lines
+    .map(e => e.replace(/^\s+-\s+|^-\s+|^\s+/g, '').replace(/\.$/, '')) // Remove leading spaces, dashes, and trailing periods
+    .map(e => e.replace(/^"|"$|",$|,$/g, '')) // Strip leading and trailing quotes, and trailing commas (with or without quotes)
 
   // Dedupe
   list = [...new Set(list)]

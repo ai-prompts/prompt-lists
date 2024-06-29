@@ -499,10 +499,15 @@
     "category": "keyword",
     "total": 38
   },
+  "keyword.modifier": {
+    "title": "Modifiers",
+    "category": "keyword",
+    "total": 68
+  },
   "keyword.negative": {
     "title": "Negative",
     "category": "keyword",
-    "total": 41
+    "total": 69
   },
   "keyword.prayer": {
     "title": "Common prayers for better images",
@@ -672,7 +677,7 @@
   "people.celebrity": {
     "title": "Celebrities",
     "category": "people",
-    "total": 164
+    "total": 637
   },
   "people.common": {
     "title": "Common types of people",
@@ -694,6 +699,11 @@
     "category": "people",
     "total": 430
   },
+  "people.eyeColor": {
+    "title": "Eye colors",
+    "category": "people",
+    "total": 26
+  },
   "people.festival": {
     "title": "Festivals",
     "category": "people",
@@ -712,7 +722,12 @@
   "people.job": {
     "title": "Jobs",
     "category": "people",
-    "total": 498
+    "total": 600
+  },
+  "people.posePortrait": {
+    "title": "Portrait poses",
+    "category": "people",
+    "total": 25
   },
   "people.pose": {
     "title": "Poses",
@@ -913,6 +928,11 @@
     "title": "Everyday things",
     "category": "thing",
     "total": 224
+  },
+  "thing.fantasy": {
+    "title": "Fantasy things",
+    "category": "thing",
+    "total": 126
   },
   "thing.gadget": {
     "title": "Gadgets",
