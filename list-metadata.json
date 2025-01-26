@@ -319,6 +319,66 @@
     "category": "color",
     "total": 21
   },
+  "deity.assyrian": {
+    "title": "Assyrian gods",
+    "category": "deity",
+    "total": 26
+  },
+  "deity.aztec": {
+    "title": "Aztec gods",
+    "category": "deity",
+    "total": 55
+  },
+  "deity.babylonian": {
+    "title": "Babylonian gods",
+    "category": "deity",
+    "total": 26
+  },
+  "deity.celtic": {
+    "title": "Celtic gods",
+    "category": "deity",
+    "total": 38
+  },
+  "deity.egyptian": {
+    "title": "Egyptian gods",
+    "category": "deity",
+    "total": 81
+  },
+  "deity.greek": {
+    "title": "Greek gods",
+    "category": "deity",
+    "total": 82
+  },
+  "deity.hindu": {
+    "title": "Hindu gods",
+    "category": "deity",
+    "total": 51
+  },
+  "deity.norse": {
+    "title": "Norse gods",
+    "category": "deity",
+    "total": 54
+  },
+  "deity.roman": {
+    "title": "Roman gods",
+    "category": "deity",
+    "total": 62
+  },
+  "deity.shinto": {
+    "title": "Shinto gods",
+    "category": "deity",
+    "total": 55
+  },
+  "deity.sumarian": {
+    "title": "Sumarian gods",
+    "category": "deity",
+    "total": 26
+  },
+  "deity.taoist": {
+    "title": "Taoist deities",
+    "category": "deity",
+    "total": 56
+  },
   "fashion.accessory": {
     "title": "Clothing accessories",
     "category": "fashion",
@@ -619,6 +679,21 @@
     "category": "music",
     "total": 100
   },
+  "mythical.chinese": {
+    "title": "Figures in Chinese mythology",
+    "category": "mythical",
+    "total": 66
+  },
+  "mythical.dndRace": {
+    "title": "Dungeons and Dragons races",
+    "category": "mythical",
+    "total": 48
+  },
+  "mythical.dragon": {
+    "title": "Dragons",
+    "category": "mythical",
+    "total": 65
+  },
   "nature.areaOfNaturalBeauty": {
     "title": "Famous areas of natural beauty",
     "category": "natural",
@@ -628,6 +703,11 @@
     "title": "Flowers",
     "category": "nature",
     "total": 497
+  },
+  "nature.fungus": {
+    "title": "Fungus and mushrooms",
+    "category": "nature",
+    "total": 196
   },
   "nature.sceneModifier": {
     "title": "Scene modifiers",
@@ -913,6 +993,16 @@
     "title": "Subjects from Midjourney’s describe",
     "category": "set",
     "total": 139614
+  },
+  "set.memeDescription": {
+    "title": "Memes with descriptions",
+    "category": "set",
+    "total": 44
+  },
+  "set.meme": {
+    "title": "Memes",
+    "category": "set",
+    "total": 44
   },
   "set.parti": {
     "title": "PartiPrompts",
