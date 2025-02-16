@@ -4,15 +4,14 @@ import fs from 'fs'
 const allLists = []
 const listMetadata = {}
 
-// Simple deterministic random number generator with fixed seed
-function seededRandom(seed) {
-  return function() {
-    seed = (seed * 9301 + 49297) % 233280;
-    return seed / 233280;
+function seededRandom (seed) {
+  return function () {
+    seed = (seed * 9301 + 49297) % 233280
+    return seed / 233280
   }
 }
 
-const random = seededRandom(100);
+const random = seededRandom(100)
 
 for (const category of Object.keys(listHelpers)) {
   for (const listName of Object.keys(listHelpers[category])) {
