@@ -1808,6 +1808,15 @@
       "expanding brain meme"
     ]
   },
+  "set.moviegenBench": {
+    "title": "Benchmark prompt set from MovieGenBench",
+    "category": "set",
+    "total": 1003,
+    "examples": [
+      "This close-up shot of a chameleon showcases its striking color changing capabilities. The background is blurred, drawing attention to the animal’s striking appearance.",
+      "A calm lake at sunset, perfectly reflecting the orange and pink hues of the sky, with gentle ripples distorting the mirrored image."
+    ]
+  },
   "set.parti": {
     "title": "PartiPrompts",
     "category": "set",
