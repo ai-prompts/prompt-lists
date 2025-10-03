@@ -57,6 +57,7 @@
   "cinematic.moment",
   "cinematic.movie",
   "cinematic.shot",
+  "cinematic.tvAnimated",
   "color.all",
   "color.depth",
   "color.modifier",
