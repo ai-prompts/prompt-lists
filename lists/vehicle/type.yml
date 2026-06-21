@@ -4,7 +4,9 @@ category: vehicle
 ---
 aircraft
 airplane
+ambulance
 amphibious vehicle
+armored car
 atv
 backhoe
 barge
@@ -12,16 +14,20 @@ bicycle
 blimp
 boat
 bulldozer
+bullet train
 bus
 cable car
 camper
 canoe
 car
+cargo ship
 carriage
 cart
 cement mixer
 coach
 crane
+cruise ship
+dirt bike
 dog sled
 double-decker bus
 dump truck
@@ -30,12 +36,15 @@ electric car
 electric scooter
 excavator
 fifth wheel
+fire engine
 forklift
 front-end loader
 funicular
+garbage truck
 glider
 go-kart
 golf cart
+gondola
 grader
 hang glider
 helicopter
@@ -43,7 +52,9 @@ horse trailer
 hot air balloon
 hovercraft
 hybrid car
+hydrofoil
 hydrogen fuel cell vehicle
+icebreaker
 jet ski
 kayak
 lawn mower
@@ -55,6 +66,7 @@ microcar
 monorail
 monster truck
 moon buggy
+moped
 motorcoach
 motorcycle
 motorhome
@@ -85,18 +97,22 @@ solar-powered car
 spacecraft
 stagecoach
 streetcar
+submarine
 subway
 suv
+tank
 taxi
 tour bus
 tractor
 trailer
 train
 tram
+trawler
 tricycle
 truck
 truck camper
 tugboat
+unicycle
 van
 wagon
 watercraft

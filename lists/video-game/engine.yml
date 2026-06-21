@@ -2,11 +2,18 @@
 title: Video game engines
 category: video-game
 ---
+adventure game studio
 amazon lumberyard
 anvilnext
+aurora engine
+bevy
+build engine
+cocos2d
+construct 3
 creation engine
 cryengine
 decima engine
+defold
 dunia engine
 eclipse engine
 ego engine
@@ -16,7 +23,9 @@ frostbite engine
 gamebryo
 gamebryo lightspeed
 gamemaker studio
+gdevelop
 godot engine
+goldsrc
 havok vision engine
 hedgehog engine
 heroengine
@@ -24,12 +33,18 @@ id tech
 ioquake3
 iw engine
 jade engine
+libgdx
 lithtech engine
+love2d
 luminous engine
 marmalade sdk
+monogame
 mt framework
+odyssey engine
 ogre
+panda3d
 phyreengine
+pico-8
 project spark
 rage
 redengine
@@ -39,11 +54,14 @@ renderware
 renderware game engine
 renderware graphics
 renderware studio
+rpg maker
+scumm
 snowdrop engine
 source 2
 source engine
 source filmmaker
 stingray engine
+torque3d
 umbra 3
 unity
 unity3d

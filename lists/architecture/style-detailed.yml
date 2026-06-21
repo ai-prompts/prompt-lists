@@ -12,7 +12,9 @@ bauhaus - functional, minimal, industrial, geometric, monochromatic, abstract
 bay-and-gable - wood, ornate, victorian, picturesque, asymmetrical, cozy
 beaux arts classicism - grand, ornate, sculptural, classical, monumental, historicist
 beaux-arts - classical, grand, elaborate, sculptural, ornate, monumental
+biophilic - organic, green, natural, living, restorative, ecological
 brutalism - raw, monolithic, rough, concrete, utilitarian, minimalistic
+byzantine - majestic, domes, mosaics, ornate, symmetrical, brick
 châteauesque - ornate, grand, picturesque, castle-like, turrets, opulent
 chinoiserie revival - ornate, decorative, exotic, colorful, whimsical, fanciful
 churrigueresque - decorative, ornate, exaggerated, sculptural, baroque, theatrical
@@ -21,11 +23,14 @@ classicism - symmetrical, elegant, refined, classical, harmonious, balanced
 collegiate gothic - ornate, elaborate, gothic, academic, ivy-clad, picturesque
 colonial - symmetrical, simple, symmetrical, practical, traditional, conservative
 constructivist - geometric, abstract, avant-garde, innovative, bold, dynamic
+critical regionalism - contextual, local, tactical, responsive, crafted, sustainable
+cycladic - cubist, whitewashed, minimalistic, organic, volcanic, bright
 deconstructivism - fragmented, unstable, disorienting, abstract, chaotic, challenging
 desert modernism - organic, sleek, minimalist, low-slung, rugged, modern
 dutch colonial - gambrel roof, wood shingles, symmetrical, traditional, cozy, charming
 early christian - simple, austere, rounded arches, historical, ancient, symbolic
 eclectic - mixed, varied, diverse, nonconformist, unconventional, whimsical
+edwardian - ornate, symmetrical, red brick, light, spacious, decorative
 egyptian revival - massive, symmetrical, monumental, hieroglyphs, exotic, ancient
 elizabethan - timber framing, decorative, ornate, picturesque, tudor, traditional
 exotic revival - ornate, exotic, colorful, fanciful, historicist, eclectic
@@ -42,12 +47,17 @@ georgian revival - balanced, classical, symmetrical, elegant, decorative, statel
 gothic - elaborate, pointed arches, ribbed vaults, gargoyles, stained glass, dramatic
 gothic revival - dramatic, pointed arches, ribbed vaults, gargoyles, stained glass, medieval
 greek revival - classical, symmetrical, pediments, columns, ornate, grandeur
+high-tech - industrial, exposed-structure, metallic, futuristic, mechanical, dynamic
+hindu temple - ornate, pyramidal, sculpted, cosmic, symmetrical, layered
 international brutalism - raw, rough, exposed concrete, stark, austere, minimalist
 international gothic - elaborate, ornate, decorative, narrative, medieval, historical
 international gothic revival - elaborate, ornate, decorative, narrative, medieval, historical
 international style - clean, functional, minimal, glass, steel, white
 international style modernism - functional, minimal, industrial, geometric, abstract, clean
+islamic - geometric, arched, courtyards, arabesque, domes, calligraphic
 italianate - ornate, picturesque, warm, historical, symmetrical, elegant
+jacobean - gabled, ornate, brick, wooden, historical, asymmetrical
+japandi - minimal, warm, organic, functional, balanced, serene
 japanese - natural, minimal, organic, light, versatile, innovative
 late gothic revival - ornate, elaborate, gothic, historical, grand, picturesque
 late modernism - abstract, experimental, sculptural, expressive, innovative, bold
@@ -56,11 +66,13 @@ late victorian - ornate, eclectic, colorful, asymmetrical, elaborate, elaborate 
 mayan revival - symmetrical, monumental, decorative, ornate, dramatic, historicist
 mediterranean revival - stucco, red tile roofs, courtyards, colorful, rustic, italianate
 metabolist - futuristic, modular, innovative, organic, technological, visionary
+mid-century modern - clean, organic, integrated, minimalist, functional, wooden
 mission - simple, rustic, adobe, arches, courtyard, organic
 mission moderne - minimal, symmetrical, simple, geometric, functional, modern
 mission revival - stucco, red tile roofs, arched windows, courtyards, minimal, rustic
 modernism - minimal, functional, geometric, rational, sleek, unornamented
 moorish revival - ornate, decorative, colorful, exotic, arches, islamic
+mudejar - brick, geometric, plasterwork, wooden, moorish, decorative
 nautical - sleek, curved, streamlined, modern, nautical, innovative
 neo-baroque - ornate, grand, theatrical, dramatic, historical, opulent
 neo-classical revival - symmetrical, elegant, refined, classical, harmonious, balanced
@@ -68,7 +80,10 @@ neoclassical - symmetrical, balanced, pediments, columns, elegant, sophisticated
 neomodern - minimal, sleek, functional, abstract, innovative, technologically advanced
 new classical - classical, elegant, refined, symmetrical, pediments, historical
 new urbanism - traditional, human-scale, walkable, mixed-use, sustainable, community-oriented
+novelty - whimsical, literal, kitsch, sculptural, playful, commercial
 organic - natural, flowing, biomorphic, imaginative, tactile, abstract
+palladian - symmetrical, classical, temple-front, elegant, proportional, stately
+parametricism - algorithmic, fluid, complex, organic, futuristic, continuous
 postmodernism - playful, eclectic, ironic, whimsical, historical references, colorful
 prairie school - horizontal, low-pitched roofs, clean lines, simple, functional, elegant
 pre-romanesque - rounded arches, simple, austere, sturdy, medieval, historicist
@@ -80,10 +95,13 @@ rococo - ornate, playful, curvilinear, pastel colors, elaborate, asymmetrical
 rococo revival - ornate, playful, curvilinear, pastel colors, elaborate, asymmetrical
 romanesque - robust, simple, rounded arches, thick walls, strong, austere
 russian byzantine revival - elaborate, colorful, onion domes, exotic, ornamental, historical
+scandinavian - minimal, clean, wooden, bright, functional, cozy
 second empire - ornate, elaborate, symmetrical, mansard roofs, historical, opulent
 sgraffito - decorative, ornamental, plaster, colorful, patterned, textured
+shed - asymmetrical, multi-directional roofs, wooden, rustic, modern, angled
 shingle style - wood shingles, asymmetrical, simple, rustic, natural, coastal
 spanish colonial - stucco, red tile roofs, arched windows, courtyards, colorful, wrought iron
+steampunk - victorian, industrial, mechanical, copper, brass, fantastical
 streamline moderne - sleek, curved, nautical, machine age, aerodynamic, futuristic
 swiss chalet - wood, ornamental, picturesque, alpine, cozy, traditional
 traditional chinese - symmetrical, ornate, colorful, decorative, feng shui, pagoda roofs
@@ -94,6 +112,7 @@ venetian gothic - pointed arches, tracery, polychrome, ornate, gothic, italianat
 victorian - ornate, eclectic, colorful, asymmetrical, elaborate, elaborate details
 vienna secession - organic, ornamental, geometric, sensual, expressive, innovative
 viking revival - wood, ornate, elaborate, dragons, medieval, norse
+wabi-sabi - rustic, asymmetrical, raw, natural, minimal, transient
 washington school - classical, monumental, imposing, decorative, historicist, symbolic
 western rustic - log, stone, native materials, natural, handcrafted, unpretentious
 wiener werkstätte - arts and crafts, innovative, functional, abstract, geometric, stylized

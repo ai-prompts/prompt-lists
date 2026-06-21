@@ -2,11 +2,17 @@
 title: Icons
 category: thing
 ---
+arrow down
+arrow left
+arrow right
+arrow up
 badminton
 baseball
 basketball
 battery
+bell
 book
+bookmark
 briefcase
 building
 bullhorn
@@ -25,9 +31,11 @@ computer
 credit card
 cycling
 document
+download
 drum
 email
 envelope
+eye
 factory
 file
 fire
@@ -56,29 +64,38 @@ lightbulb
 link
 location pin
 lock
+magnifying glass
 mailbox
 map
 medal
 megaphone
 microphone
 microscope
+minus
 moon
 music note
 needle
 newspaper
 paintbrush
+paperclip
+pause
 pencil
 phone
 piano
 pin
+play
+plus
 power button
+refresh
 ribbon
 robot
 running
 scissors
 settings
 sewing machine
+share
 shield
+shopping bag
 shopping cart
 slot machine
 smartphone
@@ -86,6 +103,7 @@ snowflake
 soccer
 speaker
 star
+stop
 sun
 sunglasses
 swimming
@@ -100,6 +118,9 @@ trash can
 tree
 trophy
 umbrella
+unlock
+upload
+user
 video camera
 volleyball
 wallet

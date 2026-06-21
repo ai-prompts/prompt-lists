@@ -8,14 +8,18 @@ asymmetry
 b&w
 bad anatomy
 bad art
+bad proportions
 banding
 blocked
 blur
 blurry
+body out of frame
 cartoon
 childish
+cloned face
 close up
 copyright
+cropped
 deformed
 disconnected limbs
 disfigured
@@ -24,11 +28,19 @@ disjointed
 disorganized
 distorted
 dof
+double face
+duplicate
+error
+extra arms
+extra fingers
+extra legs
 extra limb
 extra limbs
 floating limbs
+fused fingers
 grain
 grainy
+gross proportions
 illustration
 image compression
 incoherent
@@ -41,9 +53,13 @@ low quality
 low resolution
 low-res
 malformed hands
+malformed limbs
 mangled
+missing fingers
 missing limb
+monochrome
 mutated
+mutated hands
 mutation
 mutilated
 noisy
@@ -56,10 +72,13 @@ pixelated
 poor quality
 poorly drawn
 poorly drawn face
+poorly drawn feet
 poorly drawn hands
 poorly lit
 render
 shaky
+signature
+sketches
 surreal
 tacky
 tasteless
@@ -69,5 +88,7 @@ too dark
 truncated
 ugly
 unclear
+username
 watermark
 weird colors
+worst quality
