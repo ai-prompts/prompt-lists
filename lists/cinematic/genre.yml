@@ -2,6 +2,7 @@
 title: Cinematic genres
 category: cinematic
 ---
+acid western
 action
 action adventure
 action comedy
@@ -24,6 +25,7 @@ biker
 biopic
 black comedy
 blaxploitation
+body horror
 boxer
 british
 buddy
@@ -33,6 +35,7 @@ childhood
 christmas
 chronic
 circus
+cli-fi
 college
 comedy
 coming of age
@@ -44,6 +47,7 @@ crime drama
 crime horror
 crime mystery
 crime thriller
+cyberpunk
 dance
 dark comedy
 dark fantasy
@@ -73,12 +77,15 @@ fantasy mystery
 fantasy thriller
 film adaptation
 film noir
+folk horror
 food
 foodie
 football
 foreign
+found footage horror
 futuristic
 gangster
+giallo
 gory
 gothic
 gothic horror
@@ -101,6 +108,8 @@ horror mystery
 horror thriller
 independent film
 indie
+j-horror
+k-drama
 kung fu
 legal
 lgbt
@@ -109,6 +118,7 @@ medieval fantasy
 melodrama
 mockumentary
 monster
+mumblecore
 music
 musicals
 mystery
@@ -123,6 +133,7 @@ neo noir
 new french extremity
 noir
 paranormal
+peplum
 political
 political thriller
 post apocalyptic
@@ -144,9 +155,13 @@ sci-fi horror
 sci-fi mystery
 sci-fi thriller
 science fiction
+screwball comedy
+slapstick comedy
 slasher
 social issues
 space opera
+space western
+spaghetti western
 splatter
 sports
 sports adventure
@@ -155,9 +170,12 @@ sports drama
 sports mystery
 sports thriller
 spy thriller
+steampunk
 superhero
 surrealist
 suspense
+swashbuckler
+tech-noir
 teen
 thriller
 thriller adventure

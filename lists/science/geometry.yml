@@ -1,17 +1,22 @@
 ---
 title: Geometrical and mathematical terms
-category: geometry
+category: science
 ---
 annulus
 apollonian gasket
 archimedean
 archimedean solids
+barnsley fern
 bravais lattice
 buckminster fullerene
 bucky ball
+calabi-yau manifold
+cantor set
+catenoid
 cellular automaton
 chaos theory
 chaotic system
+clifford attractor
 conic section
 conway's game of life
 crystal lattice
@@ -20,10 +25,15 @@ crystallographic symmetry
 cube
 cuboctahedron
 cylinder
+de jong attractor
+deltoidal icositetrahedron
 directrix
+disdyakis dodecahedron
 dodecahedron
+dragon curve
 ellipsoid
 euclidean geometry
+fibonacci spiral
 fractal
 fractal art
 fractal circle
@@ -33,11 +43,16 @@ fractal pattern
 geodesic dome
 geometric
 golden ratio
+golden spiral
 graph theory
 group theory
+helicoid
+henon attractor
+hexecontahedron
 hilbert curve
 hyperbola
 hyperbolic geometry
+hypercube
 icosahedron
 icosidodecahedron
 isometric
@@ -45,12 +60,15 @@ julia 3d fractal
 julia fractal
 julia set
 julia set fractal
+kite hexecontahedron
 klein bottle
 knot theory
 koch curve
 l-systems
 lattice
+lorenz attractor
 lorenz system
+mandelbox
 mandelbrot set
 mandelbulb
 menger sponge
@@ -62,29 +80,39 @@ non-euclidean geometry
 non-orientable surface
 octahedron
 parabola
+parallelepiped
 penrose stairs
 penrose tiling
+penrose triangle
 pentagonal
+pentagonal hexecontahedron
 platonic solid
-platonic solids
 poincare disk
 polyhedra
 projective geometry
+pseudosphere
 quasicrystals
 rhombicuboctahedron
 riemann hypothesis
+rossler attractor
+sacred geometry
 sierpinski
+sierpinski carpet
 sierpinski triangle
 sphere
 spherical geometry
 strange attractor
+superellipse
+superellipsoid
 symmetry
 tessellating
+tesseract
 tetrahedron
 tiling
 topological
 topology
 torus
+triakis octahedron
 truncated cuboctahedron
 truncated icosahedron
 truncated icosidodecahedron

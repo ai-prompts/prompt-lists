@@ -21,13 +21,17 @@ audi a5
 audi a6
 audi a7
 audi a8
+audi e-tron
 audi q5
 audi q7
+audi r8
 bentley continental gt
 bentley flying spur
 bentley mulsanne
 bmw 3 series
 bmw 5 series
+bmw i4
+bmw i8
 bmw x1
 bmw x3
 bmw x4
@@ -51,6 +55,7 @@ cadillac xt4
 cadillac xt5
 cadillac xt6
 chevrolet blazer
+chevrolet bolt
 chevrolet camaro
 chevrolet colorado
 chevrolet corvette
@@ -58,6 +63,7 @@ chevrolet equinox
 chevrolet impala
 chevrolet malibu
 chevrolet silverado
+chevrolet tahoe
 chevrolet traverse
 chrysler 200
 chrysler 300
@@ -99,6 +105,7 @@ fiat 500e
 fiat 500l
 fiat 500x
 fiat panda
+ford bronco
 ford ecosport
 ford edge
 ford escape
@@ -107,6 +114,7 @@ ford f-150
 ford fiesta
 ford focus
 ford fusion
+ford maverick
 ford mustang
 gmc acadia
 gmc canyon
@@ -129,7 +137,9 @@ hyundai accent
 hyundai elantra
 hyundai i10
 hyundai i30
+hyundai ioniq 5
 hyundai kona
+hyundai palisade
 hyundai santa fe
 hyundai santa fe sport
 hyundai sonata
@@ -160,6 +170,7 @@ jeep wrangler
 jeep wrangler unlimited
 kia cadenza
 kia ceed
+kia ev6
 kia forte
 kia optima
 kia rio
@@ -168,12 +179,12 @@ kia sorento
 kia soul
 kia sportage
 kia stinger
+kia telluride
 lamborghini aventador
 lamborghini countach
 lamborghini diablo
 lamborghini gallardo
 lamborghini huracan
-lamborghini huracán
 lamborghini murciélago
 lamborghini urus
 land rover defender
@@ -188,6 +199,7 @@ lexus es
 lexus gx
 lexus is
 lexus lc
+lexus lfa
 lexus ls
 lexus nx
 lexus rx
@@ -201,12 +213,14 @@ lincoln navigator
 lotus elise
 lotus evora
 lotus exige
+lucid air
 maserati granturismo
 maserati levante
 maserati quattroporte
 mazda cx
 mazda cx-30
 mazda cx-5
+mazda cx-50
 mazda cx-7
 mazda cx-9
 mazda mx-5
@@ -215,6 +229,7 @@ mazda3
 mclaren 570s
 mclaren 720s
 mclaren gt
+mclaren p1
 mercedes-benz a-class
 mercedes-benz c-class
 mercedes-benz e-class
@@ -256,6 +271,7 @@ porsche 911
 porsche cayenne
 porsche macan
 porsche panamera
+porsche taycan
 ram 1500
 ram 2500
 ram 3500
@@ -265,6 +281,8 @@ ram promaster city
 renault captur
 renault clio
 renault megane
+rivian r1s
+rivian r1t
 rolls-royce ghost
 rolls-royce phantom
 seat ateca
@@ -276,9 +294,11 @@ smart fortwo
 subaru ascent
 subaru brz
 subaru crosstrek
+subaru forester
 subaru impreza
 subaru legacy
 subaru outback
+subaru wrx
 subaru xv
 suzuki jimny
 suzuki swift
@@ -292,10 +312,14 @@ toyota corolla
 toyota highlander
 toyota rav4
 toyota sienna
+toyota supra
+toyota tacoma
+toyota tundra
 toyota yaris
 volkswagen arteon
 volkswagen atlas
 volkswagen golf
+volkswagen id.4
 volkswagen jetta
 volkswagen passat
 volkswagen polo

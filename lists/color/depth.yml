@@ -2,13 +2,31 @@
 title: Color depth
 category: color
 ---
+1-bit
+10-bit
+12-bit
+14-bit
 15-bit
 16-bit
 18-bit
 2-bit
 24-bit
+3-bit
 30-bit
+32-bit
 36-bit
 4-bit
 48-bit
+5-bit
+6-bit
+64-bit
 8-bit
+9-bit
+deep color
+directcolor
+grayscale
+high color
+indexed color
+monochrome
+pseudocolor
+true color
