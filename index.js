@@ -34,6 +34,7 @@ const readListFile = (listPath) => {
   return {
     title: parsedFrontmatter.title,
     category: parsedFrontmatter.category,
+    description: parsedFrontmatter.description,
     list
   }
 }

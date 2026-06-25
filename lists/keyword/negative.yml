@@ -1,6 +1,7 @@
 ---
 title: Negative
 category: keyword
+description: "Negative prompt keywords for avoiding bad anatomy, artifacts, and low quality"
 ---
 3d
 artifacts

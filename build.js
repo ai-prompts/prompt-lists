@@ -22,7 +22,7 @@ for (const category of Object.keys(listHelpers)) {
     listMetadata[key] = {
       ...data,
       total: data.list.length,
-      examples: data.list.sort(() => random() - 0.5).slice(0, 2)
+      examples: data.list.sort(() => random() - 0.5).slice(0, 6)
     }
     delete listMetadata[key].list
   }
