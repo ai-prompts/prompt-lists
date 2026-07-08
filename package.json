@@ -33,7 +33,7 @@
     "standard": "^17.0.0"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.0",
     "lodash": "^4.17.21"
   }
 }
