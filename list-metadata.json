@@ -3443,18 +3443,252 @@
       "wyvern"
     ]
   },
+  "name.familyAfrica": {
+    "title": "Family Names (Africa)",
+    "category": "name",
+    "total": 158,
+    "examples": [
+      "agboola",
+      "ezeh",
+      "ajah",
+      "amadi",
+      "abubakar",
+      "ani"
+    ]
+  },
+  "name.familyEastAsia": {
+    "title": "Family Names (East Asia)",
+    "category": "name",
+    "total": 106,
+    "examples": [
+      "ogawa",
+      "yamashita",
+      "ishii",
+      "luo",
+      "yoshikawa",
+      "choi"
+    ]
+  },
+  "name.familyEurope": {
+    "title": "Family Names (Europe)",
+    "category": "name",
+    "total": 91,
+    "examples": [
+      "david",
+      "novák",
+      "eriksson",
+      "thomas",
+      "van dijk",
+      "martin"
+    ]
+  },
+  "name.familyLatinAmerica": {
+    "title": "Family Names (Latin America)",
+    "category": "name",
+    "total": 58,
+    "examples": [
+      "souza",
+      "mendoza",
+      "lopez",
+      "romero",
+      "rodrigues",
+      "ramos"
+    ]
+  },
+  "name.familyMiddleEast": {
+    "title": "Family Names (Middle East)",
+    "category": "name",
+    "total": 118,
+    "examples": [
+      "nasr",
+      "rahwan",
+      "shaban",
+      "yildiz",
+      "khoury",
+      "saleh"
+    ]
+  },
+  "name.familySouthAsia": {
+    "title": "Family Names (South Asia)",
+    "category": "name",
+    "total": 985,
+    "examples": [
+      "ghosh",
+      "bijlani",
+      "kohale",
+      "samudre",
+      "patel",
+      "parmar"
+    ]
+  },
+  "name.familySpain": {
+    "title": "Family Names (Spain)",
+    "category": "name",
+    "total": 1500,
+    "examples": [
+      "navas",
+      "maldonado",
+      "molina",
+      "montenegro",
+      "ortiz",
+      "mancebo"
+    ]
+  },
+  "name.familyUk": {
+    "title": "Family Names (UK)",
+    "category": "name",
+    "total": 1000,
+    "examples": [
+      "jama",
+      "o'hara",
+      "evans",
+      "connolly",
+      "haigh",
+      "fawcett"
+    ]
+  },
+  "name.familyUs": {
+    "title": "Family Names (US)",
+    "category": "name",
+    "total": 2000,
+    "examples": [
+      "aranda",
+      "oconnell",
+      "boyd",
+      "anaya",
+      "keller",
+      "banuelos"
+    ]
+  },
+  "name.givenAfrica": {
+    "title": "Given Names (Africa)",
+    "category": "name",
+    "total": 200,
+    "examples": [
+      "tobi",
+      "abena",
+      "chioma",
+      "abiodun",
+      "adebowale",
+      "asante"
+    ]
+  },
+  "name.givenEastAsia": {
+    "title": "Given Names (East Asia)",
+    "category": "name",
+    "total": 162,
+    "examples": [
+      "kazuki",
+      "yan",
+      "a-rin",
+      "bo",
+      "kenta",
+      "minato"
+    ]
+  },
+  "name.givenEurope": {
+    "title": "Given Names (Europe)",
+    "category": "name",
+    "total": 115,
+    "examples": [
+      "antoni",
+      "dylan",
+      "giulia",
+      "alicja",
+      "charlotte",
+      "hugo"
+    ]
+  },
+  "name.givenLatinAmerica": {
+    "title": "Given Names (Latin America)",
+    "category": "name",
+    "total": 69,
+    "examples": [
+      "gael",
+      "vinicius",
+      "jose",
+      "renata",
+      "camila",
+      "arthur"
+    ]
+  },
+  "name.givenMiddleEast": {
+    "title": "Given Names (Middle East)",
+    "category": "name",
+    "total": 177,
+    "examples": [
+      "abdulrahman",
+      "ibrahim",
+      "iman",
+      "mouna",
+      "younes",
+      "lina"
+    ]
+  },
+  "name.givenSouthAsia": {
+    "title": "Given Names (South Asia)",
+    "category": "name",
+    "total": 310,
+    "examples": [
+      "aarnav",
+      "prateek",
+      "kanika",
+      "akhil",
+      "akshara",
+      "hrithik"
+    ]
+  },
+  "name.givenSpain": {
+    "title": "Given Names (Spain)",
+    "category": "name",
+    "total": 1500,
+    "examples": [
+      "nerea",
+      "pedro javier",
+      "robert",
+      "placido",
+      "naia",
+      "ricardo jose"
+    ]
+  },
+  "name.givenUk": {
+    "title": "Given Names (UK)",
+    "category": "name",
+    "total": 1957,
+    "examples": [
+      "elliott",
+      "seren",
+      "asiya",
+      "bjorn",
+      "claudia",
+      "cohen"
+    ]
+  },
+  "name.givenUs": {
+    "title": "Given Names (US)",
+    "category": "name",
+    "total": 1918,
+    "examples": [
+      "george",
+      "jalen",
+      "zayd",
+      "odin",
+      "seth",
+      "reagan"
+    ]
+  },
   "nature.areaOfNaturalBeauty": {
     "title": "Famous areas of natural beauty",
     "category": "natural",
     "description": "Specific national parks, landmarks, and natural wonders worldwide",
     "total": 625,
     "examples": [
-      "wulingyuan scenic area",
-      "lake assal",
-      "perito moreno glacier",
-      "kyrgyzstan's tien shan mountains",
-      "laguna torre",
-      "kirkjufell mountain"
+      "great ocean road",
+      "the ebro delta",
+      "mount elgon",
+      "chocolate hills",
+      "batura glacier",
+      "mcmurdo dry valleys"
     ]
   },
   "nature.biome": {
@@ -3463,12 +3697,12 @@
     "description": "Diverse ecological biomes and natural environmental zones",
     "total": 62,
     "examples": [
-      "hydrothermal vent",
-      "sand dune",
-      "mangrove",
       "subglacial lake",
-      "tropical coniferous forest",
-      "rainforest"
+      "karst",
+      "marsh",
+      "abyssal zone",
+      "wetland",
+      "subtropical desert"
     ]
   },
   "nature.cloudType": {
@@ -3477,12 +3711,12 @@
     "description": "Specific meteorological cloud formations and types",
     "total": 40,
     "examples": [
+      "roll cloud",
+      "noctilucent cloud",
+      "funnel cloud",
       "cirrocumulus",
-      "asperitas",
       "arcus cloud",
-      "kelvin-helmholtz",
-      "nacreous",
-      "polar stratospheric"
+      "asperitas"
     ]
   },
   "nature.flower": {
@@ -3491,12 +3725,12 @@
     "description": "Various flowering plants, herbs, and ornamental garden blooms",
     "total": 547,
     "examples": [
-      "mountain laurel (kalmia latifolia)",
-      "cape jasmine (gardenia jasminoides)",
-      "buttercup (ranunculus)",
-      "cowslip (primula veris)",
-      "chrysanthemum (chrysanthemum)",
-      "easter lily cactus (echinopsis)"
+      "impatiens (impatiens walleriana)",
+      "dayflower (commelina)",
+      "grape hyacinth (muscari armeniacum)",
+      "digitalis (digitalis purpurea)",
+      "gloxinia (sinningia speciosa)",
+      "dictamnus (dictamnus albus)"
     ]
   },
   "nature.fungus": {
@@ -3505,12 +3739,12 @@
     "description": "Assorted species of wild mushrooms and fungi",
     "total": 214,
     "examples": [
-      "oakbug milkcap mushroom",
-      "bitter oyster mushroom",
-      "conifer tuft mushroom",
-      "butter cap mushroom",
-      "collared parachute mushroom",
-      "artist's bracket fungus"
+      "chaga mushroom",
+      "liberty cap mushroom",
+      "saffron milk cap mushroom",
+      "black trumpet mushroom",
+      "parrot waxcap mushroom",
+      "woolly milk cap mushroom"
     ]
   },
   "nature.gemstone": {
@@ -3519,12 +3753,12 @@
     "description": "Various precious gemstones, crystals, and mineral specimens",
     "total": 375,
     "examples": [
-      "gold sheen obsidian",
-      "malachite",
-      "gypsum",
-      "clinozoisite",
-      "gold tiger's eye",
-      "fool's gold"
+      "milky quartz",
+      "hypersthene",
+      "golden beryl",
+      "gaspeite",
+      "gold",
+      "akoya pearl"
     ]
   },
   "nature.landscape": {
@@ -3533,12 +3767,12 @@
     "description": "Geological formations and large-scale geographical landscape features",
     "total": 51,
     "examples": [
-      "hoodoo",
-      "cave",
-      "crater",
+      "canyon",
+      "estuary",
       "spit",
-      "mesa",
-      "peninsula"
+      "gulf",
+      "crater",
+      "escarpment"
     ]
   },
   "nature.mineral": {
@@ -3547,12 +3781,12 @@
     "description": "Specific mineral specimens, crystals, and semi-precious stones",
     "total": 275,
     "examples": [
-      "leucite",
-      "vivianite",
-      "kyanite",
-      "natrolite",
-      "malachite",
-      "nosean"
+      "actinolite",
+      "chrysocolla",
+      "diaspore",
+      "cobaltite",
+      "epidote",
+      "aquamarine"
     ]
   },
   "nature.moonPhase": {
@@ -3561,12 +3795,12 @@
     "description": "Traditional, seasonal, and descriptive names for lunar phases",
     "total": 117,
     "examples": [
-      "claiming moon",
-      "lynx moon",
-      "beaver moon",
-      "alder moon",
-      "harvest moon",
-      "elk moon"
+      "reed moon",
+      "blue moon",
+      "holly moon",
+      "fruit moon",
+      "budding moon",
+      "cheshire moon"
     ]
   },
   "nature.naturalPhenomenon": {
@@ -3575,12 +3809,12 @@
     "description": "Rare atmospheric, meteorological, and natural optical phenomena",
     "total": 45,
     "examples": [
-      "fire whirl",
-      "whirlpool",
-      "volcanic lightning",
-      "red tide",
-      "milky seas",
-      "ball lightning"
+      "catatumbo lightning",
+      "bioluminescence",
+      "ball lightning",
+      "parhelion",
+      "waterspout",
+      "white rainbow"
     ]
   },
   "nature.plant": {
@@ -3589,12 +3823,12 @@
     "description": "Common indoor houseplants and decorative potted foliage",
     "total": 55,
     "examples": [
-      "succulent",
-      "bromeliad",
-      "dracaena",
-      "bonsai",
-      "pitcher plant",
-      "chinese evergreen"
+      "boston fern",
+      "peace lily",
+      "english ivy",
+      "orchid",
+      "maranta",
+      "chinese money plant"
     ]
   },
   "nature.sceneModifier": {
@@ -3603,12 +3837,12 @@
     "description": "Atmospheric conditions, weather, and mood modifiers for scenes",
     "total": 49,
     "examples": [
-      "snow-capped",
-      "lush",
       "after rain",
-      "aurora",
-      "glistening",
-      "hurricane"
+      "untouched",
+      "apocalyptic",
+      "rugged",
+      "misty",
+      "arid"
     ]
   },
   "nature.scene": {
@@ -3617,12 +3851,12 @@
     "description": "Diverse natural environments, biomes, and landscape settings",
     "total": 84,
     "examples": [
-      "beach",
-      "tundra",
-      "canopy",
-      "lagoon",
-      "forest",
-      "crater"
+      "cave",
+      "folly",
+      "geyser",
+      "estuary",
+      "flowers",
+      "national park"
     ]
   },
   "nature.sky": {
@@ -3631,12 +3865,12 @@
     "description": "Specific sky conditions, times of day, and cloud formations",
     "total": 198,
     "examples": [
-      "squall line sky",
       "deep indigo sky",
-      "gale sky",
-      "desert sunset sky",
-      "comet-streaked sky",
-      "crimson sunset sky"
+      "altocumulus sky",
+      "amber sky",
+      "astronomical twilight sky",
+      "autumnal sky",
+      "aurora borealis sky"
     ]
   },
   "nature.texture": {
@@ -3645,12 +3879,12 @@
     "description": "Assorted natural and artificial surface textures and patterns",
     "total": 167,
     "examples": [
-      "mosaic tiles",
-      "metallic fabric",
-      "moss",
-      "satin",
-      "rough granite",
-      "shattered sea ice"
+      "coarse river sand",
+      "marble",
+      "painted brick wall",
+      "distressed brick",
+      "corrugated metal",
+      "sand dunes"
     ]
   },
   "nature.treeType": {
@@ -3659,12 +3893,12 @@
     "description": "Various species of deciduous, coniferous, and tropical trees",
     "total": 71,
     "examples": [
-      "magnolia",
-      "baobab",
-      "acacia",
-      "coconut palm",
-      "hickory",
-      "giant sequoia"
+      "larch",
+      "cypress",
+      "ash",
+      "jacaranda",
+      "rainbow eucalyptus",
+      "coast redwood"
     ]
   },
   "nature.tree": {
@@ -3673,12 +3907,12 @@
     "description": "Assorted tree species, fruiting trees, and woody plants",
     "total": 158,
     "examples": [
-      "blue ash",
-      "engelmann spruce",
-      "ash",
-      "aspen",
-      "california bay",
-      "coast redwood"
+      "shortleaf pine",
+      "almond",
+      "ebony",
+      "balsam fir",
+      "black cherry",
+      "concolor fir"
     ]
   },
   "nature.tropicalHouseplant": {
@@ -3687,12 +3921,12 @@
     "description": "Tropical flowering plants, orchids, and decorative botanicals",
     "total": 104,
     "examples": [
-      "cymbidium",
-      "gomphrena",
-      "impatiens",
-      "ficus",
-      "begonia",
-      "aglaonema"
+      "encyclia",
+      "billbergia",
+      "callistemon",
+      "schefflera",
+      "canna indica",
+      "sanvitalia"
     ]
   },
   "nature.waterBody": {
@@ -3701,12 +3935,12 @@
     "description": "Various types of natural and artificial water formations",
     "total": 109,
     "examples": [
+      "marsh",
+      "tributary",
+      "subglacial lake",
       "loch",
-      "aquifer",
-      "lough",
-      "bog",
-      "crater lake",
-      "wash"
+      "sinkhole",
+      "sound"
     ]
   },
   "nature.weather": {
@@ -3715,12 +3949,12 @@
     "description": "Meteorological events, cloud types, and severe weather conditions",
     "total": 156,
     "examples": [
-      "deluge",
-      "acid rain",
-      "black ice",
-      "dust storm",
-      "aurora borealis",
-      "nor'easter"
+      "lightning storm",
+      "drizzle",
+      "cloudburst",
+      "blizzard",
+      "calm",
+      "avalanche"
     ]
   },
   "nature.wood": {
@@ -3729,12 +3963,12 @@
     "description": "Specific types of hardwood and softwood timber materials",
     "total": 66,
     "examples": [
-      "basswood",
-      "lauan",
-      "balsa",
-      "elm",
-      "pau ferro",
-      "butternut"
+      "aspen",
+      "hevea",
+      "butternut",
+      "teak",
+      "cork",
+      "cumaru"
     ]
   },
   "people.accent": {
@@ -3743,12 +3977,12 @@
     "description": "Various global and regional spoken accents and dialects",
     "total": 126,
     "examples": [
-      "southern drawl",
-      "jamaican patois",
-      "tibetan",
+      "new england",
       "zimbabwean",
-      "mancunian",
-      "armenian"
+      "indonesian",
+      "alabama",
+      "chicano",
+      "appalachian"
     ]
   },
   "people.beautifulFeminine": {
@@ -3757,12 +3991,12 @@
     "description": "Adjectives describing feminine beauty, grace, and physical attractiveness",
     "total": 48,
     "examples": [
-      "delicate",
-      "splendid",
-      "heavenly",
-      "luminous",
-      "breathless",
-      "stylish"
+      "captivating",
+      "elegant",
+      "exquisite",
+      "majestic",
+      "slender",
+      "slim"
     ]
   },
   "people.beautifulMasculine": {
@@ -3771,12 +4005,12 @@
     "description": "Personality traits and physical characteristics associated with masculine appeal",
     "total": 106,
     "examples": [
-      "charming",
-      "mischievous",
-      "magnetic",
-      "stable",
-      "youthful",
-      "well-built"
+      "glowing skin",
+      "distinguished",
+      "debonair",
+      "full lips",
+      "faithful",
+      "aware"
     ]
   },
   "people.bodyType": {
@@ -3785,12 +4019,12 @@
     "description": "Detailed descriptions of various human body shapes, builds, and proportions",
     "total": 115,
     "examples": [
-      "pear-shaped with a narrow chest and wide hips",
-      "tall, thin build",
-      "smaller upper body, wider hips and thighs",
-      "short with compact, dense musculature",
-      "very fat with broad shoulders and chest",
-      "straight figure but muscular"
+      "hourglass figure with a defined waistline",
+      "inverted triangle with short arms",
+      "thin but with little muscle tone",
+      "petite and slender with delicate features",
+      "very fat with a rounded body shape",
+      "very fat with a rectangular shape"
     ]
   },
   "people.celebrity": {
@@ -3799,12 +4033,12 @@
     "description": "Famous actors, singers, influencers, and members of British royalty",
     "total": 646,
     "examples": [
-      "jenna fischer",
-      "maria bakalova",
-      "denise richards",
-      "aimee lou wood",
-      "alexa bliss",
-      "anna kendrick"
+      "robert redford",
+      "nicole kidman",
+      "kristen stewart",
+      "kevin hart",
+      "lyndsy fonseca",
+      "kate winslet"
     ]
   },
   "people.common": {
@@ -3813,12 +4047,12 @@
     "description": "Broad age groups, life stages, and general demographic categories",
     "total": 34,
     "examples": [
-      "man",
-      "baby",
-      "youngster",
-      "baby boomer",
-      "old woman",
-      "adult"
+      "senior",
+      "young man",
+      "gen-zer",
+      "toddler girl",
+      "schoolboy",
+      "toddler"
     ]
   },
   "people.couple": {
@@ -3827,12 +4061,12 @@
     "description": "Various romantic, platonic, and professional two-person relationship dynamics",
     "total": 36,
     "examples": [
-      "acquaintances",
-      "dance partners",
-      "double date",
-      "dating partners",
-      "life partners",
-      "dating couple"
+      "study partners",
+      "traveling companions",
+      "romantic partners",
+      "classmates",
+      "business partners",
+      "duo"
     ]
   },
   "people.dance": {
@@ -3841,12 +4075,12 @@
     "description": "Traditional, cultural, and modern dance styles from around the world",
     "total": 119,
     "examples": [
-      "tap dancing",
-      "waacking dance",
-      "santhali dance",
-      "sattriya dance",
-      "pole dance",
-      "samba dance"
+      "argentine tango",
+      "kabuki dance",
+      "filipino folk dance",
+      "kalbelia dance",
+      "belly dance",
+      "bollywood dance"
     ]
   },
   "people.expression": {
@@ -3855,12 +4089,12 @@
     "description": "Highly detailed descriptions of facial expressions and emotional body language",
     "total": 471,
     "examples": [
-      "beaming smile that lights up the entire face",
-      "broad grin with teeth showing and eyes crinkling",
-      "beaming with pride, chest puffed and chin high",
-      "slack-jawed expression with raised eyebrows and widened eyes",
-      "frown with a trembling lower lip and misty eyes",
-      "exaggerated duck lips with posed grin"
+      "grimace with eyes squeezed shut and shoulders tensed",
+      "frown with downcast eyes and slightly hunched shoulders",
+      "boisterous laugh with clapping hands and stomping feet",
+      "puffed-out cheeks releasing air in a drawn-out sigh",
+      "clenched teeth with bulging neck veins and narrowed eyes",
+      "amused expression with slightly upturned lips and soft eyes"
     ]
   },
   "people.eyeColor": {
@@ -3870,11 +4104,11 @@
     "total": 46,
     "examples": [
       "hazel-green eyes",
-      "blue eyes",
-      "coral eyes",
-      "hazel eyes",
-      "charcoal eyes",
-      "smoky grey eyes"
+      "sky blue eyes",
+      "amber eyes",
+      "silver eyes",
+      "brown eyes",
+      "red eyes"
     ]
   },
   "people.festival": {
@@ -3883,12 +4117,12 @@
     "description": "Major international cultural, religious, and seasonal festivals and holidays",
     "total": 59,
     "examples": [
-      "yi peng lantern festival",
+      "eid al-fitr",
+      "lollapalooza",
+      "albuquerque international balloon fiesta",
+      "venice carnival",
       "inty raymi",
-      "independence day",
-      "tomorrowland",
-      "san fermin",
-      "harbin ice festival"
+      "holi"
     ]
   },
   "people.group": {
@@ -3897,12 +4131,12 @@
     "description": "Collective nouns and terms for various groups or gatherings of people",
     "total": 71,
     "examples": [
-      "delegates",
-      "society",
-      "band",
-      "patrons",
-      "tourists",
-      "caravan"
+      "bunch",
+      "assembly",
+      "group",
+      "swarm",
+      "witnesses",
+      "horde"
     ]
   },
   "people.hairstyle": {
@@ -3911,12 +4145,12 @@
     "description": "Diverse haircuts, styling techniques, and hair textures for men and women",
     "total": 58,
     "examples": [
-      "wolf cut",
-      "flat top",
+      "curtained hair",
       "twists",
-      "top knot",
-      "bouffant",
-      "layer cut"
+      "chelsea hawk",
+      "pigtails",
+      "buzz cut",
+      "mohawk"
     ]
   },
   "people.hobby": {
@@ -3925,12 +4159,12 @@
     "description": "Wide range of creative, physical, and intellectual hobbies and interests",
     "total": 291,
     "examples": [
-      "macramé",
-      "leatherworking",
-      "soap making",
-      "mountaineering",
-      "mindfulness-based stress reduction",
-      "metal engraving"
+      "collecting coins",
+      "public speaking",
+      "makeup tutorials",
+      "welding",
+      "zip-lining",
+      "weight loss"
     ]
   },
   "people.job": {
@@ -3939,12 +4173,12 @@
     "description": "Various professional occupations, roles, and employment titles",
     "total": 612,
     "examples": [
-      "surveyor",
-      "security guard",
-      "recon",
-      "teacher assistant",
-      "payroll administrator",
-      "package delivery driver"
+      "courier",
+      "forensic scientist",
+      "healthcare administrator",
+      "health educator specialist",
+      "medical claims examiner",
+      "construction inspector"
     ]
   },
   "people.makeupStyle": {
@@ -3953,12 +4187,12 @@
     "description": "Historical, trendy, and artistic makeup styles and cosmetic techniques",
     "total": 73,
     "examples": [
-      "monochrome makeup",
-      "bronzed makeup",
-      "1960s mod makeup",
-      "avant-garde makeup",
-      "alt-makeup",
-      "cut crease makeup"
+      "fluorescent makeup",
+      "k-beauty glass skin",
+      "clean girl makeup",
+      "fantasy makeup",
+      "full glam",
+      "glam makeup"
     ]
   },
   "people.microArchetype": {
@@ -3967,12 +4201,12 @@
     "description": "Hyper-specific modern human niches and extremely specific personality types",
     "total": 59,
     "examples": [
-      "guy who repairs mechanical watches drunk as meditation",
-      "teen who makes ambient mixes from refrigerator hums",
+      "man who learned morse code to eavesdrop on fridge ice maker",
+      "person who collects hotel soaps but has never stayed in hotel",
       "29-year-old woman whose entire personality is sourdough starter named gerald from 1800s lineage",
-      "woman who thrifts only christmas sweaters in july and resells in december",
-      "woman who runs cottagecore instagram from brutalist flat",
-      "teen who organizes book shelf by emotional impact"
+      "person who learns third language solely to understand one song",
+      "woman who only walks dog in elaborate costumes for dog",
+      "airbnb superhost who lives in shed behind airbnb to keep costs low"
     ]
   },
   "people.posePortrait": {
@@ -3981,12 +4215,12 @@
     "description": "Specific camera angles, body positioning, and framing for portrait photography",
     "total": 45,
     "examples": [
-      "sitting on stairs",
+      "three-quarter profile",
+      "wide shot",
       "back turned to camera looking over shoulder",
-      "standing",
-      "leaning against a wall",
-      "hands in pockets",
-      "head tilted to the side"
+      "looking off to the side",
+      "propped up on one elbow (resting)",
+      "dramatic close-up"
     ]
   },
   "people.pose": {
@@ -3995,12 +4229,12 @@
     "description": "Dynamic body postures, gestures, and physical actions for characters",
     "total": 201,
     "examples": [
-      "kneeling with both knees on ground and hands clasped in front of body",
-      "lying on side with arms outstretched",
-      "prostrating",
-      "standing with feet wider apart",
-      "standing with arms outstretched",
-      "walking away from the camera with a purposeful stride"
+      "sitting with legs crossed",
+      "squatting down while inspecting something on the ground",
+      "sitting with one hand on hip",
+      "sitting on a ledge with legs dangling",
+      "perched",
+      "sitting on a bench"
     ]
   },
   "people.profession": {
@@ -4009,12 +4243,12 @@
     "description": "Specific historical, scientific, and specialized professions and trades",
     "total": 60,
     "examples": [
-      "goldsmith",
-      "wheelwright",
-      "archaeologist",
+      "stonemason",
       "shipwright",
-      "astronomer",
-      "astronaut"
+      "farrier",
+      "glassblower",
+      "jeweller",
+      "lepidopterist"
     ]
   },
   "photography.apertureLook": {
@@ -4023,12 +4257,12 @@
     "description": "Photographic effects related to bokeh, depth of field, focus, and lens flares",
     "total": 52,
     "examples": [
-      "pinhole focus",
-      "hyperfocal focus",
-      "glow effect",
-      "hyperfocal distance focus",
+      "f/1.2 ultra-shallow depth of field",
+      "out of focus",
       "bubble bokeh",
-      "f/1.2 ultra-shallow depth of field"
+      "f/8 look",
+      "f/2.8 look",
+      "isolated subject"
     ]
   },
   "photography.cameraMovement": {
@@ -4037,12 +4271,12 @@
     "description": "Cinematography terms for dynamic camera movements, rigs, and tracking shots",
     "total": 50,
     "examples": [
-      "bullet time",
-      "hyperlapse tracking",
+      "handheld shot",
+      "camera roll",
       "vertigo effect",
-      "hyperlapse",
-      "zoom in",
-      "camera roll"
+      "steadicam",
+      "dolly shot",
+      "360-degree rotation"
     ]
   },
   "photography.camera": {
@@ -4051,12 +4285,12 @@
     "description": "Specific models of professional cinema cameras, DSLRs, and digital cameras",
     "total": 187,
     "examples": [
-      "nikon z6",
-      "panasonic gh4",
-      "pentax k-5",
-      "fujifilm x-t2",
-      "samsung nx11 compact system camera",
-      "panaflex gold ii"
+      "arri alexa mini",
+      "sony nex c3 compact system camera",
+      "olympus om-d e-m5",
+      "nikon d7000",
+      "panasonic lumix dc-fz1000 ii",
+      "leica m11"
     ]
   },
   "photography.composition": {
@@ -4065,12 +4299,12 @@
     "description": "Visual composition techniques, framing styles, and spatial balance methods",
     "total": 117,
     "examples": [
-      "central composition",
-      "bisection",
-      "low horizon",
-      "intersecting lines",
-      "linear perspective",
-      "compound curve"
+      "active space",
+      "v-shape composition",
+      "converging lines",
+      "fibonacci spiral",
+      "dead space",
+      "balance"
     ]
   },
   "photography.filmStock": {
@@ -4079,12 +4313,12 @@
     "description": "Specific brands, models, and ISO speeds of analog photographic film stocks",
     "total": 52,
     "examples": [
-      "lomochrome purple",
-      "ilford delta 100",
-      "cinestill 800t",
-      "cinestill 50d",
-      "ilford delta 400",
-      "fujifilm velvia 50"
+      "fujicolor superia x-tra 400",
+      "lomochrome turquoise",
+      "kodak pro image 100",
+      "agfa vista 400",
+      "kodak tri-x 400",
+      "kodak kodachrome 64"
     ]
   },
   "photography.film": {
@@ -4093,12 +4327,12 @@
     "description": "Specific analog photography film types, brands, and ISO speeds",
     "total": 102,
     "examples": [
+      "foma fomapan 100 film",
+      "kodak t-max 3200 film",
       "kodak t-max 100 film",
-      "fuji superia 200 film",
-      "fuji superia premium 400 film",
-      "ilford xp2 super 400 film",
-      "fuji velvia 50 film",
-      "fuji neopan acros ii film"
+      "fujifilm 120 film",
+      "lomography lady grey 400 film",
+      "agfaphoto ct100 film"
     ]
   },
   "photography.landscapeKeyword": {
@@ -4107,12 +4341,12 @@
     "description": "Broad photography concepts, subjects, and techniques related to outdoor photography",
     "total": 81,
     "examples": [
-      "vistas",
-      "night photography",
-      "sunsets",
-      "mountains",
+      "buildings",
       "roads",
-      "textures"
+      "infrared",
+      "contrast",
+      "movement",
+      "islands"
     ]
   },
   "photography.landscapeSubjectDetailed": {
@@ -4121,12 +4355,12 @@
     "description": "Highly descriptive, full-sentence prompts of vivid nature and landscape scenes",
     "total": 158,
     "examples": [
-      "a towering mountain range with snow-capped peaks",
-      "a remote wilderness area with glaciers and ice fields",
-      "a dense jungle with a variety of plant and animal species",
-      "a peaceful fjord with calm waters and steep cliffs",
-      "a frozen tundra with snow-covered hills and valleys",
-      "a roaring waterfall cascading over rocks"
+      "a roaring waterfall cascading over rocks",
+      "a rugged coastline with hidden coves and sea caves",
+      "a colorful wildflower meadow with a variety of species",
+      "a remote wilderness area with snow-covered peaks and alpine meadows",
+      "a colorful geothermal landscape with hot springs and bubbling mud pots",
+      "a dense mangrove forest with a variety of wildlife"
     ]
   },
   "photography.landscapeSubject": {
@@ -4135,12 +4369,12 @@
     "description": "Various natural and man-made outdoor locations, structures, and landscape features",
     "total": 132,
     "examples": [
-      "sea stack",
-      "tide pool",
-      "rock formation",
-      "quarry",
-      "scenic drive",
-      "savannah"
+      "skyscraper",
+      "rock pool",
+      "sand",
+      "botanical garden",
+      "mine",
+      "oil rig"
     ]
   },
   "photography.lensType": {
@@ -4149,12 +4383,12 @@
     "description": "General categories, optical designs, and specialized styles of photographic lenses",
     "total": 52,
     "examples": [
-      "reflex lens",
-      "mirror lens",
-      "portrait",
-      "telephoto",
-      "apochromatic lens",
-      "toy lens"
+      "tilt-shift",
+      "pinhole lens",
+      "achromatic doublet",
+      "soft focus lens",
+      "anamorphic",
+      "speed-booster"
     ]
   },
   "photography.lens": {
@@ -4163,12 +4397,12 @@
     "description": "Specific focal lengths and exact branded camera lens models",
     "total": 87,
     "examples": [
-      "canon ef 16-35mm",
-      "sony fe 70-200mm",
+      "sony fe 200-600mm",
+      "35mm",
       "100mm",
-      "fujifilm xf 27mm",
-      "canon rf 85mm",
-      "fujifilm xf 23mm"
+      "nikon af-s 85mm",
+      "fujifilm xf 8-16mm",
+      "canon ef 50mm"
     ]
   },
   "photography.lightSource": {
@@ -4177,12 +4411,12 @@
     "description": "Natural, artificial, and specialized light sources and lighting equipment",
     "total": 64,
     "examples": [
-      "oil lamp light",
-      "skylight",
-      "fiber optics",
-      "ambient light",
-      "campfire",
-      "candlelight"
+      "carbon arc lamp",
+      "fluorescent tube",
+      "candlelight",
+      "spotlight",
+      "neon light",
+      "mercury vapor lamp"
     ]
   },
   "photography.light": {
@@ -4191,12 +4425,12 @@
     "description": "Descriptive lighting styles, natural light conditions, and illumination techniques",
     "total": 136,
     "examples": [
-      "harsh lighting",
-      "summer lighting",
-      "accent lighting",
-      "vintage lighting",
-      "bioluminescent lighting",
-      "rainy lighting"
+      "dekatron light",
+      "underwater lighting",
+      "evening",
+      "blue hour light",
+      "evening blue hour",
+      "thriller lighting"
     ]
   },
   "photography.lightingSetup": {
@@ -4205,12 +4439,12 @@
     "description": "Studio lighting techniques, setups, and directional illumination styles",
     "total": 52,
     "examples": [
-      "ambient lighting",
-      "beauty dish lighting",
-      "ring lighting",
-      "four-point lighting",
-      "bottom lighting",
-      "background lighting"
+      "diffused lighting",
+      "checkerboard lighting",
+      "badge lighting",
+      "short lighting",
+      "accent lighting",
+      "ambient lighting"
     ]
   },
   "photography.perspective": {
@@ -4219,12 +4453,12 @@
     "description": "Camera angles, viewpoints, and geometric perspective techniques for visual framing",
     "total": 129,
     "examples": [
-      "high-level view",
-      "expanded perspective",
-      "color perspective",
-      "anamorphic perspective",
-      "back-angle view",
-      "central perspective"
+      "rear view",
+      "spherical perspective",
+      "three-point perspective",
+      "eye-level view",
+      "close-up perspective",
+      "distorted perspective"
     ]
   },
   "photography.photographer": {
@@ -4233,12 +4467,12 @@
     "description": "Names of famous photographers paired with their specific genres or styles",
     "total": 960,
     "examples": [
-      "orest kliushnyk (documentary photographer)",
-      "justine varga (conceptual photographer)",
-      "anton giulio bragaglia (futurist and avant-garde photographer)",
-      "ansel adams (landscape photographer)",
-      "chris killip (documentary and portrait photographer)",
-      "anna fox (documentary and fine art photographer)"
+      "paul knight (documentary photographer)",
+      "dmitry kostyukov (photojournalist)",
+      "martin munkácsi (photojournalist)",
+      "peter mckinnon (travel and landscape photographer)",
+      "ahmad moualla (documentary photographer)",
+      "prashant panjiar (photojournalist)"
     ]
   },
   "photography.portraitPhotographer": {
@@ -4247,12 +4481,12 @@
     "description": "Names of renowned portrait, fine art, and fashion photographers",
     "total": 79,
     "examples": [
-      "hiroshi sugimoto",
-      "joey l",
-      "malick sidibé",
-      "edward steichen",
-      "daido moriyama",
-      "jeff wall"
+      "man ray",
+      "tim walker",
+      "weegee",
+      "peter lindbergh",
+      "richard avedon",
+      "lewis hine"
     ]
   },
   "photography.shotType": {
@@ -4261,12 +4495,12 @@
     "description": "Various camera angles and framing techniques for photography and film",
     "total": 43,
     "examples": [
-      "candid shot",
-      "cutaway shot",
-      "three-quarter shot",
+      "side-angle shot",
+      "long shot",
       "cowboy shot",
-      "close-up",
-      "low angle shot"
+      "three-quarter shot",
+      "aerial shot",
+      "insert shot"
     ]
   },
   "photography.summerScene": {
@@ -4275,12 +4509,12 @@
     "description": "Idyllic, warm-weather outdoor scenes, landscapes, and summer activities",
     "total": 47,
     "examples": [
-      "a dock with wooden chairs overlooking a calm lake at sunrise",
-      "a scenic drive along a winding country road",
-      "children running through a lawn sprinkler with water droplets sparkling in the sun",
-      "a cascading waterfall in a forest glade",
-      "a rustic beach shack surrounded by sand dunes and sea grass",
-      "a lush forest with a peaceful stream running through it"
+      "a backyard barbecue with smoke rising under strings of warm cafe lights",
+      "a country road winding through fields and forests",
+      "a winding boardwalk leading through coastal sand dunes to the ocean",
+      "a vintage car parked in front of a colorful building",
+      "a lighthouse on a rocky shoreline",
+      "a rural farm with fields of crops and grazing cows"
     ]
   },
   "photography.summerTropicalBeach": {
@@ -4289,12 +4523,12 @@
     "description": "Sensory details and vibrant scenes of a tropical beach vacation",
     "total": 67,
     "examples": [
-      "a fresh flower lei draped over the arm of a wooden beach lounger",
-      "a cool, refreshing sea breeze blowing in from the ocean",
+      "a collection of starfish resting in a shallow, sun-warmed tidal pool",
       "a collection of colorful beach towels draped over chairs and umbrellas",
-      "children splashing in the gentle, warm shallows of a protected lagoon",
-      "a collection of brightly colored fishing boats bobbing in the water",
-      "the gentle rhythm of waves lulling you into a state of relaxation"
+      "a row of towering palm trees swaying in the gentle breeze",
+      "a friendly game of beach volleyball in progress",
+      "a cloudless sky, painted in shades of blue and white",
+      "a cold, condensation-ringed glass of coconut water resting on a teak table"
     ]
   },
   "photography.surveillanceGlitch": {
@@ -4303,12 +4537,12 @@
     "description": "CCTV, thermal, dashcam, and baby monitor artifacts that shouldn't be there",
     "total": 56,
     "examples": [
-      "baby monitor audio catching lullaby sung in language parents do not know",
-      "cctv of kitchen where fridge light turns on by itself pattern of morse code",
-      "dashcam lane detection flickers to count nine lanes on two lane road",
-      "baby monitor showing extra crib that was never placed",
-      "security footage where every clock shows 11 37 but analog",
-      "dashcam gps overlay showing location 2km north of actual road in field"
+      "cctv timestamp from 1999 bleeding into current feed",
+      "ring camera detecting package where there is none with weight estimated 4 kilograms",
+      "dashcam capturing streetlight that never turns off in middle of town blackout",
+      "doorbell cam with person asking to come in using your voice",
+      "thermal camera of empty waiting room showing warm footprints leading into wall",
+      "cctv corridor clip where second shadow enters after person left"
     ]
   },
   "photojournalism.newsExtreme": {
@@ -4317,12 +4551,12 @@
     "description": "Catastrophic, world-altering, and extreme global news events and disasters",
     "total": 68,
     "examples": [
-      "a massive synthetic biology lab leak creates a highly aggressive, invasive plant species that destroys concrete",
+      "first contact with extraterrestrial life",
+      "a rogue wave over a hundred feet high strikes a deep-sea drilling platform",
+      "a massive avalanche buries a famous alpine ski resort, trapping hundreds of tourists",
       "a major celebrity's private life is exposed in a major scandal",
-      "a major dam collapses, unleashing a catastrophic wall of water onto downstream towns",
-      "a major new discovery in the world of quantum physics",
-      "a major new discovery in the world of astrophysics",
-      "an experimental commercial spacecraft explodes on its maiden passenger voyage to orbit"
+      "a new species of primate is discovered",
+      "a global agricultural blight rapidly destroys half of the world's wheat and corn crops"
     ]
   },
   "photojournalism.newsNormal": {
@@ -4331,12 +4565,12 @@
     "description": "Standard major news headlines covering science, politics, business, and society",
     "total": 57,
     "examples": [
-      "a high-profile court trial of a corrupt politician begins, attracting massive media crowds",
-      "a breakthrough in the fight against cancer or other major diseases",
-      "a major scientific conference, featuring presentations by top researchers from around the world",
-      "a historic election, with record voter turnout and a groundbreaking candidate",
-      "a major financial crisis, such as a stock market crash or a bank bailout",
-      "a major global health crisis, such as the spread of a new virus or the resurgence of an old one"
+      "a major business scandal, such as a ponzi scheme or insider trading",
+      "a major social media scandal, such as the cambridge analytica scandal or the instagram algorithm controversy",
+      "a major sporting event, such as the olympics or world cup, that brings together athletes from around the world",
+      "a prominent veteran is honored at a moving public ceremony celebrating their lifelong service",
+      "a major international airport suffers a system-wide it failure, grounding hundreds of commercial flights",
+      "a historic museum heist occurs, with thieves stealing priceless masterpieces overnight"
     ]
   },
   "photojournalism.newsSpecific": {
@@ -4346,11 +4580,11 @@
     "total": 38,
     "examples": [
       "a critical space rescue: an international crew of astronauts executes a daring spacewalk to repair a damaged life-support system",
-      "a major natural disaster: a powerful hurricane slams into the coast of florida, causing massive flooding and leaving hundreds of thousands of residents without power",
-      "a major high-tech art heist: armed thieves bypass advanced security systems to steal a famous modern masterpiece from a gallery in paris",
-      "a major celebrity scandal: a top hollywood actor is caught in a massive cheating scandal, leading to the collapse of his marriage and a major hit to his career",
-      "a landmark supreme court ruling: justices hand down a historic decision on privacy rights in the digital age, limiting government surveillance",
-      "a political protest: demonstrators gather outside the white house to protest the government's immigration policies, calling for greater protection for undocumented immigrants and refugees"
+      "a catastrophic flooding event: heavy monsoon rains in bangladesh submerge entire villages, displacing millions of residents",
+      "a mass shooting or act of domestic terrorism: a gunman opens fire at a crowded concert in las vegas, killing dozens and injuring hundreds more",
+      "a major civil rights movement: the black lives matter movement gains widespread support and leads to major policy changes, including police reform and the removal of confederate statues",
+      "a major sporting event: the world cup is held in qatar, bringing together teams from around the world and drawing massive crowds of enthusiastic fans",
+      "a major environmental crisis: a massive oil spill off the coast of brazil threatens wildlife and fishing communities, leading to calls for greater regulation of the oil industry"
     ]
   },
   "photojournalism.styleProtest": {
@@ -4359,12 +4593,12 @@
     "description": "Various photographic styles and techniques used in photojournalism and documentary photography",
     "total": 38,
     "examples": [
-      "unposed candid portraiture: capturing subjects unaware of the camera to document authentic, unvarnished human reactions and interactions",
-      "monochrome photojournalism: stripping away color to emphasize form, texture, shadow, and the pure raw emotion of the moment",
-      "documentary photography: providing a historical record of the protests and the people involved",
-      "analog film photography: using traditional 35mm or medium format film to create a raw, grain-textured aesthetic with natural color tones",
-      "high-speed photography: using fast shutter speeds to capture fast-paced action and movement",
-      "close-up portraiture: focusing tightly on the expressive faces of individual protesters to highlight intense human emotion and determination"
+      "action photography: capturing the movement and energy of the protesters in action",
+      "telephoto lens photography: using long focal lengths to compress the perspective, making the crowd appear denser and bringing distant action closer",
+      "extreme wide-angle photography: using wide lenses to include both the protesters in the foreground and the grand architectural context in the background",
+      "low-light photography: capturing the mood and atmosphere of protests that occur at night or in low light conditions",
+      "street photography: capturing the atmosphere of the protests and the surrounding environment",
+      "aerial photography: providing a unique and expansive view of the protests and the surrounding environment"
     ]
   },
   "photojournalism.types": {
@@ -4373,12 +4607,12 @@
     "description": "Diverse subjects and thematic beats covered in photojournalism and documentary reporting",
     "total": 87,
     "examples": [
-      "community and neighborhood storytelling, highlighting the everyday lives and challenges of local residents",
-      "culture and tradition",
-      "climate migration and climate refugees, documenting families forced to relocate due to environmental changes",
-      "photojournalistic documentation of social movements and protests, including black lives matter and the women's march",
-      "agriculture and farming",
-      "wildlife and conservation"
+      "coverage of anti-government and pro-democracy protests",
+      "lgbtq+ issues and rights",
+      "war and conflict photography, documenting the impact of violence on civilians",
+      "aging infrastructure and maintenance issues",
+      "urbanization and gentrification",
+      "food insecurity and agricultural crises, focusing on crop failures, food deserts, and food banks"
     ]
   },
   "places.home": {
@@ -4387,12 +4621,12 @@
     "description": "Various types of residential dwellings and architectural housing styles",
     "total": 103,
     "examples": [
-      "brownstone",
-      "duplex",
-      "living roof home",
-      "colonial",
-      "container home",
-      "longhouse"
+      "rooming house",
+      "prefab home",
+      "rowhouse",
+      "shotgun house",
+      "ranch",
+      "underwater home"
     ]
   },
   "places.interiorSpace": {
@@ -4401,12 +4635,12 @@
     "description": "Diverse indoor environments ranging from mundane rooms to specialized workspaces",
     "total": 481,
     "examples": [
-      "attic studio",
-      "jewelry store",
-      "dental clinic",
-      "film studio soundstage",
-      "pigsty",
-      "control room"
+      "theater backstage",
+      "factory floor",
+      "faculty lounge",
+      "florist shop",
+      "foyer",
+      "coroner's office"
     ]
   },
   "places.liminal": {
@@ -4415,12 +4649,12 @@
     "description": "Transitional and eerie everyday places that evoke nostalgia, unease, or dreamlike stillness",
     "total": 63,
     "examples": [
-      "stairwell landing with no exit signs",
-      "empty lecture hall with projector still on",
-      "office break room at midnight",
-      "arcade at closing time with games still flashing",
-      "abandoned classroom at dusk",
-      "liminal backrooms with yellow carpet and humming lights"
+      "suburban cul-de-sac on a foggy morning",
+      "empty airport terminal at night",
+      "empty swimming pool with a single beach ball",
+      "ferry deck in dense fog with no land visible",
+      "empty attic with a single bare bulb",
+      "empty hotel hallway with flickering fluorescents"
     ]
   },
   "places.nonEuclidean": {
@@ -4429,12 +4663,12 @@
     "description": "Impossible architecture and spaces that break physical rules",
     "total": 62,
     "examples": [
-      "hallway that gets longer when you run",
-      "doorway that frames winter on one side summer on other",
-      "staircase whose handrail is warm like pulse",
+      "bedroom closet that opens into slightly wrong copy of bedroom",
+      "lighthouse whose light illuminates past",
+      "bedroom where bed is simultaneously against all walls",
       "bridge that is same length both directions but never same crossing",
-      "room whose corners meet in middle",
-      "field where scarecrows all face you when wind changes"
+      "field where scarecrows all face you when wind changes",
+      "hotel corridor that loops after three doors"
     ]
   },
   "places.public": {
@@ -4443,12 +4677,12 @@
     "description": "Common public venues, recreational areas, and civic facilities",
     "total": 94,
     "examples": [
-      "church",
-      "concert hall",
-      "amusement park",
-      "history museum",
-      "exhibition center",
-      "hospital"
+      "beach resort",
+      "bus station",
+      "subway station",
+      "science center",
+      "library",
+      "monument"
     ]
   },
   "places.roomType": {
@@ -4457,12 +4691,12 @@
     "description": "Specific, often historical or grand interior rooms and specialized chambers",
     "total": 71,
     "examples": [
+      "refectory",
+      "apothecary",
       "art studio",
-      "crypt",
-      "orangery",
-      "laboratory",
-      "antechamber",
-      "great hall"
+      "darkroom",
+      "cellar",
+      "smoking room"
     ]
   },
   "places.room": {
@@ -4471,12 +4705,12 @@
     "description": "Standard functional rooms and spaces found in typical modern homes",
     "total": 51,
     "examples": [
-      "conservatory",
-      "bathroom",
-      "reception",
-      "balcony",
-      "corridor",
-      "sunroom"
+      "hallway",
+      "storage room",
+      "powder room",
+      "study",
+      "attic",
+      "bathroom"
     ]
   },
   "places.urbanFeature": {
@@ -4485,12 +4719,12 @@
     "description": "Structural elements, fixtures, and infrastructure found in city environments",
     "total": 196,
     "examples": [
-      "promenade",
-      "street tree",
-      "sidewalk hatch",
-      "catenary wires",
-      "dumpster",
-      "park bench"
+      "jetty",
+      "skywalk",
+      "median strip",
+      "central reservation",
+      "street market",
+      "wheelchair ramp"
     ]
   },
   "places.venue": {
@@ -4499,12 +4733,12 @@
     "description": "Event venues for sports, performance, nightlife, conventions, and public gatherings",
     "total": 506,
     "examples": [
-      "cabaret club",
-      "loft venue",
-      "polo field",
-      "playhouse theater",
-      "track stadium",
-      "movie house"
+      "cabaret",
+      "vineyard event space",
+      "jazz theater",
+      "indoor track",
+      "horse racing track",
+      "karting circuit"
     ]
   },
   "plot.action": {
@@ -4513,12 +4747,12 @@
     "description": "High-stakes, thrilling scenarios involving combat, heists, rescues, and survival",
     "total": 66,
     "examples": [
-      "stealing valuable items or documents",
-      "dealing with a corrupt government or law enforcement",
-      "defending against a military attack",
-      "escaping from a burning building or other disaster",
-      "escaping from a dangerous maze or labyrinth",
-      "defending against a zombie outbreak"
+      "disarming a bomb with seconds to spare",
+      "defending a high-value cargo convoy from bandits",
+      "overcoming personal conflicts to work together",
+      "escaping from a sinking ship or other maritime disaster",
+      "escaping from a high-speed train under enemy control",
+      "infiltrating a high-stakes illegal casino to gather evidence"
     ]
   },
   "plot.arthouse": {
@@ -4527,12 +4761,12 @@
     "description": "Introspective narratives focusing on emotional struggles, relationships, and personal crises",
     "total": 66,
     "examples": [
-      "battling with a chronic illness",
-      "overcoming a traumatic event",
-      "engaging in acts of rebellion",
+      "going on a journey of self-discovery",
+      "embarking on a quest for freedom",
       "falling in love against all odds",
-      "dealing with a moral dilemma",
-      "coping with the sudden silence of a solitary rural existence"
+      "battling with a chronic illness",
+      "being caught in a love triangle",
+      "confronting the slow gentrification of a childhood neighborhood"
     ]
   },
   "plot.fantasy": {
@@ -4541,12 +4775,12 @@
     "description": "Magical and supernatural adventures involving mythical creatures, curses, and epic quests",
     "total": 66,
     "examples": [
-      "reclaiming a throne usurped by a puppet king",
-      "navigating through a magical jungle or swamp",
-      "navigating through a treacherous mountain range",
-      "saving a magical creature from harm",
-      "binding a rogue demon to a mortal vessel",
-      "restoring light to a dying sacred world-tree"
+      "surviving in a world with limited resources",
+      "discovering a hidden conspiracy",
+      "defeating a powerful sorcerer or evil entity",
+      "infiltrating an enemy fortress",
+      "breaking a bloodline curse spanning generations",
+      "escaping from a parallel universe or alternate reality"
     ]
   },
   "plot.general": {
@@ -4555,12 +4789,12 @@
     "description": "A mix of everyday life events, personal goals, and lighthearted adventures",
     "total": 109,
     "examples": [
-      "starting a charity event",
-      "participating in a sporting event",
+      "participating in a comedy roast",
+      "becoming a superhero",
+      "participating in a dance competition",
       "trying to clear someone's name",
-      "surviving in space",
-      "starting a revolution",
-      "starting a new school year"
+      "searching for lost treasure",
+      "participating in a beauty pageant"
     ]
   },
   "plot.horror": {
@@ -4569,12 +4803,12 @@
     "description": "Horror and survival scenarios involving supernatural entities, monsters, and deadly environments",
     "total": 65,
     "examples": [
-      "investigating a series of bizarre deaths",
-      "battling a voodoo curse",
-      "searching for a lost temple",
-      "searching for a missing expedition team",
+      "investigating a mysterious disappearance in a remote village",
+      "surviving a night in a museum where the exhibits come alive aggressively",
+      "fighting against a powerful demon",
       "battling a cursed object",
-      "uncovering a horrific sacrificial cult in a picture-perfect suburb"
+      "battling a dark cult",
+      "escaping from a mysterious underground facility"
     ]
   },
   "plot.musical": {
@@ -4583,12 +4817,12 @@
     "description": "Storylines focused on musical competitions, bands, solo artists, and creative collaborations",
     "total": 66,
     "examples": [
-      "dealing with the impact of age on a musical career",
-      "navigating the backstage drama and romance of a broadway show",
-      "learning to collaborate with musicians from different backgrounds",
-      "balancing a secret identity as a rising pop star and a normal student",
-      "discovering a hidden singing talent in an unassuming street busker",
-      "forming an unexpected friendship through a shared love of jazz"
+      "singing and dancing together in a flash mob",
+      "learning to incorporate different musical styles",
+      "finding inspiration for new music",
+      "finding new ways to express themselves through music",
+      "learning to perform with a new musical partner",
+      "performing musical numbers on stage"
     ]
   },
   "plot.romance": {
@@ -4597,12 +4831,12 @@
     "description": "Romantic storylines about overcoming personal, social, and communication obstacles to find love",
     "total": 65,
     "examples": [
-      "finding unexpected romance while volunteering at a community garden",
-      "coping with infertility or other family-related challenges",
-      "coping with the stress of a long-term commitment",
-      "falling in love while trapped together in a cozy cabin during a blizzard",
-      "coping with cultural or social differences",
-      "reuniting after being separated by circumstances"
+      "building a relationship after matching on a quirky dating app",
+      "rekindling love after a period of estrangement",
+      "rekindling love after a period of distance",
+      "dealing with relationship challenges or obstacles",
+      "finding love despite personal or financial difficulties",
+      "dealing with the complexities of a polyamorous relationship"
     ]
   },
   "plot.scifiCyberpunk": {
@@ -4611,12 +4845,12 @@
     "description": "Cyberpunk scenarios involving hacking, rogue AI, cyborgs, and dystopian corporate espionage",
     "total": 66,
     "examples": [
-      "navigating through a virtual world filled with dangers",
-      "escaping from a cyber-controlled city",
-      "escaping from a virtual reality or simulation",
-      "escaping a digital quarantine zone inside a virtual reality network",
-      "discovering a hidden society of tech-savvy rebels",
-      "escaping from a virtual prison or detention center"
+      "fighting against a corrupt government or corporation",
+      "battling against cyborgs or robots",
+      "replacing a damaged neural processor before memory corruption sets in",
+      "dealing with the aftermath of a cyber-disaster",
+      "investigating a technological cover-up",
+      "resisting the temptation of advanced technology"
     ]
   },
   "plot.scifi": {
@@ -4625,12 +4859,12 @@
     "description": "Science fiction scenarios featuring space exploration, alien encounters, and planetary disasters",
     "total": 185,
     "examples": [
-      "dealing with the consequences of space-based experiments or discoveries",
-      "investigating a ghost ship drifting at the edge of the solar system",
-      "rescuing a captive or hostage",
-      "participating in a space-based scavenger hunt",
-      "investigating a mysterious event",
-      "uncovering a sinister conspiracy behind a planetary migration initiative"
+      "a team of explorers discover a hidden alien race",
+      "investigating the sudden silence of a deep-space research outpost",
+      "a group of astronauts must navigate a deadly asteroid field to save humanity",
+      "defeating a rogue ai",
+      "a group of rebels take on a powerful artificial intelligence that has taken over the world",
+      "a group of astronauts try to save earth from an alien attack by using a mysterious device"
     ]
   },
   "plot.war": {
@@ -4639,12 +4873,12 @@
     "description": "Military and tactical operations including covert missions, sieges, and defensive stands",
     "total": 66,
     "examples": [
-      "negotiating a temporary ceasefire to evacuate wounded non-combatants",
-      "infiltrating enemy territory",
-      "supporting a battle-weary unit or division",
-      "overcoming resource or supply shortages",
-      "stopping enemy reinforcements from reaching the front lines",
-      "retrieving crucial information or intelligence"
+      "defending against a chemical or biological attack",
+      "infiltrating enemy fortifications or defenses",
+      "defending against a surprise attack",
+      "defending a vital mountain pass against overwhelming enemy forces",
+      "escaping from a booby-trapped area",
+      "defending a strategic location from enemy forces"
     ]
   },
   "science.astronomy": {
@@ -4653,11 +4887,11 @@
     "description": "Astronomical concepts, phenomena, and celestial structures like black holes and dark matter",
     "total": 54,
     "examples": [
-      "worm hole",
-      "light-year",
-      "binary star",
-      "oort cloud",
-      "planet",
+      "dark matter",
+      "solar flare",
+      "venus",
+      "andromeda",
+      "gravitational wave",
       "comet"
     ]
   },
@@ -4667,12 +4901,12 @@
     "description": "Various chemical elements from the periodic table",
     "total": 118,
     "examples": [
-      "arsenic",
-      "mendelevium",
-      "cadmium",
-      "holmium",
-      "cerium",
-      "meitnerium"
+      "cobalt",
+      "lithium",
+      "nickel",
+      "samarium",
+      "uranium",
+      "carbon"
     ]
   },
   "science.constellation": {
@@ -4681,12 +4915,12 @@
     "description": "Names of recognized star constellations in the night sky",
     "total": 88,
     "examples": [
-      "norma",
-      "musca",
-      "canis major",
-      "taurus",
-      "horologium",
-      "hydra"
+      "crater",
+      "corvus",
+      "aquila",
+      "vulpecula",
+      "virgo",
+      "corona australis"
     ]
   },
   "science.geometry": {
@@ -4695,12 +4929,12 @@
     "description": "Advanced mathematical shapes, fractals, attractors, and geometric concepts",
     "total": 117,
     "examples": [
-      "cellular automaton",
-      "mandelbox",
-      "crystallographic",
-      "clifford attractor",
-      "truncated octahedron",
-      "quasicrystals"
+      "voronoi diagram",
+      "sierpinski triangle",
+      "sierpinski",
+      "penrose tiling",
+      "bucky ball",
+      "fractal art"
     ]
   },
   "science.isotope": {
@@ -4709,12 +4943,12 @@
     "description": "Specific radioactive and stable isotopes of various chemical elements",
     "total": 56,
     "examples": [
-      "deuterium",
-      "lutetium-177",
-      "lead-210",
-      "plutonium-238",
+      "americium-241",
+      "uranium-238",
+      "carbon-11",
+      "phosphorus-32",
       "carbon-12",
-      "radium-226"
+      "argon-40"
     ]
   },
   "science.laboratoryEquipment": {
@@ -4723,12 +4957,12 @@
     "description": "Lab glassware, instruments, and apparatus for scientific research and analysis",
     "total": 115,
     "examples": [
-      "x-ray diffractometer",
-      "centrifuge",
-      "condenser",
-      "electrophoresis chamber",
-      "glass petri dish",
-      "microwave digester"
+      "microwave digester",
+      "biosafety cabinet",
+      "burette",
+      "lab sink with glassware",
+      "laboratory centrifuge tube",
+      "calorimeter"
     ]
   },
   "science.medicalImages": {
@@ -4738,10 +4972,10 @@
     "total": 45,
     "examples": [
       "mammogram",
-      "thyroid scan",
-      "dexa scan",
-      "ct scan",
-      "arthroscopy",
+      "cone beam ct",
+      "mri",
+      "laparoscopy",
+      "endoscopy",
       "echocardiography"
     ]
   },
@@ -4751,12 +4985,12 @@
     "description": "Specific planets, moons, asteroids, and other named celestial bodies",
     "total": 224,
     "examples": [
-      "halimede",
-      "himalia",
-      "psr b1257+12 b",
-      "kepler-186f",
-      "sedna",
-      "enceladus"
+      "tempel 1",
+      "2002 ms4",
+      "mercury",
+      "pluto",
+      "ananke",
+      "prospero"
     ]
   },
   "science.rejectedSuperpower": {
@@ -4765,12 +4999,12 @@
     "description": "Useless, creepy, or situationally cursed minor abilities",
     "total": 69,
     "examples": [
-      "power to know exactly how many steps someone else took today",
-      "ability to make any wikipedia rabbit hole end at surprisingly heavy page",
-      "ability to know exact bus arrival but only after bus left",
-      "ability to sense when someone nearby is about to sneeze and not help",
-      "ability to become fluent in any language for length of single hiccup",
-      "can breathe underwater but only in bath"
+      "can summon slightly damp socks that always fit",
+      "ability to turn off any night light from different room non intentionally",
+      "can instantly know price of any item in 1973",
+      "can freeze water by staring if water is already ice",
+      "ability to detect lies but only about whether someone ate your leftovers",
+      "knows exactly when toast will pop but never in time to catch it"
     ]
   },
   "science.robotType": {
@@ -4779,12 +5013,12 @@
     "description": "Various types of industrial, agricultural, and specialized autonomous robots and drones",
     "total": 328,
     "examples": [
-      "animatronic",
-      "solar-powered drone",
-      "robotic prosthesis",
-      "gynoid",
-      "robot pet",
-      "atmospheric satellite"
+      "robotic assistance device",
+      "robotic catheter",
+      "smart mannequin",
+      "laparoscopy robot",
+      "hydrographic survey boat",
+      "articulated robot"
     ]
   },
   "science.scifiTech": {
@@ -4793,12 +5027,12 @@
     "description": "Fictional science fiction technology, gadgets, and futuristic devices",
     "total": 63,
     "examples": [
-      "teleportation pad",
-      "stasis field",
-      "clone vat",
-      "mech suit",
-      "cryo-sleep chamber",
-      "brain-computer interface"
+      "sentient ai",
+      "android",
+      "warp gate",
+      "bionic eye",
+      "gravity manipulator",
+      "artificial gravity generator"
     ]
   },
   "set.describeStyle": {
@@ -4807,12 +5041,12 @@
     "description": "Eclectic art styles, hashtags, and artist names used in AI image generation",
     "total": 17756,
     "examples": [
-      "kinetic mixed-media",
-      "cildo meireles",
-      "dansaekhwa",
-      "botanical impressions",
-      "crisp and clean look",
-      "atmospheric paintings"
+      "light violet and light pink",
+      "abstract expressionist emotion",
+      "comic book inspired",
+      "futuristic organic",
+      "emma geary",
+      "dark turquoise and dark brown"
     ]
   },
   "set.describeSubject": {
@@ -4821,12 +5055,12 @@
     "description": "Highly specific, random AI-generated image prompts and surreal subject descriptions",
     "total": 139614,
     "examples": [
-      "a man wearing a hoodie",
-      "an image of a bee looking up at something of interest",
-      "a bulldog puppy standing on a white background",
-      "a asian woman with blond tresses and leopard print",
-      "a cartoon of a man at a gasoline pump",
-      "a cartoon of a busy street with people and a bus"
+      "a ghost in the window shouting her name",
+      "a mother and son reading a book at home",
+      "a hockey team is playing on an ice surface with players on their ice",
+      "a hand holding a clear acrylic",
+      "a huge white and blue robot standing",
+      "a image of a man in a gas mask"
     ]
   },
   "set.memeDescription": {
@@ -4835,12 +5069,12 @@
     "description": "Popular internet memes paired with brief descriptions of their visual content",
     "total": 44,
     "examples": [
-      "all your base are belong to us meme - engrish phrase from zero wing game",
-      "disaster girl meme - young girl smirking in front of burning house",
-      "harlem shake meme - group suddenly dancing wildly to song",
-      "gangnam style meme - psy dancing like riding a horse",
-      "futurama fry meme - fry squinting suspiciously",
-      "dolan meme - poorly drawn donald duck with absurd captions"
+      "bad luck brian meme - nerdy teen with braces and plaid vest",
+      "condescending wonka meme - gene wilder as willy wonka with sarcastic expression",
+      "big chungus meme - overly large bugs bunny",
+      "area 51 raid meme - joke event to storm secret military base",
+      "awkward penguin meme - penguin with blue and red backgrounds for situations",
+      "cash me outside meme - girl from dr. phil challenging audience to fight"
     ]
   },
   "set.meme": {
@@ -4849,12 +5083,12 @@
     "description": "Popular internet memes and viral image macros",
     "total": 44,
     "examples": [
-      "dolan meme",
-      "distracted boyfriend meme",
-      "coffin dance meme",
-      "dat boi meme",
-      "ancient aliens guy meme",
-      "grumpy cat meme"
+      "all your base are belong to us meme",
+      "ain't nobody got time for that meme",
+      "confused math lady meme",
+      "blinking white guy meme",
+      "gibby on icarly \"i don't care if you broke your elbow\" meme",
+      "bernie sanders \"i am once again asking\" meme"
     ]
   },
   "set.moviegenBench": {
@@ -4863,12 +5097,12 @@
     "description": "MovieGen Video Bench contains 1003 diverse prompts testing various aspects including human activities (motion, emotions), animals, nature/scenery, physics (fluids, gravity, collisions), and unusual subjects/activities. The prompts provide comprehensive coverage across high, medium and low motion scenarios.\n",
     "total": 1003,
     "examples": [
-      "A deer in a fancy ballroom dress, waltzing with a fox under a chandelier.",
-      "Cinematic trailer for a group of adventurous puppies exploring ruins in the sky",
-      "This close-up shot of a Victoria crowned pigeon showcases its striking blue plumage and red chest. Its crest is made of delicate, lacy feathers, while its eye is a striking red color. The bird’s head is tilted slightly to the side, giving the impression of it looking regal and majestic. The background is blurred, drawing attention to the bird’s striking appearance.",
-      "The person's cheeks flushed with pleasure as she savored a delicious meal.",
-      "A person is brushing their teeth in front of a mirror, their mouth slightly open as they clean each tooth.",
-      "A fencer engaged in a fast-paced duel."
+      "a man BASE jumping over tropical hawaii waters. His pet macaw flies alongside him",
+      "A delicate layer of morning frost melting off a flower petal, the tiny droplets glistening like diamonds in the light.",
+      "A young knight is polishing his sword under the ancient oak tree as sunlight filters through the leaves.",
+      "A person riding a giant tortoise through a desert of glass sand.",
+      "Two people on roller skates colliding in a rink, both spinning out of control.",
+      "The fairy dances gracefully around the forest pond, her wings shimmering in the moonlight."
     ]
   },
   "set.parti": {
@@ -4877,12 +5111,12 @@
     "description": "PartiPrompts (P2) is a rich set of over 1600 prompts in English. P2 can be used to measure model capabilities across various categories and challenge aspects.\n",
     "total": 1632,
     "examples": [
-      "a red fire hydrant by a brick wall",
-      "a giraffe",
-      "the statue of Liberty next to the Washington Monument",
-      "a red swirl above a black dashed line.",
-      "a very fancy French restaurant",
-      "a spaceship landing on the Great Wall"
+      "a dolphin in an astronaut suit on saturn",
+      "a blue t-shirt",
+      "the saying 'do unto others as they would do unto you' written on a white background",
+      "a baby daikon radish",
+      "a logo",
+      "a painting of a phone from the 20s"
     ]
   },
   "sport.all": {
@@ -4891,12 +5125,12 @@
     "description": "Various athletic sports, gymnastics, and competitive physical activities",
     "total": 470,
     "examples": [
-      "ice fishing",
-      "competitive eating",
-      "monster truck",
-      "angling",
-      "korfball",
-      "off-road racing"
+      "finswimming",
+      "sport stacking",
+      "motocross",
+      "mölkky",
+      "mma",
+      "padel"
     ]
   },
   "sport.equipment": {
@@ -4905,12 +5139,12 @@
     "description": "Athletic gear, protective equipment, training tools, and sport-specific apparatus",
     "total": 639,
     "examples": [
-      "shuttlecock",
-      "punching bag",
-      "track spike",
-      "mma glove",
-      "netball",
-      "mouthguard"
+      "thai pad",
+      "fencing body cord",
+      "billiard cue chalk",
+      "buoyancy compensator",
+      "ice hockey stick",
+      "crampon"
     ]
   },
   "thing.adjective": {
@@ -4919,12 +5153,12 @@
     "description": "Adjectives describing physical textures and material conditions",
     "total": 71,
     "examples": [
-      "scorched",
-      "ruffled",
-      "rusty",
-      "wavy",
-      "woolly",
-      "velvety"
+      "hard",
+      "matte",
+      "moist",
+      "folded",
+      "aged",
+      "malleable"
     ]
   },
   "thing.armor": {
@@ -4933,12 +5167,12 @@
     "description": "Historical and modern protective armor, helmets, and tactical vests",
     "total": 171,
     "examples": [
-      "paper armor",
-      "kevlar vest",
-      "corinthian helmet",
-      "brigandine",
-      "cataphract armor",
-      "barding"
+      "elven armor",
+      "mirror armor",
+      "spaulders",
+      "suneate",
+      "barbute helmet",
+      "sallet helmet"
     ]
   },
   "thing.city": {
@@ -4947,12 +5181,12 @@
     "description": "Urban infrastructure, commercial buildings, and city street elements",
     "total": 216,
     "examples": [
-      "antique shop",
-      "gas station",
-      "awning",
-      "candy store",
-      "mexican restaurant",
-      "car rental"
+      "aquarium",
+      "mailbox",
+      "flagpole",
+      "skyscraper",
+      "planetarium",
+      "dmv"
     ]
   },
   "thing.cursedObject": {
@@ -4961,12 +5195,12 @@
     "description": "Everyday objects that feel haunted, watched, or subtly wrong",
     "total": 61,
     "examples": [
-      "car air freshener shaped like a tiny screaming face",
-      "electric toothbrush that vibrates when ghosts pass",
-      "vending machine that dispenses one extra cursed snack",
-      "sock that is always inside out after wash",
-      "garden gnome that faces the window each morning",
-      "cracked tamagotchi that asks if you are alone"
+      "cracked tamagotchi that asks if you are alone",
+      "baby monitor that plays a lullaby no one recorded",
+      "second toothbrush that appears and disappears",
+      "magic eight ball that only says ask later until you are alone",
+      "usb stick that contains photos of your house taken yesterday",
+      "music box that winds itself"
     ]
   },
   "thing.everyday": {
@@ -4975,12 +5209,12 @@
     "description": "Common household objects, appliances, and everyday personal items",
     "total": 243,
     "examples": [
-      "stapler",
-      "sponge",
-      "windows",
-      "table",
-      "shrubs",
-      "tote bag"
+      "rags",
+      "coaster",
+      "alarm clock",
+      "cutting board",
+      "bucket",
+      "cup"
     ]
   },
   "thing.fabric": {
@@ -4989,12 +5223,12 @@
     "description": "Various natural and synthetic textiles and fabric materials",
     "total": 56,
     "examples": [
-      "taffeta",
-      "brocade",
-      "chiffon",
-      "suede",
-      "lycra",
-      "tulle"
+      "canvas",
+      "denim",
+      "nylon",
+      "lace",
+      "fleece",
+      "houndstooth"
     ]
   },
   "thing.fantasy": {
@@ -5003,12 +5237,12 @@
     "description": "Fantasy characters, magical items, and mythical creatures",
     "total": 146,
     "examples": [
-      "moonbeam",
+      "psychic",
       "guild",
-      "magic spell",
-      "gentle wind",
-      "limit",
-      "gargoyle"
+      "gemstones",
+      "figure",
+      "drow elves",
+      "elven princess"
     ]
   },
   "thing.foundInWall": {
@@ -5017,12 +5251,12 @@
     "description": "Truly weird discoveries from home renovations and demolitions",
     "total": 60,
     "examples": [
-      "letter from contractor apologizing for leaving letter in wall",
-      "framed photo of house with all curtains drawn from drone angle",
-      "shrink wrapped vhs of static labeled watch when you move",
-      "band aid tin full of teeth that are all same molar",
-      "tv aerial cable feeding live tv to nothing",
-      "old nokia brick still with one percent and unreadable sim"
+      "jenga tower mortared into chimney",
+      "nest of black mold shaped exactly like virgin mary",
+      "old nokia brick still with one percent and unreadable sim",
+      "childs toy walkie talkie that still crackles at night",
+      "key ring with 40 keys all for schlage and one for unknown lock",
+      "receipt for wall itself installation dated before house built"
     ]
   },
   "thing.furniture": {
@@ -5031,12 +5265,12 @@
     "description": "Various types of indoor and outdoor seating and storage furniture",
     "total": 58,
     "examples": [
-      "bar cart",
-      "pew",
-      "armchair",
-      "four-poster bed",
+      "pouffe",
+      "side table",
+      "chaise longue",
       "console table",
-      "bar stool"
+      "adirondack chair",
+      "bean bag chair"
     ]
   },
   "thing.gadget": {
@@ -5045,12 +5279,12 @@
     "description": "Electronic devices, musical gadgets, and modern technological equipment",
     "total": 417,
     "examples": [
-      "cordless phone",
-      "amplifier",
-      "3d scanner",
-      "ecg machine",
-      "electronic nebulizer",
-      "electric fan"
+      "midi controller",
+      "electric fan",
+      "fiber optic tester",
+      "digital alcohol breathalyzer",
+      "electronic weather station",
+      "electric shaver"
     ]
   },
   "thing.gemstone": {
@@ -5059,12 +5293,12 @@
     "description": "Precious and semi-precious gemstones and mineral crystals",
     "total": 59,
     "examples": [
-      "azurite",
-      "citrine",
-      "carnelian",
-      "beryl",
-      "demantoid",
-      "ruby"
+      "moonstone",
+      "hiddenite",
+      "amber",
+      "tsavorite",
+      "turquoise",
+      "malachite"
     ]
   },
   "thing.icon": {
@@ -5073,12 +5307,12 @@
     "description": "Common digital interface icons and simple graphic symbols",
     "total": 132,
     "examples": [
-      "telescope",
-      "key",
-      "computer",
-      "glasses",
-      "arrow down",
-      "bookmark"
+      "x mark",
+      "eye",
+      "lock",
+      "arrow right",
+      "golf",
+      "headphones"
     ]
   },
   "thing.impossibleTool": {
@@ -5087,12 +5321,12 @@
     "description": "Surreal and impossible tools that should not exist but look convincing in product shots",
     "total": 53,
     "examples": [
-      "plumb line that hangs towards past",
-      "clamp that holds breath for you",
-      "wire stripper that strips small talk to copper truth",
-      "plunger for unclogging time in kitchen sink of time",
-      "sledgehammer for breaking fourth wall structurally unsound after",
-      "sawhorse comprised of actual seahorse on stilts"
+      "cable tie that ties together two different days",
+      "ladder that leads exactly to where you started but side view",
+      "caliper that measures distance between you and version of you in ad",
+      "extension ladder that extends into other person's dream",
+      "funnel that funnels attention span back into head through ear",
+      "soldering iron that solders broken promises good as new for one use"
     ]
   },
   "thing.material": {
@@ -5102,11 +5336,11 @@
     "total": 68,
     "examples": [
       "titanium",
-      "obsidian glass",
-      "velvet",
-      "suede",
       "leather",
-      "iron"
+      "gold",
+      "bamboo",
+      "frosted glass",
+      "alabaster"
     ]
   },
   "thing.metal": {
@@ -5115,12 +5349,12 @@
     "description": "Various metallic elements, alloys, and metal finishes",
     "total": 273,
     "examples": [
-      "matte silver",
-      "electrum",
-      "burnished steel",
+      "corrugated steel",
+      "gold",
       "anodized niobium",
-      "arsenical bronze",
-      "brushed brass"
+      "beaten gold",
+      "gold leaf",
+      "tarnished lead"
     ]
   },
   "thing.office": {
@@ -5129,12 +5363,12 @@
     "description": "Financial tools, office supplies, and business-related items",
     "total": 68,
     "examples": [
-      "coin",
-      "swivel chair",
-      "credit card",
-      "drill",
-      "balance sheet",
-      "business card"
+      "sticky note",
+      "laminator",
+      "whiteboard",
+      "abacus",
+      "ticker tape machine",
+      "coin"
     ]
   },
   "thing.pattern": {
@@ -5143,12 +5377,12 @@
     "description": "Decorative geometric, textile, and camouflage visual patterns",
     "total": 115,
     "examples": [
-      "aztec print",
-      "batik",
-      "regimental stripe",
-      "pin dot",
-      "greek key",
-      "trefoil"
+      "ripple",
+      "awning stripe",
+      "arabesque",
+      "jacquard",
+      "glen plaid",
+      "gingham"
     ]
   },
   "thing.scary": {
@@ -5157,12 +5391,12 @@
     "description": "Creepy locations, paranormal entities, and horror-themed concepts",
     "total": 211,
     "examples": [
-      "freak accidents",
-      "satanic rituals",
-      "ghostly music",
-      "entities from other dimensions",
-      "eerie silence",
-      "haunted museums"
+      "osiris",
+      "chilling winds",
+      "full moon",
+      "dark basements",
+      "horror movies",
+      "disembodied whispers"
     ]
   },
   "thing.sciFi": {
@@ -5171,12 +5405,12 @@
     "description": "Futuristic technology, AI systems, and science fiction transportation",
     "total": 204,
     "examples": [
-      "ai farm machinery",
-      "space suit",
-      "asteroid mining device",
-      "holographic keyboard",
-      "asteroid deflection device",
-      "telepathic translator"
+      "orbital defense system",
+      "ai building construction system",
+      "interstellar colonizer",
+      "human augmentation device",
+      "automated space station",
+      "antigravity vehicle"
     ]
   },
   "thing.space": {
@@ -5185,12 +5419,12 @@
     "description": "Celestial bodies, nebulae, moons, stars, and cosmic phenomena",
     "total": 158,
     "examples": [
-      "herbig–haro object",
-      "soft gamma repeater",
-      "exoplanet",
-      "lagoon nebula",
-      "ganymede",
-      "europa"
+      "superbubble",
+      "antennae galaxies",
+      "kuiper belt",
+      "anomalous x-ray pulsar",
+      "binary star",
+      "emission nebula"
     ]
   },
   "thing.summer": {
@@ -5199,12 +5433,12 @@
     "description": "Summer recreation items, beach gear, and outdoor accessories",
     "total": 70,
     "examples": [
+      "iced tea",
+      "volleyball",
+      "baseball cap",
+      "tanning lotion",
       "pool noodle",
-      "lawn chair",
-      "hiking shoes",
-      "campfire",
-      "corn on the cob",
-      "canoe"
+      "cooler"
     ]
   },
   "thing.surfaceFinish": {
@@ -5213,12 +5447,12 @@
     "description": "Material surface treatments, textures, and manufacturing finishes",
     "total": 164,
     "examples": [
-      "crackle-glazed",
-      "sheared",
-      "combed",
-      "velvet",
-      "luster-glazed",
-      "foil-stamped"
+      "stuccoed",
+      "raw",
+      "ash-glazed",
+      "blued",
+      "polished",
+      "acid-washed"
     ]
   },
   "thing.tool": {
@@ -5227,12 +5461,12 @@
     "description": "Hand tools, power tools, and workshop equipment for construction and crafting",
     "total": 126,
     "examples": [
-      "wire stripper",
-      "rubber mallet",
-      "palette knife",
-      "fret saw",
-      "miter box",
-      "pneumatic drill"
+      "drill press",
+      "cordless drill",
+      "angle grinder",
+      "hex key set",
+      "combination square",
+      "electric sander"
     ]
   },
   "thing.toy": {
@@ -5241,12 +5475,12 @@
     "description": "Toys, playthings, and childhood objects for product shots, nostalgia, and whimsical scenes",
     "total": 54,
     "examples": [
-      "view-master",
-      "plush teddy bear",
-      "farm animal set",
-      "dollhouse",
+      "die-cast race car",
+      "water pistol",
       "jump rope",
-      "marble run"
+      "jack-in-the-box",
+      "kaleidoscope",
+      "wooden rocking horse"
     ]
   },
   "thing.weapon": {
@@ -5255,12 +5489,12 @@
     "description": "Historical melee, ranged, and medieval combat weapons",
     "total": 55,
     "examples": [
-      "dirk",
-      "greatsword",
-      "mace",
-      "spatha",
-      "crossbow",
-      "sabre"
+      "tomahawk",
+      "flail",
+      "bardiche",
+      "bow",
+      "trident",
+      "mace"
     ]
   },
   "thing.woodType": {
@@ -5269,12 +5503,12 @@
     "description": "Various tree species and types of woodworking lumber",
     "total": 150,
     "examples": [
-      "sugi",
-      "limba",
-      "paulownia",
-      "elm",
-      "koa",
-      "petrified wood"
+      "sassafras",
+      "osage orange",
+      "maple",
+      "pecan",
+      "cumaru",
+      "oak"
     ]
   },
   "time.century": {
@@ -5283,12 +5517,12 @@
     "description": "Specific centuries spanning BC and AD historical timelines",
     "total": 37,
     "examples": [
-      "21st century",
-      "24th century",
-      "3rd century bc",
-      "2nd century bc",
       "10th century",
-      "1st century bc"
+      "4th century",
+      "4th century bc",
+      "2nd century",
+      "7th century bc",
+      "12th century bc"
     ]
   },
   "time.dayOfYear": {
@@ -5297,12 +5531,12 @@
     "description": "Specific calendar dates and notable days of the year",
     "total": 387,
     "examples": [
-      "september 4",
-      "september 17",
-      "st. patrick's day",
-      "october 6",
-      "september 14",
-      "thanksgiving"
+      "february 22",
+      "november 1",
+      "april 24",
+      "april 7",
+      "april 6",
+      "august 11"
     ]
   },
   "time.decade": {
@@ -5311,12 +5545,12 @@
     "description": "Specific decades ranging from the 1800s to the 2050s",
     "total": 35,
     "examples": [
-      "1970s",
-      "1910s",
       "10s",
-      "1850s",
-      "2010s",
-      "90s"
+      "2000s",
+      "1920s",
+      "90s",
+      "30s",
+      "1940s"
     ]
   },
   "time.era": {
@@ -5325,12 +5559,12 @@
     "description": "Historical periods, cultural eras, and specific global conflicts",
     "total": 118,
     "examples": [
-      "age of imperialism",
-      "aztec empire",
-      "baroque",
       "roaring twenties",
-      "crimean war",
-      "crusades"
+      "belle époque",
+      "age of enlightenment",
+      "neolithic era",
+      "world war i",
+      "space age"
     ]
   },
   "time.festival": {
@@ -5339,12 +5573,12 @@
     "description": "Global cultural, religious, and film festivals and holidays",
     "total": 196,
     "examples": [
-      "tihar",
-      "navratri",
-      "raksha bandhan",
-      "pingxi sky lantern festival",
-      "mid-autumn festival",
-      "cologne carnival"
+      "ati-atihan festival",
+      "thimphu tshechu",
+      "all souls' day",
+      "aomori nebuta festival",
+      "glastonbury",
+      "dussehra"
     ]
   },
   "time.historicalEra": {
@@ -5353,12 +5587,12 @@
     "description": "Historical empires, dynasties, and major technological or cultural ages",
     "total": 148,
     "examples": [
-      "dutch golden age",
-      "industrial revolution",
-      "hellenistic period",
-      "meiji era",
-      "viking age",
-      "great depression"
+      "middle ages",
+      "world war i era",
+      "gilded age",
+      "maya civilization",
+      "roman empire",
+      "dutch golden age"
     ]
   },
   "time.season": {
@@ -5367,12 +5601,12 @@
     "description": "Astronomical, cultural, commercial, agricultural, and natural seasons",
     "total": 241,
     "examples": [
+      "apple cider season",
       "growing season",
-      "party season",
-      "sowing season",
-      "winter solstice",
-      "ritsushun",
-      "sap season"
+      "draft season",
+      "campaign season",
+      "cuffing season",
+      "cicada season"
     ]
   },
   "time.timeOfDay": {
@@ -5381,12 +5615,12 @@
     "description": "Specific times of day and associated lighting or atmospheric conditions",
     "total": 201,
     "examples": [
-      "early night",
-      "breakfast time",
-      "civil dusk",
-      "morning fog",
-      "night mist",
-      "late night"
+      "evening sun",
+      "dusk light",
+      "mid-evening",
+      "afternoon",
+      "dawn chorus",
+      "golden hour"
     ]
   },
   "time.year": {
@@ -5395,12 +5629,12 @@
     "description": "Specific individual years spanning the 19th to 21st centuries",
     "total": 251,
     "examples": [
-      "2087",
-      "1883",
-      "1879",
-      "1912",
-      "1943",
-      "1927"
+      "1960",
+      "1981",
+      "1901",
+      "1958",
+      "1910",
+      "1964"
     ]
   },
   "typography.feature": {
@@ -5409,12 +5643,12 @@
     "description": "Typographic design features, spacing, and specific letterform characteristics",
     "total": 69,
     "examples": [
-      "irregular letterforms",
-      "subtle contrast",
+      "overshooting",
+      "single-story g",
+      "loose kerning",
       "rounded corners",
       "ornamental details",
-      "oldstyle figures",
-      "wide tracking"
+      "lining figures"
     ]
   },
   "typography.fontType": {
@@ -5423,12 +5657,12 @@
     "description": "Typographic design movements and historical font classifications",
     "total": 62,
     "examples": [
-      "futuristic typography",
-      "monospace typography",
-      "script typography",
-      "neo-grotesque typography",
-      "victorian typography",
-      "glitch typography"
+      "didone typography",
+      "uncial typography",
+      "egyptienne typography",
+      "psychedelic typography",
+      "lombardic typography",
+      "garalde typography"
     ]
   },
   "typography.font": {
@@ -5437,12 +5671,12 @@
     "description": "Specific named typefaces and popular font families",
     "total": 89,
     "examples": [
-      "arial black font",
-      "century gothic font",
-      "adobe garamond font",
-      "myriad font",
-      "karla font",
-      "tahoma font"
+      "merriweather font",
+      "montserrat font",
+      "noto sans font",
+      "open sans font",
+      "pt sans font",
+      "trajan font"
     ]
   },
   "typography.style": {
@@ -5451,12 +5685,12 @@
     "description": "Font weights, widths, and specific stylistic typeface variations",
     "total": 76,
     "examples": [
-      "small caps style font",
-      "demi-bold italic style font",
-      "light italic style font",
+      "all caps style font",
       "book italic style font",
-      "stencil style font",
-      "upright style font"
+      "debossed style font",
+      "ultra expanded style font",
+      "medium italic style font",
+      "heavy italic style font"
     ]
   },
   "typography.typefaceStyle": {
@@ -5465,12 +5699,12 @@
     "description": "Various font styles, historical typefaces, and typographic classifications",
     "total": 69,
     "examples": [
+      "geometric sans",
+      "caroline minuscule",
+      "3d lettering font",
+      "boldface",
       "bastarda",
-      "ornamental",
-      "rounded",
-      "art nouveau font",
-      "lombardic",
-      "egyptian slab"
+      "art deco"
     ]
   },
   "typography.wordArt": {
@@ -5479,12 +5713,12 @@
     "description": "Textures, materials, and visual effects applied to text and typography",
     "total": 137,
     "examples": [
-      "laced text",
-      "engraved text",
-      "fractured text",
-      "honeycomb text",
-      "sculpted text",
-      "overlapping text"
+      "velvet text",
+      "rotated text",
+      "molded text",
+      "rusty text",
+      "pixelated text",
+      "silver text"
     ]
   },
   "vehicle.aircraft": {
@@ -5493,12 +5727,12 @@
     "description": "Various types of airplanes, helicopters, and specialized aerial vehicles",
     "total": 126,
     "examples": [
-      "jetliner",
-      "bomber",
+      "ultralight aircraft",
+      "octocopter",
       "spy plane",
-      "floatplane",
-      "maritime patrol aircraft",
-      "boxkite"
+      "cargo aircraft",
+      "weather balloon",
+      "ambulance helicopter"
     ]
   },
   "vehicle.car": {
@@ -5507,12 +5741,12 @@
     "description": "Specific modern car makes and models from various automotive manufacturers",
     "total": 329,
     "examples": [
-      "lotus elise",
-      "rolls-royce ghost",
-      "lexus gx",
-      "kia sportage",
-      "ferrari ff",
-      "buick regal"
+      "jaguar xe",
+      "cadillac ct5",
+      "bmw x1",
+      "acura ilx",
+      "audi a3",
+      "audi a6"
     ]
   },
   "vehicle.classicCar": {
@@ -5521,12 +5755,12 @@
     "description": "Specific vintage, antique, and classic car models with their production years",
     "total": 161,
     "examples": [
-      "1934 auburn 652y",
-      "1917 chevrolet model d",
-      "1924 hupmobile model r",
-      "1947 bentley mark vi",
-      "1958 edsel citation",
-      "1956 chrysler 300b"
+      "1915 dodge model 30-35",
+      "1926 chrysler series 50",
+      "1930 studebaker president",
+      "1966 ford gt40",
+      "1959 cadillac eldorado",
+      "1935 mercedes-benz 500k"
     ]
   },
   "vehicle.famousCar": {
@@ -5535,12 +5769,12 @@
     "description": "Iconic cars and fictional vehicles from popular movies and film franchises",
     "total": 50,
     "examples": [
-      "holley shiftwell from cars 2",
-      "the delorean from back to the future part ii",
-      "the weasley flying ford anglia from harry potter and the chamber of secrets",
-      "eleanor from gone in 60 seconds",
-      "the audi r8 from iron man",
-      "gremlins' vw bug from gremlins"
+      "the aston martin db5 from skyfall",
+      "herbie from the love bug",
+      "the tumbler from batman begins",
+      "the nissan skyline gt-r from 2 fast 2 furious",
+      "mach 5 from speed racer",
+      "the ecto-1 from ghostbusters (2016)"
     ]
   },
   "vehicle.fastCar": {
@@ -5549,12 +5783,12 @@
     "description": "Specific models of high-performance sports cars, supercars, and luxury vehicles",
     "total": 98,
     "examples": [
-      "ferrari 488 gtb",
-      "bugatti eb110 ss",
-      "koenigsegg cc850",
-      "koenigsegg agera",
-      "jaguar xj220",
-      "ferrari daytona sp3"
+      "mclaren senna",
+      "aston martin vantage",
+      "bentley continental gt",
+      "hennessey venom gt",
+      "koenigsegg gemera",
+      "ferrari sf90 stradale"
     ]
   },
   "vehicle.motorcycle": {
@@ -5563,12 +5797,12 @@
     "description": "Various styles, classes, and specialized types of motorcycles and motorbikes",
     "total": 121,
     "examples": [
-      "hardtail",
-      "digger",
-      "ambulance motorcycle",
-      "moped",
-      "drag bike",
-      "hillclimber"
+      "enduro bike",
+      "naked bike",
+      "custom motorcycle",
+      "adventure touring bike",
+      "chopper trike",
+      "drag bike"
     ]
   },
   "vehicle.spacecraft": {
@@ -5577,12 +5811,12 @@
     "description": "Sci-fi spacecraft, starships, and specialized futuristic space vehicles",
     "total": 56,
     "examples": [
-      "ark ship",
-      "fuel tanker",
-      "research vessel",
-      "escape pod",
-      "mining barge",
-      "mothership"
+      "generation ship",
+      "lander",
+      "solar sailer",
+      "frigate spacecraft",
+      "explorer vessel",
+      "starship"
     ]
   },
   "vehicle.type": {
@@ -5591,12 +5825,12 @@
     "description": "Broad categories of land, air, and water transportation vehicles",
     "total": 116,
     "examples": [
-      "amphibious vehicle",
-      "bus",
-      "bulldozer",
-      "aircraft",
-      "light rail",
-      "hang glider"
+      "airplane",
+      "shuttle bus",
+      "semi-trailer",
+      "rocket",
+      "motorhome",
+      "moped"
     ]
   },
   "vehicle.watercraft": {
@@ -5605,12 +5839,12 @@
     "description": "Various types of boats, ships, and marine vessels",
     "total": 188,
     "examples": [
-      "sailboat",
-      "personal watercraft",
-      "windjammer",
-      "troopship",
-      "knarr",
-      "caique"
+      "pontoon boat",
+      "fast patrol boat",
+      "coaster",
+      "corvette",
+      "coal boat",
+      "baidarka"
     ]
   },
   "videoGame.action": {
@@ -5619,12 +5853,12 @@
     "description": "In-game character actions, abilities, and mechanics in video games",
     "total": 314,
     "examples": [
-      "rapid firing",
-      "divination (predicting the future)",
-      "evading",
-      "fishing",
-      "fast-forwarding dialogue",
-      "charging up a super jump"
+      "climbing ladders",
+      "levitating",
+      "becoming ethereal",
+      "dual-wielding",
+      "crafting ammunition",
+      "drawing a weapon"
     ]
   },
   "videoGame.designer": {
@@ -5633,12 +5867,12 @@
     "description": "Names of prominent real-world video game designers and directors",
     "total": 68,
     "examples": [
+      "roberta williams",
+      "hidetaka miyazaki",
+      "david jaffe",
       "harvey smith",
-      "patrice désilets",
-      "gabe newell",
-      "hideki kamiya",
-      "john romero",
-      "jordan mechner"
+      "chris hecker",
+      "katsuya eguchi"
     ]
   },
   "videoGame.engine": {
@@ -5647,12 +5881,12 @@
     "description": "Software frameworks and game engines used for developing video games",
     "total": 68,
     "examples": [
-      "phyreengine",
-      "panda3d",
-      "source engine",
-      "cocos2d",
-      "fox engine",
-      "ogre"
+      "umbra 3",
+      "snowdrop engine",
+      "luminous engine",
+      "stingray engine",
+      "torque3d",
+      "iw engine"
     ]
   },
   "videoGame.game": {
@@ -5661,12 +5895,12 @@
     "description": "Titles of popular video game franchises and specific game releases",
     "total": 319,
     "examples": [
-      "fifa",
-      "hollow knight",
-      "the legend of zelda: tears of the kingdom",
-      "god of war iii remastered",
-      "nba 2k",
-      "god of war"
+      "silent hill 4: the room",
+      "final fantasy",
+      "fruit ninja",
+      "marvel's spider-man: miles morales",
+      "forza horizon 2",
+      "god of war iii remastered"
     ]
   },
   "videoGame.region": {
@@ -5675,12 +5909,12 @@
     "description": "Fictional environments, biomes, and level themes found in video games",
     "total": 118,
     "examples": [
-      "fairy kingdom",
-      "desert region",
-      "glacial region",
-      "prehistoric kingdom",
-      "snowy kingdom",
-      "wasteland kingdom"
+      "candyland region",
+      "castle region",
+      "grand canyon region",
+      "cloud kingdom",
+      "lava kingdom",
+      "industrial kingdom"
     ]
   },
   "word.adjective": {
@@ -5689,12 +5923,12 @@
     "description": "Various descriptive adjectives ranging from anatomical to behavioral",
     "total": 4980,
     "examples": [
-      "wretched",
-      "unconstitutional",
-      "orthopedic",
-      "momentary",
-      "newtonian",
-      "negligible"
+      "smallest",
+      "dandy",
+      "fruitful",
+      "bifocal",
+      "atmospheric",
+      "formal"
     ]
   },
   "word.adverb": {
@@ -5703,12 +5937,12 @@
     "description": "Assorted adverbs modifying actions, states, or qualities",
     "total": 1798,
     "examples": [
-      "proportionately",
-      "brightly",
-      "contradictorily",
-      "casually",
-      "conclusively",
-      "brilliantly"
+      "nawt",
+      "southward",
+      "securely",
+      "reliably",
+      "reluctantly",
+      "continentally"
     ]
   },
   "word.noun": {
@@ -5717,12 +5951,12 @@
     "description": "A diverse mix of concrete objects, animals, and abstract conceptual nouns",
     "total": 24389,
     "examples": [
-      "sunburst",
-      "kaffiyeh",
-      "craftiness",
-      "confusion",
-      "billow",
-      "call"
+      "hypercholesterolemia",
+      "killdeer",
+      "city",
+      "whistler",
+      "labors",
+      "hornbill"
     ]
   },
   "word.onomatopoeia": {
@@ -5731,12 +5965,12 @@
     "description": "Sound-imitating words including animal noises, human vocalizations, and impact sounds",
     "total": 159,
     "examples": [
-      "pop",
-      "bong",
-      "clap",
-      "crunch",
-      "click",
-      "flutter"
+      "clink",
+      "meow",
+      "yip",
+      "ding",
+      "crack",
+      "crackle"
     ]
   },
   "word.verb": {
@@ -5745,12 +5979,12 @@
     "description": "Action words and verb forms across various tenses including past and gerunds",
     "total": 9950,
     "examples": [
-      "trundling",
-      "chew",
-      "engrossed",
-      "glared",
-      "exemplified",
-      "coat"
+      "hooted",
+      "swinging",
+      "hypothesize",
+      "hulking",
+      "huddling",
+      "incepting"
     ]
   }
 }
