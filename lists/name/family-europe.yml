@@ -43,6 +43,7 @@ bianco
 blanc
 blanchard
 blanco
+böhm
 bondarenko
 bonnet
 bos
@@ -60,7 +61,6 @@ bruno
 burke
 busch
 byrne
-böhm
 cameron
 campbell
 carbone
@@ -200,6 +200,7 @@ hagen
 hahn
 hall
 halvorsen
+hämäläinen
 hansen
 hansson
 harris
@@ -221,13 +222,12 @@ hoffmann
 hofmann
 holm
 horak
+horák
 horn
 horvath
-horák
 huber
 hughes
 hunter
-hämäläinen
 ionescu
 ivanov
 jackson
@@ -240,6 +240,7 @@ jankowski
 jansen
 janssen
 jansson
+järvinen
 jensen
 jesus
 jimenez
@@ -251,10 +252,9 @@ johnson
 joly
 jones
 jonsson
-jung
-järvinen
 jönsson
 jørgensen
+jung
 kaczmarek
 kaiser
 kaminski
@@ -270,6 +270,7 @@ klein
 koch
 kohler
 kok
+könig
 korhonen
 koskinen
 kovacs
@@ -290,7 +291,6 @@ kucera
 kuhn
 kuznetsov
 kwiatkowski
-könig
 lacroix
 laine
 lambert
@@ -333,6 +333,8 @@ maes
 magnusson
 maguire
 maier
+mäkelä
+mäkinen
 makris
 mancini
 marchand
@@ -385,12 +387,10 @@ morozov
 morris
 mulder
 muller
+müller
 munoz
 murphy
 murray
-mäkelä
-mäkinen
-müller
 nagy
 navarro
 nemec
@@ -406,10 +406,10 @@ nilsen
 nilsson
 noel
 novak
+novák
 novikov
 novotny
 novotný
-novák
 nowak
 nunes
 o'brien
@@ -508,6 +508,7 @@ santos
 sartori
 sauer
 schafer
+schäfer
 schmid
 schmidt
 schmitt
@@ -524,7 +525,6 @@ schulze
 schumacher
 schuster
 schwarz
-schäfer
 scott
 seidel
 semenov
@@ -611,12 +611,12 @@ winkler
 winter
 wisniewski
 wojcik
+wójcik
 wolf
 wolff
 wood
 wozniak
 wright
-wójcik
 young
 ziegler
 zielinski

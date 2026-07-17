@@ -6,6 +6,7 @@ const rootDir = 'lists'
 const excludedLists = [
   'city', 'country', 'territory', 'day', 'parti', 'describe', 'moviegen-bench'
 ]
+const collator = new Intl.Collator('en')
 
 const processDirectory = (dir) => {
   const dirEntries = fs.readdirSync(dir, { withFileTypes: true })
@@ -41,7 +42,7 @@ const processFile = (dir, file) => {
   list = [...new Set(list)]
 
   // Sort
-  list.sort((a, b) => a.localeCompare(b))
+  list.sort(collator.compare)
 
   const newContents = `---${frontmatter}---\n${list.join('\n')}\n`
 
