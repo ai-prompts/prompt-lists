@@ -2,22 +2,41 @@
 title: Minerals
 category: nature
 description: "Specific mineral specimens, crystals, and semi-precious stones"
+additionalSource: "Open English WordNet 2025"
+additionalSourceUrl: "https://en-word.net/downloads"
+additionalSourceLicense: "CC BY 4.0"
+additionalSourceLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+additionalSourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
+additionalSourceAttribution: "Contains terms adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
 actinolite
 adamite
+ader wax
+adesite
 aegirine
 agate
+agglomerate
 alabaster
 albite
 alexandrite
 almandine
+almandite
+alumina
+aluminium oxide
+aluminum oxide
+alundum
 amazonite
 amber
 amethyst
+amphibole
+amphibole group
+amphibolite
+amygdaloid
 analcime
 anatase
 andalusite
 andesine
+andesite
 andradite
 anglesite
 anhydrite
@@ -28,9 +47,16 @@ anorthoclase
 anthophyllite
 antigorite
 apatite
+aphanite
+aplite
 apophyllite
 aquamarine
 aragonite
+arenaceous rock
+argentite
+argillaceous rock
+argillite
+argyrodite
 arsenopyrite
 asbestos
 astrophyllite
@@ -40,22 +66,47 @@ aurichalcite
 autunite
 axinite
 azurite
+baddeleyite
+balas
+balas ruby
+ballast
+bank gravel
+barium sulphate
 baryte
+barytes
+bastnaesite
 bastnasite
+batholite
+batholith
 bavenite
 benitoite
 beryl
 biotite
+bitter spar
 bixbyite
+blende
+bluestone
 borax
 bornite
 boulangerite
 bournonite
+breccia
 brookite
+brown goldstone
+brownstone
 brucite
+burnt sienna
+burnt umber
 bytownite
 cacoxenite
+cadmium sulphide
+cairngorm
+calamine
+calc-tufa
+calcedony
 calcite
+caliche
+carbuncle
 carnallite
 carnelian
 carnotite
@@ -63,10 +114,15 @@ cassiterite
 celestine
 celestite
 cerussite
+ceylonite
+chabasite
 chabazite
 chalcanthite
 chalcedony
 chalcopyrite
+chalk
+chalybite
+chamosite
 charoite
 chiastolite
 chlorite
@@ -74,96 +130,195 @@ chondrodite
 chromite
 chrysoberyl
 chrysocolla
+chrysolite
 chrysoprase
 chrysotile
 cinnabar
+cinnamon stone
 citrine
+claystone
 clinoclase
 clinozoisite
+cobalt bloom
 cobaltite
 coesite
 colemanite
+coltan
 columbite
+columbite-tantalite
+common topaz
+concentrate
+conglomerate
 cooperite
 copiapite
+copper glance
+copper pyrites
 cordierite
+cornelian
+corundom
 corundum
 covellite
 creedite
 cristobalite
 crocoite
+crushed rock
 cryolite
 cuprite
+cyanite
+dacite
+damourite
 danburite
 datolite
+demantoid
 descloizite
 diaspore
 diopside
 dioptase
+diorite
 dolomite
 dravite
+dressed ore
 dumortierite
+earth color
+earth wax
 elbaite
 emerald
+emery
+emery rock
+emery stone
 enstatite
 epidote
 epsomite
 erythrite
+essonite
 ettringite
 euxenite
+false topaz
 fayalite
 feldspar
+felspar
 ferberite
+fergusonite
+fieldstone
+fluor
 fluorapatite
 fluorite
+fluorspar
 forsterite
 franklinite
+french chalk
+gabbro
 gadolinite
 gahnite
 galena
 garnet
+garnierite
+germanite
+gesso
 gibbsite
+glauconite
 glaucophane
+gneiss
 goethite
+goldstone
+gothite
+graphic tellurium
+green lead ore
+greenland spar
 greenockite
+greensand
+greisen
+grit
+gritrock
+gritstone
 grossular
+groundmass
 grunerite
 gypsum
+haematite
 halite
+harlequin opal
+hausmannite
 hauyne
+heavy spar
 hedenbergite
 heliodor
 hematite
 hemimorphite
+hessonite
 heulandite
 hiddenite
+hornblende
+hornfels
+hornstone
 howlite
+humic shale
 humite
+iceland spar
+igneous rock
 illite
 ilmenite
 iolite
+iridosmine
+iron manganese tungsten
+iron ore
+iron pyrite
+isinglass
+jacinth
 jade
 jadeite
+jargon
+jargoon
 jarosite
 jasper
+kainite
+kernite
+kieserite
+kimberlite
+krennerite
 kunzite
 kyanite
 labradorite
+langbeinite
 lapis lazuli
+lava
 lazulite
 lazurite
+lead ore
 lepidolite
+lepidomelane
 leucite
+limonite
 linarite
 lizardite
+magma
+magnesia
 magnesite
+magnesium oxide
+magnetic iron-ore
+magnetic pyrites
 magnetite
 malachite
+maltha
 manganite
 marcasite
+marlite
+marlstone
+massicot
+massicotite
+matrix
+meerschaum
+metamorphic rock
+mexican onyx
 mica
 microcline
+millerite
 mimetite
+mineral
+mineral pitch
+mineral tar
+mineral wax
+mispickel
 molybdenite
 monazite
 montmorillonite
@@ -173,30 +328,65 @@ morganite
 muscovite
 natrolite
 nepheline
+nephelinite
+nephelite
 nephrite
 neptunite
+niobite
 niter
+nitrocalcite
 nosean
 obsidian
+ocher
+ochre
+oil shale
 oligoclase
+olivenite
 olivine
+onyx marble
 opal
+ore
+oriental alabaster
 orpiment
 orthoclase
+osmiridium
+ozocerite
+ozokerite
+pahoehoe
 painite
+paragneiss
+paragonite
+pay dirt
 pectolite
+pegmatite
 pentlandite
 periclase
 peridot
+peridotite
 petalite
 phenakite
+phillipsite
 phlogopite
 phosgenite
 pigeonite
+pillow lava
+pinite
+pit run
+pit-run gravel
+pitchblende
+pitchstone
+plagioclase
+plasma
+pleonaste
+pluton
+plutonic rock
 pollucite
+porphyritic rock
+porphyry
 prehnite
 proustite
 psilomelane
+pudding stone
 pumpellyite
 purpurite
 pyrargyrite
@@ -207,32 +397,77 @@ pyromorphite
 pyrope
 pyrophyllite
 pyroxene
+pyrrhotine
 pyrrhotite
 quartz
+quartzite
+raddle
+raw sienna
+raw umber
 realgar
+red clay
+reddle
+rensselaerite
+rhinestone
 rhodochrosite
+rhodolite
 rhodonite
+rhyolite
+road metal
+rock
+rock crystal
+rock salt
+rottenstone
+rubicelle
 ruby
+ruby spinel
+rudaceous rock
+ruddle
 rutile
+samarskite
 sanidine
 sapphire
+sapphirine
+sard
+sardine
+sardius
 scapolite
 scheelite
+schist
 schorl
 scolecite
+sedimentary rock
 selenite
+sepiolite
 serpentine
+shale
 shattuckite
+shingle
+shingling
+sial
 siderite
+sienna
 sillimanite
+siltstone
+sima
+sinoper
+sinopia
+sinopis
+smaltite
 smithsonite
+soap-rock
+soaprock
+soapstone
 sodalite
+spar
 sperrylite
 spessartine
 sphalerite
 spinel
+spinel ruby
 spodumene
 staurolite
+steatite
 stibnite
 stichtite
 stilbite
@@ -240,41 +475,75 @@ stishovite
 strontianite
 struvite
 sulfur
+sylvanite
+sylvine
 sylvite
 taaffeite
+tachylite
+taconite
 talc
+talcum
 tantalite
 tanzanite
 tennantite
 tenorite
+terra alba
 tetrahedrite
 thenardite
 thomsonite
+thorite
+thortveitite
 thulite
+tin pyrites
 titanite
 topaz
 tourmaline
+transparent quartz
 tremolite
 tridymite
 triphylite
+tripoli
 troilite
 trona
+tufa
+tuff
 tugtupite
 turquoise
 ulexite
+umber
 uraninite
+uranium ore
 vanadinite
 variscite
+verd antique
+verde antique
+vermiculite
+vesuvian
 vesuvianite
 vivianite
+volcanic glass
+volcanic rock
+water sapphire
 wavellite
+white asbestos
+white feldspar
+white lead ore
 willemite
 witherite
 wolframite
 wollastonite
 wulfenite
+wurtzite
 xenotime
+yellow ocher
+yellow ochre
+ytterbite
 zeolite
+zinc blende
+zinc spar
 zincite
+zinkenite
+zinnwaldite
 zircon
+zirconium silicate
 zoisite

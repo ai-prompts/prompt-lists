@@ -10,8 +10,15 @@ sourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
 attribution: "Adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
 aba
+abaca
+absorbent cotton
 acetate rayon
+acrylic
+acrylic fiber
 aertex
+alpaca
+animal fiber
+animal fibre
 bagging
 baize
 balbriggan
@@ -25,9 +32,11 @@ bobbin lace
 bombazine
 book cloth
 boucle
+bowstring hemp
 broadcloth
 brussels lace
 buckram
+buntal
 bunting
 cambric
 camel's hair
@@ -37,6 +46,7 @@ camo
 canton crepe
 canton flannel
 canvass
+cashmere
 cerecloth
 challis
 chambray
@@ -48,7 +58,10 @@ chino
 cleaning cloth
 cloth
 cobweb
+cotton
+cotton fiber
 cotton flannel
+cotton wool
 courtelle
 crape
 crepe de chine
@@ -81,9 +94,13 @@ fag end
 faille
 fiber
 fibre
+fibril
+filament
 filet
 fillet
 flannelette
+flax
+fleece
 flying jib
 fore staysail
 fore-and-aft sail
@@ -117,6 +134,7 @@ hankie
 hanky
 harris tweed
 headsail
+hemp
 homespun
 hopsack
 hopsacking
@@ -129,6 +147,8 @@ inset
 jaconet
 jean
 jib
+jute
+kapok
 khaddar
 khadi
 khaki
@@ -139,6 +159,7 @@ leatherette
 lining
 linsey-woolsey
 lint
+long-staple cotton
 longyi
 lugsail
 lungi
@@ -150,6 +171,9 @@ macrame
 main course
 main-topsail
 mainsail
+man-made fiber
+manila hemp
+manilla hemp
 marocain
 marseille
 material
@@ -169,9 +193,13 @@ mousseline de sole
 nainsook
 nankeen
 narrow wale
+natural fiber
+natural fibre
 netting
 network
 ninon
+nylon
+oakum
 oddment
 oilcloth
 olive drab
@@ -192,6 +220,8 @@ pillow lace
 pilot cloth
 pique
 placket
+plant fiber
+plant fibre
 plush
 pocket-handkerchief
 point lace
@@ -200,7 +230,13 @@ poplin
 press of canvas
 press of sail
 quilting
+raffia
 rag
+raphia
+raveling
+ravelling
+raw wool
+red silk cotton
 remainder
 remnant
 rep
@@ -226,12 +262,19 @@ shag
 shantung
 sheet
 sheeting
+shetland wool
 shirting
 shirttail
+shoddy
+short-staple cotton
 shoulder patch
 shred
 silesia
+silk
+silk cotton
 silk serge
+sisal
+sisal hemp
 skysail
 snood
 spanker
@@ -242,13 +285,20 @@ sponge cloth
 spritsail
 square sail
 stammel
+staple
+staple fiber
+staple fibre
 staysail
 stockinet
 stockinette
+strand
+straw
+string
 suede cloth
 suiting
 swan's down
 swatch
+synthetic fiber
 tag
 tag end
 tammy
@@ -273,12 +323,14 @@ ultrasuede
 upholstery material
 valenciennes
 valenciennes lace
+vegetable silk
 veiling
 velcro
 velour
 velours
 velveteen
 vicuna
+virgin wool
 viscose rayon
 viyella
 vulcanized fiber
@@ -293,6 +345,7 @@ winceyette
 wiping cloth
 wire cloth
 wirework
+wool
 woolen
 woollen
 worsted
