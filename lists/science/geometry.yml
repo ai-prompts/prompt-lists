@@ -2,121 +2,542 @@
 title: Geometrical and mathematical terms
 category: science
 description: "Advanced mathematical shapes, fractals, attractors, and geometric concepts"
+additionalSource: "Open English WordNet 2025"
+additionalSourceUrl: "https://en-word.net/downloads"
+additionalSourceLicense: "CC BY 4.0"
+additionalSourceLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+additionalSourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
+additionalSourceAttribution: "Contains terms adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
+acute angle
+acute triangle
+acute-angled triangle
+anchor ring
+angle
+angle of attack
+angle of dip
+angle of extinction
+angle of incidence
+angle of inclination
+angle of reflection
+angle of refraction
+angle of view
+angular distance
 annulus
 apollonian gasket
+arch
 archimedean
 archimedean solids
+asterism
+asymptote
+azimuth
 barnsley fern
+base
+bell
+bell shape
+belly
+bend
+bias
+bifurcation
+bight
+block
+border
+bound
+boundary
+bow
+bowl
+box
+brachistochrone
+brachium
+branch
 bravais lattice
+brink
 buckminster fullerene
 bucky ball
+bulge
+bump
 calabi-yau manifold
+camber
+campana
 cantor set
+caput
+cardioid
+cartesian plane
+cast
+catacaustic
+catenary
 catenoid
+caustic
 cellular automaton
+center line
+centerline
+channel
 chaos theory
 chaotic system
+chap
+chord
+circle
+circlet
+cladogram
+cleft
 clifford attractor
+closed curve
+complementary angles
+complex plane
+concave polygon
+concave polyhedron
+concave shape
+concavity
+conchoid
+conchoid of nicomedes
+conic
 conic section
+convex polygon
+convex polyhedron
+convex shape
+convexity
 conway's game of life
+corner
+corrugation
+cosine curve
+cotangent curve
+crack
+cranny
+crease
+crenation
+crenature
+crenel
+crenelle
+crescent
+crevice
+crinkle
+critical angle
+crook
+crotchet
+crow's feet
+crow's foot
 crystal lattice
 crystallographic
 crystallographic symmetry
 cube
 cuboctahedron
+cuboid
+cuneus
+cup
+cupid's bow
+curtate cycloid
+curve
+curved shape
+cutting angle
+cycloid
 cylinder
 de jong attractor
+decagon
+decahedron
+delta
 deltoidal icositetrahedron
+demand curve
+dent
+depression
+dermatoglyphic
+diagonal
+diameter
+diamond
+dihedral angle
+dimple
+dip
 directrix
 disdyakis dodecahedron
+dodecagon
 dodecahedron
+dogleg
+dome
+double helix
+doughnut
 dragon curve
+droop
+edge
+element
+element of a cone
+element of a cylinder
+ellipse
 ellipsoid
+entasis
+envelope
+epicycle
+epicycloid
+equator
+equiangular triangle
+equilateral
+equilateral triangle
 euclidean geometry
+excrescence
+exterior angle
+external angle
+extinction angle
+extrados
+extrusion
+face angle
+facet
+facet plane
 fibonacci spiral
+figure
+figure 8
+figure eight
+figure of eight
+fissure
+flank
+fork
+fossa
+foursquare
 fractal
 fractal art
 fractal circle
 fractal curve
 fractal dimension
 fractal pattern
+fringe
+frown line
+frustum
+furrow
+geodesic
 geodesic dome
+geodesic line
+geofence
 geometric
+gibbosity
+gibbousness
 golden ratio
 golden spiral
+gooseneck
 graph theory
+groove
 group theory
+halo
+head line
+heart
+heart line
 helicoid
+helix
+helix angle
+hemicycle
+hemisphere
 henon attractor
+heptagon
+hexagon
+hexagram
+hexahedron
 hexecontahedron
 hilbert curve
+hip
+hook
+hour angle
+hump
 hyperbola
 hyperbolic geometry
+hyperboloid
 hypercube
+hypocycloid
+hypotenuse
 icosahedron
 icosidodecahedron
+ideal solid
+impression
+imprint
+incidence angle
+incision
+incisura
+incisure
+inclination
+inclination of an orbit
+incurvation
+incurvature
+indentation
+indenture
+indifference curve
+interior angle
+internal angle
+intrados
+isogon
 isometric
+isosceles triangle
+jordan curve
 julia 3d fractal
 julia fractal
 julia set
 julia set fractal
+jut
+keel
 kite hexecontahedron
 klein bottle
+knife
+knob
 knot theory
 koch curve
 l-systems
 lattice
+laugh line
+leg
+lemniscate
+life line
+lifeline
+line of destiny
+line of fate
+line of heart
+line of life
+line of saturn
+line roulette
+loop
 lorenz attractor
 lorenz system
+love line
+lower bound
+magnetic declination
+magnetic dip
+magnetic inclination
+magnetic variation
 mandelbox
 mandelbrot set
 mandelbulb
+margin
 menger sponge
 menger sponge fractal
+mensal line
+midline
+midplane
 mobius strip
 moebius transformation
+mogul
+mold
+mould
+niche
+node
 non-crystallographic symmetry
 non-euclidean geometry
 non-orientable surface
+nonagon
+notch
+nub
+nubble
+oblique angle
+oblique triangle
+oblong
+obtuse angle
+obtuse triangle
+obtuse-angled triangle
+octagon
 octahedron
+orbital plane
+outer boundary
+oval
+ovoid
 parabola
+paraboloid
+parallel
 parallelepiped
+parallelepipedon
+parallelogram
+parallelopiped
+parallelopipedon
+peak
+pedal curve
+pencil
 penrose stairs
 penrose tiling
 penrose triangle
+pentacle
+pentagon
 pentagonal
 pentagonal hexecontahedron
+pentagram
+pentahedron
+pentangle
+perigon
+perimeter
+periphery
+perpendicular
+picture plane
+pit
+plane
+plane angle
+plane figure
+platonic body
 platonic solid
+pocket
 poincare disk
+point
+polygon
+polygonal chain
+polygonal shape
 polyhedra
+polyhedral angle
+polyhedron
+prism
+prismatoid
+prismoid
 projective geometry
+prolate cycloid
+prominence
+protrusion
+protuberance
 pseudosphere
+pyramid
+pythagorean triangle
+quadrangle
+quadrangular prism
+quadrate
+quadric
+quadric surface
+quadrilateral
 quasicrystals
+radius
+ramification
+recess
+recession
+rectangle
+reentering angle
+reentering polygon
+reentrant angle
+reentrant polygon
+reflex angle
+regular convex polyhedron
+regular convex solid
+regular dodecahedron
+regular hexagon
+regular hexahedron
+regular icosahedron
+regular octahedron
+regular pentagon
+regular polygon
+regular polyhedron
+regular prism
+regular pyramid
+regular tetrahedron
+rhomb
 rhombicuboctahedron
+rhombohedron
+rhomboid
+rhombus
+ridge
 riemann hypothesis
+right angle
+right prism
+right triangle
+right-angled triangle
+rim
+ring
 rossler attractor
+roulette
+round angle
+rut
+s-shape
 sacred geometry
+sag
+salient angle
+scalene triangle
+scallop
+scoop
+score
+scotch
+scratch
+seam
+secant
+sector
+semicircle
+sheet
 sierpinski
 sierpinski carpet
 sierpinski triangle
+simple closed curve
+sine curve
+sinuosity
+sinuousness
+sinusoid
+slit
+snag
+solid angle
+solid figure
 sphere
+spherical angle
 spherical geometry
+spherical polygon
+spherical triangle
+spine
+spiral
+spur
+square
+square pyramid
+stamp
+stemma
+straight line
 strange attractor
+stria
+striation
+subfigure
 superellipse
 superellipsoid
+supply curve
+swelling
 symmetry
+tail
+tail end
+tangent
+tangent curve
+tangent plane
+taper
 tessellating
 tesseract
+tetragon
 tetrahedron
+thalweg
+thickening
+three-dimensional figure
+threshold
 tiling
+tilt angle
+tip
+tongue
 topological
 topology
+toroid
+torsion angle
 torus
+trapezium
+trapezohedron
+trapezoid
+tree
+tree diagram
 triakis octahedron
+triangle
+triangular prism
+trigon
+trilateral
+trough
+true anomaly
+truncated cone
 truncated cuboctahedron
 truncated icosahedron
 truncated icosidodecahedron
 truncated octahedron
+truncated pyramid
 truncated tetrahedron
+turn
+twist
+two-dimensional figure
+uncus
+undecagon
+undulation
+upper bound
+variation
+vector
+verge
+vertical angle
+view angle
 voronoi diagram
+wart
+washout
+wave
+wave angle
+wedge
+wedge shape
+wrinkle

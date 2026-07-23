@@ -2,24 +2,56 @@
 title: Weather
 category: nature
 description: "Meteorological events, cloud types, and severe weather conditions"
+additionalSource: "Open English WordNet 2025"
+additionalSourceUrl: "https://en-word.net/downloads"
+additionalSourceLicense: "CC BY 4.0"
+additionalSourceLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+additionalSourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
+additionalSourceAttribution: "Contains terms adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
 acid rain
+air
+air current
+air hole
+air pocket
+airstream
 altocumulus clouds
 altostratus clouds
+antitrade
+antitrade wind
+antitrades
 asperitas clouds
+atmospheric condition
+atmospheric electricity
+atmospheric phenomenon
 aurora australis
 aurora borealis
 avalanche
 balmy
+bise
+bize
 black frost
 black ice
+blast
 blizzard
+blow
+blue jet
+bluster
 blustery
 boiling
+bolt
+bolt of lightning
+boreas
+breath
+breeze
 breezy
 brisk
 calm
+calm air
+catabatic wind
+chain lightning
 chilly
+chinook
 chinook wind
 cirrocumulus clouds
 cirrostratus clouds
@@ -30,50 +62,89 @@ cloudy
 cold
 cold front
 cold snap
+cold wave
+cold weather
+condensate
+condensation
+conditions
 cool
 crepuscular rays
 crisp
+crosswind
 cumulonimbus clouds
 cumulus clouds
+current of air
 cyclone
 damp
 deluge
 derecho
 diamond dust
+doldrums
 downburst
+downdraft
+downfall
 downpour
+draft
+draught
 drizzle
 drought
 dry
 dust storm
+duster
+east wind
+easter
+easterly
+electric storm
+electrical storm
+elements
+equinoctial storm
+fair weather
+fine spray
 fire rainbow
+firestorm
 flood
 flurry
+foehn
 fog
 fogbow
 foggy
+fohn
+forked lightning
+freeze
 freezing
 freezing rain
+fresh breeze
+fresh gale
 frigid
+front
 frost
 frosty
 frozen drizzle
 frozen rain
 funnel cloud
 gale
+gentle breeze
+gentle wind
 glaze
 graupel
+greenhouse effect
+greenhouse warming
+gust
 gusts of wind
 haboob
 hail
 hailstorm
 halo around the moon
+harmattan
 haze
 hazy
+headwind
 heat lightning
+heat wave
 heatwave
 heavy rain
 heavy snow
+high wind
 hoarfrost
 hot
 humid
@@ -83,52 +154,118 @@ ice storm
 icicles
 icy
 indian summer
+inversion
+jet
+jet stream
+katabatic wind
 kelvin-helmholtz clouds
+khamsin
 lake-effect snow
 landspout
+languor
 lenticular clouds
+levanter
+light air
+light breeze
 light pillar
 light snow
 lightning
 lightning bolt
 lightning storm
+line squall
+line storm
 mammatus clouds
+meteor shower
+meteor stream
 microburst
+midnight sun
 mild
 mist
+mistral
 mistral wind
 misty
+mizzle
+moderate breeze
+moderate gale
 monsoon
 moonbow
 muggy
 nacreous clouds
+near gale
 nimbostratus clouds
 noctilucent clouds
 nor'easter
+noreaster
+north wind
+northeaster
+norther
+northerly
+northern lights
+northwest wind
+northwester
 occluded front
+occlusion
 overcast
+parhelic circle
+parhelic ring
 partly cloudy
+pelter
+pocket
+polar front
 polar vortex
 powder snow
+precipitation
+prevailing westerly
+prevailing wind
+puff
+puff of air
 rain shower
 rainbow
+rainfall
+rainstorm
 rainy
+red sprites
 refreshing
+reverse lightning
+samiel
+sandblast
 sandstorm
+santa ana
+scattering
+scorcher
 scorching
+sea breeze
+shower
+silver storm
+simoom
+simoon
+sirocco
 sirocco wind
 sizzling
 sleet
 smattering
 smog
 smoggy
+snow
+snow eater
 snow flurry
 snow squall
 snowdrift
 snowfall
 snowstorm
 snowy
+soaker
+solar halo
+sou'easter
+sou'wester
+south wind
+southeaster
+souther
+southerly
+southern lights
+southwester
 sprinkle
+sprinkling
 squall
 squall line
 stationary front
@@ -136,26 +273,59 @@ storm surge
 stormy
 stratocumulus clouds
 stratus clouds
+strong breeze
+strong gale
+sultriness
 sultry
 sun dog
 sun halo
 sunny
+sunrise
+sunset
+sunshine
 sunshower
+supertwister
+sweat
 sweltering
+tailwind
+temperateness
 tempest
+thaw
+thawing
+thermal
 thunder
 thunder snow
 thunderbolt
+thundershower
 thunderstorm
 tornado
+torrent
 torrential rain
+trade
+trade wind
+tramontana
+tramontane
 twister
 typhoon
+updraft
+violent storm
 virga
 warm
 warm front
+warming
 waterspout
+wave
+weather
+weather condition
+west wind
+wester
+westerly
+whiff
+whirlwind
 white frost
 whiteout
+whole gale
+wind
 windstorm
 windy
+zephyr
