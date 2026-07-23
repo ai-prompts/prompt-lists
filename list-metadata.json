@@ -1847,18 +1847,46 @@
       "tense"
     ]
   },
+  "fiction.abhorsen": {
+    "title": "Old Kingdom names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, institutions, artifacts, and distinctive names from Garth Nix's Old Kingdom series",
+    "total": 35,
+    "examples": [
+      "ancient charter",
+      "paperwing",
+      "abhorsen's house",
+      "charter marks",
+      "greenwash",
+      "charter"
+    ]
+  },
+  "fiction.adventureTime": {
+    "title": "Adventure Time world",
+    "category": "fiction",
+    "description": "Kingdoms, peoples, creatures, factions, artifacts, and distinctive names from Adventure Time",
+    "total": 48,
+    "examples": [
+      "james baxter",
+      "lemongrab",
+      "the land of ooo",
+      "ice kingdom",
+      "snail",
+      "sweet p"
+    ]
+  },
   "fiction.alienPredator": {
     "title": "Alien and Predator names",
     "category": "fiction",
     "description": "Places, species, factions, creatures, ships, and artifacts from Alien and Predator fiction",
     "total": 147,
     "examples": [
-      "sulaco",
-      "xenomorph",
-      "uscss prometheus",
-      "newt",
-      "xenomorph hive",
-      "uss veracruz"
+      "zeta ii reticuli",
+      "stans",
+      "wrist gauntlet",
+      "smart disc",
+      "tennesse",
+      "xenomorph hive"
     ]
   },
   "fiction.amber": {
@@ -1867,12 +1895,40 @@
     "description": "Places, powers, factions, and concepts from Roger Zelazny's Chronicles of Amber",
     "total": 91,
     "examples": [
-      "the primal pattern",
-      "ganelon",
-      "hug hug",
-      "eric",
-      "avernus",
-      "bill roth"
+      "abyss",
+      "delwin and sand",
+      "arthur",
+      "primal pattern",
+      "logrus",
+      "mandor"
+    ]
+  },
+  "fiction.amphibia": {
+    "title": "Amphibia world",
+    "category": "fiction",
+    "description": "Amphibian peoples, places, creatures, technology, factions, and artifacts from Amphibia",
+    "total": 38,
+    "examples": [
+      "calamity powers",
+      "snird",
+      "bessie",
+      "grime",
+      "marcy wu",
+      "anne boonchuy"
+    ]
+  },
+  "fiction.artemisFowl": {
+    "title": "Artemis Fowl world",
+    "category": "fiction",
+    "description": "Fairy peoples, organizations, places, technology, creatures, and distinctive names from the Artemis Fowl novels",
+    "total": 41,
+    "examples": [
+      "b'wa kell",
+      "p-suit",
+      "chute e1",
+      "fairy book",
+      "the c cube",
+      "leprecon"
     ]
   },
   "fiction.asoiaf": {
@@ -1881,12 +1937,26 @@
     "description": "Places, houses, peoples, and creatures from A Song of Ice and Fire",
     "total": 449,
     "examples": [
-      "sunspear",
-      "qarth",
-      "new ghis",
-      "house tarbeck",
-      "kayce",
-      "mole's town"
+      "stone drum",
+      "house footly",
+      "house connington",
+      "house dustin",
+      "house lefford",
+      "house reyne"
+    ]
+  },
+  "fiction.attackOnTitan": {
+    "title": "Attack on Titan world",
+    "category": "fiction",
+    "description": "Nations, factions, peoples, walls, Titan powers, places, and military technology from Attack on Titan",
+    "total": 39,
+    "examples": [
+      "garrison regiment",
+      "cart titan",
+      "armored titan",
+      "humanity within the walls",
+      "eren yeager",
+      "wall titans"
     ]
   },
   "fiction.avatar": {
@@ -1895,12 +1965,12 @@
     "description": "Places, peoples, spirits, bending arts, and factions from Avatar: The Last Airbender and The Legend of Korra",
     "total": 163,
     "examples": [
-      "avatar stateglider",
-      "yu dao",
-      "mai",
-      "ty lee",
-      "appa",
-      "dai li"
+      "haru",
+      "tree of time",
+      "serpent's pass",
+      "southern water tribe",
+      "meelo",
+      "firebending"
     ]
   },
   "fiction.barsoom": {
@@ -1909,12 +1979,26 @@
     "description": "Places, peoples, creatures, titles, and artifacts from Edgar Rice Burroughs' Barsoom",
     "total": 125,
     "examples": [
-      "martian",
-      "greater helium",
-      "guthrie",
-      "great white apes",
-      "gulliver jones",
-      "apt"
+      "shakor",
+      "vadan kole",
+      "nine rays",
+      "barsoom",
+      "u-gor",
+      "banths"
+    ]
+  },
+  "fiction.bartimaeus": {
+    "title": "Bartimaeus Sequence names",
+    "category": "fiction",
+    "description": "Places, spirits, magical institutions, artifacts, factions, and distinctive names from Jonathan Stroud's Bartimaeus Sequence",
+    "total": 34,
+    "examples": [
+      "demons",
+      "commoners",
+      "simurgh",
+      "ministry of internal affairs",
+      "whitehall",
+      "gladstone's staff"
     ]
   },
   "fiction.basLag": {
@@ -1923,12 +2007,82 @@
     "description": "Places, peoples, creatures, factions, and concepts from China Mieville's Bas-Lag fiction",
     "total": 147,
     "examples": [
-      "bonetown",
-      "suzerain",
-      "mr motley",
-      "solomon gold",
-      "the sough",
-      "rhyol"
+      "torque",
+      "judah low",
+      "gutter",
+      "oriel",
+      "mayor rudgutter",
+      "bas-lag"
+    ]
+  },
+  "fiction.belgariad": {
+    "title": "Belgariad world names",
+    "category": "fiction",
+    "description": "Places, peoples, gods, creatures, factions, artifacts, and distinctive names from David Eddings's Belgariad and Malloreon",
+    "total": 46,
+    "examples": [
+      "cthol murgos",
+      "sendar",
+      "angarak gods",
+      "isle of the winds",
+      "melcene empire",
+      "riva"
+    ]
+  },
+  "fiction.berserk": {
+    "title": "Berserk world",
+    "category": "fiction",
+    "description": "Kingdoms, factions, apostles, places, creatures, and artifacts from Berserk",
+    "total": 36,
+    "examples": [
+      "apostles",
+      "griffith",
+      "the sea god",
+      "nosferatu zodd",
+      "casca",
+      "the reborn band of the hawk"
+    ]
+  },
+  "fiction.blackCompany": {
+    "title": "Black Company names",
+    "category": "fiction",
+    "description": "Places, factions, peoples, artifacts, creatures, and distinctive names from Glen Cook's Black Company world",
+    "total": 32,
+    "examples": [
+      "domination",
+      "croaker",
+      "silver spike",
+      "soulcatcher",
+      "glittering stone",
+      "annals"
+    ]
+  },
+  "fiction.bleach": {
+    "title": "Bleach world",
+    "category": "fiction",
+    "description": "Soul Reapers, Hollows, realms, factions, powers, and named weapons from Bleach",
+    "total": 34,
+    "examples": [
+      "quincy",
+      "uryu ishida",
+      "zangetsu",
+      "hueco mundo",
+      "the royal palace",
+      "shikai"
+    ]
+  },
+  "fiction.bloodborne": {
+    "title": "Bloodborne names",
+    "category": "fiction",
+    "description": "Districts, factions, hunters, great ones, creatures, and relics from Bloodborne's Yharnam",
+    "total": 50,
+    "examples": [
+      "kos",
+      "iosefka's clinic",
+      "the doll",
+      "vilebloods",
+      "choir",
+      "beasthood"
     ]
   },
   "fiction.bookOfTheNewSun": {
@@ -1937,12 +2091,26 @@
     "description": "Unique names from The Book of the New Sun (Gene Wolfe) — places, peoples, creatures, factions, and ships combined.",
     "total": 227,
     "examples": [
-      "the front",
-      "the new sun",
-      "the host of the autarch",
-      "triskele",
-      "urd",
-      "the pelerines"
+      "the hetaerae",
+      "briah",
+      "cynocephalus",
+      "baldanders",
+      "piaton",
+      "aquastor"
+    ]
+  },
+  "fiction.borrowers": {
+    "title": "The Borrowers world",
+    "category": "fiction",
+    "description": "Borrower families, big people, homes, settlements, and borrowed objects from Mary Norton's Borrowers novels",
+    "total": 34,
+    "examples": [
+      "harpsichord family",
+      "hendreary",
+      "the boy",
+      "clock family",
+      "mild eye",
+      "homily clock"
     ]
   },
   "fiction.brokenEarth": {
@@ -1951,12 +2119,40 @@
     "description": "Unique names from The Broken Earth (N.K. Jemisin) — places, peoples, creatures, factions, and ships combined.",
     "total": 184,
     "examples": [
-      "guardian",
+      "the strongbacks",
+      "node station seven",
       "the equatorial rift",
-      "the seven-rings",
-      "the pearl",
-      "tirimo",
-      "the tourmaline"
+      "the six-rings",
+      "the faceless",
+      "umael"
+    ]
+  },
+  "fiction.cardcaptorSakura": {
+    "title": "Cardcaptor Sakura world",
+    "category": "fiction",
+    "description": "Cardcaptors, guardians, places, magical objects, and named Clow Cards from Cardcaptor Sakura",
+    "total": 78,
+    "examples": [
+      "li syaoran",
+      "the windy",
+      "kaho mizuki",
+      "the light",
+      "star key",
+      "the libra"
+    ]
+  },
+  "fiction.castlevania": {
+    "title": "Castlevania names",
+    "category": "fiction",
+    "description": "Castles, clans, hunters, creatures, relics, and supernatural powers from the Castlevania game canon",
+    "total": 38,
+    "examples": [
+      "infinite corridor",
+      "alucard",
+      "isaac",
+      "balore",
+      "clock tower",
+      "castle dracula"
     ]
   },
   "fiction.conan": {
@@ -1965,12 +2161,26 @@
     "description": "Places, peoples, creatures, gods, and factions from Robert E. Howard's Conan and Hyborian Age",
     "total": 157,
     "examples": [
-      "the black ring",
-      "hyborian",
-      "conan the destroyer",
-      "belit",
-      "acheron",
-      "kosala"
+      "el-ron",
+      "devil in iron",
+      "kushites",
+      "pirate isles",
+      "altaro",
+      "aquilonia"
+    ]
+  },
+  "fiction.cosmere": {
+    "title": "Cosmere names",
+    "category": "fiction",
+    "description": "Worlds, Shards, peoples, organizations, Invested Arts, artifacts, and distinctive names from Brandon Sanderson's Cosmere",
+    "total": 64,
+    "examples": [
+      "celestial shades",
+      "honor",
+      "cognitive realm",
+      "ghostbloods",
+      "cultivation",
+      "hallandren"
     ]
   },
   "fiction.cthulhuMythos": {
@@ -1979,12 +2189,12 @@
     "description": "Unique names from Cthulhu Mythos — places, peoples, creatures, factions, and ships combined.",
     "total": 758,
     "examples": [
-      "the pabodie expedition",
-      "bethpage",
-      "baharna",
-      "baldwin",
-      "bellmore",
-      "aylesbury"
+      "ngranek",
+      "r'lim shaikorth",
+      "saaitii",
+      "the shoggoths",
+      "truro",
+      "the esoteric order of dagon"
     ]
   },
   "fiction.culture": {
@@ -1993,12 +2203,82 @@
     "description": "Starship names, orbitals, planets, systems, species, and factions from Iain M. Banks' Culture series",
     "total": 198,
     "examples": [
-      "gravitas",
-      "thank you and goodnight",
-      "aerle",
-      "charitable view, a",
-      "chaman",
-      "escape velocity"
+      "mistake not",
+      "fou",
+      "gzilt homeworld",
+      "fate amenably amuck",
+      "empiricist",
+      "attitude adjuster"
+    ]
+  },
+  "fiction.cuphead": {
+    "title": "Cuphead names",
+    "category": "fiction",
+    "description": "Isles, characters, bosses, creatures, charms, and relics from Cuphead's Inkwell Isles",
+    "total": 40,
+    "examples": [
+      "inkwell isle three",
+      "chalice",
+      "elder kettle",
+      "whetstone",
+      "ribby and croaks",
+      "root pack"
+    ]
+  },
+  "fiction.daevabad": {
+    "title": "Daevabad names",
+    "category": "fiction",
+    "description": "Places, djinn tribes, creatures, factions, artifacts, and distinctive names from S. A. Chakraborty's Daevabad Trilogy",
+    "total": 41,
+    "examples": [
+      "afshin",
+      "geziri",
+      "agni",
+      "dev",
+      "tanzeem",
+      "qahtani dynasty"
+    ]
+  },
+  "fiction.darkIsRising": {
+    "title": "The Dark Is Rising names",
+    "category": "fiction",
+    "description": "Places, powers, factions, artifacts, and distinctive names from Susan Cooper's The Dark Is Rising sequence",
+    "total": 38,
+    "examples": [
+      "doors",
+      "circle of signs",
+      "sign of fire",
+      "trewissick",
+      "midsummer tree",
+      "greenwitch"
+    ]
+  },
+  "fiction.darkSouls": {
+    "title": "Dark Souls names",
+    "category": "fiction",
+    "description": "Kingdoms, peoples, covenants, creatures, lords, and relics from the Dark Souls trilogy",
+    "total": 57,
+    "examples": [
+      "aldia's keep",
+      "irithyll",
+      "the ashen one",
+      "shulva",
+      "ringed city",
+      "throne of want"
+    ]
+  },
+  "fiction.darkSun": {
+    "title": "Dark Sun names",
+    "category": "fiction",
+    "description": "City-states, peoples, factions, creatures, sorcerer-kings, and artifacts from the Dark Sun world of Athas",
+    "total": 43,
+    "examples": [
+      "thri-kreen",
+      "forest ridge",
+      "sea of silt",
+      "raam",
+      "preservers",
+      "sadira"
     ]
   },
   "fiction.darkTower": {
@@ -2007,12 +2287,12 @@
     "description": "Places, peoples, creatures, factions, and powers from Stephen King's Dark Tower fiction",
     "total": 143,
     "examples": [
-      "maerlyn's grapefruit",
-      "the clearing at the end of the path",
-      "the turtle",
-      "oy",
-      "old people",
-      "tower road"
+      "tolly",
+      "atropos",
+      "gran-pere",
+      "algul siento",
+      "fedoras",
+      "donald callahan"
     ]
   },
   "fiction.dc": {
@@ -2021,12 +2301,54 @@
     "description": "Places, teams, species, artifacts, cosmic powers, and factions from DC fiction",
     "total": 270,
     "examples": [
-      "amulet of anubis",
-      "legion of doom",
       "lobo",
-      "the green",
+      "the rogues",
+      "central city",
       "suicide squad",
-      "supergirl"
+      "house of mystery",
+      "robin"
+    ]
+  },
+  "fiction.deliciousInDungeon": {
+    "title": "Delicious in Dungeon world",
+    "category": "fiction",
+    "description": "Adventurers, peoples, monsters, places, dishes, magic, and artifacts from Delicious in Dungeon",
+    "total": 37,
+    "examples": [
+      "the dungeon rabbit stew",
+      "dragon ham",
+      "the island",
+      "dungeon ecosystem",
+      "falin's chimera",
+      "laios touden"
+    ]
+  },
+  "fiction.demonSlayer": {
+    "title": "Demon Slayer world",
+    "category": "fiction",
+    "description": "Demon Slayers, demons, locations, ranks, breathing styles, and blades from Demon Slayer",
+    "total": 40,
+    "examples": [
+      "butterfly mansion",
+      "akaza",
+      "kanao tsuyuri",
+      "infinity castle",
+      "flower breathing",
+      "shinobu kocho"
+    ]
+  },
+  "fiction.diablo": {
+    "title": "Diablo names",
+    "category": "fiction",
+    "description": "Realms, peoples, factions, angels, demons, creatures, and relics from the Diablo world of Sanctuary",
+    "total": 43,
+    "examples": [
+      "angiris council",
+      "crusaders of zakarum",
+      "dark exiles",
+      "arreat",
+      "heavenly host",
+      "skovos isles"
     ]
   },
   "fiction.discworld": {
@@ -2035,12 +2357,40 @@
     "description": "Places, peoples, creatures, and groups from Terry Pratchett's Discworld",
     "total": 193,
     "examples": [
-      "circle sea",
-      "the sto plains",
-      "ambiguous puzuma",
-      "ankh-morpork city watch",
-      "chimera",
-      "cable street watch house"
+      "chelys galactica",
+      "brindisi",
+      "dunmanifestin",
+      "cori celesti",
+      "bonk",
+      "broad way"
+    ]
+  },
+  "fiction.divinityOriginalSin": {
+    "title": "Divinity Original Sin names",
+    "category": "fiction",
+    "description": "Places, peoples, factions, creatures, source powers, and relics from the Divinity Original Sin games",
+    "total": 44,
+    "examples": [
+      "fort joy",
+      "ancient empire",
+      "eternals",
+      "eternal aetera",
+      "lucian the divine",
+      "source masters"
+    ]
+  },
+  "fiction.dragonAge": {
+    "title": "Dragon Age names",
+    "category": "fiction",
+    "description": "Nations, cities, peoples, factions, creatures, deities, and relics from the Dragon Age world of Thedas",
+    "total": 46,
+    "examples": [
+      "avvar",
+      "haven",
+      "ferelden",
+      "orlais",
+      "ostagar",
+      "montsimmard"
     ]
   },
   "fiction.dragonBall": {
@@ -2049,12 +2399,26 @@
     "description": "Places, species, transformations, artifacts, and powers from Dragon Ball",
     "total": 150,
     "examples": [
-      "pinnacle",
-      "yamcha",
-      "android 16",
-      "nimbus",
-      "majin vegeta",
-      "moro"
+      "cell",
+      "kid buu",
+      "chichi",
+      "dende",
+      "dodoria",
+      "android 20"
+    ]
+  },
+  "fiction.dragonPrince": {
+    "title": "The Dragon Prince world",
+    "category": "fiction",
+    "description": "Kingdoms, peoples, primal magic, creatures, factions, and artifacts from The Dragon Prince",
+    "total": 41,
+    "examples": [
+      "corvus",
+      "callum",
+      "aaravos",
+      "ezran",
+      "archdragon",
+      "earthblood elves"
     ]
   },
   "fiction.dragonlance": {
@@ -2063,12 +2427,12 @@
     "description": "Places, peoples, factions, creatures, deities, and artifacts from Dragonlance",
     "total": 143,
     "examples": [
-      "ansalon",
-      "bozak draconian",
-      "cataclysm",
-      "blue crystal staff",
-      "dark queen",
-      "qualinesti"
+      "verminaard",
+      "red robes",
+      "pax tharkas",
+      "mountain dwarves",
+      "raistlin majere",
+      "palanthas"
     ]
   },
   "fiction.dune": {
@@ -2077,12 +2441,54 @@
     "description": "Planets, cities, factions, houses, and political groups from Frank Herbert's Dune universe",
     "total": 157,
     "examples": [
-      "house hagal",
-      "choam",
-      "farad'n corrino",
-      "pre-born",
-      "fish speakers",
-      "solari"
+      "mohiam",
+      "fenring",
+      "al-dhanab",
+      "fremen",
+      "hwi naree",
+      "al-lat"
+    ]
+  },
+  "fiction.earthsea": {
+    "title": "Earthsea names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, institutions, artifacts, and distinctive names from Ursula K. Le Guin's Earthsea",
+    "total": 57,
+    "examples": [
+      "dragon's run",
+      "the hands",
+      "master doorkeeper",
+      "orm embar",
+      "roke knoll",
+      "hur-at-hur"
+    ]
+  },
+  "fiction.eberron": {
+    "title": "Eberron names",
+    "category": "fiction",
+    "description": "Nations, cities, peoples, dragonmarked houses, factions, creatures, and relics from Eberron",
+    "total": 45,
+    "examples": [
+      "lord of blades",
+      "house phiarlan",
+      "house jorasco",
+      "house ghallanda",
+      "emerald claw",
+      "great crater"
+    ]
+  },
+  "fiction.eldenRing": {
+    "title": "Elden Ring names",
+    "category": "fiction",
+    "description": "Regions, peoples, orders, demigods, outer gods, creatures, and relics from Elden Ring",
+    "total": 52,
+    "examples": [
+      "mohg",
+      "altus plateau",
+      "farum azula",
+      "ranni",
+      "golden order",
+      "albinaurics"
     ]
   },
   "fiction.elderScrolls": {
@@ -2091,12 +2497,40 @@
     "description": "Places, peoples, factions, creatures, artifacts, and deities from The Elder Scrolls",
     "total": 337,
     "examples": [
-      "mythic dawn",
-      "hasphat antabolis",
-      "frost breath",
-      "an-xileel",
-      "astrid",
-      "bravil"
+      "pyandonea",
+      "cyrodiil",
+      "dwemer",
+      "elisif the fair",
+      "dragonborn",
+      "firsthold"
+    ]
+  },
+  "fiction.elric": {
+    "title": "Elric's Young Kingdoms names",
+    "category": "fiction",
+    "description": "Places, peoples, gods, creatures, factions, artifacts, and distinctive names from Michael Moorcock's Elric saga",
+    "total": 38,
+    "examples": [
+      "dead gods' book",
+      "pan tang",
+      "quarzhasaat",
+      "melnibone",
+      "rackhir the red archer",
+      "melniboneans"
+    ]
+  },
+  "fiction.exandria": {
+    "title": "Exandria names",
+    "category": "fiction",
+    "description": "Continents, cities, peoples, factions, deities, creatures, and relics from Critical Role's Exandria",
+    "total": 48,
+    "examples": [
+      "vasselheim",
+      "vestiges of divergence",
+      "gloomed jungles",
+      "kryn dynasty",
+      "catha",
+      "the calamity"
     ]
   },
   "fiction.expanse": {
@@ -2105,12 +2539,82 @@
     "description": "Places, factions, ships, peoples, and technologies from The Expanse",
     "total": 126,
     "examples": [
+      "winston duarte",
       "miller",
-      "goliath power armor",
-      "eros station",
-      "antony dresden",
-      "gathering storm",
-      "james josephus miller"
+      "fayez sarkis",
+      "churn",
+      "james holden",
+      "pallas"
+    ]
+  },
+  "fiction.fableGame": {
+    "title": "Fable game names",
+    "category": "fiction",
+    "description": "Regions, settlements, factions, creatures, heroes, and relics from the Fable games' Albion",
+    "total": 48,
+    "examples": [
+      "demon doors",
+      "rose cottage",
+      "snowspire",
+      "temple of avo",
+      "crucible",
+      "heroes' guild"
+    ]
+  },
+  "fiction.fablehaven": {
+    "title": "Fablehaven names",
+    "category": "fiction",
+    "description": "Magical preserves, creatures, factions, institutions, artifacts, and distinctive names from Brandon Mull's Fablehaven world",
+    "total": 38,
+    "examples": [
+      "fairy shrine",
+      "blackwell keep",
+      "unicorn horn",
+      "cyclops",
+      "forgotten chapel",
+      "secret preserves"
+    ]
+  },
+  "fiction.fairyTail": {
+    "title": "Fairy Tail world",
+    "category": "fiction",
+    "description": "Guilds, mages, kingdoms, creatures, places, magic, and artifacts from Fairy Tail",
+    "total": 39,
+    "examples": [
+      "phantom lord",
+      "lucy heartfilia",
+      "acnologia",
+      "grand magic games",
+      "dragon slayers",
+      "the eclipse gate"
+    ]
+  },
+  "fiction.fireEmblem": {
+    "title": "Fire Emblem names",
+    "category": "fiction",
+    "description": "Continents, kingdoms, peoples, orders, dragons, and relics from multiple Fire Emblem worlds",
+    "total": 48,
+    "examples": [
+      "akaneia",
+      "the four hounds",
+      "almyra",
+      "thracia",
+      "the scouring",
+      "rigel"
+    ]
+  },
+  "fiction.firstLaw": {
+    "title": "First Law world names",
+    "category": "fiction",
+    "description": "Places, peoples, factions, institutions, artifacts, and distinctive names from Joe Abercrombie's First Law world",
+    "total": 52,
+    "examples": [
+      "magisterium",
+      "bethod",
+      "protectorate",
+      "ospria",
+      "the other side",
+      "black dow"
     ]
   },
   "fiction.forgottenRealms": {
@@ -2119,12 +2623,12 @@
     "description": "Places, peoples, factions, creatures, deities, and artifacts from the Forgotten Realms",
     "total": 331,
     "examples": [
-      "umber hulk",
-      "myrkul",
-      "savras",
-      "ao",
-      "savage frontier",
-      "displacer beast"
+      "orb of dragonkind",
+      "dalelands",
+      "artemis entreri",
+      "cadderly bonaduce",
+      "chitine",
+      "gruumsh"
     ]
   },
   "fiction.foundation": {
@@ -2133,12 +2637,54 @@
     "description": "Places, planets, factions, and groups from Isaac Asimov's Foundation universe",
     "total": 128,
     "examples": [
+      "kalgan",
       "vincetori",
-      "sark",
-      "melpomenia",
-      "preem palver",
-      "pallas",
-      "sayshell"
+      "bonde",
+      "sirius sector",
+      "wanda seldon",
+      "the mule"
+    ]
+  },
+  "fiction.frieren": {
+    "title": "Frieren world",
+    "category": "fiction",
+    "description": "Mages, demons, peoples, cities, dungeons, spells, and artifacts from Frieren: Beyond Journey's End",
+    "total": 39,
+    "examples": [
+      "stark",
+      "serie",
+      "seven sages of destruction",
+      "land",
+      "ubel",
+      "the goddess monument"
+    ]
+  },
+  "fiction.fullmetalAlchemist": {
+    "title": "Fullmetal Alchemist world",
+    "category": "fiction",
+    "description": "Alchemy, nations, institutions, factions, homunculi, places, and artifacts from Fullmetal Alchemist",
+    "total": 37,
+    "examples": [
+      "edward elric",
+      "winry rockbell",
+      "flame alchemy",
+      "amestris",
+      "resenbool",
+      "gluttony"
+    ]
+  },
+  "fiction.gentlemanBastard": {
+    "title": "Gentleman Bastard world names",
+    "category": "fiction",
+    "description": "Cities, peoples, factions, institutions, artifacts, and distinctive names from Scott Lynch's Gentleman Bastard sequence",
+    "total": 47,
+    "examples": [
+      "camorr",
+      "right people",
+      "thorn of camorr",
+      "the capa",
+      "amberglass",
+      "iron sea"
     ]
   },
   "fiction.gethen": {
@@ -2147,12 +2693,40 @@
     "description": "Planets, countries, towns, cultures, and organizations from Ursula K. Le Guin's Hainish Cycle and Earthsea",
     "total": 155,
     "examples": [
-      "orgyen",
-      "cetia",
-      "ebor",
-      "altas",
-      "raj lyubov",
-      "sini"
+      "veffq",
+      "penthe",
+      "persea",
+      "shath",
+      "othokhad",
+      "way"
+    ]
+  },
+  "fiction.godOfWar": {
+    "title": "God of War names",
+    "category": "fiction",
+    "description": "Realms, peoples, gods, creatures, factions, and relics from the God of War games",
+    "total": 44,
+    "examples": [
+      "muspelheim",
+      "asgard",
+      "mimir",
+      "pandora's box",
+      "dark elves",
+      "realm between realms"
+    ]
+  },
+  "fiction.goldenSun": {
+    "title": "Golden Sun names",
+    "category": "fiction",
+    "description": "Continents, settlements, clans, creatures, adepts, and relics from the Golden Sun world of Weyard",
+    "total": 40,
+    "examples": [
+      "tundaria",
+      "apollo lens",
+      "wise one",
+      "kalay",
+      "gondowan",
+      "sanctum"
     ]
   },
   "fiction.gormenghast": {
@@ -2161,12 +2735,96 @@
     "description": "Unique names from Gormenghast (Mervyn Peake) — places, peoples, creatures, factions, and ships combined.",
     "total": 237,
     "examples": [
-      "the lichen fort",
-      "the poet's room",
-      "the wood-pigeons",
-      "the woodlice",
-      "the acolytes",
-      "the water-rats"
+      "the schoolboys",
+      "the glow-worms",
+      "the inner quadrangle",
+      "the christening room",
+      "the dark quarter",
+      "the black forest"
+    ]
+  },
+  "fiction.gravityFalls": {
+    "title": "Gravity Falls world",
+    "category": "fiction",
+    "description": "People, creatures, places, societies, journals, and anomalies from Gravity Falls",
+    "total": 39,
+    "examples": [
+      "bottomless pit",
+      "blendin blandin",
+      "zodiac",
+      "multibear",
+      "gideon gleeful",
+      "widdle waddles"
+    ]
+  },
+  "fiction.greenBoneSaga": {
+    "title": "Green Bone Saga names",
+    "category": "fiction",
+    "description": "Places, clans, institutions, artifacts, cultural terms, and distinctive names from Fonda Lee's Green Bone Saga world",
+    "total": 39,
+    "examples": [
+      "mountain clan",
+      "mount ain",
+      "jade dogs",
+      "clean blade",
+      "jade",
+      "koshin"
+    ]
+  },
+  "fiction.greyhawk": {
+    "title": "Greyhawk names",
+    "category": "fiction",
+    "description": "Realms, cities, factions, peoples, deities, creatures, and artifacts from the World of Greyhawk",
+    "total": 52,
+    "examples": [
+      "wolf nomads",
+      "greyhawk ruins",
+      "snow barbarians",
+      "greyhawk castle",
+      "ket",
+      "rel astra"
+    ]
+  },
+  "fiction.grishaverse": {
+    "title": "Grishaverse names",
+    "category": "fiction",
+    "description": "Countries, peoples, creatures, factions, institutions, artifacts, and distinctive names from Leigh Bardugo's Grishaverse",
+    "total": 38,
+    "examples": [
+      "the crow club",
+      "keramzin",
+      "the menagerie",
+      "zoya's garden",
+      "materialki",
+      "etherealki"
+    ]
+  },
+  "fiction.guildWars": {
+    "title": "Guild Wars names",
+    "category": "fiction",
+    "description": "Continents, peoples, factions, gods, creatures, cities, and relics from the Guild Wars world of Tyria",
+    "total": 45,
+    "examples": [
+      "norn",
+      "the mists",
+      "kurzicks",
+      "jade sea",
+      "maguuma jungle",
+      "black citadel"
+    ]
+  },
+  "fiction.hadesGame": {
+    "title": "Hades game names",
+    "category": "fiction",
+    "description": "Places, gods, shades, creatures, weapons, and artifacts from Supergiant Games' Hades underworld",
+    "total": 50,
+    "examples": [
+      "charon",
+      "achilles",
+      "tisiphone",
+      "asphodel",
+      "zeus",
+      "stygian blade"
     ]
   },
   "fiction.halo": {
@@ -2175,12 +2833,12 @@
     "description": "Places, factions, species, artifacts, ships, and installations from Halo",
     "total": 143,
     "examples": [
-      "kat-320",
-      "rraas 'vadam",
-      "arcadia",
-      "unsc",
-      "brutes",
-      "pegasi delta"
+      "geas",
+      "delta halo",
+      "unggoy",
+      "seeker",
+      "mauler",
+      "catherine halsey"
     ]
   },
   "fiction.harryPotter": {
@@ -2189,12 +2847,40 @@
     "description": "Places, schools, houses, creatures, objects, and groups from the Harry Potter and Wizarding World fiction",
     "total": 304,
     "examples": [
-      "hedwig",
-      "hippogriff",
-      "nimbus two thousand",
-      "forbidden forest",
-      "hufflepuff basement",
-      "beauxbatons academy"
+      "pigwidgeon",
+      "gryffindor's sword",
+      "foe-glass",
+      "fred weasley",
+      "gladrags wizardwear",
+      "fleur delacour"
+    ]
+  },
+  "fiction.heMan": {
+    "title": "Masters of the Universe world",
+    "category": "fiction",
+    "description": "Heroes, villains, peoples, places, vehicles, and artifacts from Masters of the Universe",
+    "total": 43,
+    "examples": [
+      "eternia",
+      "snake mountain",
+      "the three towers",
+      "fright zone",
+      "faker",
+      "the evil horde"
+    ]
+  },
+  "fiction.hellboy": {
+    "title": "Hellboy names",
+    "category": "fiction",
+    "description": "Places, peoples, occult organizations, creatures, witches, and relics from the Hellboy comics universe",
+    "total": 38,
+    "examples": [
+      "roger the homunculus",
+      "club zodiac",
+      "witchfinder",
+      "nimung-gulla",
+      "pandemonium",
+      "grigori rasputin"
     ]
   },
   "fiction.hisDarkMaterials": {
@@ -2203,12 +2889,12 @@
     "description": "Places, peoples, creatures, and concepts from Philip Pullman's His Dark Materials",
     "total": 116,
     "examples": [
-      "mulefa",
-      "iorek byrnison",
-      "john parry",
-      "bodley's library",
-      "magisterium",
-      "charles latrom"
+      "oblation board",
+      "gallivespians",
+      "will parry",
+      "world of the dead",
+      "armored bears",
+      "lady salmakia"
     ]
   },
   "fiction.hitchhikers": {
@@ -2217,12 +2903,68 @@
     "description": "Places, species, spacecraft, and groups from The Hitchhiker's Guide to the Galaxy",
     "total": 257,
     "examples": [
-      "tangerine star buggy",
-      "frogstar world b",
-      "haggunenon admiral ship",
-      "elvis",
-      "hotblack desiato",
-      "hactar"
+      "agda",
+      "tachy",
+      "golgafrinchans",
+      "har",
+      "humma kavula",
+      "blabul"
+    ]
+  },
+  "fiction.hollowKnight": {
+    "title": "Hollow Knight names",
+    "category": "fiction",
+    "description": "Regions, tribes, bugs, gods, creatures, and relics from Hollow Knight's Hallownest",
+    "total": 46,
+    "examples": [
+      "mantis lords",
+      "dream nail",
+      "mantis tribe",
+      "howling cliffs",
+      "hunter's journal",
+      "deepnest"
+    ]
+  },
+  "fiction.howToTrainYourDragon": {
+    "title": "How to Train Your Dragon world",
+    "category": "fiction",
+    "description": "Vikings, dragons, tribes, islands, places, and artifacts from Cressida Cowell's How to Train Your Dragon novels",
+    "total": 43,
+    "examples": [
+      "terrible terrors",
+      "hairy hooligans",
+      "berk",
+      "speedifist",
+      "wrath-of-thor",
+      "hiccup horrendous haddock iii"
+    ]
+  },
+  "fiction.howlsMovingCastle": {
+    "title": "Howl's Moving Castle names",
+    "category": "fiction",
+    "description": "Places, magical institutions, artifacts, creatures, and distinctive names from Diana Wynne Jones's Moving Castle books",
+    "total": 41,
+    "examples": [
+      "flower shop",
+      "witch of the waste",
+      "charmain's house",
+      "black-down",
+      "vale end",
+      "prince justin"
+    ]
+  },
+  "fiction.hunterXHunter": {
+    "title": "Hunter x Hunter world",
+    "category": "fiction",
+    "description": "Hunters, nations, creatures, organizations, places, Nen systems, and artifacts from Hunter x Hunter",
+    "total": 36,
+    "examples": [
+      "chimera ants",
+      "killua zoldyck",
+      "nen",
+      "whale island",
+      "kurapika",
+      "three great treasures"
     ]
   },
   "fiction.hyperion": {
@@ -2231,12 +2973,124 @@
     "description": "Unique names from Hyperion Cantos — places, peoples, creatures, factions, and ships combined.",
     "total": 321,
     "examples": [
-      "kraken",
-      "the house of windsor-in-exile",
-      "nordholm",
-      "satyr",
-      "metaxas",
-      "sand squid"
+      "the st. george",
+      "new bushire",
+      "amritsar",
+      "the angel of retribution",
+      "jupiter",
+      "first island"
+    ]
+  },
+  "fiction.inheritanceCycle": {
+    "title": "Alagaësia names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, artifacts, and distinctive names from Christopher Paolini's Inheritance Cycle world of Alagaësia",
+    "total": 34,
+    "examples": [
+      "tronjheim",
+      "alagaesia",
+      "urgals",
+      "mount arngor",
+      "vardens",
+      "du vrangr gata"
+    ]
+  },
+  "fiction.inuyasha": {
+    "title": "Inuyasha world",
+    "category": "fiction",
+    "description": "Demons, villages, factions, places, weapons, and artifacts from Inuyasha",
+    "total": 39,
+    "examples": [
+      "kaede",
+      "jaken",
+      "sango",
+      "tessaiga",
+      "shippo",
+      "tenseiga"
+    ]
+  },
+  "fiction.jujutsuKaisen": {
+    "title": "Jujutsu Kaisen world",
+    "category": "fiction",
+    "description": "Sorcerers, curses, schools, clans, domains, techniques, and cursed objects from Jujutsu Kaisen",
+    "total": 35,
+    "examples": [
+      "veil",
+      "suguru geto",
+      "cursed energy",
+      "death painting wombs",
+      "cursed spirits",
+      "hollow purple"
+    ]
+  },
+  "fiction.kikiDeliveryService": {
+    "title": "Kiki's Delivery Service world",
+    "category": "fiction",
+    "description": "Witches, townspeople, places, shops, animals, and objects from Kiki's Delivery Service",
+    "total": 28,
+    "examples": [
+      "clock tower",
+      "witch's broom",
+      "forest cabin",
+      "osono",
+      "okino",
+      "ursula"
+    ]
+  },
+  "fiction.kingkillerChronicle": {
+    "title": "Kingkiller Chronicle names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, institutions, artifacts, and distinctive names from Patrick Rothfuss's Kingkiller Chronicle",
+    "total": 44,
+    "examples": [
+      "namers",
+      "great stone road",
+      "lakeless",
+      "the cthaeh",
+      "amyr",
+      "maer's court"
+    ]
+  },
+  "fiction.kingsQuest": {
+    "title": "King's Quest names",
+    "category": "fiction",
+    "description": "Kingdoms, peoples, creatures, villains, heroes, and magical objects from the King's Quest series",
+    "total": 38,
+    "examples": [
+      "genesta",
+      "daventry",
+      "llewdor",
+      "serenia",
+      "princess cassima",
+      "prince alexander"
+    ]
+  },
+  "fiction.kirby": {
+    "title": "Kirby names",
+    "category": "fiction",
+    "description": "Planets, peoples, creatures, heroes, villains, and relics from the Kirby game universe",
+    "total": 41,
+    "examples": [
+      "rainbow sword",
+      "marx",
+      "magolor",
+      "jambandra",
+      "prism plains",
+      "dream land"
+    ]
+  },
+  "fiction.lastUnicorn": {
+    "title": "The Last Unicorn names",
+    "category": "fiction",
+    "description": "Places, creatures, artifacts, institutions, and distinctive names from Peter S. Beagle's The Last Unicorn world",
+    "total": 21,
+    "examples": [
+      "red bull",
+      "lir",
+      "amalthea",
+      "hagsgate",
+      "butterfly",
+      "ruhk"
     ]
   },
   "fiction.lotr": {
@@ -2245,12 +3099,12 @@
     "description": "Places, races, creatures, and unique names from J.R.R. Tolkien's Middle-earth",
     "total": 464,
     "examples": [
-      "mandos",
-      "alatar",
-      "far harad",
-      "finrod",
-      "galadriel",
-      "amon sûl"
+      "mountains of ash",
+      "eorl the young",
+      "ungoliant",
+      "bree-hill",
+      "cirith ungol",
+      "tower hills"
     ]
   },
   "fiction.magicMultiverse": {
@@ -2259,12 +3113,26 @@
     "description": "Planes, peoples, factions, creatures, and artifacts from Magic: The Gathering fiction",
     "total": 136,
     "examples": [
-      "arcavios",
+      "dimir",
+      "serra's realm",
+      "keld",
+      "squee",
       "goblin",
-      "multani",
-      "chandra nalaar",
-      "jund",
-      "olivia voldaren"
+      "gatewatch"
+    ]
+  },
+  "fiction.magicians": {
+    "title": "The Magicians names",
+    "category": "fiction",
+    "description": "Places, magical institutions, creatures, artifacts, and distinctive names from Lev Grossman's Magicians world",
+    "total": 35,
+    "examples": [
+      "further country",
+      "rabbits",
+      "the beast",
+      "fillory",
+      "martin chatwin",
+      "old gods"
     ]
   },
   "fiction.malazan": {
@@ -2273,12 +3141,12 @@
     "description": "Places, peoples, creatures, and groups from the Malazan Book of the Fallen",
     "total": 282,
     "examples": [
-      "trell",
-      "ehrlitan",
-      "karsa orlong",
-      "eleint",
-      "capustan",
-      "fanday"
+      "brys beddict",
+      "baruk",
+      "azathanai",
+      "lest",
+      "fidler",
+      "leoman of the flails"
     ]
   },
   "fiction.marvel": {
@@ -2287,12 +3155,12 @@
     "description": "Places, teams, species, artifacts, cosmic powers, and factions from Marvel fiction",
     "total": 347,
     "examples": [
-      "cabal",
-      "uni-power",
-      "mansion",
-      "captain universe",
-      "cassandra nova",
-      "aether"
+      "nova corps",
+      "emma frost",
+      "gamora",
+      "ant-man",
+      "gungnir",
+      "colossus"
     ]
   },
   "fiction.massEffect": {
@@ -2301,12 +3169,96 @@
     "description": "Places, species, factions, ships, artifacts, and powers from Mass Effect",
     "total": 201,
     "examples": [
-      "horizon",
-      "farris",
-      "intruder",
-      "hawking eta",
-      "javik",
-      "mako"
+      "zero",
+      "rachni",
+      "illusive",
+      "mass relay",
+      "data",
+      "novaria"
+    ]
+  },
+  "fiction.memorySorrowThorn": {
+    "title": "Osten Ard names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, artifacts, and distinctive names from Tad Williams's Memory, Sorrow, and Thorn world of Osten Ard",
+    "total": 45,
+    "examples": [
+      "asua",
+      "binabik",
+      "black rimmersmen",
+      "kingsguard",
+      "fisher king",
+      "ernystir"
+    ]
+  },
+  "fiction.mightAndMagic": {
+    "title": "Might and Magic names",
+    "category": "fiction",
+    "description": "Worlds, kingdoms, factions, peoples, creatures, and artifacts from the Might and Magic series",
+    "total": 38,
+    "examples": [
+      "temple of baa",
+      "ancients",
+      "ashan",
+      "the silence",
+      "celeste",
+      "great experiment"
+    ]
+  },
+  "fiction.miraculousLadybug": {
+    "title": "Miraculous Ladybug world",
+    "category": "fiction",
+    "description": "Miraculous holders, kwamis, places, factions, powers, and magical objects from Miraculous Ladybug",
+    "total": 40,
+    "examples": [
+      "felix fathom",
+      "nooroo",
+      "hawk moth",
+      "tikki",
+      "unified miraculous",
+      "wayzz"
+    ]
+  },
+  "fiction.missPeregrine": {
+    "title": "Miss Peregrine's Peculiar Children world",
+    "category": "fiction",
+    "description": "Peculiars, ymbrynes, loops, creatures, places, and institutions from Miss Peregrine's Peculiar Children",
+    "total": 38,
+    "examples": [
+      "malthus",
+      "emma bloom",
+      "noor pradesh",
+      "peculiar children",
+      "flaming man",
+      "millard nullings"
+    ]
+  },
+  "fiction.monkeyIsland": {
+    "title": "Monkey Island names",
+    "category": "fiction",
+    "description": "Islands, pirates, crews, creatures, establishments, and artifacts from the Monkey Island series",
+    "total": 39,
+    "examples": [
+      "brimstone beach club",
+      "blood island",
+      "jambalaya island",
+      "cutthroat bill",
+      "guybrush threepwood",
+      "monkey island"
+    ]
+  },
+  "fiction.moomin": {
+    "title": "Moominvalley names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, institutions, artifacts, and distinctive names from Tove Jansson's Moomin world",
+    "total": 31,
+    "examples": [
+      "mymble",
+      "ancestor",
+      "the observatory",
+      "the lonely mountains",
+      "the cave",
+      "cedric"
     ]
   },
   "fiction.narnia": {
@@ -2315,12 +3267,54 @@
     "description": "Places, peoples, creatures, and magical beings from C.S. Lewis's Chronicles of Narnia",
     "total": 160,
     "examples": [
-      "rabadash",
-      "ettinsmoor",
-      "cabadus",
-      "satyrs",
-      "digory kirke",
-      "shasta"
+      "lune",
+      "black dwarfs",
+      "ettins",
+      "duffer's island",
+      "hwin",
+      "archenlanders"
+    ]
+  },
+  "fiction.naruto": {
+    "title": "Naruto world",
+    "category": "fiction",
+    "description": "Shinobi, villages, clans, factions, beasts, techniques, and artifacts from Naruto",
+    "total": 39,
+    "examples": [
+      "the sage of six paths",
+      "shinobi alliance",
+      "white fang",
+      "the three sannin",
+      "kurama",
+      "akatsuki"
+    ]
+  },
+  "fiction.neverland": {
+    "title": "Neverland names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, artifacts, and distinctive names from J. M. Barrie's Peter Pan world",
+    "total": 22,
+    "examples": [
+      "mermaids",
+      "pan's pipes",
+      "never bird",
+      "mermaids' lagoon",
+      "jolly roger",
+      "kidd's creek"
+    ]
+  },
+  "fiction.nevermoor": {
+    "title": "Nevermoor names",
+    "category": "fiction",
+    "description": "Places, creatures, institutions, factions, artifacts, and distinctive names from Jessica Townsend's Nevermoor series",
+    "total": 33,
+    "examples": [
+      "the glorious garden",
+      "cursed children",
+      "courage square",
+      "scholar mist",
+      "gossamer line",
+      "hotel deucalion"
     ]
   },
   "fiction.onePiece": {
@@ -2329,12 +3323,124 @@
     "description": "Places, factions, peoples, creatures, ships, powers, and treasures from One Piece",
     "total": 160,
     "examples": [
-      "enel",
-      "bonney",
-      "killer",
-      "capone bege",
-      "dressrosa",
-      "enies lobby"
+      "south blue",
+      "rumble ball",
+      "thousand sunny",
+      "bartholomew kuma",
+      "five elders",
+      "aokiji"
+    ]
+  },
+  "fiction.ori": {
+    "title": "Ori names",
+    "category": "fiction",
+    "description": "Forests, regions, spirits, creatures, clans, and relics from the Ori games",
+    "total": 44,
+    "examples": [
+      "spirit flame",
+      "the eyes of the forest",
+      "spirit shards",
+      "spring glades",
+      "kwolok",
+      "naru"
+    ]
+  },
+  "fiction.overTheGardenWall": {
+    "title": "Over the Garden Wall world",
+    "category": "fiction",
+    "description": "People, animals, places, creatures, and objects from the Unknown in Over the Garden Wall",
+    "total": 33,
+    "examples": [
+      "woodland school",
+      "toy village",
+      "jimmy brown",
+      "margueritte grey",
+      "sara",
+      "edelwood"
+    ]
+  },
+  "fiction.owlHouse": {
+    "title": "The Owl House world",
+    "category": "fiction",
+    "description": "Witches, demons, covens, places, glyphs, and artifacts from The Owl House",
+    "total": 38,
+    "examples": [
+      "hooty",
+      "hexside school of magic and demonics",
+      "owlbert",
+      "glyph magic",
+      "witches wool",
+      "light glyph"
+    ]
+  },
+  "fiction.oz": {
+    "title": "Land of Oz names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, artifacts, and distinctive names from L. Frank Baum's Oz books",
+    "total": 45,
+    "examples": [
+      "nome kingdom",
+      "munchkin country",
+      "emerald city",
+      "o-z-o-p-o-l-i-s",
+      "utensia",
+      "winkie country"
+    ]
+  },
+  "fiction.pathfinderGolarion": {
+    "title": "Pathfinder Golarion names",
+    "category": "fiction",
+    "description": "Nations, cities, peoples, organizations, deities, creatures, and artifacts from Pathfinder's Golarion setting",
+    "total": 49,
+    "examples": [
+      "five kings mountains",
+      "chelaxian empire",
+      "the test of the starstone",
+      "abaddon",
+      "belkzen",
+      "absalom"
+    ]
+  },
+  "fiction.percyJackson": {
+    "title": "Percy Jackson world",
+    "category": "fiction",
+    "description": "Demigods, camps, deities, creatures, places, factions, and artifacts from the Percy Jackson novels",
+    "total": 47,
+    "examples": [
+      "sally jackson",
+      "argo ii",
+      "oceanus",
+      "pegasi",
+      "annabeth chase",
+      "camp half-blood"
+    ]
+  },
+  "fiction.pillarsOfEternity": {
+    "title": "Pillars of Eternity names",
+    "category": "fiction",
+    "description": "Nations, peoples, factions, gods, creatures, and relics from the Pillars of Eternity world of Eora",
+    "total": 43,
+    "examples": [
+      "wael",
+      "xaurips",
+      "ondra",
+      "the dozen",
+      "abydon",
+      "defiance bay"
+    ]
+  },
+  "fiction.planescape": {
+    "title": "Planescape names",
+    "category": "fiction",
+    "description": "Planes, gate-towns, factions, peoples, creatures, and artifacts from the Planescape multiverse",
+    "total": 50,
+    "examples": [
+      "hopeless",
+      "curst",
+      "planes of conflict",
+      "outlands",
+      "doomguard",
+      "planes of power"
     ]
   },
   "fiction.pokemon": {
@@ -2343,12 +3449,264 @@
     "description": "Regions, species, legendary Pokemon, teams, and artifacts from Pokemon",
     "total": 1137,
     "examples": [
-      "vullaby",
-      "diglett",
-      "diggersby",
-      "absol",
-      "feather ball",
-      "blueberry academy"
+      "gallade",
+      "koffing",
+      "johto",
+      "beartic",
+      "golett",
+      "corsola"
+    ]
+  },
+  "fiction.princessBride": {
+    "title": "The Princess Bride names",
+    "category": "fiction",
+    "description": "Places, factions, artifacts, creatures, and distinctive names from William Goldman's The Princess Bride world",
+    "total": 32,
+    "examples": [
+      "dread pirate roberts",
+      "three terrors",
+      "six-fingered sword",
+      "count rugen",
+      "fire swamp",
+      "fezzik"
+    ]
+  },
+  "fiction.princessMononoke": {
+    "title": "Princess Mononoke world",
+    "category": "fiction",
+    "description": "Clans, gods, creatures, places, weapons, and distinctive names from Princess Mononoke",
+    "total": 29,
+    "examples": [
+      "iron town",
+      "corrupted god",
+      "akkoto",
+      "great forest",
+      "moro's den",
+      "emishi"
+    ]
+  },
+  "fiction.prydain": {
+    "title": "Prydain names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, artifacts, and distinctive names from Lloyd Alexander's Chronicles of Prydain",
+    "total": 40,
+    "examples": [
+      "hen wen",
+      "aran",
+      "annuvin",
+      "red fallows",
+      "the sons of don",
+      "caer dathyl"
+    ]
+  },
+  "fiction.ravenloft": {
+    "title": "Ravenloft names",
+    "category": "fiction",
+    "description": "Domains, settlements, darklords, factions, creatures, and relics from the Domains of Dread",
+    "total": 43,
+    "examples": [
+      "prisoners of the mists",
+      "castle ravenloft",
+      "nightmare lands",
+      "kargat",
+      "hazlan",
+      "richemulot"
+    ]
+  },
+  "fiction.realmOfTheElderlings": {
+    "title": "Realm of the Elderlings names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, institutions, magics, and distinctive names from Robin Hobb's Realm of the Elderlings",
+    "total": 43,
+    "examples": [
+      "kelsingra",
+      "mountain kingdom",
+      "six duchies",
+      "others",
+      "rooster crown",
+      "old blood"
+    ]
+  },
+  "fiction.redwall": {
+    "title": "Redwall names",
+    "category": "fiction",
+    "description": "Places, woodland peoples, creatures, factions, artifacts, and distinctive names from Brian Jacques's Redwall world",
+    "total": 47,
+    "examples": [
+      "great hall",
+      "land of ice and snow",
+      "marshank",
+      "abbey pond",
+      "castle floret",
+      "martin's sword"
+    ]
+  },
+  "fiction.riftwar": {
+    "title": "Riftwar Cycle names",
+    "category": "fiction",
+    "description": "Worlds, places, peoples, creatures, factions, artifacts, and distinctive names from Raymond E. Feist's Riftwar Cycle",
+    "total": 38,
+    "examples": [
+      "dread",
+      "academy of magic",
+      "kelewan",
+      "crydee",
+      "arutha",
+      "war of the five crowns"
+    ]
+  },
+  "fiction.rootsOfChaos": {
+    "title": "Roots of Chaos names",
+    "category": "fiction",
+    "description": "Realms, peoples, creatures, institutions, artifacts, and distinctive names from Samantha Shannon's Roots of Chaos world",
+    "total": 49,
+    "examples": [
+      "great sorrow",
+      "inys",
+      "ascalun",
+      "knights of the mind",
+      "clan of the dawn",
+      "the siden"
+    ]
+  },
+  "fiction.runeterra": {
+    "title": "Runeterra names",
+    "category": "fiction",
+    "description": "Regions, peoples, factions, creatures, champions, and artifacts from the canonical Runeterra setting",
+    "total": 41,
+    "examples": [
+      "rahorak",
+      "demacia",
+      "mount targon",
+      "the aspects",
+      "trifarix",
+      "the void"
+    ]
+  },
+  "fiction.sailorMoon": {
+    "title": "Sailor Moon world",
+    "category": "fiction",
+    "description": "Sailor Guardians, kingdoms, factions, places, powers, creatures, and artifacts from Sailor Moon",
+    "total": 41,
+    "examples": [
+      "sailor saturn",
+      "dream mirror",
+      "space sword",
+      "princess serenity",
+      "jadeite",
+      "deep aqua mirror"
+    ]
+  },
+  "fiction.sandman": {
+    "title": "The Sandman names",
+    "category": "fiction",
+    "description": "Realms, beings, factions, dreams, nightmares, and artifacts from Neil Gaiman's Sandman comics",
+    "total": 41,
+    "examples": [
+      "dreaming",
+      "basanos",
+      "corinthian",
+      "destruction",
+      "remiel",
+      "rose walker"
+    ]
+  },
+  "fiction.scholomance": {
+    "title": "Scholomance names",
+    "category": "fiction",
+    "description": "Places, magical communities, creatures, institutions, artifacts, and distinctive names from Naomi Novik's Scholomance trilogy",
+    "total": 38,
+    "examples": [
+      "scholomance",
+      "thirteen enclaves",
+      "darkest sutras",
+      "purifying sutras",
+      "argonet",
+      "graduation hall"
+    ]
+  },
+  "fiction.septimusHeap": {
+    "title": "Septimus Heap names",
+    "category": "fiction",
+    "description": "Places, magical peoples, creatures, institutions, artifacts, and distinctive names from Angie Sage's Septimus Heap world",
+    "total": 34,
+    "examples": [
+      "marram marshes",
+      "alfrun",
+      "heaps",
+      "ice tunnels",
+      "apprentice supper",
+      "magog"
+    ]
+  },
+  "fiction.sheRa": {
+    "title": "She-Ra and the Princesses of Power world",
+    "category": "fiction",
+    "description": "Princesses, factions, peoples, places, technology, and artifacts from She-Ra and the Princesses of Power",
+    "total": 50,
+    "examples": [
+      "first ones tech",
+      "horde prime",
+      "salineas",
+      "moonstone",
+      "whispering woods",
+      "catra"
+    ]
+  },
+  "fiction.shovelKnight": {
+    "title": "Shovel Knight names",
+    "category": "fiction",
+    "description": "Kingdoms, knights, orders, creatures, locations, and relics from the Shovel Knight saga",
+    "total": 38,
+    "examples": [
+      "burstmaster",
+      "mona",
+      "king knight's keep",
+      "polar knight",
+      "phase locket",
+      "treasure knight"
+    ]
+  },
+  "fiction.skulduggeryPleasant": {
+    "title": "Skulduggery Pleasant world",
+    "category": "fiction",
+    "description": "Sorcerers, sanctuaries, factions, creatures, places, and magical artifacts from Skulduggery Pleasant",
+    "total": 39,
+    "examples": [
+      "lord vile",
+      "serpine",
+      "faceless ones",
+      "vampires",
+      "remnants",
+      "necromancers"
+    ]
+  },
+  "fiction.spiderwick": {
+    "title": "The Spiderwick Chronicles world",
+    "category": "fiction",
+    "description": "Faeries, creatures, people, places, and magical objects from The Spiderwick Chronicles",
+    "total": 35,
+    "examples": [
+      "ogre",
+      "jared grace",
+      "thimbletack",
+      "trolls",
+      "arthur spiderwick",
+      "phoenix"
+    ]
+  },
+  "fiction.spiritedAway": {
+    "title": "Spirited Away world",
+    "category": "fiction",
+    "description": "Spirits, workers, guests, places, foods, and magical objects from Spirited Away",
+    "total": 30,
+    "examples": [
+      "aburaya",
+      "lin",
+      "kamaji",
+      "the tunnel",
+      "kashira",
+      "red bean bun"
     ]
   },
   "fiction.starTrek": {
@@ -2357,12 +3715,12 @@
     "description": "Unique names from Star Trek — places, peoples, creatures, factions, and ships combined.",
     "total": 721,
     "examples": [
-      "the badlands",
-      "halkon",
-      "lurian",
-      "d'deridex-class",
-      "enaran",
-      "kazon-pommar"
+      "the fire caves",
+      "skrreea",
+      "u.s.s. repulse",
+      "uss bellerophon",
+      "u.s.s. equinox",
+      "risian"
     ]
   },
   "fiction.starWars": {
@@ -2371,12 +3729,54 @@
     "description": "Unique names from Star Wars — places, peoples, creatures, factions, and ships combined.",
     "total": 784,
     "examples": [
-      "the bounty hunters guild",
-      "tund",
-      "the silver angel",
-      "the lightmaker",
-      "the interstellar banking clan",
-      "the inquisitorius"
+      "pinnacle base",
+      "anchorhead",
+      "nevarro",
+      "besalisk",
+      "endor",
+      "nerf"
+    ]
+  },
+  "fiction.superMario": {
+    "title": "Super Mario names",
+    "category": "fiction",
+    "description": "Kingdoms, peoples, creatures, heroes, villains, and artifacts from the core Super Mario game world",
+    "total": 44,
+    "examples": [
+      "metro kingdom",
+      "chain chomp",
+      "cappy",
+      "warp pipe",
+      "power star",
+      "dark land"
+    ]
+  },
+  "fiction.temeraire": {
+    "title": "Temeraire names",
+    "category": "fiction",
+    "description": "Dragon breeds, corps, places, institutions, artifacts, and distinctive names from Naomi Novik's Temeraire world",
+    "total": 52,
+    "examples": [
+      "flamme-de-gloire",
+      "grand chevalier",
+      "plein-vite",
+      "greyling",
+      "poux-de-ciel",
+      "incan dragon empire"
+    ]
+  },
+  "fiction.thomasCovenant": {
+    "title": "The Land names",
+    "category": "fiction",
+    "description": "Places, peoples, creatures, factions, artifacts, and distinctive names from Stephen R. Donaldson's Thomas Covenant chronicles",
+    "total": 38,
+    "examples": [
+      "viles",
+      "landwaster",
+      "the white gold",
+      "earthpower",
+      "krill",
+      "andelaine"
     ]
   },
   "fiction.transformers": {
@@ -2385,12 +3785,54 @@
     "description": "Places, factions, species, artifacts, and groups from Transformers",
     "total": 350,
     "examples": [
-      "seaspray",
-      "maccadams old oil house",
-      "red alert",
-      "sandstorm",
-      "long haul",
-      "reformatting"
+      "alicon",
+      "pitted",
+      "car robot",
+      "breakdown",
+      "cyberplanet",
+      "apelinq"
+    ]
+  },
+  "fiction.ultima": {
+    "title": "Ultima names",
+    "category": "fiction",
+    "description": "Continents, cities, peoples, virtues, creatures, factions, and artifacts from the Ultima world of Britannia",
+    "total": 49,
+    "examples": [
+      "honor",
+      "jhelom",
+      "empath abbey",
+      "the shrine of spirituality",
+      "wrong",
+      "serpent isle"
+    ]
+  },
+  "fiction.undertale": {
+    "title": "Undertale names",
+    "category": "fiction",
+    "description": "Regions, monsters, factions, creatures, souls, and artifacts from Undertale's Underground",
+    "total": 36,
+    "examples": [
+      "dog shrine",
+      "asgore dreemurr",
+      "echo flower",
+      "snowdin",
+      "judgment hall",
+      "the artifact"
+    ]
+  },
+  "fiction.unfortunateEvents": {
+    "title": "A Series of Unfortunate Events world",
+    "category": "fiction",
+    "description": "People, places, organizations, disguises, coded objects, and institutions from A Series of Unfortunate Events",
+    "total": 44,
+    "examples": [
+      "dr. medicalschool",
+      "baudelaire mansion",
+      "montgomery montgomery",
+      "klaus baudelaire",
+      "island",
+      "incredibly deadly viper"
     ]
   },
   "fiction.warcraft": {
@@ -2399,12 +3841,12 @@
     "description": "Places, peoples, factions, creatures, artifacts, and powers from the Warcraft universe",
     "total": 335,
     "examples": [
-      "ashbringer",
-      "mogu'shan vaults",
+      "keeper",
+      "uther the lightbringer",
+      "alterac",
       "adamantite",
-      "blackhand",
-      "the barrens",
-      "watcher"
+      "arthas menethil",
+      "a'dal"
     ]
   },
   "fiction.warhammer40k": {
@@ -2413,12 +3855,12 @@
     "description": "Unique names from Warhammer 40,000 — places, peoples, creatures, factions, and ships combined.",
     "total": 653,
     "examples": [
-      "lion el'jonson",
-      "nathaniel garro",
-      "fire of heaven",
-      "ciaphas cain",
-      "thanatos",
-      "corvus corax"
+      "cadian shock troops",
+      "halo stars",
+      "flame of purity",
+      "vampire",
+      "the rusted claw",
+      "commissar"
     ]
   },
   "fiction.wheelOfTime": {
@@ -2427,12 +3869,26 @@
     "description": "Places, peoples, creatures, and groups from The Wheel of Time",
     "total": 282,
     "examples": [
-      "saldaea",
-      "amyrlin seat",
-      "high lady",
-      "baerlon",
-      "keeper of the chronicles",
-      "jenn aiel"
+      "dedicated",
+      "dyelin tarbaran",
+      "hand of the light",
+      "corlm",
+      "tyler",
+      "gholam"
+    ]
+  },
+  "fiction.winxClub": {
+    "title": "Winx Club world",
+    "category": "fiction",
+    "description": "Fairies, witches, schools, realms, factions, creatures, and magical objects from Winx Club",
+    "total": 40,
+    "examples": [
+      "andros",
+      "specialists",
+      "dragon flame",
+      "enchantix",
+      "ancestral witches",
+      "musa"
     ]
   },
   "fiction.witcher": {
@@ -2441,12 +3897,26 @@
     "description": "Places, kingdoms, schools, peoples, creatures, and objects from The Witcher",
     "total": 161,
     "examples": [
-      "toussaint",
-      "keira metz",
-      "aedirn",
-      "triss",
-      "triss merigold",
-      "calanthe"
+      "geralt",
+      "francesca findabair",
+      "elder blood",
+      "dryads",
+      "kaer morhen",
+      "emiel regis"
+    ]
+  },
+  "fiction.wonderland": {
+    "title": "Wonderland names",
+    "category": "fiction",
+    "description": "Places, creatures, courts, artifacts, and distinctive names from Lewis Carroll's Alice books",
+    "total": 37,
+    "examples": [
+      "croquet ground",
+      "white king",
+      "caucus race",
+      "mad tea party",
+      "king of hearts",
+      "walrus and carpenter"
     ]
   },
   "fiction.zelda": {
@@ -2455,12 +3925,12 @@
     "description": "Places, peoples, creatures, artifacts, and powers from The Legend of Zelda",
     "total": 149,
     "examples": [
-      "mipha",
-      "king rhoam",
-      "ikana canyon",
-      "hyrule",
-      "death mountain crater",
-      "goron city"
+      "lost woods",
+      "yuga",
+      "rito village",
+      "minish",
+      "robbie",
+      "ravio"
     ]
   },
   "food.bakery": {
@@ -2469,12 +3939,12 @@
     "description": "Assorted baked goods including cakes, pies, pastries, and sweet breads",
     "total": 176,
     "examples": [
+      "sfogliatelle (shell-shaped pastry)",
+      "cardamom bun",
+      "babka",
+      "chocolate lava cake",
       "lemon cake",
-      "muffins",
-      "pineapple upside-down cake",
-      "pain au chocolat",
-      "pumpernickel bread",
-      "pastries"
+      "chocolate mousse"
     ]
   },
   "food.bbq": {
@@ -2483,12 +3953,12 @@
     "description": "Grilled meats, seafood, vegetables, and fruits typical of barbecue cooking",
     "total": 41,
     "examples": [
-      "grilled halloumi",
-      "pineapple slices",
-      "pork ribs",
+      "grilled salmon",
+      "baby back ribs",
       "pork chops",
-      "chicken kebab",
-      "shrimp"
+      "veggie kebab",
+      "grilled vegetables",
+      "grilled peaches"
     ]
   },
   "food.beverage": {
@@ -2497,12 +3967,12 @@
     "description": "Various alcoholic and non-alcoholic drinks including cocktails, coffees, and teas",
     "total": 224,
     "examples": [
-      "london fog",
-      "amazake",
-      "macchiato",
-      "absinthe",
-      "cashew milk",
-      "bellini"
+      "lungo",
+      "pinot noir",
+      "switchel",
+      "strawberry milkshake",
+      "pomegranate juice",
+      "rooibos tea"
     ]
   },
   "food.bread": {
@@ -2511,12 +3981,12 @@
     "description": "A diverse global selection of traditional breads, biscuits, and baked rolls",
     "total": 269,
     "examples": [
-      "tuscan bread",
-      "kartoffelbrot",
-      "laugenstange",
-      "mantou",
-      "flatbrød",
-      "arepa de choclo"
+      "pinsa",
+      "roti",
+      "poi roll",
+      "pistolet",
+      "pikelet",
+      "mollete"
     ]
   },
   "food.breakfast": {
@@ -2525,12 +3995,12 @@
     "description": "Sweet and savory breakfast dishes including eggs, waffles, and avocado toast",
     "total": 86,
     "examples": [
-      "frittata",
       "breakfast sausages",
-      "crab florentine",
-      "eggs royale",
-      "oatmeal with toppings",
-      "soft-boiled eggs"
+      "pop-tarts",
+      "croissants",
+      "waffles",
+      "quiche",
+      "crab florentine"
     ]
   },
   "food.cheese": {
@@ -2539,12 +4009,12 @@
     "description": "A wide variety of international cheeses from different regions and styles",
     "total": 515,
     "examples": [
-      "sardo",
-      "geitost",
+      "branzi",
+      "bra duro",
       "beemster",
-      "casciotta d'urbino",
-      "cotija",
-      "imeruli"
+      "pecorino siciliano",
+      "herrgårdsost",
+      "brânză de burduf"
     ]
   },
   "food.cocktail": {
@@ -2553,12 +4023,12 @@
     "description": "Classic and modern mixed alcoholic drinks and cocktails",
     "total": 153,
     "examples": [
-      "rob roy",
-      "sazerac",
-      "sea breeze",
-      "vieux carre",
-      "tequila sunrise",
-      "russian spring punch"
+      "army and navy",
+      "scofflaw",
+      "last word",
+      "vesper",
+      "southside",
+      "margarita"
     ]
   },
   "food.cookingMethod": {
@@ -2567,12 +4037,12 @@
     "description": "Culinary techniques for preparing food, ranging from baking to dry aging",
     "total": 97,
     "examples": [
-      "fermenting",
-      "en papillote",
-      "coddling",
-      "browning",
-      "basting",
-      "canning"
+      "baking",
+      "double boiling",
+      "stir frying",
+      "simmering",
+      "canning",
+      "salt curing"
     ]
   },
   "food.cuisine": {
@@ -2581,12 +4051,12 @@
     "description": "Specific regional and national culinary traditions from around the world",
     "total": 340,
     "examples": [
-      "ottoman cuisine",
-      "cambodian cuisine",
-      "cypriot cuisine",
-      "hyderabadi cuisine",
-      "iraqi cuisine",
-      "kyrgyz cuisine"
+      "catalan cuisine",
+      "aboriginal australian cuisine",
+      "east african cuisine",
+      "abruzzese cuisine",
+      "basque cuisine",
+      "faroese cuisine"
     ]
   },
   "food.dessert": {
@@ -2595,12 +4065,12 @@
     "description": "Global sweet treats including cakes, puddings, pastries, and confections",
     "total": 174,
     "examples": [
-      "key lime pie",
-      "snickerdoodle",
-      "ube halaya",
-      "shoofly pie",
-      "yōkan",
-      "watalappam"
+      "milk tart",
+      "churros",
+      "knafeh",
+      "bombolone",
+      "apple strudel",
+      "babka"
     ]
   },
   "food.drink": {
@@ -2609,12 +4079,12 @@
     "description": "Assorted beverages including sodas, juices, teas, milks, and alcoholic drinks",
     "total": 289,
     "examples": [
-      "caipirinha",
-      "salty dog",
-      "black russian",
-      "aloe vera juice",
-      "hot chocolate",
-      "egg cream"
+      "nitro cold brew",
+      "flat white",
+      "limoncello",
+      "dark rum",
+      "distilled spirits",
+      "kvass"
     ]
   },
   "food.fast": {
@@ -2623,12 +4093,12 @@
     "description": "Global fast food and street food items including burgers, fries, and rolls",
     "total": 164,
     "examples": [
-      "chocolate milkshake",
-      "waffle fries",
-      "buttermilk fried chicken",
-      "banana milkshake",
-      "gyros",
-      "animal style fries"
+      "mint milkshake",
+      "onigiri",
+      "soft drinks",
+      "panko-crusted fried chicken",
+      "pizza",
+      "siciliana pizza"
     ]
   },
   "food.forbiddenFood": {
@@ -2637,12 +4107,12 @@
     "description": "Edible-looking but absolutely not, or cursed combinations that shouldn't exist",
     "total": 54,
     "examples": [
-      "ketchup bottle that bleeds when squeezed",
-      "cookie dough that is already baked in fridge waiting",
-      "soup that has reflection different to bowl",
-      "french fry that continues to sweat grease days later",
-      "birthday cake where candles relight as iced screaming faces",
-      "ice cream scoop of drywall spackle with rainbow sprinkles"
+      "salami sliced so thin you can read through but still tastes",
+      "soup dumpling that contains tiny living goldfish cracker",
+      "bread mold arranged into perfect crop circles",
+      "instant noodle seasoning packet that contains another entire meal",
+      "avocado pit that sprouts tiny arm",
+      "yogurt that has grown hair"
     ]
   },
   "food.fruit": {
@@ -2651,12 +4121,12 @@
     "description": "Common and exotic fruits, berries, and melons from around the world",
     "total": 142,
     "examples": [
-      "plum",
-      "loquat",
-      "ozark berry",
-      "pawpaw",
-      "passion fruit",
-      "papaya"
+      "dragonfruit",
+      "cantaloupe",
+      "jujube",
+      "guava",
+      "lemon",
+      "date"
     ]
   },
   "food.herbSpice": {
@@ -2665,12 +4135,12 @@
     "description": "Various culinary herbs, spices, and seeds used for flavoring food",
     "total": 50,
     "examples": [
-      "sage",
-      "basil",
-      "asafoetida",
-      "anise",
-      "thyme",
-      "allspice"
+      "cinnamon",
+      "cardamom",
+      "parsley",
+      "fennel",
+      "coriander",
+      "marjoram"
     ]
   },
   "food.pastaShape": {
@@ -2679,12 +4149,12 @@
     "description": "Various types of traditional and novelty pasta shapes",
     "total": 145,
     "examples": [
-      "conchigliette",
-      "ditali",
       "alphabet pasta",
-      "anelli",
-      "creste di gallo",
-      "testaroli"
+      "fusilli",
+      "tortelloni",
+      "bigoli",
+      "agnolotti",
+      "creste di gallo"
     ]
   },
   "food.platingStyle": {
@@ -2693,12 +4163,12 @@
     "description": "Artistic and structural techniques for arranging and presenting food on a plate",
     "total": 104,
     "examples": [
-      "fusion style",
-      "charcuterie board",
-      "kaiseki",
-      "banquet",
-      "clock method",
-      "classic"
+      "new nordic",
+      "monochromatic",
+      "over-the-top",
+      "negative space",
+      "omakase",
+      "tableside service"
     ]
   },
   "food.tea": {
@@ -2707,12 +4177,12 @@
     "description": "Specific varieties of traditional, herbal, and regional teas",
     "total": 193,
     "examples": [
-      "kombucha",
-      "goishicha",
-      "butterfly pea flower tea",
-      "bai jiguan",
-      "golden monkey tea",
-      "jasmine tea"
+      "buckwheat tea",
+      "slippery elm tea",
+      "lemon verbena tea",
+      "matcha",
+      "lotus tea",
+      "lishan oolong"
     ]
   },
   "food.vegetable": {
@@ -2721,12 +4191,12 @@
     "description": "Various vegetables, legumes, squashes, and edible plant sprouts",
     "total": 266,
     "examples": [
-      "alfalfa sprouts",
-      "chickpeas",
-      "carrot",
-      "black eyed peas",
-      "mustard greens",
-      "shallot"
+      "green lentils",
+      "fingerling potato",
+      "porcini mushroom",
+      "broccolini",
+      "corn salad",
+      "arrowroot"
     ]
   },
   "geography.city": {
@@ -2735,12 +4205,12 @@
     "description": "Specific global cities listed with their respective regions and countries",
     "total": 22953,
     "examples": [
-      "Winnipeg, Manitoba, Canada",
-      "Karakol, Ysyk-Köl, Kyrgyzstan",
-      "Nandyāl, Andhra Pradesh, India",
-      "Sainte-Catherine, Quebec, Canada",
-      "Buckhaven, Scotland, United Kingdom",
-      "Baar, Zug, Switzerland"
+      "Middletown, Ohio, United States",
+      "Vlagtwedde, Groningen, Netherlands",
+      "Ocna Mureş, Alba, Romania",
+      "Ibadan, Oyo, Nigeria",
+      "Apaseo el Grande, Guanajuato, Mexico",
+      "Karuri, Murang'A, Kenya"
     ]
   },
   "geography.country": {
@@ -2749,12 +4219,12 @@
     "description": "A diverse list of sovereign nations and countries around the world",
     "total": 199,
     "examples": [
-      "Venezuela",
-      "Finland",
-      "Kiribati",
-      "Bangladesh",
-      "Liberia",
-      "Armenia"
+      "The Gambia",
+      "Belgium",
+      "Angola",
+      "Iraq",
+      "Cape Verde",
+      "Georgia"
     ]
   },
   "geography.ethnicGroup": {
@@ -2763,12 +4233,12 @@
     "description": "The following groups are commonly identified as \"ethnic groups\", as opposed to ethno-linguistic phyla, national groups, racial groups or similar.\n",
     "total": 1055,
     "examples": [
-      "khonds",
-      "aneuk jamee",
-      "balti",
-      "imraguen",
-      "kulin",
-      "hutu"
+      "tiwa",
+      "alavi bohras",
+      "aragonese",
+      "basques",
+      "assyrians",
+      "abelam"
     ]
   },
   "geography.language": {
@@ -2777,12 +4247,12 @@
     "description": "A list of language names (glossonyms)",
     "total": 609,
     "examples": [
-      "arabela",
-      "bai",
-      "english",
-      "adioukrou",
-      "gagauz",
-      "basque"
+      "dutton world speedwords",
+      "azoyu me'phaa",
+      "ili turki",
+      "quechuan",
+      "buryat",
+      "gikuyu"
     ]
   },
   "geography.nationality": {
@@ -2791,12 +4261,12 @@
     "description": "Adjectives describing nationalities and citizenships from various countries",
     "total": 206,
     "examples": [
-      "swiss",
-      "senegalese",
-      "hungarian",
-      "slovak",
-      "saint lucian",
-      "paraguayan"
+      "guyanese",
+      "nepalese",
+      "ghanaian",
+      "bahraini",
+      "djiboutian",
+      "georgian"
     ]
   },
   "geography.territory": {
@@ -2805,12 +4275,12 @@
     "description": "Global territories, dependencies, emirates, and non-sovereign geographic regions",
     "total": 79,
     "examples": [
-      "Bermuda",
-      "Guam",
-      "Baker Island",
-      "Christmas Island",
-      "Akrotiri",
-      "Ajman"
+      "Howland Island",
+      "Abu Dhabi",
+      "French Southern Territories",
+      "Saint Barthélemy",
+      "Ajman",
+      "Åland Islands"
     ]
   },
   "interaction.coupleNegative": {
@@ -2819,12 +4289,12 @@
     "description": "Toxic, emotional, and negative behavioral interactions between romantic partners",
     "total": 70,
     "examples": [
-      "feeling dejected with each other",
-      "accusing each other",
-      "checking phone while being spoken to",
-      "feeling annoyed with each other",
-      "feeling hopeless with each other",
-      "feeling stressed with each other"
+      "feeling powerless with each other",
+      "name-calling",
+      "slamming the door on each other",
+      "complaining to each other",
+      "feeling frustrated with each other",
+      "rolling eyes during a conversation"
     ]
   },
   "interaction.couple": {
@@ -2833,12 +4303,12 @@
     "description": "Positive and negative relational dynamics and activities between couples",
     "total": 69,
     "examples": [
-      "assistance",
-      "bonding",
-      "exchange of glances",
-      "experiencing nostalgia",
-      "having a picnic in the park",
-      "having a romance"
+      "stargazing together",
+      "slow dancing",
+      "sharing wisdom",
+      "negotiating a deal",
+      "whispering a secret",
+      "reconciliation"
     ]
   },
   "interaction.crowd": {
@@ -2847,12 +4317,12 @@
     "description": "Collective actions, events, and emotional responses experienced by large crowds",
     "total": 64,
     "examples": [
-      "gathering for a memorial",
-      "attending a memorial service",
-      "gathering for a political speech",
-      "gathering for a celebration",
-      "attending a march",
-      "doing the wave at a stadium"
+      "participating in a demonstration",
+      "doing the wave at a stadium",
+      "participating in a parade",
+      "chanting a slogan",
+      "participating in a sit-in",
+      "observing a cultural tradition"
     ]
   },
   "interaction.danceStyle": {
@@ -2861,12 +4331,12 @@
     "description": "Diverse global dance genres, traditional styles, and modern rhythmic movements",
     "total": 266,
     "examples": [
-      "contact improvisation",
-      "conga",
-      "butoh",
-      "isicathamiya",
-      "jazz",
-      "danzonete"
+      "amapiano",
+      "dabke",
+      "ballroom",
+      "voguing",
+      "afrobeats",
+      "bachata"
     ]
   },
   "interaction.group": {
@@ -2875,12 +4345,12 @@
     "description": "Collaborative group activities ranging from mundane events to dramatic fictional scenarios",
     "total": 70,
     "examples": [
-      "taking part in a paranormal investigation",
       "facing a personal challenge",
-      "running for public office",
-      "doing a trust fall exercise",
-      "searching for lost treasure",
-      "solving a puzzle"
+      "starting a revolution",
+      "going on a road trip",
+      "dealing with a haunted house",
+      "attempting to break a world record",
+      "finding inner peace"
     ]
   },
   "interaction.individualDetailed": {
@@ -2889,12 +4359,12 @@
     "description": "Highly specific, multi-step physical actions and behavioral sequences performed by individuals",
     "total": 214,
     "examples": [
-      "brushes crumbs off the table, wipes it down with a cloth, and then sets the table",
-      "clicks a pen open, jots down a quick note, and then clicks the pen closed",
-      "knocks on a door, waits for a response, and then knocks again",
-      "giggles, covers mouth with a hand, and then tries to compose oneself",
-      "blows on a spoonful of hot soup, sips it carefully, and then nods in approval",
-      "folds a paper airplane, throws it, and then watches it glide"
+      "folds a piece of paper carefully, creases it, and tucks it into a pocket",
+      "purses lips in concentration, carefully applies lipstick, and then blots with a tissue",
+      "crosses out a word, writes a new one above it, and then continues writing",
+      "adjusts a watch on wrist, checks the time, and quickens their pace",
+      "flips through a book, finds the desired page, and begins reading",
+      "hiccups unexpectedly, covers mouth, and then laughs embarrassedly"
     ]
   },
   "interaction.individual": {
@@ -2903,12 +4373,12 @@
     "description": "Simple, everyday physical gestures, adjustments, and actions performed by a single person",
     "total": 424,
     "examples": [
-      "bounces a ball against a wall",
-      "strokes beard contemplatively",
-      "drags a stick through the dirt",
-      "draws a deep breath",
-      "scratches head in confusion",
-      "crosses and uncrosses legs"
+      "flosses teeth",
+      "taps a coin on a countertop",
+      "turns and walks away",
+      "peers through a magnifying glass",
+      "nods off to sleep",
+      "leaps across a gap"
     ]
   },
   "interaction.martialArt": {
@@ -2917,12 +4387,12 @@
     "description": "Traditional and modern martial arts and combat systems from around the world",
     "total": 110,
     "examples": [
-      "kyudo",
-      "ringen",
-      "wrestling",
-      "sanshou",
-      "shuai jiao",
-      "krav maga"
+      "glima",
+      "luta livre",
+      "wing chun",
+      "pradal serey",
+      "shorinji kempo",
+      "muay boran"
     ]
   },
   "interaction.microRitual": {
@@ -2931,12 +4401,12 @@
     "description": "Tiny unspoken modern behaviors and automatic everyday rituals",
     "total": 62,
     "examples": [
-      "adjusting ring after washing hands that never faked moisture alarm yet",
-      "holding staircase bannister despite never needing to falling not contagious",
-      "tapping top of car twice when it is being towed joke for luck",
-      "leaving voicemail then texting to say sorry just left voicemail",
-      "screenshotting receipt that will exist in email anyway",
-      "passing neighbour with bins and both saying hiya with no second sentence"
+      "lining up cutlery before photo of food that absolutely no one will see",
+      "looking inside fridge with freezer door open to let light into fridge",
+      "saying same thing in three different meetings expecting different reaction",
+      "laughing at text that did not deserve laugh to close loop",
+      "holding door mathematically perfect distance that forces stranger to jog slightly",
+      "smelling second-hand book before reading first page"
     ]
   },
   "keyword.detailed": {
@@ -2945,12 +4415,12 @@
     "description": "Descriptive adjectives used to prompt high-resolution, intricate, and textured artwork",
     "total": 58,
     "examples": [
-      "highly-detailed",
       "complex",
-      "immaculately-detailed",
-      "magnified",
-      "exquisitely-detailed",
-      "masterfully-detailed"
+      "layered",
+      "lifelike",
+      "crisp",
+      "photorealistic",
+      "distinct"
     ]
   },
   "keyword.epic": {
@@ -2959,12 +4429,12 @@
     "description": "Evocative adjectives for generating dramatic, majestic, and awe-inspiring visual atmospheres",
     "total": 129,
     "examples": [
-      "opulent",
-      "grandiose",
-      "admirable",
-      "awe-inspiring",
-      "aetherial",
-      "dynamic"
+      "dignified",
+      "stately",
+      "state-of-the-art",
+      "staggering",
+      "unforgettable",
+      "stupendous"
     ]
   },
   "keyword.genre": {
@@ -2973,12 +4443,12 @@
     "description": "Sci-fi, historical, and punk-themed aesthetic art genres and styles",
     "total": 65,
     "examples": [
-      "clockpunk",
       "film noir",
-      "neo-victorian",
-      "raypunk",
-      "gothic",
-      "dark steampunk"
+      "solarpunk",
+      "cyberpunk dystopia",
+      "dieselpunk",
+      "grimdark",
+      "art deco"
     ]
   },
   "keyword.glitch": {
@@ -2987,12 +4457,12 @@
     "description": "Digital and analog visual artifacts, distortions, and glitch effects",
     "total": 56,
     "examples": [
-      "vhs tracking error",
-      "bug",
-      "image ghosting",
-      "scrambled signal",
-      "datamosh",
-      "impairment"
+      "blemish",
+      "tearing",
+      "rgb split",
+      "banding",
+      "screen tear",
+      "glitch"
     ]
   },
   "keyword.modifier": {
@@ -3001,12 +4471,12 @@
     "description": "Keywords that modify the style of an image (Noodle Soup prompts)",
     "total": 88,
     "examples": [
-      "dark academia",
-      "low poly style",
-      "charcoal sketch",
-      "linocut print",
-      "narrative realism",
-      "tonalism"
+      "anime",
+      "chalk art",
+      "digital art",
+      "cyberpunk aesthetic",
+      "folk art",
+      "long exposure"
     ]
   },
   "keyword.negative": {
@@ -3015,12 +4485,12 @@
     "description": "Negative prompt keywords for avoiding bad anatomy, artifacts, and low quality",
     "total": 90,
     "examples": [
-      "mutilated",
-      "gross proportions",
-      "noisy",
-      "tacky",
+      "malformed hands",
       "poorly lit",
-      "truncated"
+      "extra fingers",
+      "mangled",
+      "3d",
+      "blurry"
     ]
   },
   "keyword.prayer": {
@@ -3029,12 +4499,12 @@
     "description": "Quality-enhancing prompt modifiers for high resolution and masterpiece renders",
     "total": 67,
     "examples": [
-      "gallery quality",
-      "octane render",
-      "exquisite craftsmanship",
-      "premium",
-      "state-of-the-art",
-      "jaw-dropping"
+      "hd",
+      "jaw-dropping",
+      "lifelike",
+      "stellar quality",
+      "sharp",
+      "visually stunning"
     ]
   },
   "keyword.trending": {
@@ -3043,12 +4513,12 @@
     "description": "Keywords referencing trending or featured artwork on popular portfolio websites",
     "total": 35,
     "examples": [
-      "trending on artstation",
-      "trending on zbrushcentral",
-      "featured on cghub",
-      "trending on conceptartworld",
-      "featured on deviantart",
-      "trending on cghub"
+      "unsplash contest winner",
+      "trending on artstation hd",
+      "trending on deviantart",
+      "trending on reddit",
+      "featured on 500px",
+      "contest winner on artstation"
     ]
   },
   "keyword.unusual": {
@@ -3057,12 +4527,12 @@
     "description": "Adjectives describing weird, unique, unusual, or abnormal subjects",
     "total": 62,
     "examples": [
-      "extraordinary",
-      "mind-bending",
-      "rare",
-      "amazing",
-      "extra-terrestrial",
-      "bizarre"
+      "uncanny",
+      "remarkable",
+      "unfamiliar",
+      "one-of-a-kind",
+      "otherworldly",
+      "wacky"
     ]
   },
   "music.artist": {
@@ -3071,12 +4541,12 @@
     "description": "Diverse musical artists and bands with distinct musical styles",
     "total": 114,
     "examples": [
-      "burial",
-      "miles davis",
-      "erykah badu",
-      "wu-tang clan",
-      "antony and the johnsons",
-      "cocteau twins"
+      "serge gainsbourg",
+      "m.i.a",
+      "talking heads",
+      "ravi shankar",
+      "nick cave and the bad seeds",
+      "nina simone"
     ]
   },
   "music.bpm": {
@@ -3085,12 +4555,12 @@
     "description": "Various musical tempos measured in beats per minute",
     "total": 42,
     "examples": [
-      "120 bpm",
-      "40 bpm",
-      "230 bpm",
-      "50 bpm",
-      "135 bpm",
-      "300 bpm"
+      "250 bpm",
+      "115 bpm",
+      "170 bpm",
+      "220 bpm",
+      "270 bpm",
+      "175 bpm"
     ]
   },
   "music.composer": {
@@ -3099,12 +4569,12 @@
     "description": "Famous classical and contemporary music composers",
     "total": 190,
     "examples": [
-      "felix mendelssohn",
-      "richard danielpour",
-      "clara schumann",
-      "carl vine",
       "aaron copland",
-      "claudio monteverdi"
+      "esa-pekka salonen",
+      "arcangelo corelli",
+      "johann stamitz",
+      "richard danielpour",
+      "tomaso albinoni"
     ]
   },
   "music.drop": {
@@ -3113,12 +4583,12 @@
     "description": "Specific electronic dance music subgenre drops and rhythmic transitions",
     "total": 39,
     "examples": [
-      "chillstep ambient pads drop",
-      "drum and bass roller drop",
-      "garage 2-step drop",
+      "darkpsy intense hypnotic drop",
+      "electro house bass drop",
+      "breakcore amen break chop drop",
       "tech house percussion groove drop",
-      "acid techno 303 squelch drop",
-      "trance uplifting drop"
+      "big room drop",
+      "ambient house atmospheric swell drop"
     ]
   },
   "music.dynamic": {
@@ -3127,12 +4597,12 @@
     "description": "Musical tempo, dynamic, and articulation terms with their definitions",
     "total": 89,
     "examples": [
-      "presto (very fast, rapid tempo)",
-      "animato (animated, lively and spirited)",
-      "allegro (fast, quickly and bright)",
-      "marcato (strongly accented)",
-      "con delicatezza (with delicacy, in a delicate and refined manner)",
-      "sforzando piano (sudden emphasis followed by soft)"
+      "agitato (agitated, with a sense of agitation or restlessness)",
+      "pianississimo (extremely soft)",
+      "calando (gradually dying away, decreasing in volume and speed)",
+      "misterioso (mysteriously, with a sense of mystery and intrigue)",
+      "accelerando (gradually faster tempo)",
+      "fortissimo possibile (as loud as possible)"
     ]
   },
   "music.feature": {
@@ -3141,12 +4611,12 @@
     "description": "Specific instrumental, vocal, and atmospheric musical elements and techniques",
     "total": 206,
     "examples": [
-      "striking violin plucks",
-      "ominous church bell tolling",
-      "intricate polyphonic acoustic guitar lines",
-      "pulsating arpeggiated basslines",
-      "introspective lyrics",
-      "hypnotic modular synth sequences"
+      "atmospheric field recordings",
+      "layered vocal harmonies",
+      "powerful choruses",
+      "syncopated clapping",
+      "soulful gospel choir performances",
+      "sparse instrumentation"
     ]
   },
   "music.genre": {
@@ -3155,12 +4625,12 @@
     "description": "Diverse music genres ranging from electronic and rock to folk",
     "total": 305,
     "examples": [
-      "chanson",
-      "post-punk revival",
-      "breakcore",
-      "choral",
-      "house",
-      "ambient black metal"
+      "witch house",
+      "acid house",
+      "folk metal",
+      "gospel",
+      "gothic rock",
+      "hyperpop"
     ]
   },
   "music.harmony": {
@@ -3169,12 +4639,12 @@
     "description": "Various types of musical harmonies and chordal structures",
     "total": 38,
     "examples": [
-      "chromatic harmony",
-      "dissonant harmony",
-      "subdominant harmony",
-      "polyphonic harmony",
+      "choral harmony",
+      "homophonic harmony",
+      "consonant harmony",
+      "altered harmony",
       "tertian harmony",
-      "parallel harmony"
+      "blues harmony"
     ]
   },
   "music.instrument": {
@@ -3183,12 +4653,12 @@
     "description": "Traditional, classical, and world music instruments",
     "total": 216,
     "examples": [
-      "steel pan",
-      "castanets",
-      "acoustic guitar",
-      "concert harp",
-      "carillon",
-      "balafon"
+      "hammered dulcimer",
+      "claves",
+      "clavichord",
+      "bouzouki",
+      "appalachian dulcimer",
+      "didgeridoo"
     ]
   },
   "music.key": {
@@ -3198,11 +4668,11 @@
     "total": 35,
     "examples": [
       "c# minor",
-      "eb major",
-      "db minor",
-      "a# major",
-      "a minor",
-      "d minor"
+      "g# major",
+      "bb minor",
+      "db major",
+      "e minor",
+      "f# minor"
     ]
   },
   "music.melody": {
@@ -3211,12 +4681,12 @@
     "description": "Descriptive types of musical melodies with their definitions",
     "total": 94,
     "examples": [
-      "contrapuntal melody (involving multiple independent melodic lines)",
-      "whimsical melody (fanciful, imaginative, and light in character)",
+      "floating melody (slow and ethereal)",
       "cannon melody (melodic imitation at different times)",
-      "hocket melody (interlocking notes between voices or instruments)",
-      "sighing melody (expressing a sense of longing or sadness)",
-      "floating melody (slow and ethereal)"
+      "bouncy melody (lively, upbeat, and rhythmically syncopated)",
+      "falling melody (descending motion with gradual decrease in pitch)",
+      "echoing melody (repeating phrases at softer volume)",
+      "polyphonic melody (multiple independent melodic lines)"
     ]
   },
   "music.mode": {
@@ -3225,12 +4695,12 @@
     "description": "Various musical scales, modes, and traditional tonal systems",
     "total": 55,
     "examples": [
-      "inscale scale mode",
-      "acoustic scale mode",
-      "aeolian mode (natural minor)",
-      "raga yaman mode",
-      "bhairavi mode",
-      "major pentatonic blues mode"
+      "mixolydian mode",
+      "ionian mode (major)",
+      "half-whole diminished mode",
+      "blues scale mode",
+      "egyptian scale mode",
+      "pentatonic major mode"
     ]
   },
   "music.mood": {
@@ -3239,12 +4709,12 @@
     "description": "Emotional and atmospheric musical moods or vibes",
     "total": 117,
     "examples": [
-      "eerie",
-      "suspenseful",
-      "tender",
-      "sentimental",
-      "bold",
-      "futuristic"
+      "melancholic",
+      "mysterious",
+      "powerful",
+      "trippy",
+      "cinematic",
+      "somber"
     ]
   },
   "music.musicGenre": {
@@ -3253,12 +4723,12 @@
     "description": "Diverse global music genres and subgenres",
     "total": 63,
     "examples": [
-      "flamenco",
-      "gothic rock",
-      "microhouse",
-      "post-punk",
-      "post-rock",
-      "acid house"
+      "acid house",
+      "amapiano",
+      "electro swing",
+      "neo-psychedelia",
+      "glitch hop",
+      "shoegaze"
     ]
   },
   "music.percussive": {
@@ -3267,12 +4737,12 @@
     "description": "Specific percussion instruments and percussive sound makers",
     "total": 145,
     "examples": [
-      "whip",
-      "rainmaker",
-      "slapstick",
-      "reco-reco",
-      "riq",
-      "roto-toms"
+      "tongue drum",
+      "snare drum",
+      "djembe",
+      "maraca",
+      "birdcall whistle",
+      "clap"
     ]
   },
   "music.recording": {
@@ -3281,11 +4751,11 @@
     "description": "Various formats and styles of audio recordings",
     "total": 72,
     "examples": [
-      "underground recording",
-      "analog recording",
-      "binaural recording",
-      "full-length album recording",
-      "live recording",
+      "mixtape recording",
+      "karaoke recording",
+      "high-fidelity recording",
+      "demo reel recording",
+      "acapella recording",
       "instrumental recording"
     ]
   },
@@ -3295,12 +4765,12 @@
     "description": "Specific rhythmic patterns and timing structures in music",
     "total": 27,
     "examples": [
-      "additive rhythm",
-      "cross rhythm",
-      "free rhythm",
-      "polyrhythmic rhythm",
+      "stutter rhythm",
+      "dotted rhythm",
+      "habanera rhythm",
       "swing rhythm",
-      "syncopated triplets"
+      "hemiola rhythm",
+      "tresillo rhythm"
     ]
   },
   "music.songSection": {
@@ -3309,12 +4779,12 @@
     "description": "Structural components and sections of a musical composition",
     "total": 37,
     "examples": [
-      "pre-outro",
-      "acapella section",
-      "middle eight",
       "ad-lib section",
-      "development",
-      "build-up"
+      "vocal break",
+      "breakdown",
+      "outro",
+      "variation",
+      "cadenza"
     ]
   },
   "music.vocalStyle": {
@@ -3323,12 +4793,12 @@
     "description": "Specific vocal techniques, styles, and singing methods",
     "total": 187,
     "examples": [
+      "liturgical chant",
       "shrieking",
-      "barbershop harmony",
-      "death growl",
-      "appoggiatura",
-      "alap",
-      "beatboxing"
+      "trill",
+      "sotto voce",
+      "min'yo",
+      "patter singing"
     ]
   },
   "music.vocal": {
@@ -3337,12 +4807,12 @@
     "description": "Descriptive styles and textures of vocal performances",
     "total": 119,
     "examples": [
-      "shimmering vocal layers",
-      "airy vocal textures",
-      "chanting choruses",
-      "gospel vocals",
-      "baritone storytelling",
-      "deep bass rumblings"
+      "backup vocals",
+      "rap-sung vocals",
+      "operatic vocals",
+      "screaming harmonies",
+      "soaring vocals",
+      "baritone storytelling"
     ]
   },
   "mythical.artifact": {
@@ -3351,12 +4821,12 @@
     "description": "Mythological, religious, and fictional magical items and artifacts",
     "total": 215,
     "examples": [
-      "breastplate of aaron",
-      "peach of immortality",
-      "aegis",
-      "bident of hades",
-      "demon-binding rope",
-      "lyre of orpheus"
+      "djed pillar",
+      "urim and thummim",
+      "ameno-ukihashi",
+      "crystal ball",
+      "golden apple",
+      "horn of amalthea"
     ]
   },
   "mythical.chinese": {
@@ -3365,12 +4835,12 @@
     "description": "Deities, creatures, and figures from Chinese mythology",
     "total": 83,
     "examples": [
-      "lei gong (雷公)",
-      "feng huang (鳳凰)",
-      "jiaolong (蛟龍)",
-      "rushou (蓐收)",
-      "gun (鯀)",
-      "hou yi (后羿)"
+      "yi yin (伊尹)",
+      "changxi (常羲)",
+      "taotie (饕餮)",
+      "ba she (巴蛇)",
+      "mazu (媽祖)",
+      "zhu rong (祝融)"
     ]
   },
   "mythical.dndRace": {
@@ -3379,12 +4849,12 @@
     "description": "Playable character races from Dungeons and Dragons",
     "total": 66,
     "examples": [
-      "dhampir",
-      "bariaur",
-      "eladrin",
-      "giff",
-      "harengon",
-      "autognome"
+      "aarakocra",
+      "duergar",
+      "autognome",
+      "half-orc",
+      "centaur",
+      "hexblood"
     ]
   },
   "mythical.dragon": {
@@ -3393,12 +4863,12 @@
     "description": "Specific named dragons and dragon types from global mythologies",
     "total": 86,
     "examples": [
-      "croatian pozoj dragon",
-      "roman draco dragon",
-      "slavic zmey dragon",
-      "nepalese karkotaka dragon",
+      "australian rainbow serpent dragon",
+      "irish ollipheist dragon",
+      "indian vritra dragon",
+      "egyptian apep dragon",
       "romanian zmeu dragon",
-      "hungarian sárkány dragon"
+      "cherokee uktena dragon"
     ]
   },
   "mythical.magicTheGathering": {
@@ -3407,12 +4877,12 @@
     "description": "Specific card names from the game Magic: The Gathering",
     "total": 32340,
     "examples": [
-      "battershield warrior",
-      "stensia bloodhall",
-      "eloren wilds",
-      "healer of the pride",
-      "kumena's speaker",
-      "extinguish the light"
+      "sickle dancer",
+      "grim flayer",
+      "iridian maelstrom",
+      "kyodai, soul of kamigawa",
+      "assquatch",
+      "cave sense"
     ]
   },
   "mythical.magicType": {
@@ -3421,12 +4891,12 @@
     "description": "Various schools, disciplines, and types of magical arts",
     "total": 53,
     "examples": [
-      "runecraft",
-      "hydromancy",
-      "warding",
-      "witchcraft",
-      "teleportation",
-      "abjuration"
+      "demonology",
+      "thaumaturgy",
+      "chaos magic",
+      "druidry",
+      "chronomancy",
+      "shamanism"
     ]
   },
   "mythical.mythicalCreature": {
@@ -3435,12 +4905,12 @@
     "description": "Famous monsters and creatures from global mythology and folklore",
     "total": 61,
     "examples": [
-      "chimera",
+      "jinn",
       "kitsune",
-      "fenrir",
-      "mermaid",
-      "minotaur",
-      "wyvern"
+      "medusa",
+      "hydra",
+      "elf",
+      "pixie"
     ]
   },
   "name.familyAfrica": {
@@ -3448,12 +4918,12 @@
     "category": "name",
     "total": 567,
     "examples": [
-      "zenawi",
-      "lubanga",
-      "gebre",
-      "kikuyu",
-      "gumede",
-      "konan"
+      "bechiro",
+      "mavuso",
+      "onyeka",
+      "pitso",
+      "mwape",
+      "seck"
     ]
   },
   "name.familyEastAsia": {
@@ -3461,12 +4931,12 @@
     "category": "name",
     "total": 361,
     "examples": [
+      "tan",
+      "ban",
+      "batbaatar",
       "cheng",
-      "yeh",
-      "phuntsok",
-      "nakano",
-      "ren",
-      "myeong"
+      "murakami",
+      "nakamura"
     ]
   },
   "name.familyEurope": {
@@ -3474,12 +4944,12 @@
     "category": "name",
     "total": 619,
     "examples": [
-      "clement",
-      "niemi",
-      "hansen",
-      "schmid",
-      "dumitrescu",
-      "russo"
+      "krawczyk",
+      "fabbri",
+      "bourgeois",
+      "duval",
+      "francois",
+      "harris"
     ]
   },
   "name.familyLatinAmerica": {
@@ -3487,12 +4957,12 @@
     "category": "name",
     "total": 781,
     "examples": [
-      "cabanillas",
-      "pomaquiza",
-      "martinez",
-      "mascarenhas",
-      "xochitl",
-      "nah"
+      "badillo",
+      "tovar",
+      "goulart",
+      "galvan",
+      "godoy",
+      "haddad"
     ]
   },
   "name.familyMiddleEast": {
@@ -3500,12 +4970,12 @@
     "category": "name",
     "total": 649,
     "examples": [
-      "khalaf",
-      "razi",
-      "gul",
-      "gungor",
-      "ashour",
-      "firouzi"
+      "jamil",
+      "radwan",
+      "narkis",
+      "zayn",
+      "ubaid",
+      "tawil"
     ]
   },
   "name.familySouthAsia": {
@@ -3513,12 +4983,12 @@
     "category": "name",
     "total": 1060,
     "examples": [
-      "ramesh",
-      "aneja",
-      "bhupathi",
-      "cethirakath",
-      "basnet",
-      "apdev"
+      "palod",
+      "damle",
+      "habib",
+      "chitalia",
+      "denzongpa",
+      "dahake"
     ]
   },
   "name.familySpain": {
@@ -3526,12 +4996,12 @@
     "category": "name",
     "total": 1500,
     "examples": [
-      "jin",
-      "montilla",
-      "mercado",
-      "pardo",
-      "merida",
-      "pajares"
+      "cruz",
+      "mayo",
+      "alfonso",
+      "barriga",
+      "araujo",
+      "alsina"
     ]
   },
   "name.familyUk": {
@@ -3539,12 +5009,12 @@
     "category": "name",
     "total": 1000,
     "examples": [
-      "lees",
-      "bradshaw",
-      "connor",
-      "armitage",
-      "daley",
-      "begum"
+      "omar",
+      "dawson",
+      "houghton",
+      "burke",
+      "buxton",
+      "chamberlain"
     ]
   },
   "name.familyUs": {
@@ -3552,12 +5022,12 @@
     "category": "name",
     "total": 2000,
     "examples": [
-      "tipton",
-      "duke",
-      "gates",
-      "esparza",
-      "joyce",
-      "dorsey"
+      "lu",
+      "gonzalez",
+      "butler",
+      "cramer",
+      "gardner",
+      "floyd"
     ]
   },
   "name.givenAfrica": {
@@ -3565,12 +5035,12 @@
     "category": "name",
     "total": 1570,
     "examples": [
-      "sinuka",
-      "moneo",
-      "kholo",
-      "nketa",
-      "ngoma",
-      "onyinyechi"
+      "philani",
+      "tasiola",
+      "sudebe",
+      "phaladi",
+      "sekgohe",
+      "sondla"
     ]
   },
   "name.givenEastAsia": {
@@ -3578,12 +5048,12 @@
     "category": "name",
     "total": 598,
     "examples": [
-      "sen",
-      "hien",
-      "duo",
-      "bi",
-      "ganbold",
-      "hang"
+      "mana",
+      "mao",
+      "ji-ho",
+      "ly",
+      "juncheng",
+      "phuntsok"
     ]
   },
   "name.givenEurope": {
@@ -3591,12 +5061,12 @@
     "category": "name",
     "total": 439,
     "examples": [
-      "peter",
-      "andrei",
-      "frieda",
-      "amalie",
-      "henrique",
-      "aino"
+      "nicolò",
+      "georgios",
+      "antoni",
+      "chloe",
+      "alba",
+      "adam"
     ]
   },
   "name.givenLatinAmerica": {
@@ -3604,12 +5074,12 @@
     "category": "name",
     "total": 2728,
     "examples": [
-      "fidelia",
-      "luisana",
-      "mariacruz",
-      "ervey",
-      "valdemar",
-      "manuel"
+      "millarag",
+      "celsa",
+      "braulio",
+      "maibe",
+      "fortunata",
+      "hazel"
     ]
   },
   "name.givenMiddleEast": {
@@ -3617,12 +5087,12 @@
     "category": "name",
     "total": 537,
     "examples": [
-      "chokri",
-      "sora",
-      "parisa",
-      "nada",
-      "mehmet",
-      "nazar"
+      "faris",
+      "lina",
+      "bahnar",
+      "abdel",
+      "hashim",
+      "kutlay"
     ]
   },
   "name.givenSouthAsia": {
@@ -3630,12 +5100,12 @@
     "category": "name",
     "total": 1965,
     "examples": [
-      "dunsi",
-      "chatur",
-      "ansh",
-      "daver",
-      "dojit",
-      "dhanraj"
+      "nishi",
+      "devpriya",
+      "arihan",
+      "avani",
+      "balsam",
+      "bhargav"
     ]
   },
   "name.givenSpain": {
@@ -3643,12 +5113,12 @@
     "category": "name",
     "total": 1500,
     "examples": [
-      "virginia",
-      "nestor",
-      "rita maria",
-      "olivia",
-      "moussa",
-      "presentacion"
+      "jose ricardo",
+      "ionut",
+      "estrella",
+      "idoia",
+      "reyes",
+      "maria magdalena"
     ]
   },
   "name.givenUk": {
@@ -3656,12 +5126,12 @@
     "category": "name",
     "total": 1957,
     "examples": [
-      "stanislaw",
-      "astrid",
-      "evelyn",
-      "emaan",
-      "cillian",
-      "harmony"
+      "kiara",
+      "cole",
+      "aoife",
+      "alora",
+      "ahmed",
+      "ahil"
     ]
   },
   "name.givenUs": {
@@ -3669,12 +5139,12 @@
     "category": "name",
     "total": 1918,
     "examples": [
-      "nyra",
-      "camila",
-      "henry",
-      "frances",
-      "callahan",
-      "adeline"
+      "victor",
+      "journi",
+      "seraphina",
+      "valentino",
+      "lillian",
+      "juliana"
     ]
   },
   "nature.areaOfNaturalBeauty": {
@@ -3683,12 +5153,12 @@
     "description": "Specific national parks, landmarks, and natural wonders worldwide",
     "total": 625,
     "examples": [
-      "devils tower",
-      "alishan national scenic area",
-      "jinja",
-      "pamukkale travertine terraces",
-      "mount cook national park",
-      "khao sok national park"
+      "almaty's medeo skating rink",
+      "the carpathian mountains",
+      "galle fort",
+      "geysir geothermal area",
+      "great wall",
+      "guilin karst mountains"
     ]
   },
   "nature.biome": {
@@ -3697,12 +5167,12 @@
     "description": "Diverse ecological biomes and natural environmental zones",
     "total": 62,
     "examples": [
-      "boreal forest",
-      "subtropical desert",
-      "karst",
-      "pelagic zone",
-      "tropical coniferous forest",
-      "taiga"
+      "alpine meadow",
+      "peatland",
+      "benthic zone",
+      "cold desert",
+      "taiga",
+      "tropical dry forest"
     ]
   },
   "nature.cloudType": {
@@ -3711,12 +5181,12 @@
     "description": "Specific meteorological cloud formations and types",
     "total": 40,
     "examples": [
-      "asperitas cloud",
-      "altostratus",
-      "nacreous",
+      "undulatus",
+      "altocumulus",
       "wall cloud",
-      "radiatus",
-      "pileus cloud"
+      "polar stratospheric",
+      "cirrocumulus",
+      "kelvin-helmholtz cloud"
     ]
   },
   "nature.flower": {
@@ -3725,12 +5195,12 @@
     "description": "Various flowering plants, herbs, and ornamental garden blooms",
     "total": 547,
     "examples": [
-      "shooting star (dodecatheon)",
-      "hydrangea (hydrangea macrophylla)",
-      "giant cactus (epiphyllum oxypetalum)",
-      "coral vine (antigonon leptopus)",
-      "bee orchid",
-      "buttercup (ranunculus)"
+      "soapwort (saponaria)",
+      "gloriosa lily (gloriosa superba)",
+      "broom (cytisus scoparius)",
+      "aconite (aconitum)",
+      "black-eyed susan",
+      "calendula"
     ]
   },
   "nature.fungus": {
@@ -3739,12 +5209,12 @@
     "description": "Assorted species of wild mushrooms and fungi",
     "total": 214,
     "examples": [
-      "marsh pax mushroom",
-      "magpie inkcap mushroom",
-      "multicolor gill polypore fungus",
-      "spiny puffball",
-      "spectacular rustgill mushroom",
-      "wolf's milk slime mold"
+      "dryad's saddle mushroom",
+      "small stagshorn fungus",
+      "whitelaced shank mushroom",
+      "wood mushroom",
+      "white hedgehog mushroom",
+      "sulfur tuft mushroom"
     ]
   },
   "nature.gemstone": {
@@ -3753,12 +5223,12 @@
     "description": "Various precious gemstones, crystals, and mineral specimens",
     "total": 375,
     "examples": [
-      "dendritic opal",
-      "pentlandite",
-      "sulfur",
-      "aventurine",
-      "painite",
-      "larvikite"
+      "citrine",
+      "blue spinel",
+      "vanadinite",
+      "moissanite",
+      "black obsidian",
+      "natrolite"
     ]
   },
   "nature.landscape": {
@@ -3767,12 +5237,12 @@
     "description": "Geological formations and large-scale geographical landscape features",
     "total": 51,
     "examples": [
-      "butte",
-      "bay",
-      "salt flat",
-      "estuary",
-      "cliff",
-      "mountain range"
+      "atoll",
+      "headland",
+      "island",
+      "archipelago",
+      "peak",
+      "salt flat"
     ]
   },
   "nature.mineral": {
@@ -3781,12 +5251,12 @@
     "description": "Specific mineral specimens, crystals, and semi-precious stones",
     "total": 275,
     "examples": [
-      "pyrite",
-      "lazulite",
-      "struvite",
-      "vivianite",
-      "zeolite",
-      "tridymite"
+      "trona",
+      "azurite",
+      "clinoclase",
+      "beryl",
+      "chiastolite",
+      "albite"
     ]
   },
   "nature.moonPhase": {
@@ -3795,12 +5265,12 @@
     "description": "Traditional, seasonal, and descriptive names for lunar phases",
     "total": 117,
     "examples": [
-      "song moon",
-      "bright moon",
-      "dog moon",
-      "grain moon",
-      "first quarter",
-      "hunger moon"
+      "quarter moon",
+      "holly moon",
+      "ash moon",
+      "ashen glow",
+      "dyer moon",
+      "blue moon"
     ]
   },
   "nature.naturalPhenomenon": {
@@ -3809,12 +5279,12 @@
     "description": "Rare atmospheric, meteorological, and natural optical phenomena",
     "total": 45,
     "examples": [
-      "whirlpool",
-      "fire rainbow",
-      "superbloom",
-      "white rainbow",
+      "sprites",
+      "blue jets",
+      "ball lightning",
       "ice circle",
-      "murmuration"
+      "aurora borealis",
+      "whirlpool"
     ]
   },
   "nature.plant": {
@@ -3823,12 +5293,12 @@
     "description": "Common indoor houseplants and decorative potted foliage",
     "total": 55,
     "examples": [
-      "begonia",
-      "boston fern",
-      "chinese evergreen",
-      "zz plant",
-      "dumb cane",
-      "pothos"
+      "bird's nest fern",
+      "croton",
+      "string of pearls",
+      "haworthia",
+      "fiddle leaf fig",
+      "boston fern"
     ]
   },
   "nature.sceneModifier": {
@@ -3838,11 +5308,11 @@
     "total": 49,
     "examples": [
       "sun-dappled",
-      "aurora",
-      "verdant",
-      "wet",
-      "mist-shrouded",
-      "drizzle"
+      "fluffy clouds",
+      "snow-capped",
+      "windy",
+      "after rain",
+      "starry"
     ]
   },
   "nature.scene": {
@@ -3851,12 +5321,12 @@
     "description": "Diverse natural environments, biomes, and landscape settings",
     "total": 84,
     "examples": [
-      "expanse",
-      "meadow",
-      "stream",
-      "savanna",
-      "waterfall",
-      "castle"
+      "canopy",
+      "mountains",
+      "folly",
+      "jungle",
+      "marsh",
+      "ravine"
     ]
   },
   "nature.sky": {
@@ -3865,12 +5335,12 @@
     "description": "Specific sky conditions, times of day, and cloud formations",
     "total": 198,
     "examples": [
-      "metallic sky",
-      "dust-haze sky",
-      "dark overcast sky",
-      "clearing storm sky",
+      "comet-streaked sky",
+      "aurora borealis sky",
       "altocumulus sky",
-      "autumnal sky"
+      "autumnal sky",
+      "airglow sky",
+      "pearlescent sky"
     ]
   },
   "nature.texture": {
@@ -3879,12 +5349,12 @@
     "description": "Assorted natural and artificial surface textures and patterns",
     "total": 167,
     "examples": [
-      "shattered sea ice",
-      "terrazzo",
-      "silk",
-      "textured bricks",
-      "worn leather",
-      "wavy fabric"
+      "fur",
+      "hammered metal",
+      "embossed paper",
+      "pitted metal",
+      "painted brick wall",
+      "knitted wool"
     ]
   },
   "nature.treeType": {
@@ -3893,12 +5363,12 @@
     "description": "Various species of deciduous, coniferous, and tropical trees",
     "total": 71,
     "examples": [
-      "magnolia",
-      "western red cedar",
-      "rainbow eucalyptus",
-      "sycamore",
-      "fan palm",
-      "japanese maple"
+      "maple",
+      "beech",
+      "douglas fir",
+      "acacia",
+      "coast redwood",
+      "bristlecone pine"
     ]
   },
   "nature.tree": {
@@ -3907,12 +5377,12 @@
     "description": "Assorted tree species, fruiting trees, and woody plants",
     "total": 158,
     "examples": [
+      "virginia creeper",
       "italian stone pine",
-      "ebony",
-      "fraser fir",
-      "shortleaf pine",
-      "green ash",
-      "giant sequoia"
+      "catalpa",
+      "hemlock spruce",
+      "dawn redwood",
+      "linden"
     ]
   },
   "nature.tropicalHouseplant": {
@@ -3921,12 +5391,12 @@
     "description": "Tropical flowering plants, orchids, and decorative botanicals",
     "total": 104,
     "examples": [
-      "pothos",
-      "coleus",
-      "lobelia",
-      "dieffenbachia",
-      "arctotis",
-      "aeschynanthus"
+      "cymbidium",
+      "neoregelia",
+      "paphiopedilum",
+      "chamaedorea",
+      "sinningia",
+      "miltoniopsis"
     ]
   },
   "nature.waterBody": {
@@ -3935,12 +5405,12 @@
     "description": "Various types of natural and artificial water formations",
     "total": 109,
     "examples": [
-      "creeklet",
-      "pond",
-      "salt lake",
-      "marsh",
-      "source",
-      "salt marsh"
+      "lake",
+      "glacial lagoon",
+      "bog",
+      "moat",
+      "headwaters",
+      "wetland"
     ]
   },
   "nature.weather": {
@@ -3949,12 +5419,12 @@
     "description": "Meteorological events, cloud types, and severe weather conditions",
     "total": 156,
     "examples": [
-      "snowstorm",
-      "frozen rain",
-      "dust storm",
-      "haboob",
-      "hail",
-      "heat lightning"
+      "frosty",
+      "boiling",
+      "freezing",
+      "calm",
+      "cold snap",
+      "frigid"
     ]
   },
   "nature.wood": {
@@ -3963,12 +5433,12 @@
     "description": "Specific types of hardwood and softwood timber materials",
     "total": 66,
     "examples": [
-      "jatoba",
-      "alder",
-      "amendoim",
-      "willow",
-      "rift sawn oak",
-      "wenge"
+      "snakewood",
+      "merbau",
+      "olive wood",
+      "maple",
+      "tulipwood",
+      "pink ivory"
     ]
   },
   "people.accent": {
@@ -3977,12 +5447,12 @@
     "description": "Various global and regional spoken accents and dialects",
     "total": 126,
     "examples": [
-      "bulgarian",
-      "cockney",
-      "filipino",
-      "armenian",
-      "bengali",
-      "german"
+      "ghanaian",
+      "irish",
+      "new york",
+      "newfoundland",
+      "czech",
+      "cuban"
     ]
   },
   "people.beautifulFeminine": {
@@ -3991,12 +5461,12 @@
     "description": "Adjectives describing feminine beauty, grace, and physical attractiveness",
     "total": 48,
     "examples": [
-      "attractive",
-      "heavenly",
-      "lovely",
-      "sensational",
+      "exquisite",
       "vivacious",
-      "petite"
+      "stunning",
+      "sweet",
+      "spellbinding",
+      "curvaceous"
     ]
   },
   "people.beautifulMasculine": {
@@ -4005,12 +5475,12 @@
     "description": "Personality traits and physical characteristics associated with masculine appeal",
     "total": 106,
     "examples": [
-      "athletic build",
-      "gentle",
-      "tall",
-      "glowing skin",
-      "dark skin",
-      "jaw-dropping"
+      "well-groomed",
+      "mannerly",
+      "confident",
+      "robust",
+      "sun kissed skin",
+      "centered"
     ]
   },
   "people.bodyType": {
@@ -4019,12 +5489,12 @@
     "description": "Detailed descriptions of various human body shapes, builds, and proportions",
     "total": 115,
     "examples": [
-      "athletic and toned with defined abs",
-      "fat with a defined waist",
-      "ectomorph build with long limbs",
-      "burly and thickset with a wide frame",
-      "curvy shape with larger hips",
-      "larger bust, slender lower body"
+      "broad chest and shoulders, narrow waist",
+      "straight up and down, minimal curves",
+      "bulky and muscular with broad shoulders",
+      "lower body-focused shape with more muscle tone",
+      "short and broad, often muscular",
+      "narrow shoulders, wider hips and thighs"
     ]
   },
   "people.celebrity": {
@@ -4033,12 +5503,12 @@
     "description": "Famous actors, singers, influencers, and members of British royalty",
     "total": 646,
     "examples": [
-      "karen fukuhara",
-      "natalie portman",
-      "kevin hart",
-      "leila lowfire",
-      "larsen thompson",
-      "naomi watts"
+      "kerry washington",
+      "alex morgan",
+      "courteney cox",
+      "adriana lima",
+      "julianne hough",
+      "heidi klum"
     ]
   },
   "people.common": {
@@ -4047,12 +5517,12 @@
     "description": "Broad age groups, life stages, and general demographic categories",
     "total": 34,
     "examples": [
-      "adolescent",
-      "man",
-      "gentleman",
-      "toddler",
-      "child",
-      "gen-zer"
+      "baby boomer",
+      "old man",
+      "millennial",
+      "young woman",
+      "woman",
+      "man"
     ]
   },
   "people.couple": {
@@ -4061,12 +5531,12 @@
     "description": "Various romantic, platonic, and professional two-person relationship dynamics",
     "total": 36,
     "examples": [
+      "husband and wife",
+      "engaged couple",
       "double date",
-      "duo",
-      "girlfriend and boyfriend",
-      "newlyweds",
-      "business partners",
-      "teammates"
+      "high school sweethearts",
+      "same-sex couple",
+      "spouses"
     ]
   },
   "people.dance": {
@@ -4075,12 +5545,12 @@
     "description": "Traditional, cultural, and modern dance styles from around the world",
     "total": 119,
     "examples": [
-      "modern contemporary dance",
-      "k-pop dance",
-      "belly dance",
-      "balinese legong dance",
-      "jitterbug dance",
-      "interpretive dance"
+      "afro-cuban dance",
+      "kuchipudi dance",
+      "kala dance",
+      "jazz dance",
+      "lindy hop dance",
+      "tai chi fan dance"
     ]
   },
   "people.expression": {
@@ -4089,12 +5559,12 @@
     "description": "Highly detailed descriptions of facial expressions and emotional body language",
     "total": 471,
     "examples": [
-      "exaggerated eye roll with a head tilt and sigh",
-      "weary eyes with a forced, tight-lipped smile",
-      "open-mouthed smile with nose crinkle and slightly flushed cheeks",
-      "half-smile with crinkled eyes and a slight blush",
-      "beaming face",
-      "broad grin with nose crinkle and squinted eyes"
+      "pensive gaze",
+      "squinted eyes with flared nostrils and a slight head shake",
+      "whimpering with furrowed brow",
+      "slight pout with furrowed brow and crossed arms",
+      "sobbing uncontrollably with gasping breaths",
+      "scowl with furrowed brow and slightly protruding lower lip"
     ]
   },
   "people.eyeColor": {
@@ -4103,12 +5573,12 @@
     "description": "Natural and fantasy eye colors including gem-like and vivid shades",
     "total": 46,
     "examples": [
-      "coral eyes",
-      "peach eyes",
-      "charcoal eyes",
-      "emerald green eyes",
-      "ocean blue eyes",
-      "aquamarine eyes"
+      "amber eyes",
+      "jade eyes",
+      "amber-gold eyes",
+      "sky blue eyes",
+      "green eyes",
+      "black eyes"
     ]
   },
   "people.festival": {
@@ -4117,12 +5587,12 @@
     "description": "Major international cultural, religious, and seasonal festivals and holidays",
     "total": 59,
     "examples": [
-      "harbin ice festival",
-      "cherry blossom festival",
-      "semana santa",
-      "eid al-fitr",
-      "festival of colors",
-      "mid-autumn festival"
+      "vesak",
+      "songkran",
+      "baisakhi",
+      "dia de los muertos",
+      "dussehra",
+      "naadam festival"
     ]
   },
   "people.group": {
@@ -4131,12 +5601,12 @@
     "description": "Collective nouns and terms for various groups or gatherings of people",
     "total": 71,
     "examples": [
-      "band",
-      "coalition",
+      "people",
+      "society",
+      "tourists",
       "tribe",
       "travelers",
-      "club",
-      "commuters"
+      "population"
     ]
   },
   "people.hairstyle": {
@@ -4145,12 +5615,12 @@
     "description": "Diverse haircuts, styling techniques, and hair textures for men and women",
     "total": 58,
     "examples": [
-      "asymmetrical bob",
-      "bald head",
-      "bob cut",
-      "bantu knots",
-      "cornrows",
-      "quiff"
+      "layer cut",
+      "dreadlocks",
+      "top knot",
+      "quiff",
+      "undercut",
+      "slicked back"
     ]
   },
   "people.hobby": {
@@ -4159,12 +5629,12 @@
     "description": "Wide range of creative, physical, and intellectual hobbies and interests",
     "total": 291,
     "examples": [
-      "wine tasting",
-      "astronomy",
-      "collecting vintage toys",
-      "conservation",
-      "collecting vintage clothing",
-      "jewelry making"
+      "digital painting",
+      "magic tricks",
+      "blogging",
+      "canoeing",
+      "ballroom dancing",
+      "camping"
     ]
   },
   "people.job": {
@@ -4173,12 +5643,12 @@
     "description": "Various professional occupations, roles, and employment titles",
     "total": 612,
     "examples": [
-      "computer programmer",
-      "security analyst",
-      "home health aide",
-      "aerospace engineer",
-      "child care worker",
-      "locksmith"
+      "disability case manager",
+      "microbiologist",
+      "teacher",
+      "real estate agent",
+      "program coordinator",
+      "photographer assistant"
     ]
   },
   "people.makeupStyle": {
@@ -4187,12 +5657,12 @@
     "description": "Historical, trendy, and artistic makeup styles and cosmetic techniques",
     "total": 73,
     "examples": [
-      "metallic makeup",
-      "high-fashion makeup",
-      "no-makeup makeup",
-      "vampire makeup",
-      "avant-garde makeup",
-      "1950s pin-up makeup"
+      "minimal makeup",
+      "berry lips makeup",
+      "clown makeup",
+      "graphic liner",
+      "pastel goth makeup",
+      "emo makeup"
     ]
   },
   "people.microArchetype": {
@@ -4201,12 +5671,12 @@
     "description": "Hyper-specific modern human niches and extremely specific personality types",
     "total": 59,
     "examples": [
-      "woman who runs cottagecore instagram from brutalist flat",
-      "retired pilot who reviews airplane meals at home",
-      "teen who organizes book shelf by emotional impact",
+      "24-year-old who reviews every gas station hot dog within 50 miles",
       "girl who hosts silent reading party in laundromat",
+      "retired pilot who reviews airplane meals at home",
       "woman who forages in supermarket reduced aisle and calls it tasting menu",
-      "girl who does death cleaning for friends proactively"
+      "man who does sudoku in pen then frames mistakes",
+      "man who restores crt tvs to watch static aesthetically"
     ]
   },
   "people.microImperfection": {
@@ -4215,12 +5685,12 @@
     "description": "Subtle, organic skin, hair, and facial textures that ground AI portraits in raw reality",
     "total": 49,
     "examples": [
-      "spider vein texture",
-      "smile lines",
+      "eye bags",
+      "red nostrils",
       "collarbone freckles",
-      "sun-damaged skin",
-      "worry lines",
-      "grey hairs"
+      "facial peach fuzz",
+      "hand freckles",
+      "lip scar"
     ]
   },
   "people.posePortrait": {
@@ -4229,12 +5699,12 @@
     "description": "Specific camera angles, body positioning, and framing for portrait photography",
     "total": 45,
     "examples": [
-      "hand on hip",
-      "3/4 shot",
-      "silhouette portrait",
-      "sitting",
+      "back turned to camera looking over shoulder",
+      "crouched portrait",
       "side profile",
-      "wide shot"
+      "seated on a stool with hands clasped",
+      "environmental portrait",
+      "looking off into the distance"
     ]
   },
   "people.pose": {
@@ -4243,12 +5713,12 @@
     "description": "Dynamic body postures, gestures, and physical actions for characters",
     "total": 201,
     "examples": [
-      "leaning against a car hood",
-      "standing tall",
+      "leaning backward with hands clasped behind head",
+      "standing on one leg with other leg bent at the knee",
+      "beckoning",
+      "kneeling with hands on nearby object",
       "blowing a kiss",
-      "hugging oneself",
-      "crouching with one hand on the knee",
-      "leaning backward with hands on hips"
+      "kneeling with hands on hips"
     ]
   },
   "people.profession": {
@@ -4257,12 +5727,12 @@
     "description": "Specific historical, scientific, and specialized professions and trades",
     "total": 60,
     "examples": [
-      "apothecary",
-      "watchmaker",
-      "astronomer",
-      "scribe",
-      "blacksmith",
-      "potter"
+      "philosopher",
+      "vintner",
+      "milliner",
+      "goldsmith",
+      "stonemason",
+      "sommelier"
     ]
   },
   "photography.apertureLook": {
@@ -4271,12 +5741,12 @@
     "description": "Photographic effects related to bokeh, depth of field, focus, and lens flares",
     "total": 52,
     "examples": [
-      "f/1.2 ultra-shallow depth of field",
-      "hyperfocal distance focus",
-      "anamorphic bokeh",
-      "isolated subject",
-      "anamorphic flare",
-      "bokeh"
+      "hazy focus",
+      "swirly bokeh",
+      "soap bubble bokeh",
+      "focus stacking",
+      "soft focus",
+      "anamorphic bokeh"
     ]
   },
   "photography.cameraMovement": {
@@ -4285,12 +5755,12 @@
     "description": "Cinematography terms for dynamic camera movements, rigs, and tracking shots",
     "total": 50,
     "examples": [
+      "rack zoom",
       "bodycam view",
-      "flyover shot",
-      "hyperlapse",
-      "gimbal shot",
-      "dolly zoom",
-      "crash zoom"
+      "sweeping pan",
+      "camera roll",
+      "panning shot",
+      "slow zoom"
     ]
   },
   "photography.camera": {
@@ -4299,12 +5769,12 @@
     "description": "Specific models of professional cinema cameras, DSLRs, and digital cameras",
     "total": 187,
     "examples": [
-      "leica",
-      "nikon z6",
-      "casio exilim ex-zr100",
-      "aaton ltr",
-      "canon powershot g7 x mark ii",
-      "hasselblad"
+      "sony",
+      "olympus om-d e-m5",
+      "panasonic lumix dmc-gh3",
+      "pentax k-3",
+      "panasonic lumix dc-fz1000 ii",
+      "panasonic lumix dc-s1r"
     ]
   },
   "photography.composition": {
@@ -4313,12 +5783,12 @@
     "description": "Visual composition techniques, framing styles, and spatial balance methods",
     "total": 117,
     "examples": [
-      "juxtaposition",
-      "focal point",
-      "dynamic symmetry",
-      "tonal contrast",
-      "horizontal lines",
-      "harmonic armature"
+      "nose room",
+      "balance",
+      "compound curve",
+      "harmonic armature",
+      "framing",
+      "color blocking"
     ]
   },
   "photography.filmStock": {
@@ -4327,12 +5797,12 @@
     "description": "Specific brands, models, and ISO speeds of analog photographic film stocks",
     "total": 52,
     "examples": [
-      "ilford xp2",
-      "ilford hp5",
-      "kodak t-max 400",
+      "foma fapan 100",
+      "fujichrome velvia 100",
+      "ilford sfx 200",
       "cinestill 800t",
-      "fujifilm neopan 400",
-      "lomochrome metropolis"
+      "foma fomapan 400",
+      "fujicolor industrial 100"
     ]
   },
   "photography.film": {
@@ -4341,12 +5811,12 @@
     "description": "Specific analog photography film types, brands, and ISO speeds",
     "total": 102,
     "examples": [
-      "ilford fp4 plus 125 film",
-      "lomography earl grey 100 film",
-      "agfaphoto ct100 film",
-      "kodak professional ultramax 400 film",
-      "kodak portra 160 film",
-      "fuji superia 200 film"
+      "kodak t-max p3200 film",
+      "agfa precisa ctd 100 film",
+      "black and white negative film",
+      "kodak professional supra endura vc 400 film",
+      "slide film",
+      "lomography lady grey 400 film"
     ]
   },
   "photography.landscapeKeyword": {
@@ -4355,12 +5825,12 @@
     "description": "Broad photography concepts, subjects, and techniques related to outdoor photography",
     "total": 81,
     "examples": [
-      "clouds",
-      "infrared",
-      "paths",
-      "birds",
-      "plains",
-      "sunsets"
+      "time-lapse photography",
+      "hdr",
+      "details",
+      "trees",
+      "mist",
+      "forests"
     ]
   },
   "photography.landscapeSubjectDetailed": {
@@ -4369,12 +5839,12 @@
     "description": "Highly descriptive, full-sentence prompts of vivid nature and landscape scenes",
     "total": 158,
     "examples": [
-      "a remote island with pristine beaches and crystal-clear water",
-      "a windswept plain dotted with towering rock formations",
-      "a dense jungle with a variety of plant and animal species",
+      "a dramatic karst landscape with towering limestone cliffs and caves",
+      "a picturesque highland lake with snow-capped peaks in the background",
       "a massive sandstone arch carved by the wind and water",
-      "a peaceful estuary with a variety of bird species",
-      "a remote wilderness area with glaciers and ice fields"
+      "a remote wilderness area with glaciers and ice fields",
+      "a sweeping sand dune desert with isolated oases",
+      "a rocky coastline with hidden coves and tidal pools"
     ]
   },
   "photography.landscapeSubject": {
@@ -4383,12 +5853,12 @@
     "description": "Various natural and man-made outdoor locations, structures, and landscape features",
     "total": 132,
     "examples": [
-      "oasis",
-      "statue",
-      "coral reef",
-      "waterfall",
-      "mangrove",
-      "scenic drive"
+      "observatory",
+      "dam",
+      "cove",
+      "beach",
+      "badlands",
+      "driftwood"
     ]
   },
   "photography.lensType": {
@@ -4397,12 +5867,12 @@
     "description": "General categories, optical designs, and specialized styles of photographic lenses",
     "total": 52,
     "examples": [
+      "toy lens",
+      "telecentric",
+      "apochromatic",
       "aspherical lens",
-      "petzval lens",
-      "soft focus lens",
-      "catadioptric lens",
-      "mirror lens",
-      "bellows lens"
+      "superzoom",
+      "mirror"
     ]
   },
   "photography.lens": {
@@ -4411,12 +5881,12 @@
     "description": "Specific focal lengths and exact branded camera lens models",
     "total": 87,
     "examples": [
-      "nikon z 50mm",
-      "fujifilm xf 18-55mm",
-      "nikon af-s 16-35mm",
-      "nikon af-s 17-35mm",
-      "400mm",
-      "canon ef 50mm"
+      "rokinon 50mm",
+      "olympus m.zuiko digital ed 45mm",
+      "sigma 24-70mm",
+      "sony fe 12-24mm",
+      "olympus m.zuiko digital ed 25mm",
+      "tamron sp 70mm"
     ]
   },
   "photography.lightSource": {
@@ -4425,12 +5895,12 @@
     "description": "Natural, artificial, and specialized light sources and lighting equipment",
     "total": 64,
     "examples": [
-      "chemiluminescence",
       "ambient light",
-      "flashbulb",
-      "led panel",
-      "moonlight",
-      "fiber optic light"
+      "halogen light",
+      "bioluminescence",
+      "firelight",
+      "lantern",
+      "chemiluminescence"
     ]
   },
   "photography.light": {
@@ -4439,12 +5909,12 @@
     "description": "Descriptive lighting styles, natural light conditions, and illumination techniques",
     "total": 136,
     "examples": [
-      "lit by aurora borealis",
-      "chiaroscuro lighting",
-      "3 spots lighting",
-      "ethereal light",
-      "vintage lighting",
-      "accent lighting"
+      "perfect lighting",
+      "fill light",
+      "hdri",
+      "backlighting",
+      "infrared light",
+      "artificial lighting"
     ]
   },
   "photography.lightingSetup": {
@@ -4453,11 +5923,11 @@
     "description": "Studio lighting techniques, setups, and directional illumination styles",
     "total": 52,
     "examples": [
-      "edge lighting",
-      "badger lighting",
-      "under lighting",
-      "high-key lighting",
-      "beauty dish lighting",
+      "hair lighting",
+      "moody lighting",
+      "window lighting",
+      "silhouette lighting",
+      "short lighting",
       "side lighting"
     ]
   },
@@ -4467,12 +5937,12 @@
     "description": "Realistic lens, film, and sensor behaviors that add organic texture to camera generations",
     "total": 45,
     "examples": [
-      "color fringing",
-      "lens smudge",
+      "film gate hair",
+      "axial chromatic aberration",
+      "haze bloom",
       "bokeh fringing",
-      "film sprocket bleed",
-      "gate flare",
-      "wet plate artifacts"
+      "aperture ghosting",
+      "catseye bokeh"
     ]
   },
   "photography.perspective": {
@@ -4481,12 +5951,12 @@
     "description": "Camera angles, viewpoints, and geometric perspective techniques for visual framing",
     "total": 129,
     "examples": [
-      "point-of-view perspective",
-      "bug's-eye perspective",
-      "bug's-eye view",
-      "geometric perspective",
-      "exaggerated perspective",
-      "linear perspective"
+      "five-point perspective",
+      "macro perspective",
+      "six-point perspective",
+      "angular perspective",
+      "split-screen perspective",
+      "anamorphic perspective"
     ]
   },
   "photography.photographer": {
@@ -4495,12 +5965,12 @@
     "description": "Names of famous photographers paired with their specific genres or styles",
     "total": 960,
     "examples": [
-      "kim hak (documentary photographer)",
-      "lucien hervé (architectural photographer)",
-      "gered mankowitz (music and portrait photographer)",
-      "tseng kwong chi (portrait and documentary photographer)",
-      "gunnie moberg (landscape and documentary photographer)",
-      "silvia grav (fine art photographer)"
+      "rafael trobat (conceptual photographer)",
+      "jürgen teller (fashion and portrait photographer)",
+      "wang ningde (fine art photographer)",
+      "michel zoghzoghi (documentary and fine art photographer)",
+      "joel-peter witkin (surrealist and fine art photographer)",
+      "christopher anderson (documentary and portrait photographer)"
     ]
   },
   "photography.portraitPhotographer": {
@@ -4509,12 +5979,12 @@
     "description": "Names of renowned portrait, fine art, and fashion photographers",
     "total": 79,
     "examples": [
-      "seydou keïta",
-      "alec soth",
-      "carl van vechten",
-      "joel meyerowitz",
-      "dan winters",
-      "helmut newton"
+      "douglas kirkland",
+      "albert watson",
+      "gordon parks",
+      "ellen von unwerth",
+      "helmut newton",
+      "alec soth"
     ]
   },
   "photography.shotType": {
@@ -4523,12 +5993,12 @@
     "description": "Various camera angles and framing techniques for photography and film",
     "total": 43,
     "examples": [
-      "canted angle",
-      "candid shot",
-      "point-of-view shot",
-      "dutch angle",
-      "over-the-shoulder shot",
-      "high angle shot"
+      "eye level shot",
+      "extreme wide shot",
+      "hip level shot",
+      "group shot",
+      "worm's-eye view",
+      "macro shot"
     ]
   },
   "photography.summerScene": {
@@ -4537,12 +6007,12 @@
     "description": "Idyllic, warm-weather outdoor scenes, landscapes, and summer activities",
     "total": 47,
     "examples": [
-      "a vibrant farmers market stall with stacks of ripe red watermelons",
+      "a backyard barbecue with smoke rising under strings of warm cafe lights",
+      "a meadow of lavender or other fragrant herbs",
       "a city park with lush green trees and flowers in full bloom",
-      "a cascading waterfall in a forest glade",
-      "a field of wildflowers under a bright blue sky",
-      "a tropical beach with hammocks strung between leaning coconut palms",
-      "a dusty hiking trail winding through a redwood forest with sunbeams"
+      "a rustic beach shack surrounded by sand dunes and sea grass",
+      "a lush forest with a peaceful stream running through it",
+      "a dock with wooden chairs overlooking a calm lake at sunrise"
     ]
   },
   "photography.summerTropicalBeach": {
@@ -4551,12 +6021,12 @@
     "description": "Sensory details and vibrant scenes of a tropical beach vacation",
     "total": 67,
     "examples": [
-      "the warm, golden light of the sun setting over the water",
-      "the sight of a lone sailboat gliding serenely across the water",
-      "children splashing in the gentle, warm shallows of a protected lagoon",
-      "a collection of starfish resting in a shallow, sun-warmed tidal pool",
-      "soft, powdery white sand stretching as far as the eye can see",
-      "a dazzling display of stars overhead on a clear night"
+      "a flock of pelicans soaring gracefully overhead",
+      "the feel of the warm, tropical sun on your face and body",
+      "the soothing sound of palm fronds rustling in the breeze",
+      "the salty taste of sea spray on your lips",
+      "wet footprints on a wooden dock evaporating quickly under the midday sun",
+      "the sound of seagulls and other shorebirds calling out to one another"
     ]
   },
   "photography.surveillanceGlitch": {
@@ -4565,12 +6035,12 @@
     "description": "CCTV, thermal, dashcam, and baby monitor artifacts that shouldn't be there",
     "total": 56,
     "examples": [
-      "doorbell cam covered in spider web at 3am motion triggered but no wind",
-      "cctv pixelation that forms face when downscaled by intern",
-      "doorbell cam that auto zooms on empty street",
+      "baby monitor showing crib mobile spinning though no wind and stopped when checked",
       "baby monitor replaying yesterday's audio",
-      "surveillance review where intern counted 4 extra people in building after closing zero overtime",
-      "pet cam cat staring directly into camera for six minutes at same spot on wall"
+      "cctv pixelation that forms face when downscaled by intern",
+      "dashcam of parking garage capturing license plate that disappears mid frame",
+      "traffic cam that once captured flamingo crossing london road no follow up",
+      "baby monitor with cover photo of baby sleeping that is not from this evening"
     ]
   },
   "photojournalism.newsExtreme": {
@@ -4579,12 +6049,12 @@
     "description": "Catastrophic, world-altering, and extreme global news events and disasters",
     "total": 68,
     "examples": [
-      "a highly infectious computer worm shuts down global hospital networks and medical devices",
-      "a huge protest against an ai company that's taken over people's jobs",
-      "a major new discovery in the world of robotics",
-      "the first human brain-computer interface is successfully implanted, allowing telepathic communication",
-      "a new designer drug takes the world by storm, causing a major public health crisis",
-      "a legendary ghost ship, missing for a century, suddenly drifts into a busy harbor with no crew aboard"
+      "a global agricultural blight rapidly destroys half of the world's wheat and corn crops",
+      "a military coup overthrows the government of a nuclear-armed nation in a sudden overnight raid",
+      "a new type of terrorist attack that targets major sporting events is carried out",
+      "a rogue wave over a hundred feet high strikes a deep-sea drilling platform",
+      "a group of hackers successfully steal millions from a major bank",
+      "a major new discovery in the world of astrophysics"
     ]
   },
   "photojournalism.newsNormal": {
@@ -4593,12 +6063,12 @@
     "description": "Standard major news headlines covering science, politics, business, and society",
     "total": 57,
     "examples": [
-      "a major cultural festival, celebrating the traditions and customs of a particular group or region",
-      "a major civil rights movement, such as the fight for lgbtq+ equality or women's rights",
-      "a technological breakthrough, such as a new form of renewable energy or a cure for a major disease",
+      "a breakthrough in agricultural technology allows crops to be grown in arid, desert conditions",
       "a historic moment, such as the first manned mission to mars or the discovery of a new planet",
-      "a major climate disaster, such as a tornado or a record-breaking heatwave",
-      "a breakthrough in agricultural technology allows crops to be grown in arid, desert conditions"
+      "a major climate change summit, bringing together world leaders to discuss solutions to the crisis",
+      "a local high school wins a national science championship, receiving a hero's welcome in their hometown",
+      "a major social media scandal, such as the cambridge analytica scandal or the instagram algorithm controversy",
+      "a high-profile court trial of a corrupt politician begins, attracting massive media crowds"
     ]
   },
   "photojournalism.newsSpecific": {
@@ -4607,12 +6077,12 @@
     "description": "Highly detailed, specific descriptions of major global news events and crises",
     "total": 38,
     "examples": [
-      "a historic peace accord: two neighboring countries sign a landmark treaty ending decades of border conflict",
-      "a critical space rescue: an international crew of astronauts executes a daring spacewalk to repair a damaged life-support system",
-      "a stunning scientific achievement: fusion energy researchers achieve net energy gain for the first time, marking a major milestone for clean power",
-      "a major high-tech art heist: armed thieves bypass advanced security systems to steal a famous modern masterpiece from a gallery in paris",
-      "a historic moment: the first manned mission to mars successfully lands on the red planet, opening up a new era of space exploration",
-      "a major celebrity scandal: a top hollywood actor is caught in a massive cheating scandal, leading to the collapse of his marriage and a major hit to his career"
+      "a major world crisis: the covid-19 pandemic sweeps across the globe, leading to millions of deaths and upending daily life for billions of people",
+      "a mass protest against police brutality and systemic racism: thousands march through the streets of new york city, demanding justice for victims of police violence and systemic racism in the criminal justice system",
+      "a new scientific discovery: scientists discover a new species of dinosaur, providing new insights into the prehistoric world and sparking excitement among paleontologists and the public alike",
+      "a bold environmental protest: activists scale a major oil rig in the north sea, unfurling a massive banner protesting deep-sea drilling",
+      "a major political scandal: a top government official is caught in a sexting scandal, leading to calls for his resignation and damaging his political career",
+      "a major climate change summit: leaders from around the world gather in paris to discuss a new global agreement on reducing carbon emissions and slowing the effects of climate change"
     ]
   },
   "photojournalism.styleProtest": {
@@ -4621,12 +6091,12 @@
     "description": "Various photographic styles and techniques used in photojournalism and documentary photography",
     "total": 38,
     "examples": [
-      "tintype and wet plate photography: employing historic nineteenth-century processes to produce highly textured, hauntingly historicized portraits",
+      "low-light photography: capturing the mood and atmosphere of protests that occur at night or in low light conditions",
+      "dramatic silhouette photography: framing protesters against a bright light source, like the setting sun or police headlights, to create powerful dark outlines",
+      "high-speed photography: using fast shutter speeds to capture fast-paced action and movement",
       "action photography: capturing the movement and energy of the protesters in action",
-      "macro photography: focusing on the small details of protests and individual participants",
-      "aerial photography: providing a unique and expansive view of the protests and the surrounding environment",
-      "analog film photography: using traditional 35mm or medium format film to create a raw, grain-textured aesthetic with natural color tones",
-      "artistic photojournalism: using creative techniques and visual storytelling to convey the mood and emotions of the protests"
+      "environmental portraiture: taking portraits of the protesters and the people affected by the issues being addressed",
+      "golden hour photography: shooting during the warm, soft light of sunrise or sunset to add a hopeful or dramatic mood to the scene"
     ]
   },
   "photojournalism.types": {
@@ -4635,12 +6105,12 @@
     "description": "Diverse subjects and thematic beats covered in photojournalism and documentary reporting",
     "total": 87,
     "examples": [
-      "humanitarian crises and aid efforts",
-      "immigration and refugees",
-      "science and technology",
+      "scientific research and discoveries",
+      "prison reform and inmate rehabilitation programs",
       "labor and workers' rights",
-      "war and conflict photography, documenting the impact of violence on civilians",
-      "politics and political campaigns"
+      "medical breakthroughs and innovations",
+      "politics and political campaigns",
+      "mental health and illness"
     ]
   },
   "places.home": {
@@ -4649,12 +6119,12 @@
     "description": "Various types of residential dwellings and architectural housing styles",
     "total": 103,
     "examples": [
-      "a frame",
-      "villa",
-      "earth sheltered home",
+      "cape cod",
+      "townhouse",
+      "prefab home",
+      "chateau",
       "castle",
-      "floating home",
-      "green roof home"
+      "mobile home"
     ]
   },
   "places.interiorSpace": {
@@ -4663,12 +6133,12 @@
     "description": "Diverse indoor environments ranging from mundane rooms to specialized workspaces",
     "total": 481,
     "examples": [
-      "palace salon",
-      "flower market stall",
-      "industrial kitchen",
-      "galley kitchen",
-      "hardware store",
-      "computer lab"
+      "sauna room",
+      "throne room",
+      "wine boutique",
+      "tattoo parlor",
+      "shoe store",
+      "wine cellar"
     ]
   },
   "places.liminal": {
@@ -4677,12 +6147,12 @@
     "description": "Transitional and eerie everyday places that evoke nostalgia, unease, or dreamlike stillness",
     "total": 63,
     "examples": [
-      "vacant car park on the top floor at dusk",
-      "supermarket aisle emptied overnight",
-      "bathroom mirror in a motel with a buzzing light",
-      "empty school corridor with buzzing fluorescent light",
-      "empty stairwell with motion-sensor light",
-      "hotel hallway that stretches too long"
+      "empty movie theater after credits",
+      "basement laundry room with one light on",
+      "airport jet bridge with no windows",
+      "beach boardwalk closed for the season",
+      "arcade at closing time with games still flashing",
+      "stairwell landing with no exit signs"
     ]
   },
   "places.nonEuclidean": {
@@ -4691,12 +6161,12 @@
     "description": "Impossible architecture and spaces that break physical rules",
     "total": 62,
     "examples": [
-      "office where windows show night inside day outside",
-      "highway shoulder that echoes music from car ahead that is empty",
-      "pool with no shallow end and ladder on all four sides too short",
-      "campus quad whose paths avoid where people walk",
+      "basement that is larger inside than the house containing it",
       "subway platform where trains arrive from both tunnels at once",
-      "basement that is larger inside than the house containing it"
+      "hotel corridor that loops after three doors",
+      "bathroom tile pattern that spells numbers only in steam",
+      "roadside diner that exists only when it rains",
+      "garden shed that contains full overgrown garden"
     ]
   },
   "places.public": {
@@ -4705,12 +6175,12 @@
     "description": "Common public venues, recreational areas, and civic facilities",
     "total": 94,
     "examples": [
+      "public pool",
+      "skate park",
+      "soccer field",
       "picnic area",
-      "children's museum",
-      "amphitheater",
-      "lighthouse",
-      "exhibition center",
-      "beach access"
+      "state fair",
+      "town square"
     ]
   },
   "places.roomType": {
@@ -4719,12 +6189,12 @@
     "description": "Specific, often historical or grand interior rooms and specialized chambers",
     "total": 71,
     "examples": [
+      "atelier",
       "laboratory",
-      "observatory",
-      "trophy room",
-      "vault",
-      "buttery",
-      "classroom"
+      "apothecary",
+      "chapel",
+      "larder",
+      "sanctum"
     ]
   },
   "places.room": {
@@ -4733,12 +6203,12 @@
     "description": "Standard functional rooms and spaces found in typical modern homes",
     "total": 51,
     "examples": [
-      "rec room",
+      "living room",
+      "laboratory",
+      "deck",
+      "porch",
       "reception",
-      "home gym",
-      "bathroom",
-      "mudroom",
-      "deck"
+      "solarium"
     ]
   },
   "places.urbanFeature": {
@@ -4747,12 +6217,12 @@
     "description": "Structural elements, fixtures, and infrastructure found in city environments",
     "total": 196,
     "examples": [
-      "exhaust vent",
-      "barricade",
-      "fire escape",
-      "bike share station",
-      "hvac unit",
-      "lightning rod"
+      "utility pole",
+      "electric substation",
+      "public art installation",
+      "flyover",
+      "brick wall",
+      "pedestrian overpass"
     ]
   },
   "places.venue": {
@@ -4761,12 +6231,12 @@
     "description": "Event venues for sports, performance, nightlife, conventions, and public gatherings",
     "total": 506,
     "examples": [
-      "market hall",
-      "multipurpose hall",
-      "cruise ship theater",
-      "sailing pavilion",
-      "pool hall",
-      "burlesque club"
+      "casino arena",
+      "outdoor concert stage",
+      "comedy theater",
+      "cabaret",
+      "civic hall",
+      "garden party venue"
     ]
   },
   "plot.action": {
@@ -4775,12 +6245,12 @@
     "description": "High-stakes, thrilling scenarios involving combat, heists, rescues, and survival",
     "total": 66,
     "examples": [
-      "rescuing survivors of a natural disaster",
-      "stopping a nuclear missile launch from a remote silo",
-      "participating in a high-stakes game or contest",
+      "defending a high-value cargo convoy from bandits",
       "overcoming personal demons or fears",
-      "rescuing a stranded or lost team or crew",
-      "rescuing a captive from a jungle or wilderness"
+      "combating a rogue mercenary unit in an urban warzone",
+      "surviving in a wilderness or jungle",
+      "rescuing a captive or hostage",
+      "infiltrating a high-stakes illegal casino to gather evidence"
     ]
   },
   "plot.arthouse": {
@@ -4789,12 +6259,12 @@
     "description": "Introspective narratives focusing on emotional struggles, relationships, and personal crises",
     "total": 66,
     "examples": [
-      "struggling with identity issues",
-      "discovering a dark secret",
-      "facing an ethical dilemma",
-      "exploring their sexuality",
-      "confronting their past",
-      "engaging in acts of rebellion"
+      "struggling with mental health issues",
+      "battling with a chronic illness",
+      "coping with the sudden silence of a solitary rural existence",
+      "experiencing a surreal breakdown of linear time",
+      "being held captive",
+      "making difficult life choices"
     ]
   },
   "plot.fantasy": {
@@ -4803,12 +6273,12 @@
     "description": "Magical and supernatural adventures involving mythical creatures, curses, and epic quests",
     "total": 66,
     "examples": [
-      "escaping from an enchanted forest or maze",
-      "surviving in a world ruled by magic-users",
-      "participating in a magic tournament or competition",
-      "escaping from a spell-induced sleep",
-      "defending a kingdom or city",
-      "rescuing a captive or hostage"
+      "navigating through dangerous territory",
+      "dealing with the aftermath of a spell gone wrong",
+      "navigating through a treacherous mountain range",
+      "recovering a forgotten language of power",
+      "discovering a hidden society of magic-users",
+      "infiltrating an enemy fortress"
     ]
   },
   "plot.general": {
@@ -4817,12 +6287,12 @@
     "description": "A mix of everyday life events, personal goals, and lighthearted adventures",
     "total": 109,
     "examples": [
-      "dealing with a haunted house",
-      "starting a haunted house business",
-      "going on a beach vacation",
-      "attending a destination wedding",
-      "trying to clear someone's name",
-      "starting a startup"
+      "going on a camping trip",
+      "attending a music festival",
+      "participating in a charity auction",
+      "competing in a reality show",
+      "escaping from prison",
+      "surviving in a post-apocalyptic world"
     ]
   },
   "plot.horror": {
@@ -4831,12 +6301,12 @@
     "description": "Horror and survival scenarios involving supernatural entities, monsters, and deadly environments",
     "total": 65,
     "examples": [
-      "escaping a house that rearranges its rooms overnight",
-      "escaping a remote gas station surrounded by shadowy creatures",
-      "being pursued by an ancient woodland deity after trespassing",
-      "escaping from a mysterious ghost ship",
-      "escaping a haunted mirror that slowly traps souls",
-      "fighting against a cult"
+      "searching for a lost city of gold",
+      "running from a horde of genetically modified zombies",
+      "running from a notorious serial killer",
+      "searching for a lost civilization",
+      "searching for a lost temple",
+      "trapped in a haunted hotel"
     ]
   },
   "plot.musical": {
@@ -4845,12 +6315,12 @@
     "description": "Storylines focused on musical competitions, bands, solo artists, and creative collaborations",
     "total": 66,
     "examples": [
-      "overcoming creative differences in a musical collaboration",
-      "learning to incorporate different musical styles",
-      "competing in a musical competition",
-      "finding new ways to express themselves through music",
       "forming an unexpected friendship through a shared love of jazz",
-      "finding success as a new musical act"
+      "overcoming a lack of support from family or friends",
+      "overcoming stage fright",
+      "struggling to write a hit song under a strict label deadline",
+      "preparing for a music festival",
+      "overcoming a debilitating injury or illness"
     ]
   },
   "plot.romance": {
@@ -4859,12 +6329,12 @@
     "description": "Romantic storylines about overcoming personal, social, and communication obstacles to find love",
     "total": 65,
     "examples": [
-      "navigating the challenges of marriage or long-term commitment",
-      "navigating the ups and downs of dating",
-      "finding love in an unexpected place",
+      "falling in love with someone from a different background or culture",
       "finding love while pursuing personal goals",
-      "discovering a deep connection with a local bookstore owner",
-      "falling in love with each other"
+      "supporting each other through personal crises",
+      "falling in love during a high-stakes fake dating arrangement",
+      "finding love despite personal or financial difficulties",
+      "navigating the challenges of marriage or long-term commitment"
     ]
   },
   "plot.scifiCyberpunk": {
@@ -4873,12 +6343,12 @@
     "description": "Cyberpunk scenarios involving hacking, rogue AI, cyborgs, and dystopian corporate espionage",
     "total": 66,
     "examples": [
-      "overcoming personal challenges in a cyberpunk world",
-      "resisting the temptation of advanced technology",
-      "navigating the dangerous black markets of a lawless sky-city",
-      "surviving in a world dominated by technology",
-      "investigating the mysterious murders of high-profile synthetic citizens",
-      "participating in a virtual battle for survival"
+      "dealing with the consequences of artificial intelligence",
+      "dealing with the consequences of using illegal technology",
+      "infiltrating a top-secret laboratory or facility",
+      "infiltrating a black market for illegal technology",
+      "escaping from a totalitarian technological regime",
+      "escaping from a dangerous virtual game or simulation"
     ]
   },
   "plot.scifi": {
@@ -4887,12 +6357,12 @@
     "description": "Science fiction scenarios featuring space exploration, alien encounters, and planetary disasters",
     "total": 185,
     "examples": [
-      "searching for a way to prevent a space disaster",
-      "escaping from a space-based trap or ambush",
-      "escaping from a cyborg takeover",
-      "dealing with the consequences of time travel",
-      "searching for a way to communicate with a mysterious alien race",
-      "searching for a way to prevent the destruction of a planet"
+      "escaping from a black hole or wormhole",
+      "stopping a space-based weapons threat",
+      "making first contact with an alien race",
+      "repairing a damaged spaceship",
+      "participating in a space battle",
+      "overcoming personal challenges in space"
     ]
   },
   "plot.war": {
@@ -4901,12 +6371,12 @@
     "description": "Military and tactical operations including covert missions, sieges, and defensive stands",
     "total": 66,
     "examples": [
-      "negotiating a temporary ceasefire to evacuate wounded non-combatants",
-      "sabotaging an enemy ammunition depot under the cover of darkness",
-      "conducting a deep penetration mission",
-      "stopping a traitor or mole within the group",
-      "rescuing a captured comrade",
-      "defending a vital mountain pass against overwhelming enemy forces"
+      "dealing with enemy prisoners of war",
+      "leading a desperate breakthrough of an encircled frontline position",
+      "stopping enemy propaganda or psychological operations",
+      "carrying out a dangerous mission",
+      "disarming a series of sea mines in a strategic harbor",
+      "saving wounded soldiers or civilians"
     ]
   },
   "science.astronomy": {
@@ -4915,12 +6385,12 @@
     "description": "Astronomical concepts, phenomena, and celestial structures like black holes and dark matter",
     "total": 54,
     "examples": [
-      "venus",
-      "interstellar medium",
-      "big bang",
-      "solar flare",
-      "pulsar",
-      "ringed planet"
+      "asteroid",
+      "worm hole",
+      "dark energy",
+      "white dwarf",
+      "neptune",
+      "big bang"
     ]
   },
   "science.chemicalElement": {
@@ -4929,12 +6399,12 @@
     "description": "Various chemical elements from the periodic table",
     "total": 118,
     "examples": [
+      "nihonium",
+      "mendelevium",
+      "antimony",
+      "dubnium",
       "platinum",
-      "sulfur",
-      "gallium",
-      "terbium",
-      "palladium",
-      "carbon"
+      "zirconium"
     ]
   },
   "science.constellation": {
@@ -4943,12 +6413,12 @@
     "description": "Names of recognized star constellations in the night sky",
     "total": 88,
     "examples": [
-      "hercules",
-      "camelopardalis",
-      "caelum",
-      "canis minor",
-      "delphinus",
-      "lyra"
+      "scorpius",
+      "apus",
+      "virgo",
+      "crater",
+      "equuleus",
+      "octans"
     ]
   },
   "science.geometry": {
@@ -4957,12 +6427,12 @@
     "description": "Advanced mathematical shapes, fractals, attractors, and geometric concepts",
     "total": 117,
     "examples": [
-      "lattice",
-      "henon attractor",
-      "euclidean geometry",
-      "chaos theory",
-      "fractal pattern",
-      "geodesic dome"
+      "riemann hypothesis",
+      "mandelbulb",
+      "mandelbrot set",
+      "mobius strip",
+      "sierpinski carpet",
+      "octahedron"
     ]
   },
   "science.isotope": {
@@ -4971,12 +6441,12 @@
     "description": "Specific radioactive and stable isotopes of various chemical elements",
     "total": 56,
     "examples": [
-      "technetium-99m",
-      "chlorine-36",
-      "argon-40",
-      "samarium-153",
-      "polonium-210",
-      "plutonium-239"
+      "carbon-14",
+      "curium-244",
+      "xenon-133",
+      "carbon-13",
+      "oxygen-18",
+      "neptunium-237"
     ]
   },
   "science.laboratoryEquipment": {
@@ -4985,12 +6455,12 @@
     "description": "Lab glassware, instruments, and apparatus for scientific research and analysis",
     "total": 115,
     "examples": [
-      "laboratory gloves",
-      "agar plate",
-      "electrophoresis chamber",
-      "analytical balance",
-      "laboratory timer",
-      "laboratory scale"
+      "multichannel pipette",
+      "analytical scale",
+      "geiger counter",
+      "laboratory bench with reagents",
+      "desiccator",
+      "porcelain crucible with lid"
     ]
   },
   "science.medicalImages": {
@@ -4999,12 +6469,12 @@
     "description": "Medical imaging techniques and diagnostic scanning procedures",
     "total": 45,
     "examples": [
-      "bronchoscopy",
-      "cta",
-      "pet-mri",
-      "photoacoustic imaging",
-      "fluoroscopy",
-      "echocardiography"
+      "cystoscopy",
+      "4d ultrasound",
+      "spect scan",
+      "cone beam ct",
+      "angiography",
+      "dental x-ray"
     ]
   },
   "science.planetBody": {
@@ -5013,12 +6483,12 @@
     "description": "Specific planets, moons, asteroids, and other named celestial bodies",
     "total": 224,
     "examples": [
-      "salacia",
-      "francisco",
+      "lhs 1140b",
+      "helene",
+      "epimetheus",
+      "rosalind",
       "asbolus",
-      "aeneas",
-      "mab",
-      "lysithea"
+      "mathilde"
     ]
   },
   "science.rejectedSuperpower": {
@@ -5027,12 +6497,12 @@
     "description": "Useless, creepy, or situationally cursed minor abilities",
     "total": 69,
     "examples": [
-      "can predict which lift door will open with 96 percent accuracy",
-      "power to make any plants double jointed",
-      "power to make toast land butter side up but cold",
-      "can teleport breath to other side of room",
-      "can turn into mist but mist smells faintly of bleach",
-      "can breathe underwater but only in bath"
+      "can make any stranger think they know you from somewhere generic",
+      "ability to detect lies but only about whether someone ate your leftovers",
+      "ability to blink in perfect sync with any stranger",
+      "ability to know someone else's password but mistype final character always",
+      "ability to become mildly more attractive to geese",
+      "ability to become left handed for 12 minutes after sneeze"
     ]
   },
   "science.robotType": {
@@ -5041,12 +6511,12 @@
     "description": "Various types of industrial, agricultural, and specialized autonomous robots and drones",
     "total": 328,
     "examples": [
-      "fold-able robot",
-      "military drone",
-      "power armor",
-      "pipe-cleaning robot",
-      "hydraulic robot",
-      "social robot"
+      "kinetic sculpture robot",
+      "cryobot",
+      "assistive robot",
+      "cybernetic animal",
+      "collaborative robot",
+      "autonomous surface vehicle"
     ]
   },
   "science.scifiTech": {
@@ -5055,12 +6525,12 @@
     "description": "Fictional science fiction technology, gadgets, and futuristic devices",
     "total": 63,
     "examples": [
-      "holographic display",
-      "deflector shield",
-      "tractor beam",
-      "warp gate",
-      "bionic eye",
-      "quantum computer"
+      "anti-gravity boots",
+      "cryo-chamber",
+      "artificial gravity generator",
+      "quantum entanglement communicator",
+      "transporter pad",
+      "terraforming device"
     ]
   },
   "set.describeStyle": {
@@ -5069,12 +6539,12 @@
     "description": "Eclectic art styles, hashtags, and artist names used in AI image generation",
     "total": 17756,
     "examples": [
-      "yaka art",
-      "christian schad",
-      "jarring figuratives",
-      "graph paper",
-      "dark orange and maroon",
-      "figurative expressionist"
+      "mottled",
+      "old memecore",
+      "modern geometrics",
+      "édouard manet",
+      "minimalist forms",
+      "pictorial harmony"
     ]
   },
   "set.describeSubject": {
@@ -5083,12 +6553,12 @@
     "description": "Highly specific, random AI-generated image prompts and surreal subject descriptions",
     "total": 139614,
     "examples": [
-      "black quartz ring set black with black stone",
-      "a catalog that contains letters in different colors",
-      "a house is shown in a forest surrounded by trees and a large pond",
-      "a person standing on a slope beside mountains and a lake",
-      "a night elf costume with a moon in the background",
-      "a man wears glasses and is standing in front of a porch"
+      "3d model of a dog standing on an object",
+      "'the end of humankind' by felipe rossi is a black and white painting",
+      "a poster for spinner with a smiley face and an orange cover",
+      "cauldron",
+      "a big santa claus holding a sword",
+      "'tale pints'"
     ]
   },
   "set.memeDescription": {
@@ -5097,12 +6567,12 @@
     "description": "Popular internet memes paired with brief descriptions of their visual content",
     "total": 44,
     "examples": [
-      "coffin dance meme - same as dancing pallbearers",
+      "bad luck brian meme - nerdy teen with braces and plaid vest",
+      "big chungus meme - overly large bugs bunny",
       "chad vs. virgin meme - comparison of stereotypical alpha and beta males",
-      "ain't nobody got time for that meme - woman gesturing dramatically during news interview",
-      "change my mind meme - steven crowder sitting behind \"change my mind\" sign",
-      "gibby on icarly \"i don't care if you broke your elbow\" meme - gibby responding callously",
-      "distracted girlfriend meme - woman looking back at another man"
+      "galaxy brain meme - increasingly glowing brains with complex ideas",
+      "i don't always",
+      "coffin dance meme - same as dancing pallbearers"
     ]
   },
   "set.meme": {
@@ -5112,11 +6582,11 @@
     "total": 44,
     "examples": [
       "change my mind meme",
-      "dat boi meme",
-      "hide the pain harold meme",
-      "american chopper argument meme",
+      "ain't nobody got time for that meme",
+      "harlem shake meme",
       "distracted boyfriend meme",
-      "expectation vs. reality meme"
+      "distracted girlfriend meme",
+      "dolan meme"
     ]
   },
   "set.moviegenBench": {
@@ -5125,12 +6595,12 @@
     "description": "MovieGen Video Bench contains 1003 diverse prompts testing various aspects including human activities (motion, emotions), animals, nature/scenery, physics (fluids, gravity, collisions), and unusual subjects/activities. The prompts provide comprehensive coverage across high, medium and low motion scenarios.\n",
     "total": 1003,
     "examples": [
-      "The camera zooms in on a fast-paced ping-pong game, focusing on the rapid back-and-forth movement of the ball.",
-      "The gentle bubbling and evaporation of water in a natural hot spring, with mist rising and drifting across the surrounding landscape.",
-      "an adorable kangaroo wearing purple overalls and cowboy boots taking a pleasant stroll in Mumbai India during a winter storm",
-      "Visitors move through the grand cathedral, light streaming through stained glass windows and casting colorful patterns on the floor as they gaze up at the high ceilings.",
-      "A raccoon wearing a detective's hat, solving mysteries with a magnifying glass and a notebook.",
-      "A person floating in a bubble, drifting over a bustling cityscape."
+      "A tilt-up from the roots of a massive tree, moving up along the trunk to the canopy high above.",
+      "A person drawing constellations in the night sky with a magic wand.",
+      "A person flying a kite made of fire, with the tail leaving a trail of sparks.",
+      "An arc shot circling around a painter in front of a large canvas, capturing their brush strokes from all angles.",
+      "Blooming Flowers",
+      "A plastic ruler being bent until it snaps back into its straight form when released."
     ]
   },
   "set.parti": {
@@ -5139,12 +6609,12 @@
     "description": "PartiPrompts (P2) is a rich set of over 1600 prompts in English. P2 can be used to measure model capabilities across various categories and challenge aspects.\n",
     "total": 1632,
     "examples": [
-      "a crowd of people watching fireworks",
-      "a store front that has the word ‘openai’ written on it.",
-      "a white background with a large blue circle",
-      "A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like pandas. All of the pandas are wearing colorful sunglasses.",
-      "a futuristic city in synthwave style",
-      "A close-up of two mantis wearing karate uniforms and fighting, jumping over a waterfall."
+      "a cat looking out of a window at a squirrel on a fence",
+      "an old man with a long grey beard and green eyes",
+      "a yellow diamond-shaped sign with a puma silhouette",
+      "an aerial view of the Great Wall",
+      "a bench without any cats on it",
+      "a photo of the back of a covered wagon. a polar bear is sticking it's head out of the wagon."
     ]
   },
   "sport.all": {
@@ -5153,12 +6623,12 @@
     "description": "Various athletic sports, gymnastics, and competitive physical activities",
     "total": 470,
     "examples": [
-      "aerial silks",
-      "skiing",
-      "rugby fives",
-      "wood chopping",
-      "tetherball",
-      "volleyball"
+      "tai chi",
+      "highlining",
+      "bouldering",
+      "box lacrosse",
+      "dog racing",
+      "acrobatic gymnastics"
     ]
   },
   "sport.equipment": {
@@ -5167,12 +6637,12 @@
     "description": "Athletic gear, protective equipment, training tools, and sport-specific apparatus",
     "total": 639,
     "examples": [
-      "equestrian helmet",
-      "fishing tackle box",
-      "ab roller",
+      "clipless pedal",
+      "australian rules football",
+      "golf glove",
+      "baseball mitt",
       "gymnastic chalk",
-      "adjustable dumbbell",
-      "relay baton"
+      "rounders bat"
     ]
   },
   "thing.adjective": {
@@ -5181,12 +6651,12 @@
     "description": "Adjectives describing physical textures and material conditions",
     "total": 71,
     "examples": [
-      "tattered",
-      "chalky",
-      "gravelly",
-      "malleable",
-      "crumbly",
-      "knotty"
+      "shiny",
+      "distressed",
+      "bumpy",
+      "furry",
+      "glassy",
+      "gauzy"
     ]
   },
   "thing.armor": {
@@ -5195,12 +6665,12 @@
     "description": "Historical and modern protective armor, helmets, and tactical vests",
     "total": 171,
     "examples": [
-      "leather armor",
-      "cuirass",
-      "barding",
-      "chainmail hauberk",
-      "hoplite armor",
-      "gorget"
+      "leather breastplate",
+      "barbute helmet",
+      "brodie helmet",
+      "coat of plates",
+      "chitin armor",
+      "brigandine armor"
     ]
   },
   "thing.city": {
@@ -5209,12 +6679,12 @@
     "description": "Urban infrastructure, commercial buildings, and city street elements",
     "total": 216,
     "examples": [
-      "manhole cover",
-      "graffiti wall",
-      "fashion boutique",
-      "delivery truck",
-      "highway",
-      "dance studio"
+      "souvenir kiosk",
+      "patio",
+      "soccer field",
+      "music store",
+      "trash can",
+      "thrift store"
     ]
   },
   "thing.cursedObject": {
@@ -5223,12 +6693,12 @@
     "description": "Everyday objects that feel haunted, watched, or subtly wrong",
     "total": 61,
     "examples": [
-      "taped shut vhs that rewinds itself",
-      "bathroom mirror that fogs one handprint",
-      "smoke alarm that beeps even with new battery removed",
-      "garden gnome that faces the window each morning",
-      "teddy bear with extra stitched pocket containing a note",
-      "fidget spinner that never stops"
+      "usb stick that contains photos of your house taken yesterday",
+      "kettle that whistles in morse code",
+      "baby monitor that plays a lullaby no one recorded",
+      "fridge magnet that spells words you did not arrange",
+      "puzzle box that clicks when someone lies nearby",
+      "yo-yo that pauses mid drop"
     ]
   },
   "thing.everyday": {
@@ -5237,12 +6707,12 @@
     "description": "Common household objects, appliances, and everyday personal items",
     "total": 243,
     "examples": [
-      "grocery bags",
-      "toaster",
-      "truck",
-      "toilet seat",
-      "bed",
-      "deodorant"
+      "eyeliner",
+      "blender",
+      "motorcycle",
+      "apron",
+      "sandpaper",
+      "desk"
     ]
   },
   "thing.fabric": {
@@ -5251,12 +6721,12 @@
     "description": "Various natural and synthetic textiles and fabric materials",
     "total": 56,
     "examples": [
-      "wool",
-      "mohair",
-      "houndstooth",
+      "tulle",
+      "tweed",
       "acetate",
-      "merino wool",
-      "chenille"
+      "jersey",
+      "satin",
+      "muslin"
     ]
   },
   "thing.fantasy": {
@@ -5265,12 +6735,12 @@
     "description": "Fantasy characters, magical items, and mythical creatures",
     "total": 146,
     "examples": [
-      "minotaur",
-      "basilisk",
-      "castle wall",
-      "golem",
-      "crossroads",
-      "skeleton warrior"
+      "elven princess",
+      "hobbits",
+      "nightmare",
+      "warlock",
+      "mystic",
+      "radiation"
     ]
   },
   "thing.foundInWall": {
@@ -5279,12 +6749,12 @@
     "description": "Truly weird discoveries from home renovations and demolitions",
     "total": 60,
     "examples": [
+      "package that usps tracking shows delivered to this cavity in 2012 unopened",
+      "framed photo of house with all curtains drawn from drone angle",
+      "tv aerial cable feeding live tv to nothing",
       "newspaper from future date with your obituary redacted",
       "shoebox diorama of living room with previous owners frozen mid dinner",
-      "concrete hand holding real wedding ring",
-      "polaroids of previous owner sleeping",
-      "horsehair plaster with haircuts still attached",
-      "folded up mcdonald's bag with human baby teeth"
+      "floor safe with combination written on inside of safe"
     ]
   },
   "thing.furniture": {
@@ -5293,12 +6763,12 @@
     "description": "Various types of indoor and outdoor seating and storage furniture",
     "total": 58,
     "examples": [
-      "recliner",
-      "headboard",
-      "futon",
-      "eames chair",
+      "couch",
+      "canopy bed",
+      "secretary desk",
       "bedside table",
-      "bar cart"
+      "chaise longue",
+      "futon"
     ]
   },
   "thing.gadget": {
@@ -5307,12 +6777,12 @@
     "description": "Electronic devices, musical gadgets, and modern technological equipment",
     "total": 417,
     "examples": [
-      "rice cooker",
-      "digital alcohol breathalyzer",
-      "electric saw",
-      "counterfeit detector",
-      "drone",
-      "drone crop sprayer"
+      "geiger counter",
+      "theremin",
+      "portable espresso maker",
+      "humidifier",
+      "electronic parking meter",
+      "hdmi switch"
     ]
   },
   "thing.gemstone": {
@@ -5321,12 +6791,12 @@
     "description": "Precious and semi-precious gemstones and mineral crystals",
     "total": 59,
     "examples": [
-      "ruby",
-      "azurite",
-      "beryl",
+      "tanzanite",
+      "sapphire",
+      "bloodstone",
       "rose quartz",
-      "turquoise",
-      "tsavorite"
+      "chrysolite",
+      "morganite"
     ]
   },
   "thing.icon": {
@@ -5335,12 +6805,12 @@
     "description": "Common digital interface icons and simple graphic symbols",
     "total": 132,
     "examples": [
-      "newspaper",
-      "city",
-      "key",
-      "play",
-      "arrow left",
-      "wallet"
+      "download",
+      "computer",
+      "wifi",
+      "tree",
+      "credit card",
+      "swimming"
     ]
   },
   "thing.impossibleTool": {
@@ -5349,12 +6819,12 @@
     "description": "Surreal and impossible tools that should not exist but look convincing in product shots",
     "total": 53,
     "examples": [
+      "pry bar for prying truth from polite people",
+      "cable tie that ties together two different days",
       "bucket that holds only sound of rain",
-      "angle grinder that grinds perspective",
-      "multi tool with spoon fork regret and tiny saw for expectations",
-      "detector that beeps when someone is thinking of you three houses away",
-      "funnel that funnels attention span back into head through ear",
-      "crowbar that pries open closed minds requires two people"
+      "eraser that removes footprints from sand you never walked",
+      "pickaxe that mines nostalgia from childhood garden",
+      "wrench that loosens jar that universe tightened"
     ]
   },
   "thing.material": {
@@ -5363,12 +6833,12 @@
     "description": "Various raw materials, plastics, stones, and crafting substances",
     "total": 68,
     "examples": [
-      "teak",
-      "copper material",
-      "mahogany",
+      "ceramic",
+      "frosted glass",
       "asphalt",
-      "granite",
-      "gold"
+      "copper material",
+      "acrylic",
+      "suede"
     ]
   },
   "thing.metal": {
@@ -5377,12 +6847,12 @@
     "description": "Various metallic elements, alloys, and metal finishes",
     "total": 273,
     "examples": [
-      "molten lead",
-      "stainless steel",
-      "tarnished silver",
-      "satin brass",
-      "electroplated gold",
-      "burnished copper"
+      "burnished brass",
+      "cupronickel",
+      "strontium",
+      "brushed brass",
+      "antimony",
+      "matte brass"
     ]
   },
   "thing.office": {
@@ -5391,12 +6861,12 @@
     "description": "Financial tools, office supplies, and business-related items",
     "total": 68,
     "examples": [
-      "binder",
-      "adding machine",
-      "file cabinet",
-      "corkboard",
-      "sticky note",
-      "highlighter"
+      "spreadsheet",
+      "blueprint",
+      "ink pad",
+      "coin",
+      "computer mouse",
+      "balance sheet"
     ]
   },
   "thing.pattern": {
@@ -5405,12 +6875,12 @@
     "description": "Decorative geometric, textile, and camouflage visual patterns",
     "total": 115,
     "examples": [
-      "ikat",
-      "harlequin",
-      "crackle",
-      "marble",
-      "ditsy floral",
-      "terrazzo"
+      "giraffe print",
+      "wave",
+      "sashiko",
+      "swiss dot",
+      "checkerboard",
+      "glen plaid"
     ]
   },
   "thing.retroTech": {
@@ -5419,12 +6889,12 @@
     "description": "Tactile, analog, and early digital consumer electronics that carry a strong physical aesthetic",
     "total": 55,
     "examples": [
-      "mechanical typewriter",
-      "cassette tape",
+      "electronic translator",
+      "calculator",
       "zenith radio",
-      "slide projector",
-      "neon telephone",
-      "transistor radio"
+      "view-master toy",
+      "super 8 editor",
+      "microcassette recorder"
     ]
   },
   "thing.scary": {
@@ -5433,12 +6903,12 @@
     "description": "Creepy locations, paranormal entities, and horror-themed concepts",
     "total": 211,
     "examples": [
-      "chilling winds",
-      "cold spots",
-      "plague mask",
-      "plague doctors",
-      "death traps",
-      "screeching owls"
+      "living nightmares",
+      "haunted asylum",
+      "eerie silence",
+      "gothic literature",
+      "headless horsemen",
+      "doppelgangers"
     ]
   },
   "thing.sciFi": {
@@ -5447,12 +6917,12 @@
     "description": "Futuristic technology, AI systems, and science fiction transportation",
     "total": 204,
     "examples": [
-      "bipedal entertainment robot",
-      "autonomous robots",
-      "nanobot",
-      "emp generator",
-      "hoverbike",
-      "smart city device"
+      "brain-computer interface",
+      "smart home device",
+      "time manipulation device",
+      "mind upload server",
+      "asteroid deflector device",
+      "telekinesis enhancer"
     ]
   },
   "thing.space": {
@@ -5461,12 +6931,12 @@
     "description": "Celestial bodies, nebulae, moons, stars, and cosmic phenomena",
     "total": 158,
     "examples": [
-      "solar wind",
-      "planetary nebula",
-      "rotating radio transient",
-      "orthosie",
+      "pluto",
+      "quasar",
       "main sequence star",
-      "milky way"
+      "mars",
+      "synchrotron nebula",
+      "t tauri star"
     ]
   },
   "thing.summer": {
@@ -5475,12 +6945,12 @@
     "description": "Summer recreation items, beach gear, and outdoor accessories",
     "total": 70,
     "examples": [
-      "bbq grill",
-      "fire pit",
-      "inner tube",
-      "insect repellent",
-      "mosquito net",
-      "lemonade"
+      "sun dress",
+      "beach chair",
+      "sprinkler",
+      "beach ball",
+      "sundae",
+      "sarong"
     ]
   },
   "thing.surfaceFinish": {
@@ -5489,12 +6959,12 @@
     "description": "Material surface treatments, textures, and manufacturing finishes",
     "total": 164,
     "examples": [
-      "board-marked",
-      "acid-washed",
-      "bush-hammered",
-      "debossed",
-      "chiseled",
-      "chromated"
+      "tumbled",
+      "high-gloss",
+      "faux-bois",
+      "distressed",
+      "exposed-aggregate",
+      "knurled"
     ]
   },
   "thing.tool": {
@@ -5503,12 +6973,12 @@
     "description": "Hand tools, power tools, and workshop equipment for construction and crafting",
     "total": 126,
     "examples": [
-      "ball-peen hammer",
-      "claw hammer",
-      "rivet gun",
-      "mandrel",
-      "stud finder",
-      "miter box"
+      "awl",
+      "staple gun",
+      "adjustable wrench",
+      "drill press",
+      "pipe wrench",
+      "table saw"
     ]
   },
   "thing.toy": {
@@ -5517,12 +6987,12 @@
     "description": "Toys, playthings, and childhood objects for product shots, nostalgia, and whimsical scenes",
     "total": 54,
     "examples": [
-      "building blocks",
-      "kaleidoscope",
-      "nesting dolls",
-      "dinosaur figure",
-      "tin wind-up robot",
-      "jump rope"
+      "rag doll",
+      "pinwheel",
+      "slinky",
+      "stacking rings",
+      "dollhouse",
+      "marble run"
     ]
   },
   "thing.weapon": {
@@ -5531,12 +7001,12 @@
     "description": "Historical melee, ranged, and medieval combat weapons",
     "total": 55,
     "examples": [
-      "cudgel",
-      "billhook",
-      "pike",
-      "shortbow",
-      "throwing star",
-      "bearded axe"
+      "stiletto weapon",
+      "longbow",
+      "cutlass",
+      "morningstar",
+      "shillelagh",
+      "club"
     ]
   },
   "thing.woodType": {
@@ -5545,12 +7015,12 @@
     "description": "Various tree species and types of woodworking lumber",
     "total": 150,
     "examples": [
-      "bloodwood",
-      "kingwood",
-      "birch",
+      "hinoki",
+      "poplar",
       "chestnut",
-      "tamo ash",
-      "camphorwood"
+      "basswood",
+      "cottonwood",
+      "iroko"
     ]
   },
   "time.century": {
@@ -5559,12 +7029,12 @@
     "description": "Specific centuries spanning BC and AD historical timelines",
     "total": 37,
     "examples": [
-      "19th century",
-      "10th century",
-      "17th century",
-      "10th century bc",
-      "22nd century",
-      "11th century"
+      "13th century",
+      "5th century bc",
+      "2nd century",
+      "1st century",
+      "3rd century bc",
+      "10th century"
     ]
   },
   "time.dayOfYear": {
@@ -5573,12 +7043,12 @@
     "description": "Specific calendar dates and notable days of the year",
     "total": 387,
     "examples": [
-      "midsummer's day",
-      "christmas day",
-      "april 25",
-      "may 23",
-      "june 14",
-      "april 12"
+      "january 20",
+      "january 24",
+      "january 27",
+      "groundhog day",
+      "february 20",
+      "february 15"
     ]
   },
   "time.decade": {
@@ -5587,12 +7057,12 @@
     "description": "Specific decades ranging from the 1800s to the 2050s",
     "total": 35,
     "examples": [
-      "70s",
-      "1820s",
       "10s",
-      "1970s",
+      "2050s",
+      "1800s",
+      "1830s",
       "20s",
-      "1960s"
+      "1970s"
     ]
   },
   "time.era": {
@@ -5601,12 +7071,12 @@
     "description": "Historical periods, cultural eras, and specific global conflicts",
     "total": 118,
     "examples": [
+      "indian rebellion of 1857",
+      "information age",
+      "cretaceous period",
       "first anglo-afghan war",
-      "paleolithic era",
-      "american civil war",
-      "gilded age",
-      "seven years' war",
-      "first sino-japanese war"
+      "art nouveau",
+      "digital age"
     ]
   },
   "time.festival": {
@@ -5615,12 +7085,12 @@
     "description": "Global cultural, religious, and film festivals and holidays",
     "total": 196,
     "examples": [
-      "all saints' day",
-      "seollal",
-      "loi krathong",
-      "tihar",
-      "passover",
-      "mid-autumn festival"
+      "sanja matsuri",
+      "mid-autumn festival",
+      "cherry blossom festival",
+      "nice carnival",
+      "amarnath yatra",
+      "durga puja"
     ]
   },
   "time.historicalEra": {
@@ -5629,12 +7099,12 @@
     "description": "Historical empires, dynasties, and major technological or cultural ages",
     "total": 148,
     "examples": [
-      "late antiquity",
-      "american revolution",
-      "world war i era",
-      "chola dynasty",
-      "roman empire",
-      "american frontier"
+      "abbasid caliphate",
+      "world war ii era",
+      "mali empire",
+      "classical antiquity",
+      "ancient egypt",
+      "jomon period"
     ]
   },
   "time.season": {
@@ -5643,12 +7113,12 @@
     "description": "Astronomical, cultural, commercial, agricultural, and natural seasons",
     "total": 241,
     "examples": [
-      "back-to-school season",
-      "mushroom season",
-      "basketball season",
-      "deer hunting season",
-      "cicada season",
-      "apple cider season"
+      "flu season",
+      "strawberry season",
+      "draft season",
+      "hot girl summer",
+      "award season",
+      "khareef season"
     ]
   },
   "time.timeOfDay": {
@@ -5657,12 +7127,12 @@
     "description": "Specific times of day and associated lighting or atmospheric conditions",
     "total": 201,
     "examples": [
-      "between dog and wolf",
-      "midnight sun",
-      "dead of night",
-      "compline",
-      "dark of night",
-      "dark hour"
+      "dusk light",
+      "lauds",
+      "golden time",
+      "meridian",
+      "golden hour sun",
+      "bed-time"
     ]
   },
   "time.year": {
@@ -5671,12 +7141,12 @@
     "description": "Specific individual years spanning the 19th to 21st centuries",
     "total": 251,
     "examples": [
-      "1974",
-      "1860",
-      "1944",
-      "1856",
-      "1941",
-      "1873"
+      "1850",
+      "1853",
+      "2052",
+      "1857",
+      "1913",
+      "1851"
     ]
   },
   "typography.feature": {
@@ -5685,12 +7155,12 @@
     "description": "Typographic design features, spacing, and specific letterform characteristics",
     "total": 69,
     "examples": [
-      "bold weight",
-      "harmonious proportions",
-      "subtle contrast",
-      "single-story g",
-      "geometric shapes",
-      "condensed width"
+      "bifurcated serifs",
+      "low x-height",
+      "spurred serifs",
+      "single-story a",
+      "variable stroke width",
+      "narrow tracking"
     ]
   },
   "typography.fontType": {
@@ -5699,12 +7169,12 @@
     "description": "Typographic design movements and historical font classifications",
     "total": 62,
     "examples": [
-      "brush typography",
-      "decorative typography",
-      "calligraphic typography",
-      "glitch typography",
-      "victorian typography",
-      "cybernetic typography"
+      "expanded typography",
+      "rounded typography",
+      "dingbat typography",
+      "retro typography",
+      "schwabacher typography",
+      "graffiti typography"
     ]
   },
   "typography.font": {
@@ -5713,12 +7183,12 @@
     "description": "Specific named typefaces and popular font families",
     "total": 89,
     "examples": [
-      "oswald font",
-      "didot font",
-      "barlow font",
-      "goudy old style font",
-      "baskerville font",
-      "bookman font"
+      "archer font",
+      "karla font",
+      "clarendon font",
+      "lora font",
+      "comic sans ms font",
+      "jetbrains mono font"
     ]
   },
   "typography.style": {
@@ -5727,12 +7197,12 @@
     "description": "Font weights, widths, and specific stylistic typeface variations",
     "total": 76,
     "examples": [
-      "all caps style font",
-      "book italic style font",
-      "hand-drawn style font",
-      "backslanted style font",
-      "eroded style font",
-      "ultra light style font"
+      "expanded style font",
+      "book style font",
+      "condensed bold style font",
+      "italic style font",
+      "distressed style font",
+      "all caps style font"
     ]
   },
   "typography.typefaceStyle": {
@@ -5741,12 +7211,12 @@
     "description": "Various font styles, historical typefaces, and typographic classifications",
     "total": 69,
     "examples": [
-      "italic",
       "didone",
-      "art deco",
-      "egyptian slab",
-      "fraktur",
-      "caroline minuscule"
+      "handwritten style",
+      "rotunda typeface",
+      "boldface",
+      "outline",
+      "old style"
     ]
   },
   "typography.wordArt": {
@@ -5755,12 +7225,12 @@
     "description": "Textures, materials, and visual effects applied to text and typography",
     "total": 137,
     "examples": [
-      "polka dot text",
-      "shadowed text",
-      "long shadow text",
-      "ribboned text",
-      "jigsaw text",
-      "puzzle text"
+      "frozen text",
+      "inflated text",
+      "extruded text",
+      "inner glow text",
+      "fractured text",
+      "laced text"
     ]
   },
   "vehicle.aircraft": {
@@ -5769,12 +7239,12 @@
     "description": "Various types of airplanes, helicopters, and specialized aerial vehicles",
     "total": 126,
     "examples": [
-      "sesquiplane",
+      "rocket plane",
+      "airship",
+      "heavy bomber",
+      "ground effect vehicle",
       "amphibious aircraft",
-      "ambulance helicopter",
-      "balloon",
-      "skycrane helicopter",
-      "tiltwing"
+      "floatplane"
     ]
   },
   "vehicle.car": {
@@ -5783,12 +7253,12 @@
     "description": "Specific modern car makes and models from various automotive manufacturers",
     "total": 329,
     "examples": [
-      "jaguar xk",
-      "nissan kicks",
-      "land rover range rover sport svr",
-      "kia optima",
-      "volkswagen atlas",
-      "jaguar f-pace"
+      "fiat 500 abarth",
+      "volkswagen arteon",
+      "buick verano",
+      "acura tlx",
+      "acura rlx",
+      "buick envision"
     ]
   },
   "vehicle.classicCar": {
@@ -5797,12 +7267,12 @@
     "description": "Specific vintage, antique, and classic car models with their production years",
     "total": 161,
     "examples": [
-      "1927 lasalle series 303",
-      "1956 chrysler 300b",
-      "1915 ford model t",
-      "1933 chrysler imperial cl",
-      "1932 packard twin six",
-      "1916 cadillac type 53"
+      "1979 ferrari 512 bb",
+      "1916 studebaker big six",
+      "1931 chrysler imperial cg",
+      "1926 bugatti type 35",
+      "1930 franklin series 145",
+      "1932 packard twin six"
     ]
   },
   "vehicle.famousCar": {
@@ -5811,12 +7281,12 @@
     "description": "Iconic cars and fictional vehicles from popular movies and film franchises",
     "total": 50,
     "examples": [
-      "mach 5 from speed racer",
-      "herbie from the love bug",
+      "the amc pacer from wayne's world",
       "finn mcmissile from cars 2",
-      "the ferrari testarossa from miami vice",
-      "eleanor from gone in 60 seconds",
-      "lightning mcqueen from cars"
+      "herbie from the love bug",
+      "the aston martin db5 from skyfall",
+      "the bluesmobile from the blues brothers",
+      "kitt from knight rider"
     ]
   },
   "vehicle.fastCar": {
@@ -5825,12 +7295,12 @@
     "description": "Specific models of high-performance sports cars, supercars, and luxury vehicles",
     "total": 98,
     "examples": [
-      "rimac nevera",
-      "pagani huayra",
-      "rolls-royce cullinan",
-      "mclaren 650s",
-      "mclaren 720s",
-      "pininfarina battista"
+      "dodge viper srt10 acr",
+      "maserati mc12",
+      "bugatti chiron",
+      "ford gt40",
+      "lamborghini urus",
+      "maserati levante trofeo"
     ]
   },
   "vehicle.motorcycle": {
@@ -5839,12 +7309,12 @@
     "description": "Various styles, classes, and specialized types of motorcycles and motorbikes",
     "total": 121,
     "examples": [
-      "scooter",
-      "sport tourer",
-      "quad bike",
-      "trike",
-      "scooter sidecar",
-      "scrambler"
+      "tracker",
+      "electric scooter",
+      "paramedic motorcycle",
+      "sidecar motorcycle",
+      "custom motorcycle",
+      "cruiser"
     ]
   },
   "vehicle.spacecraft": {
@@ -5853,12 +7323,12 @@
     "description": "Sci-fi spacecraft, starships, and specialized futuristic space vehicles",
     "total": 56,
     "examples": [
-      "flyby spacecraft",
+      "interceptor",
       "carrier",
-      "lander",
-      "generation ship",
-      "ufo",
-      "dreadnought"
+      "research vessel",
+      "ark ship",
+      "tugboat",
+      "ion thruster spacecraft"
     ]
   },
   "vehicle.type": {
@@ -5867,12 +7337,12 @@
     "description": "Broad categories of land, air, and water transportation vehicles",
     "total": 116,
     "examples": [
-      "motorcoach",
-      "truck camper",
-      "camper",
-      "hang glider",
-      "moped",
-      "unicycle"
+      "paraglider",
+      "cruise ship",
+      "atv",
+      "scraper",
+      "snowmobile",
+      "moped"
     ]
   },
   "vehicle.watercraft": {
@@ -5881,12 +7351,12 @@
     "description": "Various types of boats, ships, and marine vessels",
     "total": 188,
     "examples": [
-      "research vessel",
-      "troopship",
-      "runabout",
-      "bowrider",
-      "motorboat",
-      "airboat"
+      "sailing yacht",
+      "barge",
+      "icebreaker",
+      "flyboat",
+      "water ambulance",
+      "passenger ship"
     ]
   },
   "videoGame.action": {
@@ -5895,12 +7365,12 @@
     "description": "In-game character actions, abilities, and mechanics in video games",
     "total": 314,
     "examples": [
-      "climbing",
-      "activating switches",
-      "creating magical barriers",
-      "eating",
-      "harnessing magical artifacts",
-      "deploying a gadget"
+      "digging",
+      "slide jumping",
+      "drinking a potion",
+      "invoking spirits",
+      "invoking ancient gods",
+      "maneuvering through mazes"
     ]
   },
   "videoGame.designer": {
@@ -5909,12 +7379,12 @@
     "description": "Names of prominent real-world video game designers and directors",
     "total": 68,
     "examples": [
-      "yoshiki okamoto",
-      "masaya matsuura",
-      "shu takumi",
+      "cory barlog",
+      "richard rouse iii",
       "michel ancel",
-      "roberta williams",
-      "sam lake"
+      "ken levine",
+      "shinji mikami",
+      "david perry"
     ]
   },
   "videoGame.engine": {
@@ -5923,12 +7393,12 @@
     "description": "Software frameworks and game engines used for developing video games",
     "total": 68,
     "examples": [
-      "cocos2d",
-      "pico-8",
-      "renderware studio",
-      "amazon lumberyard",
-      "bevy",
-      "fox engine"
+      "unity3d",
+      "luminous engine",
+      "ego engine",
+      "frostbite engine",
+      "source engine",
+      "gamemaker studio"
     ]
   },
   "videoGame.game": {
@@ -5937,12 +7407,12 @@
     "description": "Titles of popular video game franchises and specific game releases",
     "total": 319,
     "examples": [
+      "prey (2017)",
+      "mortal kombat x",
+      "undertale",
+      "sayonara wild hearts",
       "the legend of zelda: tears of the kingdom",
-      "burnout paradise",
-      "celeste",
-      "arx fatalis",
-      "battlefield 2",
-      "candy crush"
+      "xenoblade chronicles 2"
     ]
   },
   "videoGame.region": {
@@ -5951,12 +7421,12 @@
     "description": "Fictional environments, biomes, and level themes found in video games",
     "total": 118,
     "examples": [
-      "mystic kingdom",
-      "aquatic kingdom",
-      "sky kingdom",
-      "volcanic kingdom",
-      "arctic region",
-      "ocean kingdom"
+      "mushroom kingdom",
+      "fairy kingdom",
+      "crystal kingdom",
+      "grassland kingdom",
+      "cityscape kingdom",
+      "crystal caves"
     ]
   },
   "word.adjective": {
@@ -5965,12 +7435,12 @@
     "description": "Various descriptive adjectives ranging from anatomical to behavioral",
     "total": 4980,
     "examples": [
-      "impoverished",
-      "greatcoated",
-      "hopeful",
-      "aromatic",
-      "anthropomorphic",
-      "quadripartite"
+      "unpublished",
+      "indefensible",
+      "contraceptive",
+      "advanced",
+      "exotic",
+      "expectant"
     ]
   },
   "word.adverb": {
@@ -5979,12 +7449,12 @@
     "description": "Assorted adverbs modifying actions, states, or qualities",
     "total": 1798,
     "examples": [
-      "agin",
-      "suspiciously",
-      "endlessly",
-      "expansively",
-      "exasperatingly",
-      "half"
+      "against",
+      "generously",
+      "diligently",
+      "upward",
+      "howsomever",
+      "humanely"
     ]
   },
   "word.noun": {
@@ -5993,12 +7463,12 @@
     "description": "A diverse mix of concrete objects, animals, and abstract conceptual nouns",
     "total": 24389,
     "examples": [
-      "cutwork",
-      "hazel",
-      "alfresco",
-      "impatience",
-      "rule",
-      "aerospace"
+      "gauntlet",
+      "amateurism",
+      "acquisitiveness",
+      "craft",
+      "demanding",
+      "corrupting"
     ]
   },
   "word.onomatopoeia": {
@@ -6007,12 +7477,12 @@
     "description": "Sound-imitating words including animal noises, human vocalizations, and impact sounds",
     "total": 159,
     "examples": [
-      "crackle",
-      "chirp",
-      "yip",
-      "tinkle",
-      "burp",
-      "clank"
+      "clink",
+      "ring",
+      "phew",
+      "sneeze",
+      "bang",
+      "chomp"
     ]
   },
   "word.verb": {
@@ -6021,12 +7491,12 @@
     "description": "Action words and verb forms across various tenses including past and gerunds",
     "total": 9950,
     "examples": [
-      "fortified",
-      "surrendered",
-      "proclaimed",
-      "precedes",
-      "predominates",
-      "lay"
+      "garbled",
+      "provides",
+      "envisages",
+      "drawled",
+      "editing",
+      "disarming"
     ]
   }
 }
