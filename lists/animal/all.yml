@@ -2,14 +2,25 @@
 title: All animals
 category: animal
 description: "Diverse mix of animals including mammals, birds, reptiles, insects, and pets"
+additionalSource: "Open English WordNet 2025"
+additionalSourceUrl: "https://en-word.net/downloads"
+additionalSourceLicense: "CC BY 4.0"
+additionalSourceLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+additionalSourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
+additionalSourceAttribution: "Contains terms adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
 aardvark
 aardwolf
+abortus
 abyssinian
+abyssinian cat
 achrioptera manga
+acrodont
 addax
 adelie penguin
+adult
 aesculapian snake
+afghan
 african bullfrog
 african bush elephant
 african civet
@@ -24,7 +35,10 @@ african penguin
 african tree toad
 african wild dog
 agama lizard
+agnathan
+ailanthus silkworm
 ainu dog
+airedale
 airedoodle
 akita shepherd
 alabai
@@ -32,13 +46,16 @@ alaskan pollock
 alaskan shepherd
 albacore tuna
 albatross
+albino
 albino (amelanistic) corn snake
 aldabra giant tortoise
+alley cat
 alligator
 alligator gar
 allosaurus
 alpaca
 alpine goat
+alsatian
 alusky
 amargasaurus
 amazon parrot
@@ -57,12 +74,18 @@ american robin
 american toad
 american wirehair
 amethystine python (scrub python)
+amniota
+amniote
+amphioxus
 amur leopard
 anaconda
+anaspid
 anchovies
 angelfish
 angelshark
 anglerfish
+angora
+angora cat
 angora ferret
 angora goat
 anna’s hummingbird
@@ -75,9 +98,13 @@ antelope
 anteosaurus
 aoudad
 ape
+aphid lion
+aphis lion
+appenzeller
 appenzeller dog
 apple head chihuahua
 apple moth
+aquatic vertebrate
 arabian cobra
 arafura file snake
 arapaima
@@ -98,13 +125,17 @@ arizona coral snake
 armadillo
 armadillo lizard
 armored catfish
+army cutworm
 armyworm
 arsinoitherium
+arthropod
 aruba rattlesnake
+ascidian tadpole
 asian arowana
 asian cockroach
 asian elephant
 asian giant hornet
+asian horseshoe crab
 asian lady beetle
 asian longhorn beetle
 asian palm civet
@@ -116,6 +147,7 @@ atlantic salmon
 atlantic sturgeon
 atlas beetle
 atlas moth
+attack dog
 aurochs
 aussiedoodle
 aussiedor
@@ -131,10 +163,14 @@ australopithecus
 avocet
 axolotl
 aye aye
+baa-lamb
 babirusa
 baboon
+baby
+baby bird
 bactrian camel
 badger
+badger dog
 baiji
 baird’s rat snake
 bald eagle
@@ -152,6 +188,7 @@ banded water snake
 bandicoot
 banjo catfish
 barb
+barker
 barn owl
 barn swallow
 barnacle
@@ -164,6 +201,7 @@ basilisk lizard
 basilosaurus
 basking shark
 bassador
+basset
 bassetoodle
 bat
 bat-eared fox
@@ -179,26 +217,34 @@ bear
 bearded dragon
 bearded vulture
 beaski
+beast of burden
 beauty rat snake
 beaver
 bed bugs
 bee
 beefalo
+beet armyworm
 beetle
+belgian griffon
 belted kingfisher
 beluga sturgeon
 bengal tiger
 bergamasco
 bernedoodle
 bernese shepherd
+beroe
 betta fish (siamese fighting fish)
 bichir
 bichpoo
+biddy
+big game
 bighorn
 bighorn sheep
 bilby
 binturong
+biped
 bird
+bird dog
 bird of paradise
 bird snake
 birds of paradise
@@ -221,8 +267,14 @@ black-headed python
 blacknose shark
 blackpoll warbler
 blacktip reef shark
+bladder worm
 bladefin basslet
 blanket octopus
+blastocyst
+blastodermic vesicle
+blastosphere
+blastula
+blenheim spaniel
 blind snake
 blister beetle
 blobfish
@@ -236,6 +288,7 @@ blue grosbeak
 blue iguana
 blue jay
 blue lacy dog
+blue point siamese
 blue racer
 blue shark
 blue tit
@@ -243,15 +296,19 @@ blue whale
 blue-ringed octopus
 bluefin tuna
 bluegill
+bluetick
 boar
+boarhound
 boas
 bobcat
 bobolink
+bobtail
 boelen’s python
 boggle
 boglen terrier
 boiga
 bolivian anaconda
+bollworm
 bolognese dog
 bombay
 bongo
@@ -262,11 +319,16 @@ booby
 boomslang
 borador
 bordoodle
+borer
 borkie
 bornean orang-utan
 borneo elephant
+boston bull
+bot
 bottle nosed dolphin
 bottlenose dolphin
+bouviers des flandres
+bow-wow
 bowfin
 bowhead whale
 box tree moth
@@ -278,10 +340,13 @@ boxerdoodle
 boxfish
 boxsky
 boxweiler
+brabancon griffon
+brachiopod
 brachiosaurus
 brahminy blindsnake
 bredl’s python
 british timber
+brittany spaniel
 brontosaurus
 bronze whaler shark
 brook trout
@@ -294,6 +359,7 @@ brown snake
 brown water snake
 brown-banded cockroach
 brug
+bryozoan
 budgerigar
 buffalo
 buffalo fish
@@ -303,10 +369,12 @@ bull mastiff
 bull shark
 bull trout
 bullfrog
+bullock
 bullsnake
 bumblebee
 bunny
 burmese
+burmese cat
 burmese python
 burro
 burrowing frog
@@ -316,13 +384,19 @@ bush viper
 bushmaster snake
 butterfly
 butterfly fish
+by-catch
 cabbage moth
+cabbageworm
 cactus moth
 cactus mouse
 cactus wren
+caddisworm
 caecilian
 caiman
 caiman lizard
+cairn
+calf
+calico cat
 california condor
 california kingsnake
 camel
@@ -332,19 +406,26 @@ canada lynx
 canada warbler
 canadian horse
 canary
+canis familiaris
+cankerworm
 cantil
 cape lion
+captive
 capybara
 caracal
+cardigan
 cardinal
 caribbean reef shark
 caribou
+carnivore
 carolina parakeet
 carp
 carpenter ant
 carpet python
 carpet viper
+carriage dog
 cascabel
+caseworm
 cashmere goat
 cassowary
 cat
@@ -362,7 +443,11 @@ cave lion
 cecropia moth
 centipede
 central ranges taipan
+cephalaspid
+cephalochordate
 ceratosaurus
+cercaria
+cestum veneris
 chameleon
 chamois
 chartreux
@@ -371,6 +456,7 @@ checkered garter snake
 cheetah
 chestnut-sided warbler
 chi chi
+chick
 chickadee
 chicken
 chicken snake
@@ -388,20 +474,28 @@ chipmunk
 chipoo
 chipping sparrow
 chiweenie
+chordate
+chorizagrotis auxiliaris
 chorkie
+chow
 chow shepherd
 christmas beetle
 christmas island red crab
+chrysanthemum dog
 chusky
 cicada
 cichlid
 cinereous vulture
 cinnamon ferret
 civet
+class merostomata
 click beetle
 clothes moth
 clouded leopard
 clownfish
+clumber
+clydesdale terrier
+coach dog
 coachwhip snake
 coastal carpet python
 coastal taipan
@@ -412,6 +506,7 @@ cockalier
 cockapoo
 cockatiel
 cockatoo
+cocker
 cockroach
 codfish
 codling moth
@@ -431,21 +526,28 @@ common loon
 common raven
 common toad
 compsognathus
+conceptus
 conger eel
 congo snake
+conodont
 cookiecutter shark
+coondog
+coonhound
 cooper’s hawk
 copperhead
 coral
 coral snake
+corgi
 corgidor
 corgipoo
 corkie
 corman shepherd
+corn earworm
 corn rex cat (cornish rex)
 corn snake
 cory catfish
 costa’s hummingbird
+cotton bollworm
 cotton-top tamarin
 cottonmouth
 cougar
@@ -456,29 +558,40 @@ crab spider
 crab-eating macaque
 crabeater seal
 crane
+craniate
 crappie fish
+creepy-crawly
 crested gecko
 crested penguin
 cricket
+critter
 crocodile
 crocodile monitor
 cross fox
 cross river gorilla
 crow
 crucian carp
+ctenophore
+cub
 cuban boa
 cuban cockroach
 cuckoo
 cuscus
 cuttlefish
+cutworm
+cyclostome
 dachsador
+dachsie
 daeodon
 dalmadoodle
 dalmador
+dam
+dandie dinmont
 danios
 dapple dachshund
 dark-eyed junco
 darkling beetle
+darter
 darwin’s fox
 darwin’s frog
 de kay’s brown snake
@@ -488,6 +601,7 @@ deathwatch beetle
 deer
 deer head chihuahua
 deer tick
+deerhound
 desert kingsnake
 desert locust
 desert rain frog
@@ -506,12 +620,21 @@ dinosaur shrimp
 diplodocus
 dire wolf
 discus
+doberman
 dodo
 doe
 dog
 dog tick
+doggie
+doggy
+dogie
+dogy
 dolphin
+domestic animal
+domestic dog
+domesticated animal
 donkey
+doodlebug
 dorgi
 dorkie
 dormouse
@@ -521,6 +644,7 @@ downy woodpecker
 doxiepoo
 doxle
 draco volans lizard
+draft animal
 dragon eel
 dragonfish
 dragonfly
@@ -566,8 +690,11 @@ eastern turkey (wild turkey)
 eastern woodrat
 echidna
 eclectus parrot
+ectoproct
+ectotherm
 edible frog
 eel
+egyptian cat
 egyptian cobra (egyptian asp)
 egyptian goose
 egyptian mau
@@ -583,6 +710,8 @@ elephant beetle
 elephant seal
 elephant shrew
 elk
+elkhound
+embryo
 emerald tree boa
 emerald tree monitor
 emperor penguin
@@ -591,7 +720,12 @@ emu
 english bulldog
 english cream golden retriever
 english pointer
+english springer
+entire
+entlebucher
+entoproct
 epagneul pont audemer
+eptatretus
 equatorial spitting cobra
 ermine
 escolar
@@ -609,6 +743,7 @@ european polecat
 european robin
 european starling
 european wildcat
+eurypterid
 evening bat
 evening grosbeak
 ewe
@@ -616,6 +751,9 @@ executioner wasp
 eyelash viper
 fairy-wren
 falcon
+fall armyworm
+fall cankerworm
+fall webworm
 fallow deer
 false cobra
 false coral snake
@@ -624,16 +762,26 @@ false water cobra
 false widow spider
 fangtooth
 fawn
+feeder
 feist
+felis catus
+felis domesticus
+female
 fennec fox
 fer-de-lance snake
 ferret
 ferruginous hawk
+fertilized egg
+fetus
+fice
+fictional animal
 fiddler crab
 fierce snake
 figeater beetle
+filly
 fin whale
 finch
+finisher
 fire eel
 fire salamander
 fire-bellied toad
@@ -646,6 +794,8 @@ flat coat retriever
 flathead catfish
 flea
 fleckvieh cattle
+fledgeling
+fledgling
 florida gar
 florida panther
 florida woods cockroach
@@ -658,13 +808,17 @@ flying fish
 flying lemur
 flying snake
 flying squirrel
+foal
+foetus
 football fish
 forest cobra
+forest tent caterpillar
 fossa
 fox
 fox snakes
 fox squirrel
 fox terrier
+foxhound
 french lop
 frenchton
 frengle
@@ -683,12 +837,19 @@ gaboon viper
 galapagos penguin
 galapagos shark
 galapagos tortoise
+game
 gar
+garden centipede
 garden eel
+garden symphilid
+garden webworm
 gargoyle gecko
 garter snake
+gastrula
 gazelle
+gazelle hound
 gecko
+gelding
 gemsbok
 genet
 gentoo penguin
@@ -696,12 +857,15 @@ geoffroys tamarin
 gerberian shepsky
 gerbil
 german cockroach
+german police dog
+german shepherd dog
 german shepherd guide
 german sheppit
 german sheprador
 gharial
 ghost catfish
 ghost crab
+giant
 giant african land snail
 giant armadillo
 giant beaver
@@ -711,7 +875,9 @@ giant leopard moth
 giant panda bear
 giant salamander
 giant schnoodle
+giant silkworm
 giant weta
+gib
 gibbon
 gigantopithecus
 gila monster
@@ -721,6 +887,7 @@ glass lizard
 glechon
 glow worm
 gnat
+gnathostome
 gnu
 goat
 goberian
@@ -796,13 +963,18 @@ ground snake
 groundhog (woodchuck)
 grouper
 grouse
+grub
 guanaco
+guard dog
+guide dog
 guinea fowl
 guinea pig
 gulper eel
+gun dog
 guppy
 habu snake
 haddock
+hag
 hagfish
 hairy woodpecker
 halibut
@@ -818,6 +990,7 @@ harp seal
 harpy eagle
 harris hawk
 hartebeest
+hatchling
 havapoo
 havashire
 hawaiian crow
@@ -825,22 +998,35 @@ hawaiian goose
 hawaiian monk seal
 hawk
 hawk moth caterpillar
+head
+hearing dog
 hedgehog
+heifer
 hellbender
+hellgrammite
+hen
 hepatic tanager (red tanager)
+herbivore
 hercules beetle
 hercules moth
 hermit crab
 heron
 herring
+heterostracan
+hexapod
 highland cattle
 himalayan
 hippopotamus
 hoary bat
 hobo spider
 hog
+hogg
+hogget
 hognose snake
 holy cross frog
+homeotherm
+homoiotherm
+homotherm
 honduran white bat
 honey badger
 honey bee
@@ -861,17 +1047,23 @@ hornet
 horse
 horsefly
 horseshoe crab
+hound
+hound dog
+house cat
+house centipede
 house finch
 house sparrow
 house wren
+housedog
 housefly
 howler monkey
-human
 humboldt penguin
 humboldt squid
 hummingbird
 hummingbird hawk-moth
 humpback whale
+hungarian pointer
+hunting dog
 huntsman spider
 huskador
 huskita
@@ -882,12 +1074,14 @@ hyaenodon
 hyena
 ibex
 ibis
+ibizan podenco
 ichthyosaurus
 iguana
 iguanodon
 immortal jellyfish
 impala
 imperial moth
+inchworm
 indian cobra
 indian elephant
 indian giant squirrel
@@ -901,7 +1095,10 @@ indochinese tiger
 indri
 inland taipan
 insect
+insectivore
 insects
+instar
+invertebrate
 irish doodle
 ivory-billed woodpecker
 jacana
@@ -918,15 +1115,20 @@ jamaican boa
 japanese beetle
 japanese macaque
 japanese rat snake
+japanese spaniel
 japanese squirrel
 javan rhinoceros
 javanese
+jawless fish
+jawless vertebrate
 jellyfish
 jerboa
 jewel beetle
 john dory
+jointworm
 jonah crab
 joro spider
+jument
 jumping spider
 jungle carpet python
 junglefowl
@@ -938,6 +1140,7 @@ kangaroo rat
 katydid
 keel-billed toucan
 keelback
+kelpie
 kenyan sand boa
 kestrel
 keta salmon
@@ -957,9 +1160,12 @@ king vulture
 kingfisher
 kinkajou
 kirtland’s snake
+kit
 kit fox
 kitefin shark
 kitten
+kitty
+kitty-cat
 kiwi
 klipspringer
 koala
@@ -983,20 +1189,30 @@ ladyfish
 lake sturgeon
 lamancha goat
 lamb
+lambkin
+lamp shell
+lamper eel
 lamprey
+lancelet
 landseer newfoundland
+lapdog
+lappet caterpillar
 lappet-faced vulture
 larder beetle
+large poodle
+larva
 lavender albino ball python
 lawnmower blenny
 lazarus lizard
 leaf-tailed gecko
 leatherback sea turtle
+leatherjacket
 leech
 leedsichthys
 lemming
 lemon shark
 lemur
+leonberg
 leopard
 leopard cat
 leopard frog
@@ -1005,15 +1221,20 @@ leopard lizard
 leopard seal
 leopard shark
 leopard tortoise
+leppy
 leptocephalus
+lhasa
 lhasapoo
 liger
+limulus polyphemus
 linnet
 lion
+lion cub
 lion’s mane jellyfish
 lionfish
 little brown bat
 little penguin
+liver-spotted dalmatian
 livyatan
 lizard
 lizardfish
@@ -1027,6 +1248,7 @@ long-haired rottweiler
 long-tailed tit
 longfin mako shark
 longnose gar
+looper
 lorikeet
 lovebird
 lowchen
@@ -1050,13 +1272,21 @@ mahi mahi (dolphin fish)
 maiasaura
 maine coon
 mal shi
+malamute
 malayan civet
 malayan krait
 malayan tiger
 malchi
+male
+male horse
+malemute
+malinois
 mallard
 malteagle
+maltese cat
+maltese dog
 maltese shih tzu
+maltese terrier
 maltipoo
 mamba
 mamushi snake
@@ -1068,9 +1298,12 @@ maned wolf
 mangrove snake
 manta ray
 mantella frog
+manx cat
 marabou stork
 marble fox
 mare
+marine animal
+marine creature
 marine iguana
 marine toad
 markhor
@@ -1082,31 +1315,41 @@ masked angelfish
 masked palm civet
 massasauga
 mastador
+maverick
 may beetle
 mayfly
 meagle
+mealworm
 mealworm beetle
 mealybug
+measuring worm
 meerkat
 megalania
 megalodon
 megamouth shark
 megatherium
 mekong giant catfish
+merostomata
+metazoan
 mexican alligator lizard
 mexican black kingsnake
 mexican eagle (northern crested caracara)
 mexican free-tailed bat
+mexican hairless
 mexican mole lizard
 microraptor
 midget faded rattlesnake
+migrator
 miki
 milk snake
 milkfish
+millepede
+milliped
 millipede
 mini labradoodle
 mini lop
 miniature husky
+miniature poodle
 mink
 minke whale
 mississippi kite
@@ -1118,10 +1361,13 @@ mole
 mole cricket
 mole snake
 molly
+molter
 monarch butterfly
 mongoose
 monitor lizard
 monkey
+monkey dog
+monkey pinscher
 monkfish
 monocled cobra
 monster
@@ -1131,14 +1377,18 @@ moorhen
 moose
 moray eel
 morkie
+morula
 mosasaurus
 mosquito
+moss animal
 moth
+moulter
 mountain bluebird
 mountain gorilla
 mountain lion
 mourning dove
 mouse
+mouser
 mozambique spitting cobra
 mud snake
 mudpuppy
@@ -1151,8 +1401,13 @@ musk ox
 muskrat
 mussurana snake
 mustang
+mutant
+mutt
 muttaburrasaurus
 myna bird
+myriapod
+myxine glutinosa
+myxinikela siroka
 naked mole rat
 narwhal
 natterjack
@@ -1161,6 +1416,8 @@ nebelung
 needlefish
 neon tetra
 neptune grouper
+nestling
+newfoundland dog
 newfypoo
 newt
 nicobar pigeon
@@ -1188,12 +1445,14 @@ nudibranch
 numbat
 nurse shark
 nyala
+nymph
 oak toad
 oarfish
 oceanic whitetip shark
 ocelot
 octopus
 oenpelli python
+offspring
 okapi
 old house borer
 oleander hawk moth
@@ -1201,7 +1460,9 @@ olive baboon
 olive python
 olive sea snake
 olm
+omnivore
 onagadori chicken
+onychophoran
 opah
 opossum
 orange-crowned warbler
@@ -1209,10 +1470,13 @@ orangutan
 orb weaver
 oriental cockroach
 ornithomimus
+orphan
 ortolan bunting
 oryx
 oscar fish
 osprey
+osteostracan
+ostracoderm
 ostrich
 otter
 oviraptor
@@ -1221,6 +1485,8 @@ ox
 oyster
 oyster toadfish
 pacific sleeper shark
+pack animal
+packhorse
 paddlefish
 pademelon
 painted turtle
@@ -1231,6 +1497,7 @@ panther
 paradise flying snake
 parakeet
 parasaurolophus
+pariah dog
 parrot
 parrot snake
 parrotfish
@@ -1244,28 +1511,44 @@ peacock
 peacock butterfly
 peacock spider
 peagle
+peanut worm
 peccary
 peekapoo
+peeper
+peke
+pekinese
 pelagornis
 pelican
+pembroke
 penguin
 pennsylvania wood cockroach
+pentastomid
 peppered moth
 peppermint angelfish
 pere davids deer
 peregrine falcon
 peringuey’s adder
+peripatus
 persian
+persian cat
+persian lamb
 pesquet’s parrot (dracula parrot)
+pest
+pet
 petite goldendoodle
+petromyzon marinus
 pheasant
 philippine cobra
 phoenix chicken
+phoronid
 phorusrhacos
+pie-dog
 pied ball python
 pied tamarin
 pig
 pigeon
+piggy
+piglet
 pika
 pike
 pike fish
@@ -1275,41 +1558,57 @@ pine beetle
 pine marten
 pine siskin
 pine snake
+pink bollworm
 pink fairy armadillo
 pink-necked green pigeon
+pinscher
 pipe snake
 pipefish
 piranha
 pit bull
+pit bull terrier
 pit viper
 pitador
 pitsky
+placoderm
 plains hognose snake
 platinum arowana
 platybelodon
+platyctenean
 platypus
+pleurodont
+plicatoperipatus jamaicensis
 pocket beagle
 pocket pitbull
+poikilotherm
 poison dart frog
 polar bear
 polecat
+police dog
 polish tatra sheepdog
 polka dot stingray
+polliwog
 pollock fish
+pollywog
 polyphemus moth
+polyzoan
 pomapoo
 pomchi
 pomeagle
 pomsky
 pond skater
 pony
+pooch
 poochon
+poodle dog
 poogle
 pool frog
 porbeagle shark
 porcupine
 porpoise
 possum
+potato tuberworm
+potato worm
 potoo
 potoroo
 powderpost beetle
@@ -1318,6 +1617,9 @@ prairie dog
 prairie rattlesnake
 prawn
 praying mantis
+predator
+predatory animal
+prey
 proboscis monkey
 procoptodon
 pronghorn
@@ -1327,15 +1629,22 @@ pterodactyl
 puff adder
 pufferfish
 puffin
+pug-dog
 pugapoo
 puggle
 pugshire
 puma
+pup
 puppy
+pureblood
+purebred
 purple emperor
 purple emperor butterfly
 purple finch
 puss moth
+pussycat
+pycnogonid
+pye-dog
 pygmy hippopotamus
 pygmy marmoset
 pygmy marmoset (finger monkey)
@@ -1346,8 +1655,10 @@ pyjama shark
 pyrador
 pyredoodle
 python
+quadruped
 quagga
 quail
+quarry
 queen snake
 quetzal
 quokka
@@ -1363,8 +1674,10 @@ raggle
 rainbow boa
 rainbow shark
 ram
+range animal
 rat
 rat snakes
+ratter
 rattlesnake
 red diamondback rattlesnake
 red finch
@@ -1374,6 +1687,7 @@ red knee tarantula
 red panda
 red paper wasp
 red racer snake
+red setter
 red spitting cobra
 red squirrel
 red tail boa (common boa)
@@ -1390,6 +1704,7 @@ red-lipped batfish
 red-shouldered hawk
 red-winged blackbird
 redback spider
+redbone
 redhump eartheater
 redstart
 redtail catfish
@@ -1397,6 +1712,7 @@ reef shark
 reindeer
 repenomamus
 reticulated python
+retriever
 rex rabbit
 rhino beetle
 rhino viper
@@ -1404,6 +1720,10 @@ rhinoceros
 rhombic egg-eater snake
 ribbon eel
 ribbon snake
+ridgel
+ridgeling
+ridgil
+ridgling
 rim rock crowned snake
 ring-billed gull
 ringed kingfisher
@@ -1424,6 +1744,7 @@ root aphids
 rose-breasted grosbeak
 roseate spoonbill
 rosy boa
+rotifer
 rotterman
 rottsky
 rough earth snake
@@ -1439,6 +1760,7 @@ russel’s viper
 russian bear dog
 russian blue
 russian tortoise
+russian wolfhound
 saanen goat
 saber-toothed tiger
 sable
@@ -1454,6 +1776,7 @@ salamander
 salmon
 salmon shark
 sambar
+samoyede
 san francisco garter snake
 sand crab
 sand dollar
@@ -1467,6 +1790,8 @@ sardines
 sarkastodon
 satanic leaf-tailed gecko
 sauropoda
+sausage dog
+sausage hound
 savanna goat
 savannah sparrow
 savu python
@@ -1477,50 +1802,74 @@ scarab beetle
 scarlet kingsnake
 scarlet macaw
 scarlet tanager
+scavenger
+schnauzer
 schneagle
 schnoodle
 scimitar-horned oryx
 scorpion
 scorpion fish
 scotch collie
+scotch terrier
+scottie
 scrotum frog
 sculpin
+scutigera coleoptrata
+scutigerella immaculata
 sea anemone
+sea animal
+sea creature
 sea dragon
 sea eagle
+sea gooseberry
+sea lamprey
 sea lion
+sea mat
+sea moss
 sea otter
 sea roach
 sea slug
 sea snake
+sea spider
 sea squirt
 sea turtle
 sea urchin
 seagull
 seahorse
 seal
+sealyham
 sedge warbler
+seeing eye dog
 sei whale
+seizure-alert dog
 senegal parrot
+sennenhunde
 serval
+setter
 shark
 sharp-shinned hawk
 sharp-tailed snake
 sheep
 sheepadoodle
+sheepdog
 sheepshead fish
 shepadoodle
+shepherd dog
 shepkita
 shepweiler
+shetland
 shichi
 shih poo
+shoat
 shoebill stork
 shollie
 short-faced bear
 shortfin mako shark
+shote
 shrew
 shrimp
 siamese
+siamese cat
 siamese fighting fish
 siberian
 siberian ibex
@@ -1529,23 +1878,31 @@ siberian tiger
 siberpoo
 sidewinder
 silkie chicken
+silkworm
 silky shark
 silver dollar
 silver labrador
 sinosauropteryx
+sipunculid
+sire
 sixgill shark
 skate fish
 skink lizard
 skipjack tuna
 skua
 skunk
+sled dog
+sledge dog
 sleeper shark
+slime eels
 sloth
 slow worm
 slug
+small game
 smokybrown cockroach
 smooth green snake
 smooth snake
+smooth-haired fox terrier
 snail
 snake
 snapping turtle
@@ -1571,9 +1928,12 @@ southern hognose snake
 southern pacific rattlesnake
 spadefoot toad
 spanador
+spaniel
 spanish goat
+spanish pointer
 sparrow
 sparrowhawk
+spat
 speckled kingsnake
 spectacled bear
 sperm whale
@@ -1589,14 +1949,20 @@ spinosaurus
 spiny bush viper
 spiny dogfish
 spiny hill turtle
+spirit animal
 spitting cobra
+spitz
 spixs macaw
 sponge
+sporting dog
 spotted gar
 spotted lanternfly
 spotted python
+spring cankerworm
 springador
 springbok
+springer
+springer spaniel
 springerdoodle
 squash beetle
 squid
@@ -1604,27 +1970,39 @@ squirrel
 squirrel monkey
 squirrelfish
 sri lankan elephant
+staffordshire terrier
 stag beetle
 stallion
+standard poodle
 star-nosed mole
 starfish
 stargazer fish
+stayer
 steelhead salmon
+steeplechaser
 steer
 steller's sea cow
 stick insect
 stiletto snake
 stingray
 stoat
+stocker
 stone crab
 stork
 strawberry hermit crab
+strawworm
+stray
 striped hyena
 striped rocket frog
+stud
+studhorse
+stunt
 sturgeon
 styracosaurus
 suchomimus
 sucker fish
+sucking pig
+suckling
 sugar glider
 sulcata tortoise
 sumatran elephant
@@ -1632,14 +2010,22 @@ sumatran orang-utan
 sumatran rhinoceros
 sumatran tiger
 summer tanager
+sumpter
 sun bear
 sunbeam snake
 superworm
 surgeonfish
+survivor
 swai fish
 swan
+sydney silky
+symbion pandora
+symphilid
 syrian hamster
+tabby
+tabby cat
 taco terrier
+tadpole
 taipan
 takin
 tamaskan
@@ -1648,20 +2034,25 @@ tapanuli orang-utan
 tapir
 tarantula hawk
 tarbosaurus
+tardigrade
 tarpon
 tarsier
 tasmanian devil
 tasmanian tiger
 tawny owl
 teddy bear hamster
+teg
 telescope fish
 ten-lined june beetle
 tennessee walking horse
+tent caterpillar
 tentacled snake
+teras
 termite
 terrier
 terror bird
 tetra
+tetrapod
 texas blind snake
 texas coral snake
 texas garter snake
@@ -1680,6 +2071,8 @@ tick
 tiffany
 tiger
 tiger beetle
+tiger cat
+tiger cub
 tiger moth
 tiger rattlesnake
 tiger salamander
@@ -1691,13 +2084,26 @@ titan beetle
 titanoboa
 toad
 toadfish
+tobacco budworm
+tobacco hornworm
+tomato fruitworm
 tomato hornworm
+tomato worm
+tomcat
+tongue worm
 torkie
 tortoise
+tortoiseshell
+tortoiseshell-cat
 toucan
 towhee
 toxodon
+toy
+toy dog
+toy manchester
 toy poodle
+toy spaniel
+toy terrier
 tree frog
 tree kangaroo
 tree snake
@@ -1705,6 +2111,7 @@ tree swallow
 tree viper (bamboo viper)
 treecreeper
 triggerfish
+trilobite
 troodon
 tropicbird
 trout
@@ -1717,6 +2124,7 @@ turkey vulture
 turkish angora
 turtle
 turtles
+tussock caterpillar
 twig snake
 tylosaurus
 tyrannosaurus rex
@@ -1733,10 +2141,17 @@ vampire bat
 vampire crab
 vampire squid
 vaquita
+varment
+varmint
 velociraptor
+velvet worm
 venus flytrap
+venus's girdle
 vermilion flycatcher
+vermin
+vertebrate
 vervet monkey
+vetchworm
 vicuña
 vine snake
 vinegaroon
@@ -1748,6 +2163,8 @@ virgin islands dwarf gecko
 vulture
 wahoo fish
 waimanu
+walker foxhound
+walker hound
 walking catfish
 wallaby
 walleye fish
@@ -1756,14 +2173,17 @@ wandering albatross
 warbler
 warthog
 wasp
+watchdog
 water beetle
 water buffalo
 water dragon
+water spaniel
 water vole
 waterbuck
 wax moth
 weasel
 weaver bird
+webworm
 weimardoodle
 wels catfish
 welsh corgi
@@ -1780,6 +2200,7 @@ westiepoo
 whale
 whale shark
 wheaten terrier
+whelp
 whimbrel
 whinchat
 whiptail lizard
@@ -1797,15 +2218,23 @@ whiting
 whoodle
 whooping crane
 wild boar
+wild silkworm
 wildcat
 wildebeest
 willow warbler
 winter moth
+wire-haired fox terrier
+wirehair
+wirehaired terrier
+wireworm
 wolf
+wolf cub
 wolf eel
+wolf pup
 wolf snake
 wolf spider
 wolffish
+wolfhound
 wolverine
 woma python
 wombat
@@ -1813,24 +2242,32 @@ wood bison
 wood frog
 wood tick
 wood turtle
+woodborer
 woodchuck
 woodlouse
 woodlouse spider
 woodpecker
 woodrat
 woolly aphids
+woolly bear
+woolly bear caterpillar
+woolly bear moth
 woolly mammoth
 woolly monkey
 woolly rhinoceros
+work animal
+working dog
 worm
 worm snake
 wrasse
+wriggler
 writing spider
 wrought iron butterflyfish
 wryneck
 wyoming toad
 x-ray tetra
 xerus
+xiphosurus polyphemus
 yak
 yarara
 yellow anaconda
@@ -1849,6 +2286,10 @@ yokohama chicken
 yoranian
 yorkie bichon
 yorkie-poo
+young
+young bird
+young carnivore
+young mammal
 zebra
 zebra finch
 zebra mussels
@@ -1858,5 +2299,7 @@ zebra snake
 zebra spitting cobra
 zebu
 zonkey
+zoophyte
+zooplankton
 zorse
 zuchon

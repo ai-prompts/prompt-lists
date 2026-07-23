@@ -2,58 +2,172 @@
 title: All birds
 category: animal
 description: "Wide variety of bird species including songbirds, raptors, parrots, and penguins"
+additionalSource: "Open English WordNet 2025"
+additionalSourceUrl: "https://en-word.net/downloads"
+additionalSourceLicense: "CC BY 4.0"
+additionalSourceLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+additionalSourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
+additionalSourceAttribution: "Contains terms adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
 abert's towhee
 acadian flycatcher
+acanthisitta chloris
+accentor
+accipiter cooperii
+accipiter gentilis
+accipiter nisus
+accipitriformes
 acorn woodpecker
+acridotheres tristis
+acrocephalus schoenobaenus
+actitis hypoleucos
+actitis macularia
+adelie
 adelie penguin
+adjutant
+adjutant bird
+adjutant stork
+aegypiidae
+aegypius monachus
+aepyornis
+african gray
+african grey
 african grey parrot
+afropavo
+afropavo congensis
+agelaius phoeniceus
+agriocharis ocellata
+aix galericulata
+aix sponsa
+ajaia ajaja
+alauda arvensis
 albert's lyrebird
+alca torda
+alcedo atthis
 alder flycatcher
+alectoris graeca
+alectoris ruffa
+alectura lathami
 aleutian tern
 allen's hummingbird
 altamira oriole
+amadavat
+amazon
 american avocet
 american bittern
 american black duck
 american coot
+american creeper
 american crow
 american dipper
+american eagle
+american egret
+american gallinule
 american golden-plover
 american goldfinch
 american kestrel
+american magpie
+american merganser
+american oriole
 american oystercatcher
 american pipit
 american redstart
 american robin
 american tree sparrow
+american water ouzel
 american white pelican
+american widgeon
 american wigeon
 american woodcock
+anas acuta
+anas americana
+anas clypeata
+anas crecca
+anas discors
+anas penelope
+anas platyrhynchos
+anas querquedula
+anas rubripes
 ancient murrelet
 andean condor
+anhima cornuta
 anhinga
+anhinga anhinga
+ani
 anna's hummingbird
+anomalopteryx
+anomalopteryx oweni
+anser anser
+anser cygnoides
+anseriform bird
+ant shrike
+ant thrush
+antbird
+anthus pratensis
 antillean nighthawk
 antillean palm swift
+aphriza virgata
 aplomado falcon
+apodiform bird
+aptenodytes forsteri
+aptenodytes patagonica
+apteryx
+apus apus
+aquatic bird
+aquila chrysaetos
+aquila rapax
+aramus guarauna
+aramus pictus
+archaeopteryx lithographica
+archaeornis
+archeopteryx
+archilochus colubris
 arctic loon
+arctic skua
 arctic tern
 arctic warbler
+ardea herodia
+ardea herodius
+ardea occidentalis
+arenaria interpres
+arenaria melanocephala
+argus
+argus pheasant
+arkansas kingbird
 ash-throated flycatcher
 ashy storm-petrel
+asian black grouse
 asian brown flycatcher
+asio otus
+athene noctua
 atlantic puffin
+audubon warbler
+audubon's caracara
 audubon's oriole
 audubon's shearwater
+audubon's warbler
+auk
+auklet
+auriparus flaviceps
 australasian grebe
 australasian swamphen
+australian magpie
 australian owlet-nightjar
 australian shelduck
+australian stilt
+australian turtledove
+avadavat
+aythya affinis
+aythya americana
+aythya ferina
+aythya marila
+aythya valisineria
 aztec thrush
 azure gallinule
+babbler
 bachman's sparrow
 bachman's warbler
+baeolophus bicolor
 bahama mockingbird
 bahama swallow
 bahama woodstar
@@ -61,13 +175,21 @@ baikal teal
 baillon's crake
 baird's sandpiper
 baird's sparrow
+balaeniceps rex
 bald eagle
+baldpate
+baltimore bird
 baltimore oriole
 bananaquit
 band-rumped storm-petrel
+band-tail pigeon
 band-tailed gull
 band-tailed pigeon
+banded stilt
+bandtail
+bank martin
 bank swallow
+bantam
 bar-shouldered dove
 bar-tailed godwit
 barn owl
@@ -75,17 +197,32 @@ barn swallow
 barnacle goose
 barred owl
 barrow's goldeneye
+bartramia longicauda
+bartramian sandpiper
 bay-breasted warbler
 bean goose
+bee eater
+bell magpie
 bell's vireo
 bellbird
 belted kingfisher
 bendire's thrasher
 berylline hummingbird
+bewick's swan
 bewick's wren
 bicknell's thrush
+bird of jove
+bird of juno
+bird of minerva
+bird of night
+bird of passage
+bird of prey
+bittern
 black catbird
+black duck
+black grouse
 black guillemot
+black kite
 black noddy
 black oystercatcher
 black phoebe
@@ -93,6 +230,7 @@ black rail
 black rosy-finch
 black scoter
 black skimmer
+black stork
 black storm-petrel
 black swan
 black swift
@@ -100,6 +238,7 @@ black tern
 black turnstone
 black vulture
 black-and-white warbler
+black-backed gull
 black-backed wagtail
 black-backed woodpecker
 black-bellied plover
@@ -116,10 +255,13 @@ black-chinned sparrow
 black-crowned night heron
 black-faced grassquit
 black-footed albatross
+black-fronted bush shrike
 black-headed grosbeak
 black-headed gull
 black-legged kittiwake
+black-necked grebe
 black-necked stilt
+black-necked stork
 black-tailed gnatcatcher
 black-tailed godwit
 black-tailed gull
@@ -132,13 +274,21 @@ black-vented oriole
 black-vented shearwater
 black-whiskered vireo
 black-winged stilt
+blackbird
+blackburn
 blackburnian warbler
+blackcap
+blackcock
+blackpoll
 blackpoll warbler
 blue bunting
+blue darter
+blue goose
 blue grosbeak
 blue grouse
 blue jay
 blue mockingbird
+blue peafowl
 blue-billed duck
 blue-footed booby
 blue-gray gnatcatcher
@@ -146,17 +296,40 @@ blue-headed vireo
 blue-throated hummingbird
 blue-winged teal
 blue-winged warbler
+bluebill
+bluebird
 bluethroat
+bluewing
+boat-billed heron
 boat-tailed grackle
+boatbill
+boatswain bird
 bobolink
+bobwhite
+bobwhite quail
 bohemian waxwing
+bombycilla cedrorum
+bombycilla cedrorun
+bombycilla garrulus
 bonaparte's gull
+bonasa umbellus
+bonxie
 boreal chickadee
 boreal owl
+botaurus lentiginosus
+botaurus stellaris
 botteri's sparrow
+bowerbird
 brambling
 brandt's cormorant
 brant
+brant goose
+branta bernicla
+branta canadensis
+branta leucopsis
+brazilian trumpeter
+brent
+brent goose
 brewer's blackbird
 brewer's sparrow
 bridled tern
@@ -166,8 +339,12 @@ broad-billed hummingbird
 broad-billed sandpiper
 broad-tailed hummingbird
 broad-winged hawk
+broadbill
 brolga
 bronzed cowbird
+brood hen
+broody
+broody hen
 brown booby
 brown creeper
 brown cuckoo-dove
@@ -177,6 +354,7 @@ brown noddy
 brown pelican
 brown shrike
 brown thrasher
+brown thrush
 brown-capped rosy-finch
 brown-chested martin
 brown-crested flycatcher
@@ -185,19 +363,53 @@ brown-headed nuthatch
 brush bronzewing
 brush cuckoo
 brush turkey
+bubo virginianus
+bubulcus ibis
+bucephala albeola
+bucephala clangula
+bucephala islandica
+bucephela albeola
+bucephela clangula
+budgereegah
 budgerigar
+budgerygah
+budgie
 buff-banded rail
 buff-bellied hummingbird
 buff-breasted flycatcher
 buff-breasted sandpiper
 buff-collared nightjar
 bufflehead
+bulbul
+bullbat
 buller's shearwater
+bullfinch
 bullock's oriole
 bumblebee hummingbird
+bunting
+burhinus oedicnemus
 burrowing owl
+bush shrike
 bushtit
+bustard
+bustard quail
+butcherbird
+buteo buteo
+buteo jamaicensis
+buteo lagopus
+buteo lineatus
+buteonine
+butterball
+button quail
+buzzard
+cacatua galerita
+cacique
+cackler
 cactus wren
+cairina moschata
+calidris canutus
+calidris ferruginea
+calidris melanotos
 california condor
 california gnatcatcher
 california gull
@@ -205,59 +417,167 @@ california quail
 california thrasher
 california towhee
 calliope hummingbird
+camp robber
+campephilus principalis
+canachites canadensis
 canada goose
+canada jay
 canada warbler
+canadian goose
+canary bird
 canvasback
+canvasback duck
 canyon towhee
 canyon wren
 cape barren goose
 cape may warbler
+capercaillie
+capercailzie
+capon
+caprimulgid
+caprimulgiform bird
+caprimulgus carolinensis
+caprimulgus europaeus
+caprimulgus vociferus
+caracara
+carancha
+cardinal grosbeak
+cardinalis cardinalis
+carduelis cannabina
+carduelis carduelis
+carduelis cucullata
+carduelis flammea
+carduelis hornemanni
+carduelis spinus
+cariama cristata
 caribbean elaenia
+carinate
+carinate bird
 carolina chickadee
 carolina parakeet
 carolina wren
+carpodacus mexicanus
+carpodacus purpureus
+carrier pigeon
+carrion crow
+casmerodius albus
 caspian tern
 cassin's auklet
 cassin's finch
 cassin's kingbird
 cassin's sparrow
 cassin's vireo
+catbird
+catharacta skua
+cathartes aura
+cathartid
+catoptrophorus semipalmatus
 cattle egret
 cave swallow
+cazique
 cedar waxwing
+cedarbird
+centrocercus urophasianus
+centropus phasianinus
+centropus sinensis
+cephalopterus ornatus
+cepphus columba
+cepphus grylle
+certhia americana
+certhia familiaris
 cerulean warbler
+ceryle alcyon
+chachalaca
+chaffinch
+chaja
+chamaea fasciata
 channel-billed cuckoo
+charadrius melodus
+charadrius morinellus
+charadrius vociferus
+chat
+chateura pelagica
+chatterer
+chauna torquata
+cheewink
+chen caerulescens
 chestnut-backed chickadee
 chestnut-breasted cuckoo
 chestnut-collared longspur
 chestnut-rail
 chestnut-sided warbler
+chewink
+chicken hawk
 chihuahuan raven
+chimney swallow
 chimney swift
 chinese egret
+chinese goose
 chinstrap penguin
 chipping sparrow
+chlamydera nuchalis
+chlorophoneus nigrifrons
+chlorura chlorura
+choriotis australis
+chough
+chrysolophus pictus
 chuck-will's-widow
 chukar
+chunga
+chunga burmeisteri
+ciconia ciconia
+ciconia nigra
+cinclus aquaticus
+cinclus mexicanus
 cinnamon hummingbird
 cinnamon teal
+circus aeruginosus
+circus cyaneus
+circus pygargus
+cistothorus palustris
+cistothorus platensis
 citrine wagtail
+cladorhyncus leucocephalum
+clangula hyemalis
 clapper rail
 clark's grebe
 clark's nutcracker
 clay-colored robin
 clay-colored sparrow
 cliff swallow
+coastal diving bird
+cob
+coccothraustes coccothraustes
+coccyzus erythropthalmus
+cochin
+cochin china
+cochlearius cochlearius
+cockateel
 cockatiel
+cockatoo parrot
+cockerel
+colaptes auratus
+colaptes auratus cafer
+colaptes caper collaris
+colaptes chrysoides
 colima warbler
+colinus virginianus
 collared forest-falcon
 collared plover
+collocalia inexpectata
+columba fasciata
+columba livia
+columba palumbus
+columbiform bird
 common black-hawk
+common brant goose
 common bronzewing
+common canary
 common chaffinch
 common crane
 common cuckoo
 common eider
+common european jay
 common goldeneye
 common grackle
 common greenshank
@@ -268,6 +588,7 @@ common merganser
 common moorhen
 common murre
 common nighthawk
+common nutcracker
 common ostrich
 common pauraque
 common pochard
@@ -277,46 +598,141 @@ common redpoll
 common ringed plover
 common rosefinch
 common sandpiper
+common scoter
 common snipe
+common spoonbill
+common starling
 common swift
 common tern
 common yellowthroat
+condor
+congo peafowl
 connecticut warbler
+contopus sordidulus
+contopus virens
+conuropsis carolinensis
 cook's petrel
 cooper's hawk
+coot
+coracias garrulus
+coraciiform bird
+coragyps atratus
 cordilleran flycatcher
+cormorant
 corn crake
+cornish
+cornish fowl
+corvine bird
+corvus brachyrhyncos
+corvus corax
+corvus frugilegus
+corvus monedula
 cory's shearwater
+coscoroba
 costa's hummingbird
+cotinga
 cotton pygmy goose
+coturnix communis
+coturnix coturnix
+coucal
 couch's kingbird
+courlan
+courser
+cowbird
+crake
 crane hawk
 craveri's murrelet
+cream-colored courser
+creeper
 crescent-chested warbler
 crested auklet
 crested caracara
+crested cariama
 crested myna
 crested pigeon
+crested screamer
+crested swift
+crex crex
 crimson rosella
 crimson-collared grosbeak
 crissal thrasher
+crocethia alba
+crocodile bird
+crossbill
+crow blackbird
+crow pheasant
 cuban martin
+cuculiform bird
+cuculus canorus
+curassow
+curlew
 curlew sandpiper
+currawong
+curruca communis
+cursorius cursor
 curve-billed thrasher
+cushat
+cyanistes caeruleus
+cyanocitta cristata
+cygnet
+cygnus atratus
+cygnus buccinator
+cygnus columbianus
+cygnus columbianus bewickii
+cygnus columbianus columbianus
+cygnus cygnus
+cygnus olor
+dabbler
+dabbling duck
+dabchick
+dacelo gigas
 dark-eyed junco
+daw
+delichon urbica
+dendroica auduboni
+dendroica coronata
+dendroica fusca
+dendroica petechia
+dendroica striata
+dendroica striate
+dendroica tigrina
 diamond dove
 dickcissel
+dickeybird
+dickybird
+dinornis giganteus
+diomedea exulans
+diomedea nigripes
+dipper
+diver
+diving duck
+diving petrel
+dolichonyx oryzivorus
+domestic fowl
+domestic pigeon
+dominick
+dominique
+dorking
+dotrel
+dotterel
 double-crested cormorant
 double-striped thick-knee
 double-wattled cassowary
+dove
 dovekie
+dowitcher
 downy woodpecker
+drake
+dromaius novaehollandiae
+duckling
+dumetella carolinensis
 dunlin
 dusky flycatcher
 dusky moorhen
 dusky thrush
 dusky warbler
 dusky-capped flycatcher
+eaglet
 eared grebe
 eared trogon
 eastern bluebird
@@ -327,14 +743,41 @@ eastern rosella
 eastern screech-owl
 eastern towhee
 eastern wood-pewee
+ectopistes migratorius
+egret
+egretta albus
+egretta caerulea
+egretta garzetta
+egretta thula
+eider
+eider duck
+elanoides forficatus
+elanus leucurus
 elegant tern
 elegant trogon
+elephant bird
 elf owl
+emberiza aureola
+emberiza citrinella
+emberiza hortulana
+emberiza schoeniclus
 emperor goose
 emperor penguin
 emu
+emu novaehollandiae
 emu-wren
+english sparrow
+ephippiorhynchus senegalensis
+erithacus rubecola
+erithacus rubecula
+erithacus svecicus
+ern
+erne
+erolia alpina
+erolia minutilla
 eskimo curlew
+eudromias morinellus
+euphagus carolinus
 eurasian blackbird
 eurasian bullfinch
 eurasian collared-dove
@@ -344,19 +787,50 @@ eurasian dotterel
 eurasian hobby
 eurasian jackdaw
 eurasian kestrel
+eurasian kingfisher
 eurasian oystercatcher
 eurasian siskin
 eurasian tree sparrow
 eurasian wigeon
 eurasian woodcock
 eurasian wryneck
+european bittern
+european black grouse
+european blackbird
+european creeper
+european cuckoo
+european curlew
+european gallinule
+european goatsucker
 european golden-plover
+european hoopoe
+european magpie
+european nightjar
+european nuthatch
+european roller
+european sandpiper
+european sea eagle
+european shrike
 european starling
 european storm-petrel
+european swift
 european turtle-dove
+european water ouzel
 evening grosbeak
+eyas
 eyebrowed thrush
+fairy bluebird
+fairy swallow
 falcated duck
+falco columbarius
+falco peregrinus
+falco rusticolus
+falco sparverius
+falco subbuteo
+falco tinnunculus
+falcon-gentil
+falcon-gentle
+family aegypiidae
 fan-tailed cuckoo
 fan-tailed warbler
 fantail
@@ -365,42 +839,113 @@ ferruginous hawk
 ferruginous pygmy-owl
 field sparrow
 fieldfare
+fig-bird
+firebird
 fish crow
+fish duck
+fish eagle
+fish hawk
+fishing eagle
 five-striped sparrow
 flame-colored tanager
 flammulated owl
 flesh-footed shearwater
+flicker
+flightless bird
+flinthead
 flock bronzewing
+florida gallinule
 florida scrub-jay
+flycatcher
+flycatching warbler
+flying bird
 fork-tailed flycatcher
 fork-tailed storm-petrel
 fork-tailed swift
 forster's tern
+fowl
 fox sparrow
 franklin's gull
+fratercula arctica
+fratercula cirrhata
+fratercula corniculata
 freckled duck
+fringilla coelebs
+fringilla montifringilla
+frogmouth
+fulica americana
+fulica atra
+fulmar
+fulmar petrel
+fulmarus glacialis
 fulvous whistling-duck
 gadwall
 galah
+gallina
+gallinacean
+gallinaceous bird
+gallinago gallinago
+gallinago gallinago delicata
+gallinago media
+gallinula chloropus
+gallinula chloropus cachinnans
+gallinule
+gallus gallus
 gambel's quail
+game bird
+game fowl
+gamecock
+gander
 gang-galah
+gannet
 garganey
+garrulus glandarius
+garullus garullus
+gaviiform seabird
 gentoo penguin
+geococcyx californianus
+geothlypis trichas
+gerfalcon
+giant fulmar
+giant moa
+giant petrel
 gila woodpecker
 gilded flicker
+glareole
 glaucous gull
 glaucous-winged gull
+glossopsitta versicolor
 glossy ibis
+gnatcatcher
+goatsucker
+gobbler
+godwit
+gold-crowned kinglet
 golden bowerbird
 golden eagle
 golden pheasant
+golden plover
+golden warbler
 golden-cheeked warbler
+golden-crested kinglet
 golden-crowned kinglet
 golden-crowned sparrow
 golden-crowned warbler
 golden-fronted woodpecker
 golden-winged warbler
+goldeneye
+goldfinch
+gooney
+gooney bird
+goonie
+goony
+goosander
+gosling
 grace's warbler
+grackle
+gracula religiosa
+grass finch
+grass parakeet
 grasshopper sparrow
 gray bunting
 gray catbird
@@ -409,6 +954,7 @@ gray hawk
 gray jay
 gray kingbird
 gray partridge
+gray sea eagle
 gray silky-flycatcher
 gray vireo
 gray wagtail
@@ -419,21 +965,30 @@ gray-crowned yellowthroat
 gray-headed chickadee
 gray-spotted flycatcher
 gray-tailed tattler
+grayback
+grayhen
+graylag
+graylag goose
 great auk
 great black-backed gull
 great blue heron
+great bowerbird
+great bustard
 great cormorant
 great crested flycatcher
 great crested grebe
 great egret
 great frigatebird
 great gray owl
+great grey owl
 great hornbill
 great horned owl
 great kiskadee
 great knot
 great skua
+great snipe
 great spotted woodpecker
+great white heron
 great white pelican
 great-tailed grackle
 greater flamingo
@@ -444,97 +999,235 @@ greater roadrunner
 greater scaup
 greater shearwater
 greater white-fronted goose
+greater whitethroat
 greater yellowlegs
+greek partridge
 green heron
 green jay
 green kingfisher
 green peacock
+green peafowl
+green plover
 green pygmy goose
 green sandpiper
 green violet-ear
+green woodpecker
 green-breasted mango
 green-tailed towhee
 green-winged teal
 greenish elaenia
+greenshank
+greenwing
+grey catbird
 grey heron
+grey jay
+grey kingbird
+grey partridge
+grey sea eagle
 grey warbler
+greyback
+greyhen
+greylag
+greylag goose
+griffon
 groove-billed ani
+grosbeak
+grossbeak
+ground roller
+grus americana
+guacharo
+guan
+guillemot
+guinea
+guinea hen
+gull
 gull-billed tern
+gymnogyps californianus
+gymnorhina tibicen
+gypaetus barbatus
+gyps fulvus
 gyrfalcon
 hadada ibis
 hairy woodpecker
+half snipe
+haliaeetus leucocephalus
+haliaeetus leucorhyphus
+haliaeetus pelagicus
+haliatus albicilla
 hammond's flycatcher
+hangbird
 hardhead
 harlequin duck
+harpia harpyja
+harpy
 harpy eagle
+harrier eagle
 harris's hawk
 harris's sparrow
+hawaiian honeycreeper
 hawfinch
+hawk owl
+heath hen
+heathfowl
+hedge sparrow
 heermann's gull
 helmeted guineafowl
+hemipode
+hen harrier
+hen hawk
 henslow's sparrow
 hepatic tanager
 herald petrel
 hermit thrush
 hermit warbler
 herring gull
+hesperiphona vespertina
+heteroscelus incanus
+hill myna
 himalayan snowcock
+himantopus himantopus
+himantopus himantopus leucocephalus
+himantopus mexicanus
+himantopus novae-zelandiae
+himantopus stilt
+hirundo nigricans
+hirundo pyrrhonota
+hirundo rustica
+hoactzin
 hoary redpoll
 hoary-headed grebe
+hoatzin
+hobby
+homer
+homing pigeon
+honey eater
+honey guide
+honeycreeper
+honeysucker
+honker
 hooded merganser
 hooded oriole
+hooded sheldrake
 hooded warbler
 hook-billed kite
 hoopoe
+hoopoo
+hoot owl
+hooter
 hornbill
 horned grebe
 horned lark
+horned owl
 horned puffin
+horned screamer
+horse of the wood
 house finch
+house martin
 house sparrow
 house swift
 house wren
 hudsonian godwit
+hungarian partridge
 hutton's vireo
 hyacinth macaw
+hydrobates pelagicus
+hylocichla fuscescens
+hylocichla guttata
+hylocichla mustelina
+hylophylax naevioides
+ibero-mesornis
+ibis ibis
 iceland gull
+icteria virens
+icterus galbula
+icterus galbula bullockii
+icterus galbula galbula
+icterus spurius
 inca dove
+indian grackle
 indian peacock
 indian roller
+indigo bird
 indigo bunting
+indigo finch
+iridoprocne bicolor
 island scrub-jay
 ivory gull
 ivory-billed woodpecker
+ivorybill
+ixobrychus exilis
 jabiru
+jabiru mycteria
+jacamar
 jack snipe
+jaeger
+java finch
+java sparrow
+jay
+jaybird
+jenny wren
+junco
+junco hyemalis
+jungle hen
 jungle nightjar
 juniper titmouse
 kaka
 kakapo
+kakatoe galerita
+kakatoe leadbeateri
+kaki
+kamchatkan sea eagle
 kea
 keel-billed toucan
 kentucky warbler
 key west quail-dove
+kildeer
 killdeer
+killdeer plover
 king eider
 king penguin
 king rail
+kingbird
+kinglet
 kirtland's warbler
+kite
+kittiwake
 kittlitz's murrelet
+knot
 kokako
 la sagra's flycatcher
 labrador duck
 ladder-backed woodpecker
 lady amherst's pheasant
+lagopus scoticus
+lake duck
+lammergeier
+lammergeyer
 lanceolated warbler
+land rail
+lanius borealis
+lanius excubitor
+lanius lucovicianus
+lanius ludovicianus
+lanius ludovicianus excubitorides
+lanius ludovicianus migrans
 lapland longspur
+lapwing
 large-billed tern
+larid
+lark
 lark bunting
 lark sparrow
+larus argentatus
+larus canus
+larus marinus
+larus ridibundus
 laughing dove
 laughing gull
 laughing kookaburra
+laughing owl
 lawrence's goldfinch
+layer
 laysan albatross
 lazuli bunting
 le conte's sparrow
@@ -547,6 +1240,10 @@ least grebe
 least sandpiper
 least storm-petrel
 least tern
+leipoa
+leipoa ocellata
+leptoptilus crumeniferus
+leptoptilus dubius
 lesser black-backed gull
 lesser flamingo
 lesser frigatebird
@@ -554,87 +1251,208 @@ lesser goldfinch
 lesser nighthawk
 lesser prairie-chicken
 lesser scaup
+lesser scaup duck
 lesser white-fronted goose
+lesser whitethroat
 lesser yellowlegs
 lewin's rail
 lewis's woodpecker
 lilac-breasted roller
+limicoline bird
+limnocryptes minima
+limnodromus griseus
+limnodromus scolopaceus
+limosa haemastica
 limpkin
 lincoln's sparrow
+lintwhite
+little auk
 little blue heron
 little bronze cuckoo
 little bunting
 little curlew
 little egret
+little grebe
 little gull
+little owl
 little ringed plover
 little shearwater
 little spotted kiwi
 little stint
+lobipes lobatus
+lofortyx californicus
 loggerhead kingbird
 loggerhead shrike
 long-billed curlew
 long-billed dowitcher
+long-billed marsh wren
 long-billed murrelet
 long-billed thrasher
 long-eared owl
 long-tailed cuckoo
 long-tailed jaeger
 long-toed stint
+longlegs
+loon
+lophodytes cucullatus
+lory
 louisiana waterthrush
+lowan
+loxia curvirostra
 lucifer hummingbird
 lucy's warbler
+lunda cirrhata
+luscinia luscinia
+luscinia megarhynchos
+lyrurus mlokosiewiczi
+lyrurus tetrix
 macgillivray's warbler
+macrocephalon maleo
+macronectes giganteus
 magnificent frigatebird
 magnificent hummingbird
 magnolia warbler
 malachite kingfisher
+maleo
 mallard
+mallee hen
 malleefowl
+mamo
+man-of-war bird
+manakin
 mandarin duck
 mangrove cuckoo
 manx shearwater
+maori hen
+marabou
 marabou stork
+marabout
 marbled frogmouth
 marbled godwit
 marbled murrelet
+mareca americana
+mareca penelope
+marsh harrier
+marsh hawk
+marsh hen
 marsh sandpiper
 marsh wren
+martin
+maryland yellowthroat
 masked booby
 masked duck
 masked tityra
+mavis
 mccown's longspur
 mckay's bunting
+meadow pipit
+meadowlark
+megapode
+melanerpes erythrocephalus
+melanitta nigra
+melanotis caerulescens
+meleagris gallopavo
+melopsittacus undulatus
+melospiza georgiana
+melospiza melodia
+merganser
+mergus albellus
+mergus merganser
+mergus merganser americanus
+mergus serrator
+merl
+merle
 merlin
+mew
 mew gull
 mexican chickadee
 mexican jay
 middendorff's grasshopper-warbler
+migrant shrike
+migratory quail
+milvus migrans
+mimus polyglottos
+mina
+minah
+missel thrush
 mississippi kite
+mistle thrush
+mistletoe thrush
+moa
+mocker
+mocking thrush
+mockingbird
+mollymawk
+momot
+monal
+monaul
 mongolian plover
 monk parakeet
+montagu's harrier
 montezuma quail
+moorbird
+moorcock
+moorfowl
+moorgame
 morepork
+mosquito hawk
+mother carey's chicken
+mother carey's hen
+mother hen
+motmot
 mottled duck
 mottled owl
 mottled petrel
+mound bird
+mound builder
 mountain bluebird
 mountain chickadee
+mountain partridge
 mountain plover
 mountain quail
 mourning dove
 mourning warbler
+mud hen
 mugimaki flycatcher
 murphy's petrel
+murre
+muscicapa grisola
+muscicapa striata
+muscivora forficata
 muscovy duck
 musk duck
 mute swan
+mycteria americana
+myna
+mynah
+mynah bird
+myrtle bird
+myrtle warbler
+nandu
 narcissus flycatcher
 nashville warbler
 nelson's sharp-tailed sparrow
+neophron percnopterus
 neotropic cormorant
+nester
+nestor notabilis
+new world blackbird
+new world chat
+new world flycatcher
+new world goldfinch
+new world jay
+new world oriole
+new world sparrow
+new world vulture
+new world warbler
 new zealand robin
+new zealand wren
+night bird
+night raven
+nighthawk
+nightjar
 noisy scrub-bird
+nonpasserine bird
 north island takahe
 northern beardless-tyrannulet
 northern bobwhite
@@ -648,99 +1466,315 @@ northern hawk owl
 northern jacana
 northern lapwing
 northern mockingbird
+northern oriole
 northern parula
+northern phalarope
 northern pintail
 northern pygmy-owl
 northern rough-winged swallow
 northern saw-whet owl
 northern shoveler
 northern shrike
+northern storm petrel
 northern waterthrush
 northern wheatear
 northwestern crow
+notornis
+notornis mantelli
+nucifraga caryocatactes
+nucifraga columbiana
+numenius arquata
+numenius borealis
+numida meleagris
+nutcracker
+nuthatch
 nuttall's woodpecker
 nutting's flycatcher
+nyctanassa violacea
+nycticorax nycticorax
+nymphicus hollandicus
 oak titmouse
+oceanic bird
+oceanites oceanicus
+ocellated turkey
+oilbird
+old world chat
+old world coot
+old world flycatcher
+old world jay
+old world oriole
+old world quail
+old world robin
+old world scops owl
+old world vulture
+old world warbler
+old world white pelican
 oldsquaw
+oldwife
 olive sparrow
 olive warbler
 olive-backed pipit
 olive-sided flycatcher
+openbill
+opisthocomus hoazin
 orange-bellied fruit-dove
 orange-crowned warbler
 orange-footed scrubfowl
 orchard oriole
+order accipitriformes
+oreortyx picta palmeri
 oriental cuckoo
 oriental greenfinch
 oriental pratincole
 oriental scops-owl
 oriental turtle-dove
+oriole
+oriolus oriolus
+orpington
+orthotomus sutorius
+ortilis vetula macalli
+ortolan
+ortygan
+oscine
+oscine bird
 osprey
+otis tarda
+otus asio
+otus scops
+otus sunia
+ousel
+ouzel
 ovenbird
+owlet
+oxyura jamaicensis
+oystercatcher
 pacific emerald dove
 pacific golden-plover
 pacific koel
 pacific loon
 pacific swift
 pacific-slope flycatcher
+padda oryzivora
+pagophila eburnea
 paint-billed crake
 painted bunting
 painted redstart
+painted sandgrouse
 pallas's bunting
+pallas's sandgrouse
 pallid cuckoo
 palm cockatoo
 palm warbler
+pandion haliaetus
 papuan frogmouth
 parakeet auklet
+paraquet
 parasitic jaeger
+paroquet
+parrakeet
+parroket
+parroquet
 partridge pigeon
+parula americana
+parula warbler
+parus atricapillus
+parus bicolor
+parus caeruleus
+parus carolinensis
 passenger pigeon
+passer domesticus
+passer montanus
+passeriform bird
+passerina cyanea
+passerine
+pastor roseus
+pastor sturnus
+pavo cristatus
+pavo muticus
 peaceful dove
+peachick
 peafowl
+peahen
 pechora pipit
+pecker
+peckerwood
 pectoral sandpiper
+pedioecetes phasianellus
+pedionomus torquatus
+peewee
+peewit
+pelagic bird
 pelagic cormorant
+pelecaniform seabird
+pelecanus erythrorhynchos
+pelecanus onocrotalus
+pen
+perdix perdix
+peregrine
 peregrine falcon
+perisoreus canadensis
+perisoreus canadensis capitalis
+pernis apivorus
+petchary
+petrel
+petrochelidon nigricans
+pewee
+pewit
+pewit gull
+pezophaps solitaria
 phainopepla
+phalacrocorax carbo
+phalaenoptilus nuttallii
+phalarope
+phalaropus fulicarius
+phalaropus tricolor
+pharaoh's chicken
+pharomacrus mocino
+phasianid
+phasianus colchicus
 pheasant coucal
+pheasant cuckoo
 philadelphia vireo
+philohela minor
+philomachus pugnax
+phoebe
+phoebe bird
+phylloscopus sibilatrix
+pica pica
+pica pica hudsonia
+piciform bird
+piculet
+picus viridis
 pied-billed grebe
 pigeon guillemot
+pigeon hawk
 pileated woodpecker
+pin-tailed duck
+pin-tailed grouse
+pin-tailed sandgrouse
 pin-tailed snipe
 pine bunting
+pine finch
 pine grosbeak
 pine siskin
 pine warbler
+pinguinus impennis
+pinicola enucleator
+pink cockatoo
 pink-eared duck
 pink-footed goose
 pink-footed shearwater
+pintail
 pinyon jay
+pipilo erythrophthalmus
+piping crow
+piping crow-shrike
+piping guan
 piping plover
+pipit
+piranga flava hepatica
+piranga ludoviciana
+piranga olivacea
+piranga rubra
+pitta
 plain chachalaca
+plain turkey
+plain wanderer
 plain-capped starthroat
+platalea leucorodia
+plautus alle
+plectrophenax nivalis
+ploceus philippinus
+plover
 plumbeous vireo
 plumed whistling duck
+pluvianus aegyptius
+plymouth rock
+pochard
+podiceps cristatus
+podiceps grisegena
+podiceps nigricollis
+podiceps ruficollis
+podicipitiform seabird
+podilymbus podiceps
+poecile atricapillus
+poecile carolinensis
+poephila castanotis
+policeman bird
+poll
+poll parrot
+polyborus cheriway audubonii
+polyborus plancus
+polynesian tattler
 pomarine jaeger
+pooecetes gramineus
+poorwill
+popinjay
+porphyrio porphyrio
+porphyrula martinica
+porzana porzana
+poultry
+pouter
+pouter pigeon
 prairie falcon
+prairie fowl
+prairie grouse
 prairie warbler
+pratincole
+procellaria aequinoctialis
+procellariiform seabird
+progne subis
 prothonotary warbler
+protoavis
+prunella modularis
+psittacula krameri
+psittacus erithacus
+psophia crepitans
+ptarmigan
+pterocles alchata
+pterocles indicus
+pterocnemia pennata
+ptilonorhynchus violaceus
+ptiloris paradisea
+puffbird
+puffinus puffinus
 pukeko
+pullet
 purple finch
 purple gallinule
+purple grackle
 purple martin
 purple sandpiper
 purple-crowned fairywren
 pygmy nuthatch
+pygoscelis adeliae
+pyrocephalus rubinus mexicanus
+pyrrhula pyrrhula
 pyrrhuloxia
+pyrrhuloxia sinuata
+quack-quack
 quetzal
+quetzal bird
+quiscalus quiscula
 radjah shelduck
+rail
 rainbow lorikeet
+raphus cucullatus
+raptor
+raptorial bird
+ratite
+ratite bird
+raven
+razor-billed auk
 razorbill
 red crossbill
+red grouse
+red jungle fowl
 red knot
 red phalarope
+red siskin
 red-backed fairywren
+red-backed sandpiper
 red-bellied woodpecker
 red-billed pigeon
 red-billed tropicbird
@@ -748,6 +1782,7 @@ red-breasted flycatcher
 red-breasted merganser
 red-breasted nuthatch
 red-breasted sapsucker
+red-breasted snipe
 red-cockaded woodpecker
 red-crowned parrot
 red-eyed vireo
@@ -758,11 +1793,13 @@ red-footed booby
 red-headed woodpecker
 red-legged crake
 red-legged kittiwake
+red-legged partridge
 red-naped sapsucker
 red-necked crake
 red-necked grebe
 red-necked phalarope
 red-necked stint
+red-shafted flicker
 red-shouldered hawk
 red-tailed hawk
 red-tailed tropicbird
@@ -770,24 +1807,60 @@ red-throated loon
 red-throated pipit
 red-whiskered bulbul
 red-winged blackbird
+redbird
+redbreast
 reddish egret
 redhead
+redpoll
+redshank
+redtail
 redwing
 reed bunting
+reedbird
+reeve
 regent bowerbird
+regulus calendula
+regulus regulus
+regulus satrapa
 resplendent quetzal
+resplendent trogon
+rhea
+rhea americana
 rhinoceros auklet
 rhinoceros hornbill
+rhode island red
+ricebird
+richmondena cardinalis
+riflebird
+rifleman bird
+ring blackbird
+ring ouzel
+ring thrush
 ring-billed gull
 ring-necked duck
+ring-necked parakeet
 ring-necked pheasant
+ringdove
 ringed kingfisher
+ringtail
+riparia riparia
+roadrunner
 roadside hawk
+robin redbreast
+rock cornish
 rock dove
+rock hopper
+rock partridge
+rock pigeon
 rock ptarmigan
 rock sandpiper
 rock wren
+rocky mountain jay
+roller
+rook
 rose-breasted grosbeak
+rose-colored pastor
+rose-colored starling
 rose-crowned fruit-dove
 rose-ringed parakeet
 rose-throated becard
@@ -796,8 +1869,10 @@ roseate tern
 ross's goose
 ross's gull
 rough-legged hawk
+roughleg
 royal tern
 ruby-crowned kinglet
+ruby-crowned wren
 ruby-throated hummingbird
 ruddy duck
 ruddy ground-dove
@@ -811,55 +1886,116 @@ rufous-backed robin
 rufous-capped warbler
 rufous-crowned sparrow
 rufous-winged sparrow
+rupicola peruviana
+rupicola rupicola
 rustic bunting
 rusty blackbird
+rusty grackle
 sabine's gull
+sacred ibis
 saddle-billed stork
 saddleback
+saddlebill
 sage grouse
+sage hen
 sage sparrow
 sage thrasher
+sagittarius serpentarius
+salpinctes obsoletus
 saltmarsh sharp-tailed sparrow
+sand martin
 sanderling
+sandgrouse
 sandhill crane
+sandpiper
 sandwich tern
+sapsucker
+sarcorhamphus papa
 sarus crane
+satin bird
 satin bowerbird
 savannah sparrow
+sawbill
+saxicola rubetra
+saxicola torquata
 say's phoebe
+sayornis phoebe
 scaled quail
 scaly-breasted lorikeet
 scaly-naped pigeon
 scarlet ibis
 scarlet macaw
 scarlet tanager
+scaup
+scaup duck
+sceloglaux albifacies
 scissor-tailed flycatcher
+scissortail
+scolopax rusticola
+scooter
+scops owl
+scoter
 scott's oriole
+screamer
 screech owl
+scrub fowl
+scrubbird
+sea duck
+sea mew
+sea swallow
+seabird
+seafowl
 seaside sparrow
 secretary bird
+sedge bird
 sedge wren
+seiurus aurocapillus
 semipalmated plover
 semipalmated sandpiper
+seriema
+serin
+serinus canaria
+setophaga ruticilla
+setting hen
 sharp-shinned hawk
 sharp-tailed grouse
 sharp-tailed sandpiper
+shearwater
+sheldrake
+shelduck
+shell parakeet
 shining bronze cuckoo
 shining cuckoo
 shiny cowbird
+shoebill
 shoebill stork
+shoebird
+shorebird
 short-billed dowitcher
+short-billed marsh wren
 short-eared owl
 short-tailed albatross
 short-tailed hawk
 short-tailed shearwater
+short-toed eagle
+shoveler
+shoveller
+shrike
 shy albatross
 siberian accentor
 siberian blue robin
 siberian flycatcher
 siberian rubythroat
 silvereye
+sinornis
+siskin
+sitta canadensis
+sitta carolinensis
+sitta europaea
+sitter
+skimmer
 sky lark
+slate-colored junco
 slate-throated redstart
 slaty-backed gull
 slender-billed curlew
@@ -867,14 +2003,26 @@ smew
 smith's longspur
 smooth-billed ani
 snail kite
+snakebird
+snipe
 snow bunting
 snow goose
+snowbird
+snowflake
 snowy egret
+snowy heron
 snowy owl
 snowy plover
+solan
+solan goose
+solant goose
+solitaire
 solitary sandpiper
+solitary vireo
 somali ostrich
 song sparrow
+songbird
+songster
 sooty shearwater
 sooty tern
 sora
@@ -882,36 +2030,85 @@ south polar skua
 southern cassowary
 southern emu-wren
 southern martin
+spatula clypeata
+spatula discors
+spatula querquedula
 spectacled eider
+sphenisciform seabird
+spheniscus demersus
+sphyrapicus varius
+sphyrapicus varius ruber
 spinifex pigeon
+spinus pinus
+spinus tristis
+spizella arborea
+spizella passerina
+spizella pusilla
 splendid fairywren
+spoonbill
 spoonbill sandpiper
 spot-billed duck
 spot-breasted oriole
 spotless crake
+spotted antbird
+spotted crake
 spotted dove
+spotted flycatcher
 spotted owl
 spotted rail
 spotted redshank
 spotted sandpiper
 spotted towhee
 sprague's pipit
+sprigtail
+spring chicken
 spruce grouse
+squab
 squatter pigeon
+stake driver
+starling
+steatornis caripensis
+steganopus tricolor
 stejneger's petrel
+stellar's sea eagle
 steller's eider
 steller's jay
 steller's sea-eagle
+stercorarius parasiticus
+sterna hirundo
+stictopelia cuneata
+stilt
+stilt plover
 stilt sandpiper
+stiltbird
+stinkbird
+stint
 stitchbird
+stone curlew
 stonechat
+storm petrel
+stormy petrel
 streak-backed oriole
 streaked shearwater
+streptopelia risoria
+streptopelia turtur
 striated grasswren
 strickland's woodpecker
 stripe-headed tanager
+striped button quail
+strix aluco
+strix nebulosa
+strix occidentalis
+strix varia
+struthio camelus
+sturnella magna
+sturnella neglecta
+sturnus vulgaris
+sula bassana
 sulphur-bellied flycatcher
 sulphur-crested cockatoo
+summer duck
+summer redbird
 summer tanager
 sun conure
 superb fairywren
@@ -920,47 +2117,137 @@ superb lyrebird
 superb starling
 surf scoter
 surfbird
+surnia ulula
 swainson's hawk
 swainson's thrush
 swainson's warbler
+swallow
+swallow shrike
+swallow-tailed hawk
 swallow-tailed kite
 swamp sparrow
+swamphen
+swiftlet
+sylvia atricapilla
+sylvia communis
+sylvia curruca
+syrrhaptes paradoxus
+tailorbird
+takahe
 tamaulipas crow
+tanager
 tasmanian native-hen
+tattler
+tawny eagle
 tawny frogmouth
 tawny-shouldered blackbird
+teal
 temminck's stint
 tennessee warbler
+tercel
+tercelet
 terek sandpiper
+tern
+tetrao urogallus
+texas chachalaca
 thayer's gull
 thick-billed kingbird
 thick-billed murre
 thick-billed parrot
 thick-billed vireo
+thick-knee
+thickhead
+thornbill
 three-toed woodpecker
+threskiornis aethiopica
+throstle
+thrush nightingale
+thryothorus ludovicianus
+tichodroma muriaria
+tichodrome
+tiercel
+tinamou
+titlark
+titmouse
 toco toucan
+tody
+tom
+tom turkey
+tomtit
 tooth-billed bowerbird
 topknot pigeon
 torresian imperial pigeon
+toucanet
+touraco
 townsend's solitaire
 townsend's warbler
+toxostoma rufum
+tragopan
+tree martin
 tree pipit
+tree sparrow
 tree swallow
+tree swift
+trichoglossus moluccanus
 tricolored blackbird
 tricolored heron
+tringa flavipes
+tringa melanoleuca
+tringa nebularia
+tringa totanus
+troglodytes aedon
+troglodytes troglodytes
+trogon
 tropical kingbird
 tropical parula
+true flycatcher
+true sparrow
+true warbler
+trumpeter
 trumpeter swan
 tufted duck
 tufted flycatcher
 tufted puffin
 tufted titmouse
 tui
+tumbler
+tumbler pigeon
 tundra swan
+turaco
+turacou
+turakoo
+turdus greyi
+turdus iliacus
+turdus merula
+turdus migratorius
+turdus philomelos
+turdus pilaris
+turdus torquatus
+turdus viscivorus
+turkey buzzard
 turkey vulture
+turnix sylvatica
+turnstone
+turtledove
+twitterer
+tympanuchus cupido
+tympanuchus cupido cupido
+tympanuchus pallidicinctus
+tyrannid
+tyrannus domenicensis domenicensis
+tyrannus tyrannus
+tyrannus vociferans
+tyrant bird
+tyrant flycatcher
+tyto alba
 uniform swiftlet
+upland plover
 upland sandpiper
+upupa epops
+uria aalge
+uria lomvia
 varied bunting
+varied lorikeet
 varied thrush
 variegated fairywren
 variegated flycatcher
@@ -968,16 +2255,35 @@ vaux's swift
 veery
 verdin
 vermilion flycatcher
+vermillion flycatcher
 vesper sparrow
 violet-crowned hummingbird
 violet-green swallow
+vireo
+vireo olivaceous
+vireo solitarius
+vireo solitarius solitarius
 virginia rail
 virginia's warbler
 vogelkop bowerbird
+vultur gryphus
+wader
+wading bird
+wagtail
+wall creeper
 wandering albatross
 wandering tattler
 wandering whistling duck
 warbling vireo
+water bird
+water hen
+water ouzel
+water thrush
+water turkey
+waterfowl
+waxwing
+weaver
+weaver finch
 wedge-rumped storm-petrel
 wedge-tailed shearwater
 weka
@@ -992,13 +2298,21 @@ western screech-owl
 western scrub-jay
 western tanager
 western wood-pewee
+wheatear
+whidah
 whimbrel
 whip-poor-will
+whisker jack
 whiskered auklet
 whiskered screech-owl
 whiskered tern
+whistler
+whistling swan
 white ibis
+white pelican
+white stork
 white wagtail
+white-bellied swallow
 white-breasted nuthatch
 white-browed crake
 white-cheeked pintail
@@ -1012,14 +2326,17 @@ white-eyed vireo
 white-faced ibis
 white-faced storm-petrel
 white-headed pigeon
+white-headed stilt
 white-headed woodpecker
 white-quilled pygmy goose
 white-rumped sandpiper
+white-rumped shrike
 white-rumped swiftlet
 white-tailed eagle
 white-tailed hawk
 white-tailed kite
 white-tailed ptarmigan
+white-tailed sea eagle
 white-tailed tropicbird
 white-throated needletail
 white-throated robin
@@ -1032,32 +2349,60 @@ white-winged fairywren
 white-winged parakeet
 white-winged scoter
 white-winged tern
+whitethroat
+whole snipe
+whooper
 whooper swan
 whooping crane
+whydah
+widgeon
+widow bird
+wigeon
+wild duck
 wild turkey
 willet
 williamson's sapsucker
 willow flycatcher
 willow ptarmigan
+wilson's blackcap
 wilson's phalarope
 wilson's plover
+wilson's snipe
 wilson's storm-petrel
+wilson's thrush
 wilson's warbler
+wilsonia pusilla
 winter wren
 wompoo fruit-dove
 wonga pigeon
+wood drake
 wood duck
+wood hoopoe
+wood ibis
+wood pewee
+wood pigeon
 wood sandpiper
 wood stork
+wood swallow
 wood thrush
 wood warbler
+wood widgeon
+woodcock
+woodcock snipe
+woodcreeper
 woodhen
+woodhewer
 worm-eating warbler
 worthen's sparrow
+wren
+wren warbler
 wrentit
 xantus's hummingbird
 xantus's murrelet
+xenicus gilviventris
+xenorhyncus asiaticus
 yellow bittern
+yellow bunting
 yellow grosbeak
 yellow rail
 yellow wagtail
@@ -1078,8 +2423,16 @@ yellow-headed blackbird
 yellow-legged gull
 yellow-nosed albatross
 yellow-rumped warbler
+yellow-shafted flicker
 yellow-throated vireo
 yellow-throated warbler
+yellowbird
+yellowhammer
+yellowlegs
+yellowthroat
 yucatan vireo
 zenaida dove
+zenaidura macroura
 zone-tailed hawk
+zonotrichia albicollis
+zonotrichia leucophrys

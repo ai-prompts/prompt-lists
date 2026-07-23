@@ -2,56 +2,120 @@
 title: Amphibians
 category: animal
 description: "Various amphibian species including frogs, toads, newts, and sirens"
+additionalSource: "Open English WordNet 2025"
+additionalSourceUrl: "https://en-word.net/downloads"
+additionalSourceLicense: "CC BY 4.0"
+additionalSourceLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+additionalSourceSha256: "38b16326159f51853626b7d24a44c453fa88ab33f06fce5ec8fc5996d1c2be93"
+additionalSourceAttribution: "Contains terms adapted from Open English WordNet 2025 by the Open English WordNet Community, derived from Princeton WordNet 3.1"
 ---
+acris crepitans
+acris gryllus
 african bullfrog
 african clawed frog
 african dwarf frog
 african reed frog
+agua
+agua toad
 alpine newt
 alpine salamander
+alytes cisternasi
+alytes obstetricans
 amazon milk frog
+ambystoma maculatum
+ambystoma mexicanum
+ambystoma talpoideum
+ambystoma tigrinum
+ambystomid
+ambystomid salamander
 american bullfrog
+american green toad
 american green tree frog
 american toad
+amphibian
 amphiuma
+anaxyrus americanus
+anaxyrus canorus
+anaxyrus debilis
+anaxyrus speciosus
+aneides lugubris
+anuran
 arboreal salamander
+ascaphus trui
 axolotl
+barking frog
 barking tree frog
+batrachian
+bell toad
 black rain frog
 black toad
+blind eel
+blindworm
 blue poison dart frog
 blue-spotted salamander
+bombina bombina
 boreas toad
 budgett's frog
+bufo
+bufo americanus
+bufo boreas
+bufo bufo
+bufo calamita
+bufo canorus
+bufo debilis
+bufo marinus
+bufo microscaphus
+bufo speciosus
+bufo viridis
+bufotes viridis
 bullfrog
 caecilian
 california newt
 california tiger salamander
 cane toad
 canyon tree frog
+cascades frog
+caudate
+chameleon tree frog
 chinese giant salamander
+chorus frog
 chubby frog
+climbing salamander
 common frog
 common mudpuppy
+common newt
 common toad
+congo eel
 cope's gray tree frog
 coqui
 corroboree frog
+crapaud
 cricket frog
+cryptobranchus alleganiensis
 cuban tree frog
 dart frog
 darwin's frog
 desert rain frog
+dicamptodon
+dicamptodon ensatus
+dicamptodontid
+dryophytes arenicolor
 dumpy tree frog
 dusky salamander
+eastern cricket frog
 eastern hellbender
+eastern narrow-mouthed toad
 eastern newt
 eastern red-backed salamander
 eastern spadefoot toad
 edible frog
+eft
 emperor newt
+eurasian green toad
+european fire salamander
 european fire-bellied toad
 european green toad
+european toad
 european tree frog
 fire salamander
 fire-bellied newt
@@ -59,6 +123,8 @@ fire-bellied toad
 fowler's toad
 frog
 gastric-brooding frog
+gastrophryne carolinensis
+gastrophryne olivacea
 ghost frog
 giant salamander
 glass frog
@@ -67,6 +133,7 @@ golden poison frog
 golden toad
 goliath frog
 gopher frog
+grass frog
 gray tree frog
 great crested newt
 great plains toad
@@ -79,25 +146,49 @@ green tree frog
 hairy frog
 hellbender
 horned frog
+hydromantes brunus
+hydromantes shastae
+hyla arenicolor
+hyla crucifer
+hyla regilla
+hylactophryne augusti
+hynerpeton bassetti
 iberian ribbed newt
+ichthyostega
 indian bullfrog
 japanese fire-bellied newt
 japanese giant salamander
 jefferson salamander
 kaiser's spotted newt
+labyrinthodont
 lake titicaca water frog
 lemur leaf frog
 leopard frog
+leptodactylid
+leptodactylid frog
+leptodactylus pentadactylus
 lesser siren
+limestone salamander
+liopelma hamiltoni
+lithobates catesbeianus
+lithobates clamitans
+lithobates palustris
+lithobates pipiens
+lithobates sylvaticus
+lithobates tarahumarae
 long-tailed salamander
+lowland burrowing treefrog
 lumpy newt
+lungless salamander
 malayan horned frog
 mantella
 marbled newt
 marbled salamander
 marsh frog
+megalobatrachus maximus
 midwife toad
 mink frog
+mole salamander
 monkey frog
 mossy frog
 mountain chicken frog
@@ -106,18 +197,26 @@ mud salamander
 mudpuppy
 mudpuppy (salamander)
 natterjack toad
+necturus maculosus
 newt
+northern casque-headed frog
+northern cricket frog
 northern leopard frog
 northern red-legged frog
 northern slimy salamander
+notophthalmus viridescens
 oak toad
+obstetrical toad
 olm
+olympic salamander
 oregon spotted frog
 oriental fire-bellied toad
 ornate horned frog
 pacific chorus frog
 pacific giant salamander
+pacific newt
 pacific tree frog
+pacific tree toad
 pacman frog
 paddle-tail newt
 painted reed frog
@@ -126,53 +225,109 @@ panamanian golden frog
 paradox frog
 pickerel frog
 pig frog
+pipa americana
+pipa pipa
+plains spadefoot
+plethodon cinereus
+plethodon vehiculum
+plethodont
 poison dart frog
 pool frog
+proteus anguinus
+pternohyla fodiens
 purple frog
 rain frog
+rana cascadae
+rana catesbeiana
+rana clamitans
+rana goliath
+rana palustris
+rana pipiens
+rana sylvatica
+rana tarahumarae
+rana temporaria
+ranid
+red eft
 red salamander
 red-backed salamander
 red-eyed tree frog
 red-legged frog
 red-spotted newt
+rhyacotriton olympicus
+ribbed toad
 ringed caecilian
 river frog
+robber frog
 rough-skinned newt
 salamander
+salamandra atra
+salamandra maculosa
+salamandra salamandra
+salientian
+scaphiopus bombifrons
+scaphiopus hammondii
+scaphiopus multiplicatus
+shasta salamander
+sheep frog
 shovel-nosed salamander
 siren
 siren (amphibian)
+slender salamander
 slimy salamander
 smooth newt
 solomon island leaf frog
+south american bullfrog
+south american poison toad
 southern leopard frog
+southern spadefoot
 southern toad
+southwestern toad
+spadefoot
 spadefoot toad
 spanish ribbed newt
 spotted salamander
+spring frog
 spring peeper
 spring salamander
 strawberry poison dart frog
 surinam toad
 tailed frog
+tailed toad
 tarahumara frog
+taricha granulosa
+taricha torosa
+texas toad
 tiger salamander
 toad
+toad frog
 tomato frog
+tongueless frog
 tree frog
+tree toad
+triton
+triturus vulgaris
+true frog
+true toad
 two-lined salamander
+urodele
 vietnamese mossy frog
 wallace's flying frog
 warty newt
 water dog
 water frog
 waxy monkey frog
+web-toed salamander
 western chorus frog
 western leopard frog
+western narrow-mouthed toad
+western red-backed salamander
+western spadefoot
 western toad
 white's tree frog
 wood frog
 woodhouse's toad
+worm salamander
+xenopus laevis
 yellow-bellied toad
 yellow-spotted salamander
 yosemite toad
