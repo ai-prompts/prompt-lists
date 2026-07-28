@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # npm: js-yaml, lodash, standard (build/sanitise tooling)
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+  # Actions used by .github/workflows/build.yml
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
