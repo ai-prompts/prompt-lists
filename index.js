@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path, { dirname } from 'path'
 import _ from 'lodash'
-import yaml from 'js-yaml'
+import { load as parseYaml } from 'js-yaml' // js-yaml 5 has named exports only
 import { fileURLToPath } from 'url'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -29,7 +29,7 @@ const allLists = fs
 const readListFile = (listPath) => {
   const fileContent = fs.readFileSync(`${listsPath}/${listPath.join('/')}.yml`).toString()
   const [frontmatter, items] = fileContent.split(/---|\.\.\./).slice(1) // Splits at the YAML frontmatter boundaries
-  const parsedFrontmatter = yaml.load(frontmatter)
+  const parsedFrontmatter = parseYaml(frontmatter)
   const list = items.split('\n').filter(e => String(e).trim())
   return {
     title: parsedFrontmatter.title,
