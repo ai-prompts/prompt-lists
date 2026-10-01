@@ -7863,32 +7863,46 @@
       "hanging figures"
     ]
   },
+  "typography.fontPairing": {
+    "title": "Font pairings",
+    "category": "typography",
+    "description": "Two or three typefaces that work well together, such as a heading, body and accent font",
+    "total": 225,
+    "examples": [
+      "questa and questa sans font pairing",
+      "adelle sans and fit font pairing",
+      "epilogue and lora font pairing",
+      "editorial old and right grotesk font pairing",
+      "dioda, tor grotesk and heneczek font pairing",
+      "baste and apfel grotezk font pairing"
+    ]
+  },
   "typography.fontType": {
     "title": "Font types",
     "category": "typography",
     "description": "Typographic design movements and historical font classifications",
     "total": 62,
     "examples": [
-      "brush typography",
-      "stencil typography",
-      "runic typography",
-      "outline typography",
-      "gothic typography",
-      "blackletter typography"
+      "brutalist typography",
+      "neo-grotesque typography",
+      "grunge typography",
+      "serif typography",
+      "incised typography",
+      "expanded typography"
     ]
   },
   "typography.font": {
     "title": "Fonts",
     "category": "typography",
     "description": "Specific named typefaces and popular font families",
-    "total": 89,
+    "total": 2405,
     "examples": [
-      "itc avant garde font",
-      "nunito font",
-      "source serif pro font",
-      "karla font",
-      "myriad font",
-      "adobe garamond font"
+      "tt commons font",
+      "century gothic font",
+      "knockout font",
+      "coral pixels font",
+      "amazon ember font",
+      "kaushan script font"
     ]
   },
   "typography.style": {
@@ -7897,12 +7911,12 @@
     "description": "Font weights, widths, and specific stylistic typeface variations",
     "total": 76,
     "examples": [
-      "cursive style font",
-      "extra light italic style font",
-      "embossed style font",
+      "expanded light style font",
+      "eroded style font",
       "condensed style font",
-      "extra bold style font",
-      "extra expanded style font"
+      "all caps style font",
+      "compressed style font",
+      "bubble style font"
     ]
   },
   "typography.typefaceStyle": {
@@ -7911,12 +7925,12 @@
     "description": "Various font styles, historical typefaces, and typographic classifications",
     "total": 69,
     "examples": [
-      "brutalist",
-      "grotesque",
-      "egyptienne",
-      "rotunda typeface",
-      "ornamental",
-      "rotunda"
+      "victorian",
+      "pixel",
+      "script typeface",
+      "shadow font",
+      "sans-serif",
+      "neo-grotesque"
     ]
   },
   "typography.wordArt": {
@@ -7925,12 +7939,12 @@
     "description": "Textures, materials, and visual effects applied to text and typography",
     "total": 137,
     "examples": [
-      "squished text",
-      "felt text",
+      "overlapping text",
+      "folded text",
       "eroded text",
-      "holographic text",
-      "floral text",
-      "gradient text"
+      "anaglyph 3d text",
+      "laced text",
+      "crystalline text"
     ]
   },
   "vehicle.aircraft": {
@@ -7939,12 +7953,12 @@
     "description": "Various types of airplanes, helicopters, and specialized aerial vehicles",
     "total": 126,
     "examples": [
-      "maritime patrol aircraft",
-      "flying boat",
-      "dive bomber",
-      "double-decker plane",
-      "hoverbike",
-      "blimp"
+      "drone",
+      "microlight",
+      "military transport",
+      "gyrocopter",
+      "tiltrotor",
+      "passenger plane"
     ]
   },
   "vehicle.car": {
@@ -7953,12 +7967,12 @@
     "description": "Specific modern car makes and models from various automotive manufacturers",
     "total": 329,
     "examples": [
-      "lexus lfa",
-      "hyundai kona",
-      "hyundai sonata",
-      "jaguar xj",
-      "infiniti q50",
-      "lexus nx"
+      "opel astra",
+      "buick regal",
+      "hyundai tucson",
+      "buick verano",
+      "ferrari california",
+      "chrysler aspen"
     ]
   },
   "vehicle.classicCar": {
@@ -7967,12 +7981,12 @@
     "description": "Specific vintage, antique, and classic car models with their production years",
     "total": 161,
     "examples": [
-      "1915 dodge model 30-35",
-      "1929 cadillac series 341a",
-      "1930 cadillac v-16",
-      "1955 chevrolet bel air",
-      "1913 buick model 31",
-      "1966 ford gt40"
+      "1930 franklin series 145",
+      "1929 chrysler series 75",
+      "1927 stutz blackhawk",
+      "1914 buick model b-24",
+      "1905 stanley steamer model f",
+      "1930 cord l-29"
     ]
   },
   "vehicle.famousCar": {
@@ -7981,12 +7995,12 @@
     "description": "Iconic cars and fictional vehicles from popular movies and film franchises",
     "total": 50,
     "examples": [
-      "christine from christine",
-      "mach 5 from speed racer",
-      "the nissan skyline gt-r from 2 fast 2 furious",
       "bumblebee from transformers",
-      "the jurassic park jeep wrangler from jurassic park",
-      "the bluesmobile from the blues brothers"
+      "christine from christine",
+      "the batmobile from batman",
+      "the ford gran torino from starsky & hutch",
+      "mater from cars 2",
+      "the 1961 ferrari 250 gt california spyder from ferris bueller's day off"
     ]
   },
   "vehicle.fastCar": {
@@ -7995,12 +8009,12 @@
     "description": "Specific models of high-performance sports cars, supercars, and luxury vehicles",
     "total": 98,
     "examples": [
-      "koenigsegg jesko",
-      "lamborghini huracan",
-      "bugatti chiron",
-      "bentley bentayga mulliner",
-      "maserati levante trofeo",
-      "audi rs7"
+      "pagani utopia",
+      "ferrari sf90 stradale",
+      "aston martin db7",
+      "aston martin one-77",
+      "bugatti mistral",
+      "hennessey venom f5"
     ]
   },
   "vehicle.motorcycle": {
@@ -8009,12 +8023,12 @@
     "description": "Various styles, classes, and specialized types of motorcycles and motorbikes",
     "total": 121,
     "examples": [
+      "frisco chopper",
+      "tuk-tuk",
+      "adventure bike",
       "desert sled",
-      "lowrider",
-      "dirt bike",
-      "feet forward motorcycle",
-      "ice racer",
-      "full dresser"
+      "digger",
+      "military motorcycle"
     ]
   },
   "vehicle.spacecraft": {
@@ -8023,12 +8037,12 @@
     "description": "Sci-fi spacecraft, starships, and specialized futuristic space vehicles",
     "total": 56,
     "examples": [
-      "explorer vessel",
-      "cargo hauler spacecraft",
-      "carrier",
-      "corvette spacecraft",
+      "yacht",
+      "ark ship",
+      "interceptor",
+      "space station",
       "jump ship",
-      "warp ship"
+      "hyperdrive vessel"
     ]
   },
   "vehicle.transport": {
@@ -8037,12 +8051,12 @@
     "description": "Vehicles, aircraft, vessels, rolling stock, and transport machinery",
     "total": 625,
     "examples": [
-      "electric locomotive",
-      "skidder",
-      "oxcart",
-      "pilot balloon",
-      "nuclear-powered ship",
-      "mosquito boat"
+      "racing skiff",
+      "panzer",
+      "motor vehicle",
+      "tanker truck",
+      "patrol wagon",
+      "motor torpedo boat"
     ]
   },
   "vehicle.type": {
@@ -8051,12 +8065,12 @@
     "description": "Broad categories of land, air, and water transportation vehicles",
     "total": 116,
     "examples": [
-      "sleigh",
-      "sailboat",
-      "motorcycle",
-      "solar-powered car",
-      "segway",
-      "microcar"
+      "gondola",
+      "ship",
+      "semi-trailer",
+      "bullet train",
+      "lunar module",
+      "electric scooter"
     ]
   },
   "vehicle.watercraft": {
@@ -8065,12 +8079,12 @@
     "description": "Various types of boats, ships, and marine vessels",
     "total": 188,
     "examples": [
-      "sailing yacht",
-      "pocket battleship",
-      "ocean liner",
-      "sailing catamaran",
-      "longship",
-      "longboat"
+      "lifeboat",
+      "self-unloader",
+      "trimaran",
+      "pirogue",
+      "submarine",
+      "cruiser"
     ]
   },
   "videoGame.action": {
@@ -8079,12 +8093,12 @@
     "description": "In-game character actions, abilities, and mechanics in video games",
     "total": 314,
     "examples": [
-      "balloon floating",
-      "meditating for mana regeneration",
-      "utilizing character specific abilities",
-      "timing button presses",
-      "spawning",
-      "spinning to attack"
+      "scaling walls",
+      "leaping over pits",
+      "performing combo moves",
+      "hacking",
+      "maneuvering in zero gravity",
+      "platforming on moving objects"
     ]
   },
   "videoGame.designer": {
@@ -8093,12 +8107,12 @@
     "description": "Names of prominent real-world video game designers and directors",
     "total": 68,
     "examples": [
-      "eiji aonuma",
-      "lucas pope",
-      "masahiro sakurai",
-      "alex rigopulos",
-      "cory barlog",
-      "ed boon"
+      "peter molyneux",
+      "michel ancel",
+      "cliff bleszinski",
+      "tim schafer",
+      "yu suzuki",
+      "yasumi matsuno"
     ]
   },
   "videoGame.engine": {
@@ -8107,12 +8121,12 @@
     "description": "Software frameworks and game engines used for developing video games",
     "total": 68,
     "examples": [
-      "renderware studio",
-      "ego engine",
-      "id tech",
-      "unity3d",
-      "adventure game studio",
-      "heroengine"
+      "mt framework",
+      "marmalade sdk",
+      "unity",
+      "heroengine",
+      "rpg maker",
+      "fox engine"
     ]
   },
   "videoGame.game": {
@@ -8121,12 +8135,12 @@
     "description": "Titles of popular video game franchises and specific game releases",
     "total": 319,
     "examples": [
-      "halo",
-      "spider-man (2018)",
-      "metal gear solid 3: snake eater",
-      "saints row",
-      "ori and the will of the wisps",
-      "oxenfree"
+      "far cry 5",
+      "fifa",
+      "tekken",
+      "mortal kombat",
+      "metal slug",
+      "need for speed: most wanted"
     ]
   },
   "videoGame.region": {
@@ -8135,12 +8149,12 @@
     "description": "Fictional environments, biomes, and level themes found in video games",
     "total": 118,
     "examples": [
-      "enchanted region",
-      "mystic forest",
-      "bio-dome region",
-      "lava kingdom",
-      "aerial region",
-      "ashen region"
+      "volcanic kingdom",
+      "ocean kingdom",
+      "mushroom forest",
+      "spooky kingdom",
+      "subterranean kingdom",
+      "toxic kingdom"
     ]
   },
   "word.adjective": {
@@ -8149,12 +8163,12 @@
     "description": "Various descriptive adjectives ranging from anatomical to behavioral",
     "total": 4980,
     "examples": [
-      "unfitting",
-      "sacral",
-      "prettier",
-      "merry",
-      "quieter",
-      "quarterly"
+      "nonlinguistic",
+      "disorderly",
+      "comprehensive",
+      "antic",
+      "freshborn",
+      "crassest"
     ]
   },
   "word.adverb": {
@@ -8163,12 +8177,12 @@
     "description": "Assorted adverbs modifying actions, states, or qualities",
     "total": 1798,
     "examples": [
-      "profoundly",
-      "dourly",
-      "eerily",
-      "inwardly",
-      "hence",
-      "hypnotically"
+      "macroscopically",
+      "ill",
+      "hereabouts",
+      "humiliatingly",
+      "horizontally",
+      "imprudently"
     ]
   },
   "word.noun": {
@@ -8177,12 +8191,12 @@
     "description": "A diverse mix of concrete objects, animals, and abstract conceptual nouns",
     "total": 24389,
     "examples": [
-      "wineglass",
-      "blowing",
-      "ice-cream",
-      "caveman",
-      "chafing",
-      "deregulation"
+      "escutcheon",
+      "unwillingness",
+      "ramps",
+      "minoxidil",
+      "liters",
+      "opposites"
     ]
   },
   "word.onomatopoeia": {
@@ -8191,12 +8205,12 @@
     "description": "Sound-imitating words including animal noises, human vocalizations, and impact sounds",
     "total": 159,
     "examples": [
-      "boo",
-      "growl",
-      "drip",
-      "ahem",
-      "ring",
-      "oomph"
+      "sputter",
+      "crack",
+      "gurgle",
+      "hoot",
+      "bawl",
+      "honk"
     ]
   },
   "word.verb": {
@@ -8205,12 +8219,12 @@
     "description": "Action words and verb forms across various tenses including past and gerunds",
     "total": 9950,
     "examples": [
-      "schedule",
-      "refolded",
-      "recreating",
-      "prolonged",
-      "ranges",
-      "resuspended"
+      "anticipate",
+      "iodinated",
+      "cultivate",
+      "coax",
+      "occurs",
+      "broadcast"
     ]
   }
 }

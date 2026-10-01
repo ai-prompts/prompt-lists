@@ -562,6 +562,7 @@
   "time.timeOfDay",
   "time.year",
   "typography.feature",
+  "typography.fontPairing",
   "typography.fontType",
   "typography.font",
   "typography.style",
