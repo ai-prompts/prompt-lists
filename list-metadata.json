@@ -7709,18 +7709,32 @@
       "blank shell"
     ]
   },
+  "thing.websiteType": {
+    "title": "Website types",
+    "category": "thing",
+    "description": "Types of website by purpose, format, audience, and industry",
+    "total": 505,
+    "examples": [
+      "career website",
+      "theme park website",
+      "community garden website",
+      "file sharing website",
+      "investor relations website",
+      "journalism website"
+    ]
+  },
   "thing.woodType": {
     "title": "Wood types",
     "category": "thing",
     "description": "Various tree species and types of woodworking lumber",
     "total": 150,
     "examples": [
-      "kingwood",
-      "sassafras",
-      "jarrah",
-      "obeche",
-      "mango wood",
-      "jatoba"
+      "thuya",
+      "freijo",
+      "elder",
+      "huon pine",
+      "agarwood",
+      "kauri"
     ]
   },
   "time.century": {
@@ -7729,12 +7743,12 @@
     "description": "Specific centuries spanning BC and AD historical timelines",
     "total": 37,
     "examples": [
-      "19th century",
-      "6th century bc",
-      "21st century",
-      "4th century bc",
-      "2nd century bc",
-      "10th century"
+      "6th century",
+      "7th century",
+      "24th century",
+      "11th century bc",
+      "10th century bc",
+      "8th century"
     ]
   },
   "time.dayOfYear": {
@@ -7743,12 +7757,12 @@
     "description": "Specific calendar dates and notable days of the year",
     "total": 387,
     "examples": [
-      "september 26",
-      "february 12",
+      "february 18",
+      "december 29",
+      "june 12",
+      "july 10",
       "february 25",
-      "halloween",
-      "january 22",
-      "july 19"
+      "january 16"
     ]
   },
   "time.decade": {
@@ -7757,12 +7771,12 @@
     "description": "Specific decades ranging from the 1800s to the 2050s",
     "total": 35,
     "examples": [
-      "1930s",
+      "1940s",
+      "1950s",
       "2050s",
-      "10s",
-      "1990s",
-      "50s",
-      "2040s"
+      "1920s",
+      "1840s",
+      "1860s"
     ]
   },
   "time.era": {
@@ -7771,12 +7785,12 @@
     "description": "Historical periods, cultural eras, and specific global conflicts",
     "total": 118,
     "examples": [
+      "northern renaissance",
       "age of absolutism",
-      "rococo",
-      "american revolution",
-      "gilded age",
-      "permian period",
-      "war of the austrian succession"
+      "age of enlightenment",
+      "renaissance",
+      "anglo-egyptian war",
+      "spanish-american war"
     ]
   },
   "time.festival": {
@@ -7785,12 +7799,12 @@
     "description": "Global cultural, religious, and film festivals and holidays",
     "total": 196,
     "examples": [
-      "new year's eve",
-      "sanja matsuri",
-      "losar",
-      "sinulog festival",
-      "up helly aa",
-      "oktoberfest"
+      "edinburgh fringe",
+      "indra jatra",
+      "awa odori",
+      "pohela boishakh",
+      "lhabab duchen",
+      "rann utsav"
     ]
   },
   "time.historicalEra": {
@@ -7799,12 +7813,12 @@
     "description": "Historical empires, dynasties, and major technological or cultural ages",
     "total": 148,
     "examples": [
-      "old kingdom of egypt",
-      "age of steam",
-      "age of discovery",
-      "early dynastic period",
+      "abbasid caliphate",
+      "post-cold war era",
       "computer age",
-      "han dynasty"
+      "age of sail",
+      "classical antiquity",
+      "age of steam"
     ]
   },
   "time.season": {
@@ -7813,12 +7827,12 @@
     "description": "Astronomical, cultural, commercial, agricultural, and natural seasons",
     "total": 241,
     "examples": [
-      "emerald season",
-      "ramadan season",
-      "sailing season",
-      "mabon",
-      "imbolc",
-      "late summer"
+      "gossamer summer",
+      "mid-autumn",
+      "cherry blossom season",
+      "dry-cold season",
+      "late autumn",
+      "boating season"
     ]
   },
   "time.timeOfDay": {
@@ -7827,12 +7841,12 @@
     "description": "Specific times of day and associated lighting or atmospheric conditions",
     "total": 201,
     "examples": [
-      "meridian",
-      "apparent midnight",
-      "early hours",
-      "golden hour sun",
-      "hour of the wolf",
-      "dark of night"
+      "crepuscule",
+      "shadow hour",
+      "morning hour",
+      "midday light",
+      "night fog",
+      "owl-light"
     ]
   },
   "time.year": {
@@ -7841,12 +7855,12 @@
     "description": "Specific individual years spanning the 19th to 21st centuries",
     "total": 251,
     "examples": [
-      "1933",
-      "2092",
-      "1957",
-      "1914",
-      "2047",
-      "1960"
+      "2098",
+      "1853",
+      "1859",
+      "1890",
+      "1969",
+      "1973"
     ]
   },
   "typography.feature": {
@@ -7855,12 +7869,12 @@
     "description": "Typographic design features, spacing, and specific letterform characteristics",
     "total": 69,
     "examples": [
-      "harmonious proportions",
-      "delicate serifs",
-      "hairline serifs",
-      "double-story g",
-      "condensed width",
-      "hanging figures"
+      "shortened descenders",
+      "bracketed serifs",
+      "geometric shapes",
+      "loose kerning",
+      "playful swashes",
+      "overshooting"
     ]
   },
   "typography.fontPairing": {
@@ -7869,12 +7883,12 @@
     "description": "Two or three typefaces that work well together, such as a heading, body and accent font",
     "total": 225,
     "examples": [
-      "questa and questa sans font pairing",
-      "adelle sans and fit font pairing",
-      "epilogue and lora font pairing",
-      "editorial old and right grotesk font pairing",
-      "dioda, tor grotesk and heneczek font pairing",
-      "baste and apfel grotezk font pairing"
+      "work sans and bitter font pairing",
+      "graphik and lyon font pairing",
+      "epunda slab and epunda sans font pairing",
+      "family, berkeley mono and suisse int'l font pairing",
+      "basic commercial, gt super and benton sans font pairing",
+      "redonda and source code pro font pairing"
     ]
   },
   "typography.fontType": {
@@ -7883,12 +7897,12 @@
     "description": "Typographic design movements and historical font classifications",
     "total": 62,
     "examples": [
-      "brutalist typography",
-      "neo-grotesque typography",
-      "grunge typography",
-      "serif typography",
-      "incised typography",
-      "expanded typography"
+      "geometric typography",
+      "constructivist typography",
+      "psychedelic typography",
+      "ornamental typography",
+      "transitional typography",
+      "futuristic typography"
     ]
   },
   "typography.font": {
@@ -7897,12 +7911,12 @@
     "description": "Specific named typefaces and popular font families",
     "total": 2405,
     "examples": [
-      "tt commons font",
-      "century gothic font",
-      "knockout font",
-      "coral pixels font",
-      "amazon ember font",
-      "kaushan script font"
+      "kite one font",
+      "roboto font",
+      "kavivanar font",
+      "bodoni font",
+      "kode mono font",
+      "long cang font"
     ]
   },
   "typography.style": {
@@ -7911,12 +7925,12 @@
     "description": "Font weights, widths, and specific stylistic typeface variations",
     "total": 76,
     "examples": [
-      "expanded light style font",
-      "eroded style font",
-      "condensed style font",
-      "all caps style font",
-      "compressed style font",
-      "bubble style font"
+      "thin style font",
+      "embossed style font",
+      "italic style font",
+      "heavy italic style font",
+      "extra light style font",
+      "semi expanded style font"
     ]
   },
   "typography.typefaceStyle": {
@@ -7925,12 +7939,12 @@
     "description": "Various font styles, historical typefaces, and typographic classifications",
     "total": 69,
     "examples": [
-      "victorian",
-      "pixel",
-      "script typeface",
-      "shadow font",
-      "sans-serif",
-      "neo-grotesque"
+      "caroline minuscule",
+      "art deco",
+      "oblique font",
+      "geometric serif",
+      "display typeface",
+      "humanist serif"
     ]
   },
   "typography.wordArt": {
@@ -7939,12 +7953,12 @@
     "description": "Textures, materials, and visual effects applied to text and typography",
     "total": 137,
     "examples": [
-      "overlapping text",
-      "folded text",
-      "eroded text",
-      "anaglyph 3d text",
-      "laced text",
-      "crystalline text"
+      "holographic foil text",
+      "knotted text",
+      "arched text",
+      "golden text",
+      "spiraled text",
+      "striped text"
     ]
   },
   "vehicle.aircraft": {
@@ -7953,12 +7967,12 @@
     "description": "Various types of airplanes, helicopters, and specialized aerial vehicles",
     "total": 126,
     "examples": [
-      "drone",
-      "microlight",
-      "military transport",
-      "gyrocopter",
-      "tiltrotor",
-      "passenger plane"
+      "paramotor",
+      "blimp",
+      "electronic warfare aircraft",
+      "skycar",
+      "swing-wing aircraft",
+      "bomber"
     ]
   },
   "vehicle.car": {
@@ -7967,12 +7981,12 @@
     "description": "Specific modern car makes and models from various automotive manufacturers",
     "total": 329,
     "examples": [
-      "opel astra",
-      "buick regal",
-      "hyundai tucson",
-      "buick verano",
-      "ferrari california",
-      "chrysler aspen"
+      "nissan pathfinder",
+      "fiat 500x",
+      "alfa romeo giulietta",
+      "ds 4",
+      "audi a7",
+      "bmw x5"
     ]
   },
   "vehicle.classicCar": {
@@ -7981,12 +7995,12 @@
     "description": "Specific vintage, antique, and classic car models with their production years",
     "total": 161,
     "examples": [
-      "1930 franklin series 145",
+      "1985 audi sport quattro s1",
+      "1903 oldsmobile curved dash runabout",
+      "1925 franklin series 11a",
       "1929 chrysler series 75",
-      "1927 stutz blackhawk",
-      "1914 buick model b-24",
-      "1905 stanley steamer model f",
-      "1930 cord l-29"
+      "1924 rolls-royce silver ghost",
+      "1935 packard super eight"
     ]
   },
   "vehicle.famousCar": {
@@ -7995,12 +8009,12 @@
     "description": "Iconic cars and fictional vehicles from popular movies and film franchises",
     "total": 50,
     "examples": [
-      "bumblebee from transformers",
-      "christine from christine",
-      "the batmobile from batman",
-      "the ford gran torino from starsky & hutch",
-      "mater from cars 2",
-      "the 1961 ferrari 250 gt california spyder from ferris bueller's day off"
+      "the chitty chitty bang bang car from chitty chitty bang bang",
+      "the batpod from the dark knight",
+      "the jurassic park jeep wrangler from jurassic park",
+      "the ferrari testarossa from miami vice",
+      "the delorean from back to the future",
+      "pursuit special from mad max"
     ]
   },
   "vehicle.fastCar": {
@@ -8009,12 +8023,12 @@
     "description": "Specific models of high-performance sports cars, supercars, and luxury vehicles",
     "total": 98,
     "examples": [
-      "pagani utopia",
-      "ferrari sf90 stradale",
-      "aston martin db7",
+      "koenigsegg ccxr trevita",
+      "aston martin valhalla",
       "aston martin one-77",
-      "bugatti mistral",
-      "hennessey venom f5"
+      "hennessey venom gt",
+      "audi tt rs",
+      "pininfarina battista"
     ]
   },
   "vehicle.motorcycle": {
@@ -8023,12 +8037,12 @@
     "description": "Various styles, classes, and specialized types of motorcycles and motorbikes",
     "total": 121,
     "examples": [
-      "frisco chopper",
-      "tuk-tuk",
-      "adventure bike",
-      "desert sled",
-      "digger",
-      "military motorcycle"
+      "sidecar motorcycle",
+      "vintage motorcycle",
+      "muscle cruiser",
+      "neo-retro motorcycle",
+      "paramedic motorcycle",
+      "supersport"
     ]
   },
   "vehicle.spacecraft": {
@@ -8038,11 +8052,11 @@
     "total": 56,
     "examples": [
       "yacht",
-      "ark ship",
-      "interceptor",
-      "space station",
-      "jump ship",
-      "hyperdrive vessel"
+      "solar sailer",
+      "shuttle",
+      "lander",
+      "starship",
+      "warp ship"
     ]
   },
   "vehicle.transport": {
@@ -8051,12 +8065,12 @@
     "description": "Vehicles, aircraft, vessels, rolling stock, and transport machinery",
     "total": 625,
     "examples": [
-      "racing skiff",
-      "panzer",
-      "motor vehicle",
-      "tanker truck",
-      "patrol wagon",
-      "motor torpedo boat"
+      "car train",
+      "slip carriage",
+      "hackney",
+      "freight car",
+      "express luxury liner",
+      "jet"
     ]
   },
   "vehicle.type": {
@@ -8065,12 +8079,12 @@
     "description": "Broad categories of land, air, and water transportation vehicles",
     "total": 116,
     "examples": [
-      "gondola",
-      "ship",
-      "semi-trailer",
-      "bullet train",
-      "lunar module",
-      "electric scooter"
+      "tram",
+      "motorcoach",
+      "moped",
+      "tractor",
+      "paddleboard",
+      "tank"
     ]
   },
   "vehicle.watercraft": {
@@ -8079,12 +8093,12 @@
     "description": "Various types of boats, ships, and marine vessels",
     "total": 188,
     "examples": [
+      "torpedo boat",
       "lifeboat",
-      "self-unloader",
-      "trimaran",
-      "pirogue",
-      "submarine",
-      "cruiser"
+      "longboat",
+      "lightship",
+      "pleasure barge",
+      "outrigger canoe"
     ]
   },
   "videoGame.action": {
@@ -8093,12 +8107,12 @@
     "description": "In-game character actions, abilities, and mechanics in video games",
     "total": 314,
     "examples": [
-      "scaling walls",
-      "leaping over pits",
-      "performing combo moves",
-      "hacking",
-      "maneuvering in zero gravity",
-      "platforming on moving objects"
+      "ritual casting",
+      "picking up items",
+      "meditating for mana regeneration",
+      "punching",
+      "prone",
+      "moving"
     ]
   },
   "videoGame.designer": {
@@ -8107,12 +8121,12 @@
     "description": "Names of prominent real-world video game designers and directors",
     "total": 68,
     "examples": [
-      "peter molyneux",
-      "michel ancel",
-      "cliff bleszinski",
-      "tim schafer",
-      "yu suzuki",
-      "yasumi matsuno"
+      "gunpei yokoi",
+      "ron gilbert",
+      "tetsuya nomura",
+      "lucas pope",
+      "eiji aonuma",
+      "patrice désilets"
     ]
   },
   "videoGame.engine": {
@@ -8121,12 +8135,12 @@
     "description": "Software frameworks and game engines used for developing video games",
     "total": 68,
     "examples": [
+      "rendermorphics",
+      "aurora engine",
+      "godot engine",
       "mt framework",
-      "marmalade sdk",
-      "unity",
-      "heroengine",
-      "rpg maker",
-      "fox engine"
+      "renderware studio",
+      "bevy"
     ]
   },
   "videoGame.game": {
@@ -8135,12 +8149,12 @@
     "description": "Titles of popular video game franchises and specific game releases",
     "total": 319,
     "examples": [
-      "far cry 5",
-      "fifa",
-      "tekken",
-      "mortal kombat",
-      "metal slug",
-      "need for speed: most wanted"
+      "forza horizon",
+      "star wars: battlefront",
+      "nhl",
+      "mortal kombat 3",
+      "planescape: torment",
+      "astral chain"
     ]
   },
   "videoGame.region": {
@@ -8149,12 +8163,12 @@
     "description": "Fictional environments, biomes, and level themes found in video games",
     "total": 118,
     "examples": [
-      "volcanic kingdom",
-      "ocean kingdom",
-      "mushroom forest",
-      "spooky kingdom",
-      "subterranean kingdom",
-      "toxic kingdom"
+      "aquatic kingdom",
+      "steampunk region",
+      "overgrown ruins",
+      "ancient forest",
+      "crystal caverns",
+      "iceberg region"
     ]
   },
   "word.adjective": {
@@ -8163,12 +8177,12 @@
     "description": "Various descriptive adjectives ranging from anatomical to behavioral",
     "total": 4980,
     "examples": [
-      "nonlinguistic",
-      "disorderly",
-      "comprehensive",
-      "antic",
-      "freshborn",
-      "crassest"
+      "narcotic",
+      "binding",
+      "flashy",
+      "crummy",
+      "inexpressible",
+      "inexcusable"
     ]
   },
   "word.adverb": {
@@ -8177,12 +8191,12 @@
     "description": "Assorted adverbs modifying actions, states, or qualities",
     "total": 1798,
     "examples": [
-      "macroscopically",
-      "ill",
-      "hereabouts",
-      "humiliatingly",
-      "horizontally",
-      "imprudently"
+      "mentally",
+      "unreassuringly",
+      "urgently",
+      "willingly",
+      "ultracentrifugally",
+      "uproariously"
     ]
   },
   "word.noun": {
@@ -8191,12 +8205,12 @@
     "description": "A diverse mix of concrete objects, animals, and abstract conceptual nouns",
     "total": 24389,
     "examples": [
-      "escutcheon",
-      "unwillingness",
-      "ramps",
-      "minoxidil",
-      "liters",
-      "opposites"
+      "papier-mache",
+      "impairment",
+      "beginning",
+      "bayou",
+      "bassoonist",
+      "basics"
     ]
   },
   "word.onomatopoeia": {
@@ -8205,11 +8219,11 @@
     "description": "Sound-imitating words including animal noises, human vocalizations, and impact sounds",
     "total": 159,
     "examples": [
-      "sputter",
-      "crack",
-      "gurgle",
-      "hoot",
-      "bawl",
+      "bam",
+      "creak",
+      "baa",
+      "hiss",
+      "caw",
       "honk"
     ]
   },
@@ -8219,12 +8233,12 @@
     "description": "Action words and verb forms across various tenses including past and gerunds",
     "total": 9950,
     "examples": [
-      "anticipate",
-      "iodinated",
-      "cultivate",
-      "coax",
-      "occurs",
-      "broadcast"
+      "sneak",
+      "meets",
+      "note",
+      "manufactured",
+      "retiring",
+      "lash"
     ]
   }
 }
